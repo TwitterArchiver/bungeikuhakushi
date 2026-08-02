@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049483640141381831",
+    "created_at": "2026-04-29T13:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T14:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049483640141381831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TeamRain_2024/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/TeamRain_2024/status/2049481141309284487",
+          "start": 39,
+          "url": "https://t.co/xZHPvQ6QSg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049483640141381831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049481141309284487",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有人都應該明白的道理：放下助人情懷 尊重他人命運 有些事情提醒了一次就夠了 https://t.co/xZHPvQ6QSg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049483640141381831",
+        "created_at": "2026-04-29T13:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049483640141381831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TeamRain_2024/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/TeamRain_2024/status/2049481141309284487",
+              "start": 39,
+              "url": "https://t.co/xZHPvQ6QSg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049483640141381831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049481141309284487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人都應該明白的道理：放下助人情懷 尊重他人命運 有些事情提醒了一次就夠了 https://t.co/xZHPvQ6QSg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2049481141309284487",
+        "created_at": "2026-04-29T13:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049481141309284487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049481141309284487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得unk当初或许是因为来到了推特，才会把她变成了现在这个样子，其实她是完全可以当一个很健全的人的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 361,
+          "like_count": 11723,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 3461
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴.",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045274685164949504/jv-Rj4Eo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9864,
+          "following_count": 976,
+          "like_count": 82049,
+          "listed_count": 19,
+          "media_count": 1620,
+          "tweet_count": 11515
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "TeamRain_2024",
+        "verified": true
+      }
+    ]
+  }
+}

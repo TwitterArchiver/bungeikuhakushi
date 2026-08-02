@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2065536547680665978",
+    "created_at": "2026-06-13T11:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065760295205876200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1913084413942145024",
+          "start": 0,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2065760295205876200",
+    "in_reply_to_user_id": "1913084413942145024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065536547680665978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sui_aini 這人把我b了 看不懂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1287,
+        "media_key": "3_2065536541037101056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpCilcbAAA4azA.jpg",
+        "width": 1075
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2065536545042714624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpCi0Xb0AAJ0oy.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2065536547680665978",
+        "created_at": "2026-06-13T11:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065760295205876200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1913084413942145024",
+              "start": 0,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2065760295205876200",
+        "in_reply_to_user_id": "1913084413942145024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065536547680665978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sui_aini 這人把我b了 看不懂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065536541037101056",
+            "3_2065536545042714624"
+          ]
+        },
+        "author_id": "1913084413942145024",
+        "conversation_id": "2065536547680665978",
+        "created_at": "2026-06-12T20:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065536547680665978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y4h9BeCbOJ",
+              "end": 107,
+              "expanded_url": "https://x.com/Sui_aini/status/2065536547680665978/photo/1",
+              "media_key": "3_2065536541037101056",
+              "start": 84,
+              "url": "https://t.co/y4h9BeCbOJ"
+            },
+            {
+              "display_url": "pic.x.com/y4h9BeCbOJ",
+              "end": 107,
+              "expanded_url": "https://x.com/Sui_aini/status/2065536547680665978/photo/1",
+              "media_key": "3_2065536545042714624",
+              "start": 84,
+              "url": "https://t.co/y4h9BeCbOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065536547680665978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4327,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一边说自己是男娘，一边又挂着非二元旗，顺男男娘能是非二元吗，不能吧，我没开除ta得跨籍，ta自己说自己是男娘，这是咋了，左脑攻击右脑，右脑被左脑打残了，做出来的行为吗 https://t.co/y4h9BeCbOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 353,
+          "like_count": 12702,
+          "listed_count": 3,
+          "media_count": 884,
+          "tweet_count": 4186
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby、人妖",
+        "id": "1913084413942145024",
+        "location": "你的心",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2058412624036208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055720145851752448/XpqXByMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 779,
+          "like_count": 5616,
+          "listed_count": 5,
+          "media_count": 621,
+          "tweet_count": 5232
+        },
+        "username": "Sui_aini",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2059651336367640576"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2059651366222737876",
+    "created_at": "2026-05-27T15:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059651366222737876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MThOWAokrS",
+          "end": 43,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2059651366222737876/video/1",
+          "media_key": "7_2059651336367640576",
+          "start": 20,
+          "url": "https://t.co/MThOWAokrS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059651366222737876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這位班主任還是個支黑 是哪位推油來了😂 https://t.co/MThOWAokrS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 74887,
+        "height": 1280,
+        "media_key": "7_2059651336367640576",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2059651336367640576/pu/img/4YL2dLdpcqWmXLkP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059651336367640576/pu/vid/avc1/320x710/p-OMiArzaIYaRQr2.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059651336367640576/pu/vid/avc1/480x1066/zKc_2r9EtI0TZAoq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2059651336367640576/pu/vid/avc1/576x1280/mgeXomaG8Pto9Ogy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2059651336367640576/pu/pl/_9PBDceWpoq41cdZ.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2059651336367640576"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2059651366222737876",
+        "created_at": "2026-05-27T15:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059651366222737876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MThOWAokrS",
+              "end": 43,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2059651366222737876/video/1",
+              "media_key": "7_2059651336367640576",
+              "start": 20,
+              "url": "https://t.co/MThOWAokrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059651366222737876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這位班主任還是個支黑 是哪位推油來了😂 https://t.co/MThOWAokrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 353,
+          "like_count": 12315,
+          "listed_count": 4,
+          "media_count": 840,
+          "tweet_count": 4004
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

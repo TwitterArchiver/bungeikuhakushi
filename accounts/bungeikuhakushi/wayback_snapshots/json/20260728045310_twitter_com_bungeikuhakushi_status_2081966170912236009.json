@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2081813416214467067",
+    "created_at": "2026-07-28T04:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081966170912236009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        },
+        {
+          "end": 28,
+          "id": "2079243736350068740",
+          "start": 13,
+          "username": "bungeihaku2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081966170912236009",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081951418555232718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing @bungeihaku2024 等等吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2081813416214467067",
+        "created_at": "2026-07-28T04:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081966170912236009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            },
+            {
+              "end": 28,
+              "id": "2079243736350068740",
+              "start": 13,
+              "username": "bungeihaku2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081966170912236009",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081951418555232718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing @bungeihaku2024 等等吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600024316552179713",
+        "conversation_id": "2081813416214467067",
+        "created_at": "2026-07-28T03:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081951418555232718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2079243736350068740",
+              "start": 0,
+              "username": "bungeihaku2024"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2081951418555232718",
+        "in_reply_to_user_id": "2079243736350068740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081824072821043413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeihaku2024 啥时候你也来玩🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰🇲🇴｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081754219997200384/pJoooY_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2153,
+          "following_count": 347,
+          "like_count": 12816,
+          "listed_count": 3,
+          "media_count": 1004,
+          "tweet_count": 4520
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 喜欢同类 | 169cm/60kg | 有点地雷",
+        "id": "1600024316552179713",
+        "location": "Silverstone Track",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080617205654503424/h9hH830E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 350,
+          "like_count": 6208,
+          "listed_count": 7,
+          "media_count": 167,
+          "tweet_count": 1978
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T16:36:02.000Z",
+        "description": "おはよ、この垢は文芸空白子の日本語学習垢だ。\n🇭🇰🇲🇴広東人で、08年生まれの高3だよ。\n​本垢：@bungeikuhakushi\n#Aizu感染者 @3838sengoku",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "Aizu感染者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "bungeikuhakushi"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "3838sengoku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/Z5uJQuskYk",
+                "end": 23,
+                "expanded_url": "https://line.me/ti/p/Z5uJQuskYk",
+                "start": 0,
+                "url": "https://t.co/stoSQrzRc4"
+              }
+            ]
+          }
+        },
+        "id": "2079243736350068740",
+        "location": "IP所在地：広東",
+        "name": "文芸-クウハクシ🇳🇿🤯🍁／📸🗝️🚘",
+        "pinned_tweet_id": "2079252497181683999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079244247056912385/5NH7Id5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 18,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "https://t.co/stoSQrzRc4",
+        "username": "bungeihaku2024",
+        "verified": false
+      }
+    ]
+  }
+}

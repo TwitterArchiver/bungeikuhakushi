@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044832402577760553",
+    "created_at": "2026-04-16T17:36:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T18:36:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044832402577760553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "You are invited to the group 空白一片的小窩. Click above to",
+          "display_url": "t.me/+HkWdckPdMPkzM…",
+          "end": 29,
+          "expanded_url": "https://t.me/+HkWdckPdMPkzMWRl",
+          "start": 6,
+          "status": 200,
+          "title": "空白一片的小窩",
+          "unwound_url": "https://t.me/+HkWdckPdMPkzMWRl",
+          "url": "https://t.co/7tsLUagwJy"
+        },
+        {
+          "description": "快到 Discord 上的 空白一片 的伺服器 社群消磨時間，與 1 位成員享受免費的語音與文字聊天。",
+          "display_url": "discord.gg/gNZr5XPUf",
+          "end": 59,
+          "expanded_url": "https://discord.gg/gNZr5XPUf",
+          "start": 36,
+          "status": 200,
+          "title": "加入 空白一片 的伺服器 Discord 伺服器！",
+          "unwound_url": "https://discord.com/invite/gNZr5XPUf",
+          "url": "https://t.co/qunXrC2pQO"
+        },
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2024431643344457964",
+          "start": 67,
+          "url": "https://t.co/9j2Rq6xEsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044832402577760553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024431643344457964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "tg粉絲群：https://t.co/7tsLUagwJy\ndc伺服器：https://t.co/qunXrC2pQO\n歡迎大家加入 https://t.co/9j2Rq6xEsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024431637753450497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg52UBbUAESIBy.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2024431638130966528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg52VbbwAA83Zs.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044832402577760553",
+        "created_at": "2026-04-16T17:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044832402577760553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to the group 空白一片的小窩. Click above to",
+              "display_url": "t.me/+HkWdckPdMPkzM…",
+              "end": 29,
+              "expanded_url": "https://t.me/+HkWdckPdMPkzMWRl",
+              "start": 6,
+              "status": 200,
+              "title": "空白一片的小窩",
+              "unwound_url": "https://t.me/+HkWdckPdMPkzMWRl",
+              "url": "https://t.co/7tsLUagwJy"
+            },
+            {
+              "description": "快到 Discord 上的 空白一片 的伺服器 社群消磨時間，與 1 位成員享受免費的語音與文字聊天。",
+              "display_url": "discord.gg/gNZr5XPUf",
+              "end": 59,
+              "expanded_url": "https://discord.gg/gNZr5XPUf",
+              "start": 36,
+              "status": 200,
+              "title": "加入 空白一片 的伺服器 Discord 伺服器！",
+              "unwound_url": "https://discord.com/invite/gNZr5XPUf",
+              "url": "https://t.co/qunXrC2pQO"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2024431643344457964",
+              "start": 67,
+              "url": "https://t.co/9j2Rq6xEsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044832402577760553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024431643344457964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "tg粉絲群：https://t.co/7tsLUagwJy\ndc伺服器：https://t.co/qunXrC2pQO\n歡迎大家加入 https://t.co/9j2Rq6xEsY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024431637753450497",
+            "3_2024431638130966528"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2024431643344457964",
+        "created_at": "2026-02-19T10:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024431643344457964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJSry7ycuK",
+              "end": 28,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2024431643344457964/photo/1",
+              "media_key": "3_2024431637753450497",
+              "start": 5,
+              "url": "https://t.co/iJSry7ycuK"
+            },
+            {
+              "display_url": "pic.x.com/iJSry7ycuK",
+              "end": 28,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2024431643344457964/photo/1",
+              "media_key": "3_2024431638130966528",
+              "start": 5,
+              "url": "https://t.co/iJSry7ycuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024431643344457964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 12653,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "鯊鯊出場 https://t.co/iJSry7ycuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 382,
+          "like_count": 10775,
+          "listed_count": 4,
+          "media_count": 611,
+          "tweet_count": 3046
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

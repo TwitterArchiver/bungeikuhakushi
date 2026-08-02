@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2073784460693406189",
+    "created_at": "2026-07-05T23:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T00:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073911178007662941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2060570957362995201",
+          "start": 0,
+          "username": "fkj2778"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2073911178007662941",
+    "in_reply_to_user_id": "2060570957362995201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073814384770707948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fkj2778 dlllm 敢這麼和我說話 你媽是批發的嗎？ 用繁體和身份是大陸人有不相容邏輯嗎？ 而且我簡介也寫了 我是cantonese 你是眼盲還是沒上過小學3年級 連英文也不認識了 最後 我當男娘也不犯法 你有本事要麼報警吧 報警也無人在意好吧 on9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2073784460693406189",
+        "created_at": "2026-07-05T23:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073911178007662941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2060570957362995201",
+              "start": 0,
+              "username": "fkj2778"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2073911178007662941",
+        "in_reply_to_user_id": "2060570957362995201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073814384770707948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fkj2778 dlllm 敢這麼和我說話 你媽是批發的嗎？ 用繁體和身份是大陸人有不相容邏輯嗎？ 而且我簡介也寫了 我是cantonese 你是眼盲還是沒上過小學3年級 連英文也不認識了 最後 我當男娘也不犯法 你有本事要麼報警吧 報警也無人在意好吧 on9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060570957362995201",
+        "conversation_id": "2073784460693406189",
+        "created_at": "2026-07-05T17:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073814384770707948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073814384770707948",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073784460693406189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 用繁体字装自己是港澳台人闹麻了  死男娘 傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 361,
+          "like_count": 12802,
+          "listed_count": 3,
+          "media_count": 950,
+          "tweet_count": 4445
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T03:58:18.000Z",
+        "description": "",
+        "id": "2060570957362995201",
+        "name": "少羽牛逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060572635399143424/N2drApNc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "fkj2778",
+        "verified": false
+      }
+    ]
+  }
+}

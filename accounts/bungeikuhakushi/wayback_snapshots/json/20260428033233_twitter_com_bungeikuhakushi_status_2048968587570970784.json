@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048948379124977754",
+    "created_at": "2026-04-28T03:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T04:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048968587570970784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 32,
+          "id": "1557541453253038080",
+          "start": 16,
+          "username": "KawawaDiana8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048968587570970784",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048948379124977754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @KawawaDiana8964 好好笑 還以為變支黑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048948370870595584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9TsADbcAAUDew.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048948379124977754",
+        "created_at": "2026-04-28T03:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048968587570970784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 32,
+              "id": "1557541453253038080",
+              "start": 16,
+              "username": "KawawaDiana8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048968587570970784",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048948379124977754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @KawawaDiana8964 好好笑 還以為變支黑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048948370870595584"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2048948379124977754",
+        "created_at": "2026-04-28T02:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048948379124977754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557541453253038080",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kdJvZ3RdsA",
+              "end": 107,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2048948379124977754/photo/1",
+              "media_key": "3_2048948370870595584",
+              "start": 84,
+              "url": "https://t.co/kdJvZ3RdsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048948379124977754",
+        "in_reply_to_user_id": "1557541453253038080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 推特疑似被盗，图中几条推文皆不是本人所发。\n还请各位推友保护好推特账号安全，尽量打开两步验证，不要点击陌生链接，不在陌生设备登录推特 https://t.co/kdJvZ3RdsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 368,
+          "like_count": 11587,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 3402
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 92,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 69,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2105,
+          "following_count": 619,
+          "like_count": 15812,
+          "listed_count": 5,
+          "media_count": 929,
+          "tweet_count": 4957
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "Alan大号读本停机检修中，支持枝江国际喵\n\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑谣棍双标\nSUPPORT🇵🇸🇺🇦🇻🇪☮️↙️DemSoc,MLM\n#中推名人评分\n欢迎友好交流(8964=勿转內网)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 126,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmQgyh"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "枝江国际-灯塔(MA)分区",
+        "name": "蓝蓝🫐然然浪浪(✋🏻🐻📕Not In Service)",
+        "pinned_tweet_id": "2013029048490840096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037335222874955776/HbQF9it9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 647,
+          "like_count": 8127,
+          "listed_count": 8,
+          "media_count": 928,
+          "tweet_count": 3705
+        },
+        "url": "https://t.co/wy2TJmQgyh",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

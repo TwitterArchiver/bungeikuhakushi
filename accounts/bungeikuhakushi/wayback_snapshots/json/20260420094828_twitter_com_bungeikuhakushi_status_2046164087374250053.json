@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046163907648356352"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2046164087374250053",
+    "created_at": "2026-04-20T09:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T10:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046164087374250053"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/raJ7Wv6940",
+          "end": 36,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2046164087374250053/photo/1",
+          "media_key": "3_2046163907648356352",
+          "start": 13,
+          "url": "https://t.co/raJ7Wv6940"
+        },
+        {
+          "display_url": "x.com/Zhmgws19120101…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Zhmgws19120101/status/2046105396621029576",
+          "start": 37,
+          "url": "https://t.co/eDBHMcTll8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046164087374250053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046105396621029576",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "很好奇 妳們到底誰想看？ https://t.co/raJ7Wv6940 https://t.co/eDBHMcTll8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 465,
+        "media_key": "3_2046163907648356352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVvO6ObAAAcq-O.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1267,
+        "media_key": "3_2046105381949378560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGU6ARAbkAAv31m.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046163907648356352"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046164087374250053",
+        "created_at": "2026-04-20T09:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046164087374250053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/raJ7Wv6940",
+              "end": 36,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2046164087374250053/photo/1",
+              "media_key": "3_2046163907648356352",
+              "start": 13,
+              "url": "https://t.co/raJ7Wv6940"
+            },
+            {
+              "display_url": "x.com/Zhmgws19120101…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Zhmgws19120101/status/2046105396621029576",
+              "start": 37,
+              "url": "https://t.co/eDBHMcTll8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046164087374250053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046105396621029576",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "很好奇 妳們到底誰想看？ https://t.co/raJ7Wv6940 https://t.co/eDBHMcTll8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046105381949378560"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046105396621029576",
+        "created_at": "2026-04-20T05:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046105396621029576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOvDKRZPgy",
+              "end": 34,
+              "expanded_url": "https://x.com/Zhmgws19120101/status/2046105396621029576/photo/1",
+              "media_key": "3_2046105381949378560",
+              "start": 11,
+              "url": "https://t.co/zOvDKRZPgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046105396621029576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 163,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "空白子の男娘變形計劃 https://t.co/zOvDKRZPgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 395,
+          "like_count": 11059,
+          "listed_count": 4,
+          "media_count": 629,
+          "tweet_count": 3154
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091461191778304/kPgRLiTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 142,
+          "like_count": 8253,
+          "listed_count": 6,
+          "media_count": 60,
+          "tweet_count": 2812
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      }
+    ]
+  }
+}

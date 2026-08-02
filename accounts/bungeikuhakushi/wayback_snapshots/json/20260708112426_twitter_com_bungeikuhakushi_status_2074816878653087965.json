@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074813375956332544"
+      ],
+      "media_source_tweet_id": [
+        "2074814470250205624"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2074816878653087965",
+    "created_at": "2026-07-08T11:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074816878653087965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990587604146925568",
+          "start": 3,
+          "username": "Nakkar7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4NFImqCMHT",
+          "end": 43,
+          "expanded_url": "https://x.com/Nakkar7/status/2074814470250205624/photo/1",
+          "media_key": "3_2074813375956332544",
+          "start": 20,
+          "url": "https://t.co/4NFImqCMHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074816878653087965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074814470250205624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nakkar7: 街中の木陰🎈 https://t.co/4NFImqCMHT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 992,
+        "media_key": "3_2074813375956332544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs3xckbMAAaiz7.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074813375956332544"
+          ],
+          "media_source_tweet_id": [
+            "2074814470250205624"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2074816878653087965",
+        "created_at": "2026-07-08T11:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074816878653087965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990587604146925568",
+              "start": 3,
+              "username": "Nakkar7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NFImqCMHT",
+              "end": 43,
+              "expanded_url": "https://x.com/Nakkar7/status/2074814470250205624/photo/1",
+              "media_key": "3_2074813375956332544",
+              "start": 20,
+              "url": "https://t.co/4NFImqCMHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074816878653087965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074814470250205624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nakkar7: 街中の木陰🎈 https://t.co/4NFImqCMHT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074813375956332544"
+          ]
+        },
+        "author_id": "990587604146925568",
+        "conversation_id": "2074814470250205624",
+        "created_at": "2026-07-08T11:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074814470250205624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NFImqCMHT",
+              "end": 30,
+              "expanded_url": "https://x.com/Nakkar7/status/2074814470250205624/photo/1",
+              "media_key": "3_2074813375956332544",
+              "start": 7,
+              "url": "https://t.co/4NFImqCMHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074814470250205624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 939,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "街中の木陰🎈 https://t.co/4NFImqCMHT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 359,
+          "like_count": 12829,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 4462
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-29T13:44:23.000Z",
+        "description": "かわいいイラストレ〜タ〜\n┊SHOP ➭ https://t.co/AAZW8Vxyje\n┊FANBOX ➭ https://t.co/YgsKSZVNtu\n┊感想とか！ ➭ #かなめなかエゴサ用",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 88,
+                "tag": "かなめなかエゴサ用"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shanshando.booth.pm",
+                "end": 44,
+                "expanded_url": "http://shanshando.booth.pm",
+                "start": 21,
+                "url": "https://t.co/AAZW8Vxyje"
+              },
+              {
+                "display_url": "nakkar7.fanbox.cc",
+                "end": 78,
+                "expanded_url": "https://nakkar7.fanbox.cc/",
+                "start": 55,
+                "url": "https://t.co/YgsKSZVNtu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nakkar7",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nakkar7",
+                "start": 0,
+                "url": "https://t.co/HcT4NaaKwI"
+              }
+            ]
+          }
+        },
+        "id": "990587604146925568",
+        "location": "DMは見ていません!",
+        "name": "かなめなか　7/12 みちのくコミティア・B1　7/20 そうさくマーケット・さ12a",
+        "pinned_tweet_id": "2073607801180663977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032765456097189888/YtIGOsNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70599,
+          "following_count": 204,
+          "like_count": 15962,
+          "listed_count": 659,
+          "media_count": 1099,
+          "tweet_count": 27656
+        },
+        "url": "https://t.co/HcT4NaaKwI",
+        "username": "Nakkar7",
+        "verified": false
+      }
+    ]
+  }
+}

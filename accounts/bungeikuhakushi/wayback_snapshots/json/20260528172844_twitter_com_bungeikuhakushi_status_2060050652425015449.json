@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2060050652425015449",
+    "created_at": "2026-05-28T17:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T18:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060050652425015449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hello114511004…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hello1145110043/status/2059995400850043251",
+          "start": 9,
+          "url": "https://t.co/ArioR8QqFU"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2060050652425015449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059995400850043251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讓我們永遠懷念他 https://t.co/ArioR8QqFU"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2060050652425015449",
+        "created_at": "2026-05-28T17:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060050652425015449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hello114511004…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hello1145110043/status/2059995400850043251",
+              "start": 9,
+              "url": "https://t.co/ArioR8QqFU"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2060050652425015449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059995400850043251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讓我們永遠懷念他 https://t.co/ArioR8QqFU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016108531028787202",
+        "conversation_id": "2059995400850043251",
+        "created_at": "2026-05-28T13:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059995400850043251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059995400850043251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3442,
+          "like_count": 54,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我往自己的肚子捅了一刀\n进去了，好疼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 354,
+          "like_count": 12344,
+          "listed_count": 4,
+          "media_count": 845,
+          "tweet_count": 4018
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-27T11:18:35.000Z",
+        "description": "没什么想说的……",
+        "id": "2016108531028787202",
+        "location": "地球",
+        "name": "fo我送赛博炸鸡🍥",
+        "pinned_tweet_id": "2054964617055797408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056789508591611904/jAX9WWuH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 96,
+          "like_count": 3430,
+          "listed_count": 3,
+          "media_count": 107,
+          "tweet_count": 1229
+        },
+        "username": "hello1145110043",
+        "verified": false
+      }
+    ]
+  }
+}

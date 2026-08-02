@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045135195498815488",
+        "3_2045135195788173314",
+        "3_2045135196257935361",
+        "3_2045135196442525696"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045135198619304290",
+    "created_at": "2026-04-17T13:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045135198619304290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OsguMmoR9e",
+          "end": 32,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2045135198619304290/photo/1",
+          "media_key": "3_2045135195498815488",
+          "start": 9,
+          "url": "https://t.co/OsguMmoR9e"
+        },
+        {
+          "display_url": "pic.x.com/OsguMmoR9e",
+          "end": 32,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2045135198619304290/photo/1",
+          "media_key": "3_2045135195788173314",
+          "start": 9,
+          "url": "https://t.co/OsguMmoR9e"
+        },
+        {
+          "display_url": "pic.x.com/OsguMmoR9e",
+          "end": 32,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2045135198619304290/photo/1",
+          "media_key": "3_2045135196257935361",
+          "start": 9,
+          "url": "https://t.co/OsguMmoR9e"
+        },
+        {
+          "display_url": "pic.x.com/OsguMmoR9e",
+          "end": 32,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2045135198619304290/photo/1",
+          "media_key": "3_2045135196442525696",
+          "start": 9,
+          "url": "https://t.co/OsguMmoR9e"
+        },
+        {
+          "display_url": "x.com/DDaquaforever/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/DDaquaforever/status/2045111405339463882",
+          "start": 33,
+          "url": "https://t.co/rXR1VovkZZ"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2045135198619304290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045111405339463882",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "廣東出乎我意料啊 https://t.co/OsguMmoR9e https://t.co/rXR1VovkZZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045135195498815488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHHn-1bIAA2J1C.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045135195788173314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHHn_6aYAIhdX-.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045135196257935361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHHoBqaYAEg5mW.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045135196442525696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHHoCWbAAAP1HI.jpg",
+        "width": 922
+      },
+      {
+        "height": 640,
+        "media_key": "3_2045111286951006209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGx4UjbUAE97IK.png",
+        "width": 862
+      },
+      {
+        "height": 640,
+        "media_key": "3_2045111313597333504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGx530aAAAG9B9.png",
+        "width": 848
+      },
+      {
+        "height": 640,
+        "media_key": "3_2045111345918701568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGx7wOa8AAIX2h.png",
+        "width": 867
+      },
+      {
+        "height": 640,
+        "media_key": "3_2045111371491315712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGx9PfaEAAQmpX.png",
+        "width": 845
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045135195498815488",
+            "3_2045135195788173314",
+            "3_2045135196257935361",
+            "3_2045135196442525696"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045135198619304290",
+        "created_at": "2026-04-17T13:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045135198619304290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsguMmoR9e",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2045135198619304290/photo/1",
+              "media_key": "3_2045135195498815488",
+              "start": 9,
+              "url": "https://t.co/OsguMmoR9e"
+            },
+            {
+              "display_url": "pic.x.com/OsguMmoR9e",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2045135198619304290/photo/1",
+              "media_key": "3_2045135195788173314",
+              "start": 9,
+              "url": "https://t.co/OsguMmoR9e"
+            },
+            {
+              "display_url": "pic.x.com/OsguMmoR9e",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2045135198619304290/photo/1",
+              "media_key": "3_2045135196257935361",
+              "start": 9,
+              "url": "https://t.co/OsguMmoR9e"
+            },
+            {
+              "display_url": "pic.x.com/OsguMmoR9e",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2045135198619304290/photo/1",
+              "media_key": "3_2045135196442525696",
+              "start": 9,
+              "url": "https://t.co/OsguMmoR9e"
+            },
+            {
+              "display_url": "x.com/DDaquaforever/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/DDaquaforever/status/2045111405339463882",
+              "start": 33,
+              "url": "https://t.co/rXR1VovkZZ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2045135198619304290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045111405339463882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "廣東出乎我意料啊 https://t.co/OsguMmoR9e https://t.co/rXR1VovkZZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045111286951006209",
+            "3_2045111313597333504",
+            "3_2045111345918701568",
+            "3_2045111371491315712"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2045111405339463882",
+        "created_at": "2026-04-17T12:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045111405339463882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qDIIU6BdwH",
+              "end": 26,
+              "expanded_url": "https://x.com/DDaquaforever/status/2045111405339463882/photo/1",
+              "media_key": "3_2045111286951006209",
+              "start": 3,
+              "url": "https://t.co/qDIIU6BdwH"
+            },
+            {
+              "display_url": "pic.x.com/qDIIU6BdwH",
+              "end": 26,
+              "expanded_url": "https://x.com/DDaquaforever/status/2045111405339463882/photo/1",
+              "media_key": "3_2045111313597333504",
+              "start": 3,
+              "url": "https://t.co/qDIIU6BdwH"
+            },
+            {
+              "display_url": "pic.x.com/qDIIU6BdwH",
+              "end": 26,
+              "expanded_url": "https://x.com/DDaquaforever/status/2045111405339463882/photo/1",
+              "media_key": "3_2045111345918701568",
+              "start": 3,
+              "url": "https://t.co/qDIIU6BdwH"
+            },
+            {
+              "display_url": "pic.x.com/qDIIU6BdwH",
+              "end": 26,
+              "expanded_url": "https://x.com/DDaquaforever/status/2045111405339463882/photo/1",
+              "media_key": "3_2045111371491315712",
+              "start": 3,
+              "url": "https://t.co/qDIIU6BdwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045111405339463882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 260,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊这 https://t.co/qDIIU6BdwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 388,
+          "like_count": 10847,
+          "listed_count": 4,
+          "media_count": 616,
+          "tweet_count": 3069
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4449,
+          "following_count": 5060,
+          "like_count": 9467,
+          "listed_count": 13,
+          "media_count": 3234,
+          "tweet_count": 15511
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

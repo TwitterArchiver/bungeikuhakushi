@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2059283251903230424",
+    "created_at": "2026-05-26T15:37:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059297953337196878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051965726043635712",
+          "start": 0,
+          "username": "whatasiger"
+        },
+        {
+          "end": 25,
+          "id": "2033160782687731712",
+          "start": 12,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059297953337196878",
+    "in_reply_to_user_id": "2051965726043635712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059283251903230424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatasiger @Shioochicqwq 為甚麼搬個史都能被晶？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2059283251903230424",
+        "created_at": "2026-05-26T15:37:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059297953337196878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051965726043635712",
+              "start": 0,
+              "username": "whatasiger"
+            },
+            {
+              "end": 25,
+              "id": "2033160782687731712",
+              "start": 12,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059297953337196878",
+        "in_reply_to_user_id": "2051965726043635712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059283251903230424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatasiger @Shioochicqwq 為甚麼搬個史都能被晶？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051965726043635712",
+        "conversation_id": "2059283251903230424",
+        "created_at": "2026-05-26T14:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059283251903230424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "2033160782687731712",
+              "start": 37,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059283251903230424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 316,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【伪·讣告】（需转发？）\n\n跨圈搬史之神，一个月斩获3000粉丝的汐落姐姐@Shioochicqwq ，于今日被晶，遭到传唤，账号将无法继续使用。\n\n让我们怀着最深切的悲恸，感恩汐落这一个月来搬的史。也许某天，我们还会与她相见，继续欣赏着那些梗图。即使再也不见，让我们祝她早安、午安、晚安。\n\n2026-05-26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 353,
+          "like_count": 12276,
+          "listed_count": 4,
+          "media_count": 833,
+          "tweet_count": 3989
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-06T10:02:16.000Z",
+        "description": "2008-10｜人类?｜LGBTQ+ 友好｜写点小说｜ACG 相关（Bangumi）：https://t.co/KrQeYLLYXa｜个人博客＆作品：https://t.co/EhqryVku36 ｜头发焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bgm.tv/user/whatasiger",
+                "end": 66,
+                "expanded_url": "https://bgm.tv/user/whatasiger",
+                "start": 43,
+                "url": "https://t.co/KrQeYLLYXa"
+              },
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 98,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 75,
+                "url": "https://t.co/EhqryVku36"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/EhqryVku36"
+              }
+            ]
+          }
+        },
+        "id": "2051965726043635712",
+        "location": "Tokyo-to, Japan",
+        "name": "Whatasiger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051966277821022208/On2McT3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 84,
+          "like_count": 342,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/EhqryVku36",
+        "username": "whatasiger",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3100,
+          "following_count": 1771,
+          "like_count": 6190,
+          "listed_count": 4,
+          "media_count": 601,
+          "tweet_count": 4446
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

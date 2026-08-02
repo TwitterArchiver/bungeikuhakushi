@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2079250625674752227",
+    "created_at": "2026-07-20T18:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079274169079091441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "qtbrmdh19120101"
+        },
+        {
+          "end": 32,
+          "id": "2079243736350068740",
+          "start": 17,
+          "username": "bungeihaku2024"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2079274169079091441",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079271670611902924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtbrmdh19120101 @bungeihaku2024 ？"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079271670611902924].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079271670611902924",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079271670611902924"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2079250625674752227",
+        "created_at": "2026-07-20T18:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079274169079091441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            },
+            {
+              "end": 32,
+              "id": "2079243736350068740",
+              "start": 17,
+              "username": "bungeihaku2024"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2079274169079091441",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079271670611902924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 @bungeihaku2024 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078130819269566464/G5H3ogAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 355,
+          "like_count": 12724,
+          "listed_count": 3,
+          "media_count": 976,
+          "tweet_count": 4461
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿地紅之名",
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣 寶寶@zhngjing322708",
+        "name": "李延卿🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077843912895635456/6IkTfIZU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 162,
+          "like_count": 12392,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 3853
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-20T16:36:02.000Z",
+        "description": "おはよ、この垢は文芸空白子の日本語学習垢だ。\n🇭🇰広東人で、08年生まれの高2だよ。\n​本垢：@bungeikuhakushi\n#Aizu感染者 @3838sengoku",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 64,
+                "tag": "Aizu感染者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "bungeikuhakushi"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "3838sengoku"
+              }
+            ]
+          }
+        },
+        "id": "2079243736350068740",
+        "name": "文芸-クウハクシ🇳🇿🤯🍁／📸🗝️🚘",
+        "pinned_tweet_id": "2079252497181683999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079244247056912385/5NH7Id5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "bungeihaku2024",
+        "verified": false
+      }
+    ]
+  }
+}

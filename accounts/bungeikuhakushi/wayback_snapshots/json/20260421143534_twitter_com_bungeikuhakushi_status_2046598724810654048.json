@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046589671782957506",
+    "created_at": "2026-04-21T14:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046598724810654048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041161941071110144",
+          "start": 0,
+          "username": "PuzzlerIee"
+        },
+        {
+          "end": 21,
+          "id": "1956385333853167616",
+          "start": 12,
+          "username": "nikandad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046598724810654048",
+    "in_reply_to_user_id": "2041161941071110144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046589671782957506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PuzzlerIee @nikandad 好事來得"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [nikandad].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "nikandad",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "nikandad"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046589658407309312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbyc3ZbEAAlYwa.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046589671782957506",
+        "created_at": "2026-04-21T14:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046598724810654048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041161941071110144",
+              "start": 0,
+              "username": "PuzzlerIee"
+            },
+            {
+              "end": 21,
+              "id": "1956385333853167616",
+              "start": 12,
+              "username": "nikandad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046598724810654048",
+        "in_reply_to_user_id": "2041161941071110144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046589671782957506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PuzzlerIee @nikandad 好事來得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046589658407309312"
+          ]
+        },
+        "author_id": "2041161941071110144",
+        "conversation_id": "2046589671782957506",
+        "created_at": "2026-04-21T13:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046589671782957506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1956385333853167616",
+              "start": 12,
+              "username": "nikandad"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGjnJ7cJpm",
+              "end": 53,
+              "expanded_url": "https://x.com/PuzzlerIee/status/2046589671782957506/photo/1",
+              "media_key": "3_2046589658407309312",
+              "start": 30,
+              "url": "https://t.co/oGjnJ7cJpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046589671782957506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好消息，蝀baby黑骑士@nikandad 销号跑路🍾🍾🍾 https://t.co/oGjnJ7cJpm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 390,
+          "like_count": 11113,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 3186
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:31:58.000Z",
+        "description": "住在北京市某桥洞的性饥渴底层支男 | 现支黑研究员 | 主账号@KuaiLe_fengnan1 | 支黑排行榜 - 1:拼命图纸者@puzzlerlee 2: 毛泽东 3:蒋介石 | 正在编写新作《@Natsumeann89 的私人医生回忆录》|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "KuaiLe_fengnan1"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Natsumeann89"
+              }
+            ]
+          }
+        },
+        "id": "2041161941071110144",
+        "location": "IP属地：龙岩",
+        "name": "拼图者",
+        "pinned_tweet_id": "2042218372490985636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046444097989443584/f-28IuRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 129,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 254
+        },
+        "username": "PuzzlerIee",
+        "verified": false
+      }
+    ]
+  }
+}

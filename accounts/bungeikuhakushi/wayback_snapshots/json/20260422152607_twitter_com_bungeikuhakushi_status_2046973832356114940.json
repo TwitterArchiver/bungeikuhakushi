@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046752696628314361",
+    "created_at": "2026-04-22T15:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046973832356114940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1630461606193930240",
+          "start": 0,
+          "username": "Popping2020"
+        },
+        {
+          "end": 18,
+          "id": "1720665183188922368",
+          "start": 13,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046973832356114940",
+    "in_reply_to_user_id": "1630461606193930240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046752696628314361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Popping2020 @grok 反駁它"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1264,
+        "media_key": "3_2046752691163213825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeGunvbsAEXBqV.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046752696628314361",
+        "created_at": "2026-04-22T15:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046973832356114940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1630461606193930240",
+              "start": 0,
+              "username": "Popping2020"
+            },
+            {
+              "end": 18,
+              "id": "1720665183188922368",
+              "start": 13,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046973832356114940",
+        "in_reply_to_user_id": "1630461606193930240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046752696628314361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Popping2020 @grok 反駁它"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046752691163213825"
+          ]
+        },
+        "author_id": "1630461606193930240",
+        "conversation_id": "2046752696628314361",
+        "created_at": "2026-04-22T00:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046752696628314361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ts8mAw0Qz",
+              "end": 159,
+              "expanded_url": "https://x.com/Popping2020/status/2046752696628314361/photo/1",
+              "media_key": "3_2046752691163213825",
+              "start": 136,
+              "url": "https://t.co/5ts8mAw0Qz"
+            },
+            {
+              "display_url": "x.com/canton_c_s/sta…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/canton_c_s/status/2046248022280200220",
+              "start": 160,
+              "url": "https://t.co/MoUfyldnWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046752696628314361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 142,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046248022280200220",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "驚你刪po扮無知。\n\n都話你條柒頭唔係好人黎㗎啦。\n\n孫文殺我哋咁多粵人，齋西關屠城就起碼過八千，而且多為我南粵經商菁英。奪我哋粵人嘅生命財產，你居然仲支持佢？！\n\n把口就話要令廣府強大，但實際就支持孫文呢個國賊！\n\n你班冚家剷唔係共產黨派來有意唱反調，就真係心術不正。 https://t.co/5ts8mAw0Qz https://t.co/MoUfyldnWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高中生 炒作小男娘｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 385,
+          "like_count": 11168,
+          "listed_count": 4,
+          "media_count": 643,
+          "tweet_count": 3215
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T06:55:29.000Z",
+        "description": "I’m Cantonese . Born in Canton. You can call me Popping. 本人主張中俄解體，各地獨立，全民投票，自決自治，修憲立法，三權分立，建立友好嘅鄰國關係，成立亞洲聯盟。一個國家嘅四個基本條件：人民、領土、政府以及與別國交往嘅能力。各位都係國民外交大使，做啦！僅有此帳號。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/popping.candy2…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/popping.candy2023?igsh=MW82bGhjaXdwY3hleg%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/h5FeRi5D9w"
+              }
+            ]
+          }
+        },
+        "id": "1630461606193930240",
+        "location": "New Zealand",
+        "name": "大粵惡女PoppingCandy🟩🟨🟦🇳🇿",
+        "pinned_tweet_id": "1994872868967227731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964288344088858626/LWDV3XhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 615,
+          "like_count": 44696,
+          "listed_count": 22,
+          "media_count": 4556,
+          "tweet_count": 37512
+        },
+        "url": "https://t.co/h5FeRi5D9w",
+        "username": "Popping2020",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8564599,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6676,
+          "media_count": 8854069,
+          "tweet_count": 123497832
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

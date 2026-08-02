@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046981120747852106",
+    "created_at": "2026-04-22T16:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046989643665875225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1972858620695240704",
+          "start": 0,
+          "username": "tuzhimizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046989643665875225",
+    "in_reply_to_user_id": "1972858620695240704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046989131549700480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuzhimizuki 原來還是個小粉紅 那活該了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046981120747852106",
+        "created_at": "2026-04-22T16:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046989643665875225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1972858620695240704",
+              "start": 0,
+              "username": "tuzhimizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046989643665875225",
+        "in_reply_to_user_id": "1972858620695240704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046989131549700480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuzhimizuki 原來還是個小粉紅 那活該了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972858620695240704",
+        "conversation_id": "2046981120747852106",
+        "created_at": "2026-04-22T16:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046989131549700480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046989131549700480",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046981120747852106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 我还记得去年这家伙刚开蓝标的时候，第一件事就是写长文歌颂国家歌颂党🤗死活不相信党国会迫害跨性别\n\n后来差点被浮木送进扭转机构，对你共的态度直接一百八十度转变，节目效果拉满了😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高中生 炒作小男娘｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 382,
+          "like_count": 11187,
+          "listed_count": 4,
+          "media_count": 644,
+          "tweet_count": 3226
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-30T02:59:01.000Z",
+        "description": "我向来是不惮以最坏的恶意，来推测中国人的，然而我还不料，也不信竟会下劣凶残到这地步。\n\n里推@suijingmizuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 46,
+                "username": "suijingmizuki"
+              }
+            ]
+          }
+        },
+        "id": "1972858620695240704",
+        "location": "克赖斯特彻奇清真寺",
+        "name": "あきやまみずき",
+        "pinned_tweet_id": "2032809308593991816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011399100890271744/Nf39EJce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 821,
+          "like_count": 11444,
+          "listed_count": 18,
+          "media_count": 295,
+          "tweet_count": 3130
+        },
+        "username": "tuzhimizuki",
+        "verified": false
+      }
+    ]
+  }
+}

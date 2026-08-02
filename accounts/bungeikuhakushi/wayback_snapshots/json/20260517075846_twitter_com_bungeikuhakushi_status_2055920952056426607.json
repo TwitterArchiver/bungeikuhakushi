@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2055920952056426607",
+    "created_at": "2026-05-17T07:58:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:58:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055920952056426607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2055911737208315904",
+          "start": 3,
+          "username": "omgnowihasfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055920952056426607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055914830427759035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omgnowihasfish: 我已嚴肅歸來🏳️‍⚧️😭😭😭😭\n我原本不想用推特了 只是覺得這裡月拋方便 所以重新裝回來了 看到的幫我轉發一下🥹我要fo全部以前的推油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2055920952056426607",
+        "created_at": "2026-05-17T07:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055920952056426607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2055911737208315904",
+              "start": 3,
+              "username": "omgnowihasfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055920952056426607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055914830427759035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omgnowihasfish: 我已嚴肅歸來🏳️‍⚧️😭😭😭😭\n我原本不想用推特了 只是覺得這裡月拋方便 所以重新裝回來了 看到的幫我轉發一下🥹我要fo全部以前的推油"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055911737208315904",
+        "conversation_id": "2055914830427759035",
+        "created_at": "2026-05-17T07:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055914830427759035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055914830427759035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我已嚴肅歸來🏳️‍⚧️😭😭😭😭\n我原本不想用推特了 只是覺得這裡月拋方便 所以重新裝回來了 看到的幫我轉發一下🥹我要fo全部以前的推油"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2019,
+          "following_count": 358,
+          "like_count": 12090,
+          "listed_count": 3,
+          "media_count": 793,
+          "tweet_count": 3878
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市(謝謝你喜歡台灣😭😭😭❤️❤️)\n2009/12/24\n我已急哭😂😭",
+        "id": "2055911737208315904",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

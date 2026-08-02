@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2067199578399777241",
+    "created_at": "2026-06-17T10:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067199578399777241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Maoiscoming/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Maoiscoming/status/2067120278166196627",
+          "start": 16,
+          "url": "https://t.co/mHXLpPgxea"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2067199578399777241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067120278166196627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這個世界上怎麼能有這種生物呢？ https://t.co/mHXLpPgxea"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 355,
+        "media_key": "3_2067120265654620160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_i7fZa0AAgLPr.png",
+        "width": 449
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2067199578399777241",
+        "created_at": "2026-06-17T10:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067199578399777241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Maoiscoming/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Maoiscoming/status/2067120278166196627",
+              "start": 16,
+              "url": "https://t.co/mHXLpPgxea"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2067199578399777241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067120278166196627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這個世界上怎麼能有這種生物呢？ https://t.co/mHXLpPgxea"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067120265654620160"
+          ]
+        },
+        "author_id": "2001860473873141761",
+        "conversation_id": "2067083224338350190",
+        "created_at": "2026-06-17T05:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067120278166196627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1604181895721504771",
+              "start": 0,
+              "username": "mengtunwudaimu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbJujGKhf2",
+              "end": 65,
+              "expanded_url": "https://x.com/Maoiscoming/status/2067120278166196627/photo/1",
+              "media_key": "3_2067120265654620160",
+              "start": 42,
+              "url": "https://t.co/YbJujGKhf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067120278166196627",
+        "in_reply_to_user_id": "1604181895721504771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067083224338350190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengtunwudaimu 让我想到了在X上看到的最变态的生物，信中医的爱国跨 https://t.co/YbJujGKhf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 354,
+          "like_count": 12558,
+          "listed_count": 3,
+          "media_count": 897,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-19T03:41:55.000Z",
+        "description": "降临派毛左丨永远支持中国共产党丨永远做毛主席的好战士丨目前网上的拯救派毛左都是异端丨毛主席终将再临支多玛降下天火丨每次说盼腊归我都是认真的",
+        "id": "2001860473873141761",
+        "location": "毛主席纪念堂",
+        "name": "降临派毛左首席大祭司🛐🇨🇳☭毛主席万岁！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001861606922477568/QExhaeUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 32,
+          "like_count": 2548,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 532
+        },
+        "username": "Maoiscoming",
+        "verified": false
+      }
+    ]
+  }
+}

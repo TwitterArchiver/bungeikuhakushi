@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047180219707281792",
+    "created_at": "2026-04-23T05:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047185719970672916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2047185719970672916",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047180219707281792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine_2024 好事來的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "3_2047180217333194753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkLj61aIAEdgn0.jpg",
+        "width": 750
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047180219707281792",
+        "created_at": "2026-04-23T05:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047185719970672916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2047185719970672916",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047180219707281792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 好事來的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047180217333194753"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2047180219707281792",
+        "created_at": "2026-04-23T05:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047180219707281792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95kbyNhr1U",
+              "end": 28,
+              "expanded_url": "https://x.com/RainEngine_2024/status/2047180219707281792/photo/1",
+              "media_key": "3_2047180217333194753",
+              "start": 5,
+              "url": "https://t.co/95kbyNhr1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047180219707281792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜😭😭 https://t.co/95kbyNhr1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 382,
+          "like_count": 11190,
+          "listed_count": 4,
+          "media_count": 645,
+          "tweet_count": 3229
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "|11.13.2011|探索中?或许是MtX?|Hrt🍥01.28.2026，无证含糖|家长不管党，炸柜:03.12|oder|161cm52kg75A41码|INFP-T，重度社恐|初二牲，成绩倒数，想要休学😭|有点笨笨的🥺|同类互fo喵～|https://t.co/fG6XzUT3Y3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/mwdxj",
+                "end": 145,
+                "expanded_url": "http://t.me/mwdxj",
+                "start": 122,
+                "url": "https://t.co/fG6XzUT3Y3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk95011",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk95011",
+                "start": 0,
+                "url": "https://t.co/SSpXxmbyYO"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "location": "Hanchuan City, Hubei",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2033121906224959578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040113410558603265/sbVfijwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 1384,
+          "like_count": 15499,
+          "listed_count": 2,
+          "media_count": 479,
+          "tweet_count": 2471
+        },
+        "url": "https://t.co/SSpXxmbyYO",
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

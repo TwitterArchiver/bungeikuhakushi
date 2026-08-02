@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2043567689231466622",
+    "created_at": "2026-04-13T05:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043567689231466622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2695723790",
+          "start": 3,
+          "username": "ACYosh_"
+        },
+        {
+          "end": 29,
+          "id": "1964042844198621187",
+          "start": 13,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043567689231466622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043550046407508020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ACYosh_: @bungeikuhakushi 建議佢入青山🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043567689231466622",
+        "created_at": "2026-04-13T05:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043567689231466622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2695723790",
+              "start": 3,
+              "username": "ACYosh_"
+            },
+            {
+              "end": 29,
+              "id": "1964042844198621187",
+              "start": 13,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043567689231466622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043550046407508020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ACYosh_: @bungeikuhakushi 建議佢入青山🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2695723790",
+        "conversation_id": "2043541937777721413",
+        "created_at": "2026-04-13T04:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043550046407508020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043550046407508020",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043541937777721413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 建議佢入青山🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 408,
+          "like_count": 10562,
+          "listed_count": 3,
+          "media_count": 597,
+          "tweet_count": 2964
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-31T13:30:09.000Z",
+        "description": "香港人　生活・任天堂メインのゲーム・鉄道・など趣味雑垢\n\nスイッチ：3959-4414-6976\n\nミャクミャク様好き　彼氏持ち\n\nHKer daily life account for random interests.\n\n🇭🇰🇹🇼🇯🇵♥️",
+        "id": "2695723790",
+        "location": "PNF-404",
+        "name": "ACYosh",
+        "pinned_tweet_id": "1830179110167199763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763454625699827712/rq_LN_0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 1181,
+          "like_count": 393886,
+          "listed_count": 3,
+          "media_count": 568,
+          "tweet_count": 15872
+        },
+        "username": "ACYosh_",
+        "verified": false
+      }
+    ]
+  }
+}

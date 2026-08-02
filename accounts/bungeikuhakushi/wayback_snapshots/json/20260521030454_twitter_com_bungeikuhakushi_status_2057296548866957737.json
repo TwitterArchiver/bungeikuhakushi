@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057296542516879360"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2057296548866957737",
+    "created_at": "2026-05-21T03:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057296548866957737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dwcvCHH8KE",
+          "end": 65,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2057296548866957737/photo/1",
+          "media_key": "3_2057296542516879360",
+          "start": 42,
+          "url": "https://t.co/dwcvCHH8KE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057296548866957737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "あたしのニコニコのホーム、こんなエラー出ちゃうんだけど…何かいい解決方法あるかな？ https://t.co/dwcvCHH8KE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057296542516879360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIz8Ti5boAA_1gZ.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057296542516879360"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2057296548866957737",
+        "created_at": "2026-05-21T03:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057296548866957737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dwcvCHH8KE",
+              "end": 65,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2057296548866957737/photo/1",
+              "media_key": "3_2057296542516879360",
+              "start": 42,
+              "url": "https://t.co/dwcvCHH8KE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057296548866957737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "あたしのニコニコのホーム、こんなエラー出ちゃうんだけど…何かいい解決方法あるかな？ https://t.co/dwcvCHH8KE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 359,
+          "like_count": 12129,
+          "listed_count": 3,
+          "media_count": 805,
+          "tweet_count": 3904
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

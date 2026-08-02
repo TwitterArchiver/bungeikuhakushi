@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2067311399253287062",
+    "created_at": "2026-06-18T03:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067454728796336165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816123872087007235",
+          "start": 0,
+          "username": "jim71351321670"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2067454728796336165",
+    "in_reply_to_user_id": "1816123872087007235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067311399253287062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jim71351321670 台灣人"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2067311399253287062",
+        "created_at": "2026-06-18T03:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067454728796336165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816123872087007235",
+              "start": 0,
+              "username": "jim71351321670"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2067454728796336165",
+        "in_reply_to_user_id": "1816123872087007235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067311399253287062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jim71351321670 台灣人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816123872087007235",
+        "conversation_id": "2067311399253287062",
+        "created_at": "2026-06-17T18:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067311399253287062"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2067311399253287062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你們覺得我是一個什麼樣的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 357,
+          "like_count": 12576,
+          "listed_count": 3,
+          "media_count": 901,
+          "tweet_count": 4252
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n  平壤江東郡現任執事【2025-2028】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwan.gov.tw",
+                "end": 23,
+                "expanded_url": "https://www.taiwan.gov.tw/",
+                "start": 0,
+                "url": "https://t.co/k4uEtD9c9b"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "Kaohsiung, Taiwan",
+        "name": "冉冉面（s版）🇨🇳🇹🇼",
+        "pinned_tweet_id": "2039728461015838818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 638,
+          "like_count": 16015,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 3182
+        },
+        "url": "https://t.co/k4uEtD9c9b",
+        "username": "jim71351321670",
+        "verified": true
+      }
+    ]
+  }
+}

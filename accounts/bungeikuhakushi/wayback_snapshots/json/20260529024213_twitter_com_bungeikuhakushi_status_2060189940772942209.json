@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2060186185172222422",
+    "created_at": "2026-05-29T02:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T03:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060189940772942209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1468153903384756230",
+          "start": 0,
+          "username": "sionn100percent"
+        },
+        {
+          "end": 32,
+          "id": "1763034943599607808",
+          "start": 17,
+          "username": "moonlight_ruri"
+        },
+        {
+          "end": 48,
+          "id": "1660528315411603456",
+          "start": 33,
+          "username": "ichinose_mionn"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2060189940772942209",
+    "in_reply_to_user_id": "1468153903384756230",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060186185172222422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sionn100percent @moonlight_ruri @ichinose_mionn 還有🔞 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2060186178209603584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdAaetaYAAGEDR.jpg",
+        "width": 1101
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2060186185172222422",
+        "created_at": "2026-05-29T02:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060189940772942209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1468153903384756230",
+              "start": 0,
+              "username": "sionn100percent"
+            },
+            {
+              "end": 32,
+              "id": "1763034943599607808",
+              "start": 17,
+              "username": "moonlight_ruri"
+            },
+            {
+              "end": 48,
+              "id": "1660528315411603456",
+              "start": 33,
+              "username": "ichinose_mionn"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2060189940772942209",
+        "in_reply_to_user_id": "1468153903384756230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060186185172222422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sionn100percent @moonlight_ruri @ichinose_mionn 還有🔞 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060186178209603584"
+          ]
+        },
+        "author_id": "1468153903384756230",
+        "conversation_id": "2060186185172222422",
+        "created_at": "2026-05-29T02:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060186185172222422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1763034943599607808",
+              "start": 30,
+              "username": "moonlight_ruri"
+            },
+            {
+              "end": 65,
+              "id": "1468153903384756230",
+              "start": 49,
+              "username": "sionn100percent"
+            },
+            {
+              "end": 87,
+              "id": "1660528315411603456",
+              "start": 72,
+              "username": "ichinose_mionn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDTZ6Aq4mt",
+              "end": 120,
+              "expanded_url": "https://x.com/sionn100percent/status/2060186185172222422/photo/1",
+              "media_key": "3_2060186178209603584",
+              "start": 97,
+              "url": "https://t.co/xDTZ6Aq4mt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060186185172222422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号被shadowban的时候就用这个号\nV1（大号本垢）：@moonlight_ruri\nV2:@sionn100percent\nV3（🔞）：@ichinose_mionn\n请求关注谢谢☺️ https://t.co/xDTZ6Aq4mt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 355,
+          "like_count": 12350,
+          "listed_count": 4,
+          "media_count": 847,
+          "tweet_count": 4021
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜backup｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1468153903384756230",
+        "location": "main account：moonlight_ruri",
+        "name": "月璃_LunaRuri_V2",
+        "pinned_tweet_id": "2060186185172222422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059948074538340352/3PjIS8w-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 354,
+          "like_count": 760,
+          "listed_count": 8,
+          "media_count": 154,
+          "tweet_count": 3797
+        },
+        "username": "sionn100percent",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜not trans｜friendly to trans｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "🚪50🉑date✈️｜鄂｜埼玉｜蓝v必回请私信｜DM",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2058418322090373297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7640,
+          "following_count": 384,
+          "like_count": 1119,
+          "listed_count": 21,
+          "media_count": 180,
+          "tweet_count": 2071
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T06:09:44.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy ｜Ecchi Acc｜R18 Acc｜NSFW",
+        "id": "1660528315411603456",
+        "location": "main account：moonlight_ruri",
+        "name": "月璃_Lunaruri_V3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059979648352894976/_YzjXLZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 106,
+          "like_count": 617,
+          "listed_count": 6,
+          "media_count": 182,
+          "tweet_count": 2001
+        },
+        "username": "ichinose_mionn",
+        "verified": false
+      }
+    ]
+  }
+}

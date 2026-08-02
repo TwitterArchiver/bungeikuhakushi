@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043355313093693440"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2043352016622325999",
+    "created_at": "2026-04-12T15:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043355320043618760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942493462810525696",
+          "start": 0,
+          "username": "AsanagiYori486"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V5JDUhEsp2",
+          "end": 48,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2043355320043618760/photo/1",
+          "media_key": "3_2043355313093693440",
+          "start": 25,
+          "url": "https://t.co/V5JDUhEsp2"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2043355320043618760",
+    "in_reply_to_user_id": "1942493462810525696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043352016622325999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsanagiYori486 投票鏈接打不開啊 https://t.co/V5JDUhEsp2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043355313093693440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFt01MLbUAA6Krv.jpg",
+        "width": 922
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043355313093693440"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043352016622325999",
+        "created_at": "2026-04-12T15:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043355320043618760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942493462810525696",
+              "start": 0,
+              "username": "AsanagiYori486"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5JDUhEsp2",
+              "end": 48,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2043355320043618760/photo/1",
+              "media_key": "3_2043355313093693440",
+              "start": 25,
+              "url": "https://t.co/V5JDUhEsp2"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2043355320043618760",
+        "in_reply_to_user_id": "1942493462810525696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043352016622325999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsanagiYori486 投票鏈接打不開啊 https://t.co/V5JDUhEsp2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942493462810525696",
+        "conversation_id": "2043352016622325999",
+        "created_at": "2026-04-12T15:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043352016622325999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 172,
+              "start": 163,
+              "tag": "中推模拟大选公告"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "docs.google.com/document/d/17f…",
+              "end": 90,
+              "expanded_url": "https://docs.google.com/document/d/17f2mONXIvaMkk4_aAlX8Dy0ZeEKciO0N3A22GkLs6uw/edit?usp=drivesdk",
+              "start": 67,
+              "status": 401,
+              "unwound_url": "https://docs.google.com/document/d/17f2mONXIvaMkk4_aAlX8Dy0ZeEKciO0N3A22GkLs6uw/edit?usp=drivesdk",
+              "url": "https://t.co/N0SFfM4Nk4"
+            },
+            {
+              "description": "GForms",
+              "display_url": "gforms.app/p/ZCy0X8d",
+              "end": 120,
+              "expanded_url": "https://gforms.app/p/ZCy0X8d",
+              "start": 97,
+              "status": 200,
+              "title": "GForms : Google Forms management",
+              "unwound_url": "https://gforms.app/p/ZCy0X8d",
+              "url": "https://t.co/DO67geXAPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043352016622325999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 83,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本投票为　第五届中推模拟大选正式投票，每位选民可以投票一次，选票一经投出不可更改！\n为防止水票，我们会对投票结果开启审查\n\n参选政党：https://t.co/N0SFfM4Nk4\n\n投票链接：https://t.co/DO67geXAPC\n（请使用外部浏览器打开）\n投票将持续两周，与4月27日23:59（UTC+8截止）\n#中推模拟大选公告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 416,
+          "like_count": 10539,
+          "listed_count": 3,
+          "media_count": 595,
+          "tweet_count": 2953
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-08T07:58:39.000Z",
+        "description": "第五届中推模拟大选委员会主席｜可以叫我依老师｜蒂蒂最锋利的剑｜研究新派刑法学｜Antitheist｜初始默认温柔人格｜爱好：明日方舟、视奸你｜讨厌：宗教神权，无脑粉红｜不站队，不摇摆｜1+1=2理论坚决反对者｜推：木野日鞠&朝凪依，八百岁比名子&近江汐莉｜写简介而已，又不是写毕业论文，没必要写那么完美”——她如此说到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "AsanagiYori.com",
+                "end": 23,
+                "expanded_url": "http://AsanagiYori.com",
+                "start": 0,
+                "url": "https://t.co/MJsJa8uhxz"
+              }
+            ]
+          }
+        },
+        "id": "1942493462810525696",
+        "location": "My realms",
+        "name": "𝓐𝓼𝓪𝓷𝓪𝓰𝓲 𝓨𝓸𝓻𝓲",
+        "pinned_tweet_id": "2043352016622325999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039542257301475328/sq1OcSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 1801,
+          "like_count": 18989,
+          "listed_count": 0,
+          "media_count": 1284,
+          "tweet_count": 5921
+        },
+        "url": "https://t.co/MJsJa8uhxz",
+        "username": "AsanagiYori486",
+        "verified": true
+      }
+    ]
+  }
+}

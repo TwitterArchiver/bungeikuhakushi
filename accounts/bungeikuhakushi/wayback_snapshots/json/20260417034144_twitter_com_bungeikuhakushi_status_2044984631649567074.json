@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044982034876231970",
+    "created_at": "2026-04-17T03:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T04:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044984631649567074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1552587744576057345",
+          "start": 0,
+          "username": "zhinarensb8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20432…",
+          "end": 39,
+          "expanded_url": "https://x.com/i/status/2043215948887519714",
+          "start": 16,
+          "url": "https://t.co/S62LeadliW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044984631649567074",
+    "in_reply_to_user_id": "1552587744576057345",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043215948887519714",
+        "type": "quoted"
+      },
+      {
+        "id": "2044982034876231970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensb8964 https://t.co/S62LeadliW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2044982029394358272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGE8UiobsAAwiRY.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044982034876231970",
+        "created_at": "2026-04-17T03:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044984631649567074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552587744576057345",
+              "start": 0,
+              "username": "zhinarensb8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20432…",
+              "end": 39,
+              "expanded_url": "https://x.com/i/status/2043215948887519714",
+              "start": 16,
+              "url": "https://t.co/S62LeadliW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044984631649567074",
+        "in_reply_to_user_id": "1552587744576057345",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043215948887519714",
+            "type": "quoted"
+          },
+          {
+            "id": "2044982034876231970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensb8964 https://t.co/S62LeadliW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043057298835411344",
+        "created_at": "2026-04-12T06:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043215948887519714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1552587744576057345",
+              "start": 0,
+              "username": "zhinarensb8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043215948887519714",
+        "in_reply_to_user_id": "1552587744576057345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 210,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043057298835411344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensb8964 什麼時候辱廣東 我想看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044982029394358272"
+          ]
+        },
+        "author_id": "1552587744576057345",
+        "conversation_id": "2044982034876231970",
+        "created_at": "2026-04-17T03:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044982034876231970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zPUU3lC4l",
+              "end": 42,
+              "expanded_url": "https://x.com/zhinarensb8964/status/2044982034876231970/photo/1",
+              "media_key": "3_2044982029394358272",
+              "start": 19,
+              "url": "https://t.co/0zPUU3lC4l"
+            },
+            {
+              "display_url": "x.com/zhinarensb8964…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/zhinarensb8964/status/2043057298835411344",
+              "start": 43,
+              "url": "https://t.co/qrpO4lf4Hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044982034876231970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043057298835411344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了实在忍不住想乳，我尽量控制力度吧 https://t.co/0zPUU3lC4l https://t.co/qrpO4lf4Hf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 381,
+          "like_count": 10792,
+          "listed_count": 4,
+          "media_count": 611,
+          "tweet_count": 3053
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-28T09:32:29.000Z",
+        "description": "誰かに愛されたことも\n誰かのことを愛したことも\nない そんな私の嘘が\nいつか本当になること\n信じてる（犬と支那人入るべからず，暴支膺懲，惡靈退散！）",
+        "id": "1552587744576057345",
+        "location": "支那",
+        "name": "法の悪魔",
+        "pinned_tweet_id": "2043366688067031493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038101048943071232/wDJYeHtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 512,
+          "like_count": 18071,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1692
+        },
+        "username": "zhinarensb8964",
+        "verified": false
+      }
+    ]
+  }
+}

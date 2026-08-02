@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2062886834859045037",
+    "created_at": "2026-07-16T16:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077798429879902472"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077798429879902472",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {},
+      "text": "固定のポスト:\n改めて自分の現状を分析して、やっぱりネタ投稿をするしかないね。でなければ、何か奇抜なことをして閲覧数をつかむしかなくなってしまう。\n​ネタ投稿は一日に1〜3つ投稿して、それ以外に日常のポストや女装のポスト、文芸のポストを投稿する。\n​このアカウントを大きくして、文芸を大部分の人の心に残したい。あたしは文芸の名にかけて誓う。大学を卒業して、人生の新たなスタートが始まるまで、あたしはここにいる。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062886834859045037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "固定のポスト:\n改めて自分の現状を分析して、やっぱりネタ投稿をするしかないね。でなければ、何か奇抜なことをして閲覧数をつかむしかなくなってしまう。\n​ネタ投稿は一日に1〜3つ投稿して、それ以外に日常のポストや女装のポスト、文芸のポストを投稿する。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2062886834859045037",
+        "created_at": "2026-07-16T16:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077798429879902472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077798429879902472",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "固定のポスト:\n改めて自分の現状を分析して、やっぱりネタ投稿をするしかないね。でなければ、何か奇抜なことをして閲覧数をつかむしかなくなってしまう。\n​ネタ投稿は一日に1〜3つ投稿して、それ以外に日常のポストや女装のポスト、文芸のポストを投稿する。\n​このアカウントを大きくして、文芸を大部分の人の心に残したい。あたしは文芸の名にかけて誓う。大学を卒業して、人生の新たなスタートが始まるまで、あたしはここにいる。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062886834859045037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "固定のポスト:\n改めて自分の現状を分析して、やっぱりネタ投稿をするしかないね。でなければ、何か奇抜なことをして閲覧数をつかむしかなくなってしまう。\n​ネタ投稿は一日に1〜3つ投稿して、それ以外に日常のポストや女装のポスト、文芸のポストを投稿する。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2062886834859045037",
+        "created_at": "2026-06-05T13:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062886834859045037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2024431643344457964",
+              "start": 155,
+              "url": "https://t.co/9j2Rq6xEsY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2062886834859045037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11673,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024431643344457964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "置頂post：\n重新對自己的現狀分析 還是要發些梗圖 不然我也不能做些啥逆天行為拿流量 \n梗圖po頻率在一天1~3po吧 之後會share下我的日常帖 女裝帖 人文帖\n我想將這個帳號發揚光大 將文芸印到大部分人的心中 我會在這一直陪着你們的 我以文芸之名保證 直到我大學畢業 直到我開始人生新階段 我都在這裏 https://t.co/9j2Rq6xEsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese｜​有人活在幻想裏 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 357,
+          "like_count": 12640,
+          "listed_count": 3,
+          "media_count": 965,
+          "tweet_count": 4424
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

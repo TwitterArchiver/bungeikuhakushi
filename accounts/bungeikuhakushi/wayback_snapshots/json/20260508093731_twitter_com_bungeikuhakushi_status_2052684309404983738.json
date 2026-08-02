@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2052595189387272390",
+    "created_at": "2026-05-08T09:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052684309404983738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        },
+        {
+          "end": 25,
+          "id": "975134504393347072",
+          "start": 9,
+          "username": "zhinarencnm8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052684309404983738",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052652346052911490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 @zhinarencnm8964 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2052595189387272390",
+        "created_at": "2026-05-08T09:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052684309404983738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            },
+            {
+              "end": 25,
+              "id": "975134504393347072",
+              "start": 9,
+              "username": "zhinarencnm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052684309404983738",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052652346052911490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 @zhinarencnm8964 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "2052595189387272390",
+        "created_at": "2026-05-08T07:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052652346052911490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 33,
+              "id": "975134504393347072",
+              "start": 17,
+              "username": "zhinarencnm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052652346052911490",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052595189387272390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @zhinarencnm8964 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 355,
+          "like_count": 11851,
+          "listed_count": 4,
+          "media_count": 738,
+          "tweet_count": 3696
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "超级耐杀王 vrc id:一氧化二氢233",
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2049468573765247478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051673830478041088/FAHMOo4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 855,
+          "following_count": 732,
+          "like_count": 1915,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 3833
+        },
+        "username": "h2o2333",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "流れる汗も綺麗なアクア    ルビーを隠したこの瞼     歌い踊り舞う私はマリア｜小号@zhinarensml8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 79,
+                "start": 64,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "汉支满支一家亲共和国",
+        "name": "金輪際現れないアブラハム✡️の生まれ変わり🩵🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045434310237589504/UrpPa--O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 1314,
+          "like_count": 52124,
+          "listed_count": 3,
+          "media_count": 1120,
+          "tweet_count": 5449
+        },
+        "username": "zhinarencnm8964",
+        "verified": false
+      }
+    ]
+  }
+}

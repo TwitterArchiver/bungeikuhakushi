@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050807901510660096"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050755882028536225",
+    "created_at": "2026-05-03T05:21:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050807907994992966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463410562730233867",
+          "start": 0,
+          "username": "EIQRj9gNlZHrot3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wSFYkKmPIg",
+          "end": 40,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2050807907994992966/photo/1",
+          "media_key": "3_2050807901510660096",
+          "start": 17,
+          "url": "https://t.co/wSFYkKmPIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050807907994992966",
+    "in_reply_to_user_id": "1463410562730233867",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050755882028536225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EIQRj9gNlZHrot3 https://t.co/wSFYkKmPIg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050807901510660096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXu67gbcAAxALM.jpg",
+        "width": 922
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2050755860083900416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHW_luFaAAA_apt.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050807901510660096"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050755882028536225",
+        "created_at": "2026-05-03T05:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050807907994992966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463410562730233867",
+              "start": 0,
+              "username": "EIQRj9gNlZHrot3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSFYkKmPIg",
+              "end": 40,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2050807907994992966/photo/1",
+              "media_key": "3_2050807901510660096",
+              "start": 17,
+              "url": "https://t.co/wSFYkKmPIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050807907994992966",
+        "in_reply_to_user_id": "1463410562730233867",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050755882028536225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EIQRj9gNlZHrot3 https://t.co/wSFYkKmPIg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050755860083900416"
+          ]
+        },
+        "author_id": "1463410562730233867",
+        "conversation_id": "2050755882028536225",
+        "created_at": "2026-05-03T01:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T02:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050755882028536225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uS4iBCe8yo",
+              "end": 32,
+              "expanded_url": "https://x.com/EIQRj9gNlZHrot3/status/2050755882028536225/photo/1",
+              "media_key": "3_2050755860083900416",
+              "start": 9,
+              "url": "https://t.co/uS4iBCe8yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050755882028536225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "カオスになったな https://t.co/uS4iBCe8yo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 352,
+          "like_count": 11926,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 3541
+        },
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-24T07:34:19.000Z",
+        "description": "08|“疲労の学生”|心の性別不詳|新全日制高３|発達|鬱病|情緒不安|フラッシュバック\n\nXのDMは返信が遅いのでできればQQかdiscordへお願いします\n\n必須アモト酸🟦🟨🟥／ごちうさ／東京都／ニコニコ／音mad／その他\n\nuser/129801003 鬱裏→@youkya5656_yami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "youkya5656_yami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakureihp.web.fc2.com/index.html",
+                "end": 23,
+                "expanded_url": "http://hakureihp.web.fc2.com/index.html",
+                "start": 0,
+                "url": "https://t.co/VP0WHhfxYB"
+              }
+            ]
+          }
+        },
+        "id": "1463410562730233867",
+        "location": "東京都新宿区信濃町３２番地",
+        "name": "Aizu Wakamatsu.🇳🇿🤯🍁／📸🗝️🚘",
+        "pinned_tweet_id": "2050553033642410316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045531806355845120/zxODKf8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 4765,
+          "like_count": 47469,
+          "listed_count": 15,
+          "media_count": 5702,
+          "tweet_count": 73916
+        },
+        "url": "https://t.co/VP0WHhfxYB",
+        "username": "EIQRj9gNlZHrot3",
+        "verified": false
+      }
+    ]
+  }
+}

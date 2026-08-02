@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044020633181511811",
+    "created_at": "2026-04-14T11:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T12:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044020633181511811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satireorcry1/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/satireorcry1/status/2043964429910380884",
+          "start": 17,
+          "url": "https://t.co/jjQee9xd4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044020633181511811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043964429910380884",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祝她一切安好 ...共匪太恐怖了 https://t.co/jjQee9xd4l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043964425191993344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2e0LkasAAOlgP.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044020633181511811",
+        "created_at": "2026-04-14T11:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T12:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044020633181511811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satireorcry1/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/satireorcry1/status/2043964429910380884",
+              "start": 17,
+              "url": "https://t.co/jjQee9xd4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044020633181511811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043964429910380884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝她一切安好 ...共匪太恐怖了 https://t.co/jjQee9xd4l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043964425191993344"
+          ]
+        },
+        "author_id": "1993455710274043905",
+        "conversation_id": "2043964429910380884",
+        "created_at": "2026-04-14T08:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043964429910380884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cV6a3bigLt",
+              "end": 83,
+              "expanded_url": "https://x.com/satireorcry1/status/2043964429910380884/photo/1",
+              "media_key": "3_2043964425191993344",
+              "start": 60,
+              "url": "https://t.co/cV6a3bigLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043964429910380884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 21669,
+          "like_count": 82,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "知名推特博主 风月无边夜未央 被中共警察打电话威胁！\n\n他到现在也没回复，大概率是被捕了\n\n为他祈福🙏，希望他平安无事 https://t.co/cV6a3bigLt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1668,
+          "following_count": 415,
+          "like_count": 10621,
+          "listed_count": 3,
+          "media_count": 600,
+          "tweet_count": 2985
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-25T23:04:21.000Z",
+        "description": "专注梗图制作20年。 Professional meme maker for 20 years.\n\n欢迎商业洽谈，请用邮箱联系：furinana.x.com@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/furinanaX",
+                "end": 23,
+                "expanded_url": "https://t.me/furinanaX",
+                "start": 0,
+                "url": "https://t.co/EYxWvofvi1"
+              }
+            ]
+          }
+        },
+        "id": "1993455710274043905",
+        "location": "12 Millbank, London, SW1P 4QE",
+        "name": "芙宁娜娜💙Furinana (王者归来版）",
+        "pinned_tweet_id": "2038163914714660961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005923449881972736/kaKnegOz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19247,
+          "following_count": 1477,
+          "like_count": 11779,
+          "listed_count": 41,
+          "media_count": 2197,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/EYxWvofvi1",
+        "username": "satireorcry1",
+        "verified": true
+      }
+    ]
+  }
+}

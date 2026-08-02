@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2043266008912429173",
+    "created_at": "2026-04-12T13:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T14:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043313807045591228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1052903358900580352",
+          "start": 0,
+          "username": "Kalin_1124"
+        }
+      ],
+      "urls": [
+        {
+          "description": "69 Followers • 170 Threads • ｜以文芸之名 解無邏輯之謬論 破將死局之空白 ｜ 民國97年高校生｜無證不含糖｜雙極性障害 ｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English. See the latest conversations with @bungeikuhukushi.",
+          "display_url": "threads.com/@bungeikuhukus…",
+          "end": 35,
+          "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+          "start": 12,
+          "status": 200,
+          "title": "文芸🍁空白子🍥 (@bungeikuhukushi) • Threads, Say more",
+          "unwound_url": "https://www.threads.com/@bungeikuhukushi",
+          "url": "https://t.co/ucezEbRO6I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043313807045591228",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043313725118275972",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kalin_1124 https://t.co/ucezEbRO6I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043266008912429173",
+        "created_at": "2026-04-12T13:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043313807045591228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ],
+          "urls": [
+            {
+              "description": "69 Followers • 170 Threads • ｜以文芸之名 解無邏輯之謬論 破將死局之空白 ｜ 民國97年高校生｜無證不含糖｜雙極性障害 ｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English. See the latest conversations with @bungeikuhukushi.",
+              "display_url": "threads.com/@bungeikuhukus…",
+              "end": 35,
+              "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+              "start": 12,
+              "status": 200,
+              "title": "文芸🍁空白子🍥 (@bungeikuhukushi) • Threads, Say more",
+              "unwound_url": "https://www.threads.com/@bungeikuhukushi",
+              "url": "https://t.co/ucezEbRO6I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043313807045591228",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043313725118275972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 https://t.co/ucezEbRO6I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043266008912429173",
+        "created_at": "2026-04-12T13:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043313725118275972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1052903358900580352",
+              "start": 0,
+              "username": "Kalin_1124"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2043313725118275972",
+        "in_reply_to_user_id": "1052903358900580352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043266008912429173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kalin_1124 求fo下我的脆 謝謝喵w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 415,
+          "like_count": 10523,
+          "listed_count": 3,
+          "media_count": 591,
+          "tweet_count": 2947
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-18T12:44:57.000Z",
+        "description": "07｜男｜喵",
+        "id": "1052903358900580352",
+        "location": "owo",
+        "name": "卡林喵～",
+        "pinned_tweet_id": "2013636116793167964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014910609528442880/ftm3U_oA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 2407,
+          "like_count": 48931,
+          "listed_count": 2,
+          "media_count": 612,
+          "tweet_count": 8399
+        },
+        "username": "Kalin_1124",
+        "verified": false
+      }
+    ]
+  }
+}

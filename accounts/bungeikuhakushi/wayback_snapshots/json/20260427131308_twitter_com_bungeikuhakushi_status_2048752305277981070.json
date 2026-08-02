@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048618571320938588",
+    "created_at": "2026-04-27T13:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048752305277981070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025450618320797696",
+          "start": 0,
+          "username": "trn1229093"
+        },
+        {
+          "end": 24,
+          "id": "1980140172726673408",
+          "start": 12,
+          "username": "Rennord9407"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048752305277981070",
+    "in_reply_to_user_id": "2025450618320797696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048748663548309701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trn1229093 @Rennord9407 @grok 從低境界的批判性思维者的特徵和邏輯學的角度分析以上對話"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048618571320938588",
+        "created_at": "2026-04-27T13:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048752305277981070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025450618320797696",
+              "start": 0,
+              "username": "trn1229093"
+            },
+            {
+              "end": 24,
+              "id": "1980140172726673408",
+              "start": 12,
+              "username": "Rennord9407"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048752305277981070",
+        "in_reply_to_user_id": "2025450618320797696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048748663548309701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trn1229093 @Rennord9407 @grok 從低境界的批判性思维者的特徵和邏輯學的角度分析以上對話"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025450618320797696",
+        "conversation_id": "2048618571320938588",
+        "created_at": "2026-04-27T12:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048748663548309701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 29,
+              "id": "1980140172726673408",
+              "start": 17,
+              "username": "Rennord9407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048748663548309701",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048747526585733439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @Rennord9407 是的你又成关东素质人了😅开头就给人扣帽子我看这关东人啊素质还是太高了啊，一口一个小粉红我说你是杂交就不乐意了😭你的意思是让我去了解一个蛆群体吗？小彩虹恶心人的东西还不够多？😅又真相上了，自己有情感障碍有性别识别障碍缺爱就直接说出来得了，还彩虹群体搁这抱团取暖，真不感兴趣了解🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 366,
+          "like_count": 11558,
+          "listed_count": 4,
+          "media_count": 674,
+          "tweet_count": 3389
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T06:00:51.000Z",
+        "description": "",
+        "id": "2025450618320797696",
+        "name": "tr n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025450695282057216/MRxOQcO8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 67,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 72
+        },
+        "username": "trn1229093",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/She/They ？sexual🏳️‍🌈 友跨 全力支持争取性少数群体权益|社会民主主义🌹左翼 国际主义|键政学习中|\n看到我说话跟磕了药一样请见谅\n🇩🇪学习中|可以与任何立场的友善的人互fo",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791,
+          "following_count": 601,
+          "like_count": 39962,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 7079
+        },
+        "username": "Rennord9407",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8644414,
+          "following_count": 4,
+          "like_count": 89,
+          "listed_count": 6720,
+          "media_count": 8867000,
+          "tweet_count": 123962985
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

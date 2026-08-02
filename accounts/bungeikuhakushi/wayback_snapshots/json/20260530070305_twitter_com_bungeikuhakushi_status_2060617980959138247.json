@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2060617980959138247",
+    "created_at": "2026-05-30T07:03:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:03:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060617980959138247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QY404XYN/statu…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/QY404XYN/status/2060431683816742935",
+          "start": 52,
+          "url": "https://t.co/aDtWgW7rPJ"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2060617980959138247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060431683816742935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最近離64越來越近 就不要在牆內平台亂發東西了 小心被ban 我現在至少已經看到有三個QQ被ban的了 https://t.co/aDtWgW7rPJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060431680876470273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJgfsnaaYAE_Em0.jpg",
+        "width": 993
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2060617980959138247",
+        "created_at": "2026-05-30T07:03:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:03:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060617980959138247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QY404XYN/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/QY404XYN/status/2060431683816742935",
+              "start": 52,
+              "url": "https://t.co/aDtWgW7rPJ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2060617980959138247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060431683816742935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近離64越來越近 就不要在牆內平台亂發東西了 小心被ban 我現在至少已經看到有三個QQ被ban的了 https://t.co/aDtWgW7rPJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060431680876470273"
+          ]
+        },
+        "author_id": "2022181719835914242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060431683816742935",
+        "created_at": "2026-05-29T18:42:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T19:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060431683816742935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MmjgJmshWL",
+              "end": 31,
+              "expanded_url": "https://x.com/QY404XYN/status/2060431683816742935/photo/1",
+              "media_key": "3_2060431680876470273",
+              "start": 8,
+              "url": "https://t.co/MmjgJmshWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060431683816742935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 508,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧见证被秒封 https://t.co/MmjgJmshWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 356,
+          "like_count": 12388,
+          "listed_count": 4,
+          "media_count": 850,
+          "tweet_count": 4038
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜对象 @mchchc5216 ｜正在戒od｜自残｜精神不稳定｜有事直接用推私聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "mchchc5216"
+              }
+            ]
+          }
+        },
+        "id": "2022181719835914242",
+        "name": "枕星寻梦🍥8964",
+        "pinned_tweet_id": "2060328392369778874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059698535340355584/KSwchaKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4265,
+          "following_count": 225,
+          "like_count": 253,
+          "listed_count": 7,
+          "media_count": 91,
+          "tweet_count": 482
+        },
+        "username": "QY404XYN",
+        "verified": false
+      }
+    ]
+  }
+}

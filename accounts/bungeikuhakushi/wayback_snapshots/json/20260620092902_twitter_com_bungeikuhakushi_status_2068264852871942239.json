@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2068187076076753203",
+    "created_at": "2026-06-20T09:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068264852871942239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852615097824251904",
+          "start": 0,
+          "username": "Suimikax"
+        },
+        {
+          "end": 22,
+          "id": "1600024316552179713",
+          "start": 10,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2068264852871942239",
+    "in_reply_to_user_id": "1852615097824251904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068187076076753203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suimikax @kiki_qiqing 何桌球號？"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068187065100144640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOtLZBaEAAn6Zs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2068187076076753203",
+        "created_at": "2026-06-20T09:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068264852871942239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852615097824251904",
+              "start": 0,
+              "username": "Suimikax"
+            },
+            {
+              "end": 22,
+              "id": "1600024316552179713",
+              "start": 10,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2068264852871942239",
+        "in_reply_to_user_id": "1852615097824251904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068187076076753203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suimikax @kiki_qiqing 何桌球號？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068187065100144640"
+          ]
+        },
+        "author_id": "1852615097824251904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068187076076753203",
+        "created_at": "2026-06-20T04:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068187076076753203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1600024316552179713",
+              "start": 5,
+              "username": "kiki_qiqing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LAoNqDmXLQ",
+              "end": 41,
+              "expanded_url": "https://x.com/Suimikax/status/2068187076076753203/photo/1",
+              "media_key": "3_2068187065100144640",
+              "start": 18,
+              "url": "https://t.co/LAoNqDmXLQ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2068187076076753203",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Kiki！@kiki_qiqing https://t.co/LAoNqDmXLQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 361,
+          "like_count": 12675,
+          "listed_count": 3,
+          "media_count": 919,
+          "tweet_count": 4316
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "Fighting, the only way to victory.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@suimikax",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@suimikax",
+                "start": 0,
+                "url": "https://t.co/foV3F4WzeX"
+              }
+            ]
+          }
+        },
+        "id": "1852615097824251904",
+        "name": "桃桃桃桃桃",
+        "pinned_tweet_id": "2035372179731411328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043161516695031808/jrfecv-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 130,
+          "like_count": 3852,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/foV3F4WzeX",
+        "username": "Suimikax",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 | 泛性恋喵 | 170cm/61kg | 有点地雷 | 老婆 @Y205621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "Y205621"
+              }
+            ]
+          }
+        },
+        "id": "1600024316552179713",
+        "location": "荒漠迷城",
+        "name": "祈晴kiki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062376314695532544/1WEAosvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 336,
+          "like_count": 5915,
+          "listed_count": 7,
+          "media_count": 125,
+          "tweet_count": 2115
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false
+      }
+    ]
+  }
+}

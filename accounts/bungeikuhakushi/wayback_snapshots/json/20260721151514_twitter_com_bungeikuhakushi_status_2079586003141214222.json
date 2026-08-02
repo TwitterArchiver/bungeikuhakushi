@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079585989853675520"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2079586003141214222",
+    "created_at": "2026-07-21T15:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079586003141214222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zebdwivbUH",
+          "end": 39,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2079586003141214222/photo/1",
+          "media_key": "3_2079585989853675520",
+          "start": 16,
+          "url": "https://t.co/zebdwivbUH"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2079586003141214222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每一個規定背後都有個神奇的故事 https://t.co/zebdwivbUH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1851,
+        "media_key": "3_2079585989853675520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwscI0bgAAfNd4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079585989853675520"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2079586003141214222",
+        "created_at": "2026-07-21T15:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079586003141214222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zebdwivbUH",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2079586003141214222/photo/1",
+              "media_key": "3_2079585989853675520",
+              "start": 16,
+              "url": "https://t.co/zebdwivbUH"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2079586003141214222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每一個規定背後都有個神奇的故事 https://t.co/zebdwivbUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078130819269566464/G5H3ogAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2168,
+          "following_count": 356,
+          "like_count": 12734,
+          "listed_count": 3,
+          "media_count": 978,
+          "tweet_count": 4468
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

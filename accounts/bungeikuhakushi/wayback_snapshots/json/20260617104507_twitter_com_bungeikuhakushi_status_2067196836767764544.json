@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2067196836767764544",
+    "created_at": "2026-06-17T10:45:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:45:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067196836767764544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1811604757670137856",
+          "start": 3,
+          "username": "SB_Puzzlerlee"
+        },
+        {
+          "end": 25,
+          "id": "2040329440337547264",
+          "start": 19,
+          "username": "ny16f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067196836767764544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067121940205285688",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SB_Puzzlerlee: @ny16f 那叫满洲人，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2067196836767764544",
+        "created_at": "2026-06-17T10:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067196836767764544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1811604757670137856",
+              "start": 3,
+              "username": "SB_Puzzlerlee"
+            },
+            {
+              "end": 25,
+              "id": "2040329440337547264",
+              "start": 19,
+              "username": "ny16f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067196836767764544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067121940205285688",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SB_Puzzlerlee: @ny16f 那叫满洲人，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811604757670137856",
+        "conversation_id": "2067066210588697028",
+        "created_at": "2026-06-17T05:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T06:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067121940205285688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2040329440337547264",
+              "start": 0,
+              "username": "ny16f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067121940205285688",
+        "in_reply_to_user_id": "2040329440337547264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1925,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067121796802072981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ny16f 那叫满洲人，谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 354,
+          "like_count": 12553,
+          "listed_count": 3,
+          "media_count": 896,
+          "tweet_count": 4236
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T03:33:37.000Z",
+        "description": "@puzzlerlee为什么天天拿我䒑他女马的贴文当宝供着，因为拼图者野爹之一@domesere早已得出拼图者是恋母癖的结论/小号@maybe_FuckU/狗与@careforme123禁止入内⛔️/报名拼图者野爹请点下方链接",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "puzzlerlee"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "domesere"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "maybe_FuckU"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "careforme123"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20556…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2055632908568887528",
+                "start": 0,
+                "url": "https://t.co/LIaeSkwnh0"
+              }
+            ]
+          }
+        },
+        "id": "1811604757670137856",
+        "location": "QLD,Australia",
+        "name": "Sager Wang🍥🏳️‍⚧️（拼图者已急哭）",
+        "pinned_tweet_id": "2062151847935426640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065062692357095424/Dj3gLHPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 1239,
+          "like_count": 1737,
+          "listed_count": 4,
+          "media_count": 992,
+          "tweet_count": 6542
+        },
+        "url": "https://t.co/LIaeSkwnh0",
+        "username": "SB_Puzzlerlee",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T07:23:56.000Z",
+        "description": "",
+        "id": "2040329440337547264",
+        "name": "Classmate Chow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040331720277549056/gtOpWHsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 36,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "ny16f",
+        "verified": false
+      }
+    ]
+  }
+}

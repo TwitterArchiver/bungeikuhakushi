@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2061242464409989120"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2061242482407694818",
+    "created_at": "2026-06-01T00:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T01:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061242482407694818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FkzILGTOGl",
+          "end": 56,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2061242482407694818/video/1",
+          "media_key": "7_2061242464409989120",
+          "start": 33,
+          "url": "https://t.co/FkzILGTOGl"
+        },
+        {
+          "display_url": "x.com/Ikuyo0_o/statu…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/Ikuyo0_o/status/2061144661994229896",
+          "start": 57,
+          "url": "https://t.co/T6NrXGkqFP"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2061242482407694818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061144661994229896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "港🐒这野爹数量是真不少啊，有英国佬、野猪皮、粤🐒，现在又多个老倭 https://t.co/FkzILGTOGl https://t.co/T6NrXGkqFP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11656,
+        "height": 1920,
+        "media_key": "7_2061242464409989120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2061242464409989120/pu/img/BpY3NBhiSv3ux2k7.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2061242464409989120/pu/pl/dOh3Jz1aR8oFWwcq.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061242464409989120/pu/vid/avc1/480x1066/SEDN_WPV_s2reGNS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061242464409989120/pu/vid/avc1/720x1600/ohFBgnYT0deFdk1C.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061242464409989120/pu/vid/avc1/320x710/t-R9sRztO5F18fYc.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2061242464409989120/pu/vid/avc1/864x1920/0Ul9cfD8BA_8Q1w-.mp4"
+          }
+        ],
+        "width": 864
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2061242464409989120"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2061242482407694818",
+        "created_at": "2026-06-01T00:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T01:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061242482407694818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkzILGTOGl",
+              "end": 56,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2061242482407694818/video/1",
+              "media_key": "7_2061242464409989120",
+              "start": 33,
+              "url": "https://t.co/FkzILGTOGl"
+            },
+            {
+              "display_url": "x.com/Ikuyo0_o/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Ikuyo0_o/status/2061144661994229896",
+              "start": 57,
+              "url": "https://t.co/T6NrXGkqFP"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2061242482407694818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061144661994229896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "港🐒这野爹数量是真不少啊，有英国佬、野猪皮、粤🐒，现在又多个老倭 https://t.co/FkzILGTOGl https://t.co/T6NrXGkqFP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663143280555728896",
+        "conversation_id": "2061084043941413129",
+        "created_at": "2026-05-31T17:55:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T18:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061144661994229896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061144661994229896",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061084043941413129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 港🐒这野爹数量是真不少啊，有英国佬、野猪皮、粤🐒，现在又多个老倭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 353,
+          "like_count": 12471,
+          "listed_count": 3,
+          "media_count": 856,
+          "tweet_count": 4079
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T11:21:00.000Z",
+        "description": "",
+        "id": "1663143280555728896",
+        "name": "Ikuyo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798201454664249345/O9CGCW2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 1121,
+          "like_count": 58451,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 5263
+        },
+        "username": "Ikuyo0_o",
+        "verified": false
+      }
+    ]
+  }
+}

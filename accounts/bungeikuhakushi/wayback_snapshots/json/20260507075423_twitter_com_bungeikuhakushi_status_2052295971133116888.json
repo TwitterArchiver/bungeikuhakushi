@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052288181442433025"
+      ],
+      "media_source_tweet_id": [
+        "2052288210181689428"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2052295971133116888",
+    "created_at": "2026-05-07T07:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052295971133116888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1863998472762114048",
+          "start": 3,
+          "username": "humming_hanming"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/abvo2hZWsJ",
+          "end": 53,
+          "expanded_url": "https://x.com/humming_hanming/status/2052288210181689428/photo/1",
+          "media_key": "3_2052288181442433025",
+          "start": 30,
+          "url": "https://t.co/abvo2hZWsJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052295971133116888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052288210181689428",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @humming_hanming: 好了，這下買到了 https://t.co/abvo2hZWsJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052288181442433025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsxOj-b0AE7Fch.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052288181442433025"
+          ],
+          "media_source_tweet_id": [
+            "2052288210181689428"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2052295971133116888",
+        "created_at": "2026-05-07T07:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052295971133116888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1863998472762114048",
+              "start": 3,
+              "username": "humming_hanming"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/abvo2hZWsJ",
+              "end": 53,
+              "expanded_url": "https://x.com/humming_hanming/status/2052288210181689428/photo/1",
+              "media_key": "3_2052288181442433025",
+              "start": 30,
+              "url": "https://t.co/abvo2hZWsJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052295971133116888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052288210181689428",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @humming_hanming: 好了，這下買到了 https://t.co/abvo2hZWsJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052288181442433025"
+          ]
+        },
+        "author_id": "1863998472762114048",
+        "conversation_id": "2052288210181689428",
+        "created_at": "2026-05-07T07:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052288210181689428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abvo2hZWsJ",
+              "end": 32,
+              "expanded_url": "https://x.com/humming_hanming/status/2052288210181689428/photo/1",
+              "media_key": "3_2052288181442433025",
+              "start": 9,
+              "url": "https://t.co/abvo2hZWsJ"
+            },
+            {
+              "display_url": "x.com/humming_hanmin…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/humming_hanming/status/2052265740343112112",
+              "start": 33,
+              "url": "https://t.co/CgzisCwKHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052288210181689428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052265740343112112",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了，這下買到了 https://t.co/abvo2hZWsJ https://t.co/CgzisCwKHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット（広州",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1973,
+          "following_count": 364,
+          "like_count": 11793,
+          "listed_count": 4,
+          "media_count": 729,
+          "tweet_count": 3667
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T17:27:39.000Z",
+        "description": "Computer Science | BTW, I use Arch. 私も死ぬ系？\n大好きのいもうとは@FoxRed695449",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "FoxRed695449"
+              }
+            ]
+          }
+        },
+        "id": "1863998472762114048",
+        "name": "Humming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863998546049155072/z9NxKTny_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 251,
+          "like_count": 5285,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 723
+        },
+        "username": "humming_hanming",
+        "verified": false
+      }
+    ]
+  }
+}

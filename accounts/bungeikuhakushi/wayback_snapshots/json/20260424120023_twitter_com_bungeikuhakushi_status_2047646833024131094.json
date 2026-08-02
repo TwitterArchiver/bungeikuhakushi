@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047646830549516288"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047646833024131094",
+    "created_at": "2026-04-24T12:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047646833024131094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "我用左10秒鐘嘅時間接受左現實之後重新又建左個帳號... 到底點解天天追住我唔放嘅",
+          "display_url": "threads.com/@bungeihuku202…",
+          "end": 23,
+          "expanded_url": "https://www.threads.com/@bungeihuku2025/post/DXg26jKGWoi?xmt=AQF01TUEnGwki-tyUStvOnMkoe7PYmKCXj4q45Jh_RbEn4g0qoDS7Z2kdoJ7mbHToCESNrM&slof=1",
+          "start": 0,
+          "status": 200,
+          "title": "文芸🍁空白子🫧 (@bungeihuku2025) on Threads",
+          "unwound_url": "https://www.threads.com/@bungeihuku2025/post/DXg26jKGWoi?slof=1",
+          "url": "https://t.co/WmGI8qE3hw"
+        },
+        {
+          "display_url": "pic.x.com/lBim0EBiPI",
+          "end": 67,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2047646833024131094/photo/1",
+          "media_key": "3_2047646830549516288",
+          "start": 44,
+          "url": "https://t.co/lBim0EBiPI"
+        },
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2047639890062725421",
+          "start": 68,
+          "url": "https://t.co/v0Qzo3t1o1"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2047646833024131094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047639890062725421",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/WmGI8qE3hw\n這很難評 ... 求脆新號互fo 謝謝 https://t.co/lBim0EBiPI https://t.co/v0Qzo3t1o1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047646830549516288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqz8YhbwAAwoGd.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047639887579668480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqtoP8bYAA9O1I.jpg",
+        "width": 922
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047646830549516288"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047646833024131094",
+        "created_at": "2026-04-24T12:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047646833024131094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "我用左10秒鐘嘅時間接受左現實之後重新又建左個帳號... 到底點解天天追住我唔放嘅",
+              "display_url": "threads.com/@bungeihuku202…",
+              "end": 23,
+              "expanded_url": "https://www.threads.com/@bungeihuku2025/post/DXg26jKGWoi?xmt=AQF01TUEnGwki-tyUStvOnMkoe7PYmKCXj4q45Jh_RbEn4g0qoDS7Z2kdoJ7mbHToCESNrM&slof=1",
+              "start": 0,
+              "status": 200,
+              "title": "文芸🍁空白子🫧 (@bungeihuku2025) on Threads",
+              "unwound_url": "https://www.threads.com/@bungeihuku2025/post/DXg26jKGWoi?slof=1",
+              "url": "https://t.co/WmGI8qE3hw"
+            },
+            {
+              "display_url": "pic.x.com/lBim0EBiPI",
+              "end": 67,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2047646833024131094/photo/1",
+              "media_key": "3_2047646830549516288",
+              "start": 44,
+              "url": "https://t.co/lBim0EBiPI"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2047639890062725421",
+              "start": 68,
+              "url": "https://t.co/v0Qzo3t1o1"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2047646833024131094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047639890062725421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WmGI8qE3hw\n這很難評 ... 求脆新號互fo 謝謝 https://t.co/lBim0EBiPI https://t.co/v0Qzo3t1o1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047639887579668480"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047639890062725421",
+        "created_at": "2026-04-24T11:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047639890062725421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3qupmUqWi",
+              "end": 38,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2047639890062725421/photo/1",
+              "media_key": "3_2047639887579668480",
+              "start": 15,
+              "url": "https://t.co/B3qupmUqWi"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2047639890062725421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼馬... 我的脆又被封號了 https://t.co/B3qupmUqWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 370,
+          "like_count": 11268,
+          "listed_count": 4,
+          "media_count": 655,
+          "tweet_count": 3266
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

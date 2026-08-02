@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050041303153737728"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050041312527946138",
+    "created_at": "2026-05-01T02:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T03:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050041312527946138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dxMuQeWnd6",
+          "end": 34,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2050041312527946138/photo/1",
+          "media_key": "3_2050041303153737728",
+          "start": 11,
+          "url": "https://t.co/dxMuQeWnd6"
+        },
+        {
+          "display_url": "x.com/FaODu7NPhqtZ5b…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/FaODu7NPhqtZ5bu/status/2049749462722179441",
+          "start": 35,
+          "url": "https://t.co/YNfYlyUseO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050041312527946138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049749462722179441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小學數學老師天都塌了 https://t.co/dxMuQeWnd6 https://t.co/YNfYlyUseO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050041303153737728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHM1tCFbgAAlFui.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050041303153737728"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050041312527946138",
+        "created_at": "2026-05-01T02:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050041312527946138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dxMuQeWnd6",
+              "end": 34,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2050041312527946138/photo/1",
+              "media_key": "3_2050041303153737728",
+              "start": 11,
+              "url": "https://t.co/dxMuQeWnd6"
+            },
+            {
+              "display_url": "x.com/FaODu7NPhqtZ5b…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/FaODu7NPhqtZ5bu/status/2049749462722179441",
+              "start": 35,
+              "url": "https://t.co/YNfYlyUseO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050041312527946138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049749462722179441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小學數學老師天都塌了 https://t.co/dxMuQeWnd6 https://t.co/YNfYlyUseO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408634134088486916",
+        "conversation_id": "2049588349850251406",
+        "created_at": "2026-04-30T07:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049749462722179441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1575765089030139905",
+              "start": 0,
+              "username": "wodanggangqiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049749462722179441",
+        "in_reply_to_user_id": "1575765089030139905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 168572,
+          "like_count": 45,
+          "quote_count": 40,
+          "reply_count": 53,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049588349850251406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wodanggangqiang 男性吸烟率：43.9%，女性吸烟率： 1.8%，剩下的54.3%不男不女\n这不会是美国的数据吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 360,
+          "like_count": 11782,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 3489
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-26T03:52:13.000Z",
+        "description": "1，对台武统派\n2，讲道理\n3，会挂人\n4，怕你们忘了，我是武统派",
+        "id": "1408634134088486916",
+        "location": "中国，新疆",
+        "name": "刀刀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1409357218596757504/SNgGpggL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 950,
+          "like_count": 100,
+          "listed_count": 12,
+          "media_count": 568,
+          "tweet_count": 6181
+        },
+        "username": "FaODu7NPhqtZ5bu",
+        "verified": false
+      }
+    ]
+  }
+}

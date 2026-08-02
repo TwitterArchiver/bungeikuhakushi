@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2057788204418560127",
+    "created_at": "2026-05-23T13:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058177498471715219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653875318195879936",
+          "start": 0,
+          "username": "Infinity0865729"
+        },
+        {
+          "end": 27,
+          "id": "1957812160421400576",
+          "start": 17,
+          "username": "canton_ss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20518…",
+          "end": 51,
+          "expanded_url": "https://x.com/i/status/2051852612803416119",
+          "start": 28,
+          "url": "https://t.co/oUsoM7zSTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058177498471715219",
+    "in_reply_to_user_id": "1653875318195879936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051852612803416119",
+        "type": "quoted"
+      },
+      {
+        "id": "2058088439376162825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Infinity0865729 @canton_ss https://t.co/oUsoM7zSTt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2057788204418560127",
+        "created_at": "2026-05-23T13:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058177498471715219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653875318195879936",
+              "start": 0,
+              "username": "Infinity0865729"
+            },
+            {
+              "end": 27,
+              "id": "1957812160421400576",
+              "start": 17,
+              "username": "canton_ss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20518…",
+              "end": 51,
+              "expanded_url": "https://x.com/i/status/2051852612803416119",
+              "start": 28,
+              "url": "https://t.co/oUsoM7zSTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058177498471715219",
+        "in_reply_to_user_id": "1653875318195879936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051852612803416119",
+            "type": "quoted"
+          },
+          {
+            "id": "2058088439376162825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Infinity0865729 @canton_ss https://t.co/oUsoM7zSTt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051852612803416119",
+        "created_at": "2026-05-06T02:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051852612803416119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051852612803416119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "找个东北搭子，祖上没当过汉奸（伪军也不行），不爱吹牛，不好面子，有边界感，嗓门小，慢性子，不装豪横，讲理，不欺软怕硬，有礼貌，不出轨，不说脏话，不吃大酱，不在河里捡僵尸臭鱼吃，不吃桌饺的或者不假装豪爽，不会当面一套背后一套，不爱玩心机，不打老婆，仗义，不喜欢光膀子，不爱大声喧哗，有诚信，踏实，不炸炸唬唬、不爱吹牛，讲文明、懂礼貌。有素质，不打架，不抬杠，不小偷小摸，守秩序，从不违法乱纪，不邋遢，爱干净，有边界感，反对大男子主义，讲道理，不欺软怕硬，不好色，不抽烟，酒品好，不飘窗，不胡吃海喝，不吹牛，说话不大嗓门，不封建，有文化，不一根筋，游戏素质高，不一言不合就开摆，爱洗澡的来"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1215,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找个东北搭子，祖上没当过汉奸（伪军也不行），不爱吹牛，不好面子，有边界感，嗓门小，慢性子，不装豪横，讲理，不欺软怕硬，有礼貌，不出轨，不说脏话，不吃大酱，不在河里捡僵尸臭鱼吃，不吃桌饺的或者不假装豪爽，不会当面一套背后一套，不爱玩心机，不打老婆，仗义，不喜欢光膀子，不爱大声喧哗，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653875318195879936",
+        "conversation_id": "2057788204418560127",
+        "created_at": "2026-05-23T07:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058088439376162825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957812160421400576",
+              "start": 0,
+              "username": "canton_ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058088439376162825",
+        "in_reply_to_user_id": "1957812160421400576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 288,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057788204418560127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canton_ss 来个祖上没有当皇协军的广东人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 357,
+          "like_count": 12175,
+          "listed_count": 4,
+          "media_count": 816,
+          "tweet_count": 3933
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-03T21:33:28.000Z",
+        "description": "",
+        "id": "1653875318195879936",
+        "location": "澳门",
+        "name": "Infinity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044027458102669313/ZhEiRbpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 52,
+          "like_count": 454,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1093
+        },
+        "username": "Infinity0865729",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "Cantonese\nFirst Worldist, Traditionalist, Tridemist\nRevolt against the Global Zimbabwe\n最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053458768265183232/YjlC4jbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 786,
+          "like_count": 55980,
+          "listed_count": 10,
+          "media_count": 588,
+          "tweet_count": 8901
+        },
+        "username": "canton_ss",
+        "verified": false
+      }
+    ]
+  }
+}

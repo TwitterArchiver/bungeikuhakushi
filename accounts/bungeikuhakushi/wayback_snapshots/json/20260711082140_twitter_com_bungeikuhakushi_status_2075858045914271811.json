@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075858037907279872"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2075858045914271811",
+    "created_at": "2026-07-11T08:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075858045914271811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DXtMd0nck9",
+          "end": 99,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2075858045914271811/photo/1",
+          "media_key": "3_2075858037907279872",
+          "start": 76,
+          "url": "https://t.co/DXtMd0nck9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075858045914271811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神經 我前幾天9號上網買的快遞 昨天才發貨 光發貨用了兩天 之後今天攬件用了一天 從河南發到廣東又不知道要用多少時間 到底甚麼時候可以拿到我的快遞啊！ https://t.co/DXtMd0nck9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 980,
+        "media_key": "3_2075858037907279872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7t4xmaUAAt6PN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075858037907279872"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2075858045914271811",
+        "created_at": "2026-07-11T08:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075858045914271811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXtMd0nck9",
+              "end": 99,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2075858045914271811/photo/1",
+              "media_key": "3_2075858037907279872",
+              "start": 76,
+              "url": "https://t.co/DXtMd0nck9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075858045914271811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神經 我前幾天9號上網買的快遞 昨天才發貨 光發貨用了兩天 之後今天攬件用了一天 從河南發到廣東又不知道要用多少時間 到底甚麼時候可以拿到我的快遞啊！ https://t.co/DXtMd0nck9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​桜の咲く頃に 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 359,
+          "like_count": 12773,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

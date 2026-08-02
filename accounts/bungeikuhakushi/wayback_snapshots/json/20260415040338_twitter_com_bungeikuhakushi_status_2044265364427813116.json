@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044265364427813116",
+    "created_at": "2026-04-15T04:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044265364427813116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/z8620796459693…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/z8620796459693/status/2044224951654191546",
+          "start": 106,
+          "url": "https://t.co/13FL7kT9jr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044265364427813116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044224951654191546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我先對你的廣西身份表示懷疑 不過我唔係台灣人 我係從出生開始就一直生活在廣東d廣東人 用嘅字體係香港繁體字 講嘅話係絕對比廣西白話更加標準d廣東話 我呢一世都唔知道連撐廣東d發言可以被人鬧成台灣青鳥... 新奇 https://t.co/13FL7kT9jr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044265364427813116",
+        "created_at": "2026-04-15T04:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044265364427813116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/z8620796459693…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/z8620796459693/status/2044224951654191546",
+              "start": 106,
+              "url": "https://t.co/13FL7kT9jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044265364427813116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044224951654191546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我先對你的廣西身份表示懷疑 不過我唔係台灣人 我係從出生開始就一直生活在廣東d廣東人 用嘅字體係香港繁體字 講嘅話係絕對比廣西白話更加標準d廣東話 我呢一世都唔知道連撐廣東d發言可以被人鬧成台灣青鳥... 新奇 https://t.co/13FL7kT9jr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043738262305439744",
+        "conversation_id": "2044029151536123952",
+        "created_at": "2026-04-15T01:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T02:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044224951654191546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044224951654191546",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044029151536123952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 傻逼台湾狗不要来我们大陆拉仇恨了 你讲你老妈个臭嗨粤语啊 你唔知粤语发源地系广西阿 含家产台湾杂碎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 421,
+          "like_count": 10668,
+          "listed_count": 3,
+          "media_count": 604,
+          "tweet_count": 3005
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T17:09:17.000Z",
+        "description": "天天开心",
+        "id": "2043738262305439744",
+        "location": "USA",
+        "name": "我是日本妹妹我想吃美国爸爸的鸡巴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043738535602073600/5U11hTtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 42
+        },
+        "username": "z8620796459693",
+        "verified": false
+      }
+    ]
+  }
+}

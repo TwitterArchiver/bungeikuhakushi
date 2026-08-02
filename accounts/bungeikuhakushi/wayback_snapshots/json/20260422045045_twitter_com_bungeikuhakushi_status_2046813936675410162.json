@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046813933777133568"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046813936675410162",
+    "created_at": "2026-04-22T04:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T05:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046813936675410162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "讓我們懷念他 ...... 我重生了 上一世 我的脆帳號因為莫名其妙被封了 今一世 我要夺回我的一切 請脆友 推友見到幫忙轉發和回fo一下 謝謝",
+          "display_url": "threads.com/@bungeihaku202…",
+          "end": 23,
+          "expanded_url": "https://www.threads.com/@bungeihaku2026/post/DXa82yUDzIq?xmt=AQF0o1ThoLn9fDO0KOICumpf5D1zcE4lJjlngNE4wvkqxvVJ2ApG-TX-ENygI8UyPUZH6p7B&slof=1",
+          "start": 0,
+          "status": 200,
+          "title": "文芸🍁空白子🌸 (@bungeihaku2026) on Threads",
+          "unwound_url": "https://www.threads.com/@bungeihaku2026/post/DXa82yUDzIq?slof=1",
+          "url": "https://t.co/Y5vBSNo1B2"
+        },
+        {
+          "display_url": "pic.x.com/66hiY2fkDm",
+          "end": 47,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2046813936675410162/photo/1",
+          "media_key": "3_2046813933777133568",
+          "start": 24,
+          "url": "https://t.co/66hiY2fkDm"
+        },
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2046809725459898419",
+          "start": 48,
+          "url": "https://t.co/rBjriSTpDG"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2046813936675410162",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046809725459898419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Y5vBSNo1B2 https://t.co/66hiY2fkDm https://t.co/rBjriSTpDG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046813933777133568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGe-baQbIAA-wmY.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046809720087031808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGe6mJCasAAJONO.jpg",
+        "width": 922
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046813933777133568"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046813936675410162",
+        "created_at": "2026-04-22T04:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046813936675410162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "讓我們懷念他 ...... 我重生了 上一世 我的脆帳號因為莫名其妙被封了 今一世 我要夺回我的一切 請脆友 推友見到幫忙轉發和回fo一下 謝謝",
+              "display_url": "threads.com/@bungeihaku202…",
+              "end": 23,
+              "expanded_url": "https://www.threads.com/@bungeihaku2026/post/DXa82yUDzIq?xmt=AQF0o1ThoLn9fDO0KOICumpf5D1zcE4lJjlngNE4wvkqxvVJ2ApG-TX-ENygI8UyPUZH6p7B&slof=1",
+              "start": 0,
+              "status": 200,
+              "title": "文芸🍁空白子🌸 (@bungeihaku2026) on Threads",
+              "unwound_url": "https://www.threads.com/@bungeihaku2026/post/DXa82yUDzIq?slof=1",
+              "url": "https://t.co/Y5vBSNo1B2"
+            },
+            {
+              "display_url": "pic.x.com/66hiY2fkDm",
+              "end": 47,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2046813936675410162/photo/1",
+              "media_key": "3_2046813933777133568",
+              "start": 24,
+              "url": "https://t.co/66hiY2fkDm"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2046809725459898419",
+              "start": 48,
+              "url": "https://t.co/rBjriSTpDG"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2046813936675410162",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046809725459898419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y5vBSNo1B2 https://t.co/66hiY2fkDm https://t.co/rBjriSTpDG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046809720087031808"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2046809725459898419",
+        "created_at": "2026-04-22T04:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046809725459898419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QxJESMdexD",
+              "end": 37,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2046809725459898419/photo/1",
+              "media_key": "3_2046809720087031808",
+              "start": 14,
+              "url": "https://t.co/QxJESMdexD"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2046805558620225839",
+              "start": 38,
+              "url": "https://t.co/gJjtv2G52r"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2046809725459898419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046805558620225839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草尼馬 傻逼Threasd https://t.co/QxJESMdexD https://t.co/gJjtv2G52r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高中生 炒作小男娘｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 384,
+          "like_count": 11149,
+          "listed_count": 4,
+          "media_count": 640,
+          "tweet_count": 3206
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050542330340585782",
+    "created_at": "2026-05-02T11:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050542330340585782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KawawaDiana896…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/KawawaDiana8964/status/2050532922461958630",
+          "start": 17,
+          "url": "https://t.co/aGEoLmGXr7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050542330340585782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050532922461958630",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這種盜號的支黑也是被日本圖全家了 https://t.co/aGEoLmGXr7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1666,
+        "media_key": "3_2050532556584439808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT0fvuW0AAGjLW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 530,
+        "media_key": "3_2050532556584488960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT0fvuXkAAMmap.jpg",
+        "width": 900
+      },
+      {
+        "height": 2453,
+        "media_key": "3_2050532556630564864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT0fv5WoAA80E6.jpg",
+        "width": 1133
+      },
+      {
+        "height": 2453,
+        "media_key": "3_2050532556550856704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT0fvmWYAAB4tD.jpg",
+        "width": 1133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050542330340585782",
+        "created_at": "2026-05-02T11:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050542330340585782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KawawaDiana896…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/KawawaDiana8964/status/2050532922461958630",
+              "start": 17,
+              "url": "https://t.co/aGEoLmGXr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050542330340585782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050532922461958630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這種盜號的支黑也是被日本圖全家了 https://t.co/aGEoLmGXr7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050532556584439808",
+            "3_2050532556584488960",
+            "3_2050532556630564864",
+            "3_2050532556550856704"
+          ]
+        },
+        "author_id": "1557541453253038080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050532922461958630",
+        "created_at": "2026-05-02T11:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050532922461958630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TETTYPTaIl",
+              "end": 75,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/2050532922461958630/photo/1",
+              "media_key": "3_2050532556584439808",
+              "start": 52,
+              "url": "https://t.co/TETTYPTaIl"
+            },
+            {
+              "display_url": "pic.x.com/TETTYPTaIl",
+              "end": 75,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/2050532922461958630/photo/1",
+              "media_key": "3_2050532556584488960",
+              "start": 52,
+              "url": "https://t.co/TETTYPTaIl"
+            },
+            {
+              "display_url": "pic.x.com/TETTYPTaIl",
+              "end": 75,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/2050532922461958630/photo/1",
+              "media_key": "3_2050532556630564864",
+              "start": 52,
+              "url": "https://t.co/TETTYPTaIl"
+            },
+            {
+              "display_url": "pic.x.com/TETTYPTaIl",
+              "end": 75,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/2050532922461958630/photo/1",
+              "media_key": "3_2050532556550856704",
+              "start": 52,
+              "url": "https://t.co/TETTYPTaIl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050532922461958630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "提醒下各位好像不是孔主席，虽然他是支黑我也讨厌支黑但骂人方式不是这样，有可能是粉红反串或者支黑內有內鬼 https://t.co/TETTYPTaIl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 359,
+          "like_count": 11900,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 3533
+        },
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "Alan大号读本停机检修中，支持枝江国际喵\n\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑谣棍双标\nSUPPORT🇵🇸🇺🇦🇻🇪☮️↙️DemSoc,MLM\n#中推名人评分\n欢迎友好交流(8964=勿转內网)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 133,
+                "start": 126,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmQgyh"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "枝江国际-灯塔(MA)分区",
+        "name": "蓝蓝🫐然然浪浪(✋🏻🐻📕Not In Service)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050053655236055040/qSKkDkAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 666,
+          "like_count": 8268,
+          "listed_count": 8,
+          "media_count": 944,
+          "tweet_count": 3768
+        },
+        "url": "https://t.co/wy2TJmQgyh",
+        "username": "KawawaDiana8964",
+        "verified": false
+      }
+    ]
+  }
+}

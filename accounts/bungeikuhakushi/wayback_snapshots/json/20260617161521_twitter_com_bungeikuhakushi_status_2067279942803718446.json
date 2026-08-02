@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2067279942803718446",
+    "created_at": "2026-06-17T16:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067279942803718446"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067279942803718446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "說一下我的b人標準 不知不覺就b了好多人\n首先先說明 雖然我天天把不以物喜 不以己悲掛在嘴邊 但真正有陌生人討厭你 是個人的或多或少會不舒服 我每次看到別的post留言區的人block我 我也不管他是誤b的還是故意的 我都會反b回去\n一般罵我的 只有太傻逼的我才會b 我不會全b完的 留給他們在我的post留言區表演\n之後就是之前有罵過我的北角和滿洲帳號 我是順着他們的follow列表來block的 有些可能是被誤b了 可以找第三方來告訴我 我來解除\n還有 我是個中間派 我的列表不管是甚麼政治立場的人幾乎都有（但保證沒滿洲派系） 所以不要因為我在你討厭的人的列表就把我b了好嗎？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "說一下我的b人標準 不知不覺就b了好多人\n首先先說明 雖然我天天把不以物喜 不以己悲掛在嘴邊 但真正有陌生人討厭你 是個人的或多或少會不舒服 我每次看到別的post留言區的人block我 我也不管他是誤b的還是故意的 我都會反b回去\n一般罵我的 只有太傻逼的我才會b 我不會全b完的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2067279942803718446",
+        "created_at": "2026-06-17T16:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067279942803718446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067279942803718446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "說一下我的b人標準 不知不覺就b了好多人\n首先先說明 雖然我天天把不以物喜 不以己悲掛在嘴邊 但真正有陌生人討厭你 是個人的或多或少會不舒服 我每次看到別的post留言區的人block我 我也不管他是誤b的還是故意的 我都會反b回去\n一般罵我的 只有太傻逼的我才會b 我不會全b完的 留給他們在我的post留言區表演\n之後就是之前有罵過我的北角和滿洲帳號 我是順着他們的follow列表來block的 有些可能是被誤b了 可以找第三方來告訴我 我來解除\n還有 我是個中間派 我的列表不管是甚麼政治立場的人幾乎都有（但保證沒滿洲派系） 所以不要因為我在你討厭的人的列表就把我b了好嗎？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "說一下我的b人標準 不知不覺就b了好多人\n首先先說明 雖然我天天把不以物喜 不以己悲掛在嘴邊 但真正有陌生人討厭你 是個人的或多或少會不舒服 我每次看到別的post留言區的人block我 我也不管他是誤b的還是故意的 我都會反b回去\n一般罵我的 只有太傻逼的我才會b 我不會全b完的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 355,
+          "like_count": 12573,
+          "listed_count": 3,
+          "media_count": 900,
+          "tweet_count": 4248
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2068052490281754779",
+    "created_at": "2026-06-19T19:25:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T20:25:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068052490281754779"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tomorrowomg/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/tomorrowomg/status/2067579757970235683",
+          "start": 29,
+          "url": "https://t.co/ffkFEiKK1f"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2068052490281754779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067579757970235683",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都直接把糖放課室櫃桶的 我同桌天天翻我櫃桶 鳥都不鳥我 https://t.co/ffkFEiKK1f"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067579740542976000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGE0cvbwAAynXc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2068052490281754779",
+        "created_at": "2026-06-19T19:25:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T20:25:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068052490281754779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tomorrowomg/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/tomorrowomg/status/2067579757970235683",
+              "start": 29,
+              "url": "https://t.co/ffkFEiKK1f"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2068052490281754779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067579757970235683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都直接把糖放課室櫃桶的 我同桌天天翻我櫃桶 鳥都不鳥我 https://t.co/ffkFEiKK1f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067579740542976000"
+          ]
+        },
+        "author_id": "2063085390668689408",
+        "conversation_id": "2067579757970235683",
+        "created_at": "2026-06-18T12:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067579757970235683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/10EdLbsTuS",
+              "end": 93,
+              "expanded_url": "https://x.com/tomorrowomg/status/2067579757970235683/photo/1",
+              "media_key": "3_2067579740542976000",
+              "start": 70,
+              "url": "https://t.co/10EdLbsTuS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067579757970235683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 21853,
+          "like_count": 121,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我去了，明明没有hrt，还被误会了，我把糖放在抽屉里，室友说要借东西结果直接翻我桌子，被室友看到了，场面直接凝固了，我在床上失禁地看着舍友 https://t.co/10EdLbsTuS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 360,
+          "like_count": 12669,
+          "listed_count": 3,
+          "media_count": 918,
+          "tweet_count": 4310
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T02:28:39.000Z",
+        "description": "INFJ/户外/摄影风光/山地车/CD/06/广州天河/评论互fo/币圈/烂番茄小说作者/cs饰品  后世@KateLee15458   当朋友圈发\n\n剪輯萌新+player 一枚\n球球諸位點點讚吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "KateLee15458"
+              }
+            ]
+          }
+        },
+        "id": "2063085390668689408",
+        "location": "Hong Kong",
+        "name": "水清歡🍥",
+        "pinned_tweet_id": "2066808630964523252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063616314292449281/EwJxOWco_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 89,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "tomorrowomg",
+        "verified": true
+      }
+    ]
+  }
+}

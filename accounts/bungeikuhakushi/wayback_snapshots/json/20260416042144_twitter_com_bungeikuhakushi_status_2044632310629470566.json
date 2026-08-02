@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044338561605063154",
+    "created_at": "2026-04-16T04:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T05:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044632310629470566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690100855653965824",
+          "start": 0,
+          "username": "iLIc5147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044632310629470566",
+    "in_reply_to_user_id": "1690100855653965824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044338561605063154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iLIc5147 說什麼大實話呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044338561605063154",
+        "created_at": "2026-04-16T04:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044632310629470566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690100855653965824",
+              "start": 0,
+              "username": "iLIc5147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044632310629470566",
+        "in_reply_to_user_id": "1690100855653965824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044338561605063154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iLIc5147 說什麼大實話呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690100855653965824",
+        "conversation_id": "2044338561605063154",
+        "created_at": "2026-04-15T08:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044338561605063154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044338561605063154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1324,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉文化大革命时期的文化还不如改革开放后来的多样丰富与自由"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 397,
+          "like_count": 10722,
+          "listed_count": 3,
+          "media_count": 608,
+          "tweet_count": 3025
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-11T20:40:59.000Z",
+        "description": "欢迎女孩子找我 只收口令/赞赏码 坐标20 88/158/288私信只回口令红包🚪66看着给就行啦 呜呜缺钱od了可以给我打钱od吗 #od姐 #自伤      如果有机会 让我再看看优美小姐",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 71,
+                "start": 67,
+                "tag": "od姐"
+              },
+              {
+                "end": 75,
+                "start": 72,
+                "tag": "自伤"
+              }
+            ]
+          }
+        },
+        "id": "1690100855653965824",
+        "location": "🚪66",
+        "name": "小孩不许欧大迪🍥",
+        "pinned_tweet_id": "2040788075560026570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040780641776857088/qT1Gz6p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 611,
+          "like_count": 28741,
+          "listed_count": 7,
+          "media_count": 1047,
+          "tweet_count": 16447
+        },
+        "username": "iLIc5147",
+        "verified": false
+      }
+    ]
+  }
+}

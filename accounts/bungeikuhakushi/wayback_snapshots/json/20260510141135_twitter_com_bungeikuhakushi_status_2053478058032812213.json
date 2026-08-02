@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2053142599977074737",
+    "created_at": "2026-05-10T14:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053478058032812213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "Zhmgws19120101"
+        },
+        {
+          "end": 28,
+          "id": "2046955236531855360",
+          "start": 16,
+          "username": "xmliu114514"
+        },
+        {
+          "end": 39,
+          "id": "1989552434877018112",
+          "start": 29,
+          "username": "Lixixi520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053478058032812213",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053477888901697961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhmgws19120101 @xmliu114514 @Lixixi520 何意味？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2053142599977074737",
+        "created_at": "2026-05-10T14:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053478058032812213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "Zhmgws19120101"
+            },
+            {
+              "end": 28,
+              "id": "2046955236531855360",
+              "start": 16,
+              "username": "xmliu114514"
+            },
+            {
+              "end": 39,
+              "id": "1989552434877018112",
+              "start": 29,
+              "username": "Lixixi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053478058032812213",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053477888901697961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhmgws19120101 @xmliu114514 @Lixixi520 何意味？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776142720056385537",
+        "conversation_id": "2053142599977074737",
+        "created_at": "2026-05-10T14:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053477888901697961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046955236531855360",
+              "start": 0,
+              "username": "xmliu114514"
+            },
+            {
+              "end": 29,
+              "id": "1964042844198621187",
+              "start": 13,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 40,
+              "id": "1989552434877018112",
+              "start": 30,
+              "username": "Lixixi520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053477888901697961",
+        "in_reply_to_user_id": "2046955236531855360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053152921546826158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmliu114514 @bungeikuhakushi @Lixixi520 不對,共匪😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2002,
+          "following_count": 357,
+          "like_count": 11865,
+          "listed_count": 4,
+          "media_count": 756,
+          "tweet_count": 3769
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051937451447648256/aSXNd7Z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 148,
+          "like_count": 9312,
+          "listed_count": 6,
+          "media_count": 86,
+          "tweet_count": 3083
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-22T14:12:44.000Z",
+        "description": "小号：@xm0347347185242/药娘/MtF/🏳️‍⚧️|中国人🇨🇳/反台独/左翼青年/包容不同政见(台独除外)/不反日/两岸和统/可以互fo/不主动b人/入🚪89.64/刚开始发育求夸🥹 /如果讨厌就屏蔽我吧😊(🇨🇳=🇨🇳🇭🇰🇹🇼🇲🇴)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "xm0347347185242"
+              }
+            ]
+          }
+        },
+        "id": "2046955236531855360",
+        "name": "Liuxm☭❂🇨🇳🇹🇼🇭🇰🇲🇴🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2053142599977074737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051459333859545088/XuF551dc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 212,
+          "like_count": 2144,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 208
+        },
+        "username": "xmliu114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T04:34:02.000Z",
+        "description": "咕咕咕，鴿子落地啦",
+        "id": "1989552434877018112",
+        "name": "李昔昔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045743391162707968/qM8qYn8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 27,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 29
+        },
+        "username": "Lixixi520",
+        "verified": false
+      }
+    ]
+  }
+}

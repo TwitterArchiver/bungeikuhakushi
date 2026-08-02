@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2043875806834041116",
+    "created_at": "2026-04-14T04:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043903512820756762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1072837502732566529",
+          "start": 0,
+          "username": "LingTingHH40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043903512820756762",
+    "in_reply_to_user_id": "1072837502732566529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043875806834041116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingTingHH40 好喲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043875806834041116",
+        "created_at": "2026-04-14T04:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043903512820756762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1072837502732566529",
+              "start": 0,
+              "username": "LingTingHH40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043903512820756762",
+        "in_reply_to_user_id": "1072837502732566529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043875806834041116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingTingHH40 好喲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1072837502732566529",
+        "conversation_id": "2043875806834041116",
+        "created_at": "2026-04-14T02:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043875806834041116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043875806834041116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明年去广东，现在准备深大~(¯▽¯~)，广东的朋友你们好吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 406,
+          "like_count": 10603,
+          "listed_count": 3,
+          "media_count": 598,
+          "tweet_count": 2978
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-12T12:56:07.000Z",
+        "description": "二次元 | DYOR | 偶尔发疯 | 人生百态 | 看看喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lingtinghh40",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lingtinghh40",
+                "start": 0,
+                "url": "https://t.co/jYD9gxRg1A"
+              }
+            ]
+          }
+        },
+        "id": "1072837502732566529",
+        "name": "りん",
+        "pinned_tweet_id": "2043693516153573743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037741304873201664/niyrY4gT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 3617,
+          "like_count": 838,
+          "listed_count": 5,
+          "media_count": 298,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/jYD9gxRg1A",
+        "username": "LingTingHH40",
+        "verified": true
+      }
+    ]
+  }
+}

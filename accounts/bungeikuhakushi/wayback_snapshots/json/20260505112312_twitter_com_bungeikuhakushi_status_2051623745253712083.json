@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051490064589639905",
+    "created_at": "2026-05-05T11:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051623745253712083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2026547944418312192",
+          "start": 0,
+          "username": "skibidi_dicker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051623745253712083",
+    "in_reply_to_user_id": "2026547944418312192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051490064589639905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skibidi_dicker 🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2051490062282690560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhbV6aakAAlesB.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051490064589639905",
+        "created_at": "2026-05-05T11:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051623745253712083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026547944418312192",
+              "start": 0,
+              "username": "skibidi_dicker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051623745253712083",
+        "in_reply_to_user_id": "2026547944418312192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051490064589639905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skibidi_dicker 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051490062282690560"
+          ]
+        },
+        "author_id": "2026547944418312192",
+        "conversation_id": "2051490064589639905",
+        "created_at": "2026-05-05T02:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T03:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051490064589639905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PivXZcPpDr",
+              "end": 145,
+              "expanded_url": "https://x.com/skibidi_dicker/status/2051490064589639905/photo/1",
+              "media_key": "3_2051490062282690560",
+              "start": 122,
+              "url": "https://t.co/PivXZcPpDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051490064589639905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 699,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "傻屌馬斯克去你媽死全家\n他媽的原本給我帳號鎖了七天因為我發了一把刀片 然後呢 早上他媽的把我的號給直接刪除了 傻屌軟件 我就每天分享日常而已 你他媽有病吧 不去刪那些bot跑來刪我的帳號 你他媽想死嗎🤓傻屌東西 活該你兒子變性 去你媽死資本家 https://t.co/PivXZcPpDr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生🍥｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1958,
+          "following_count": 348,
+          "like_count": 11621,
+          "listed_count": 4,
+          "media_count": 723,
+          "tweet_count": 3601
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T06:41:04.000Z",
+        "description": "我操你媽我真服了啊 傻屌馬斯克又把我帳號刪了",
+        "id": "2026547944418312192",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051489095621525504/wwJd-zjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "skibidi_dicker",
+        "verified": false
+      }
+    ]
+  }
+}

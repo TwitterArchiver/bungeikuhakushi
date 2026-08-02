@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047600066853327152",
+    "created_at": "2026-04-25T08:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047963392867270906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531795717391536129",
+          "start": 0,
+          "username": "xiangchunerxin1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047963392867270906",
+    "in_reply_to_user_id": "1531795717391536129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047600066853327152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangchunerxin1 大支那帝國"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43537,
+        "height": 1282,
+        "media_key": "13_2047599953061756928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047599953061756928/img/YqAU-NgipyORMDCx.jpg",
+        "public_metrics": {
+          "view_count": 14416
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047599953061756928/vid/avc1/320x568/3rUL_nxpzVM90Fid.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047599953061756928/vid/avc1/480x854/v220esuz2enRGeWR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047599953061756928/vid/avc1/720x1282/WTXB-QZzBW8flcut.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047599953061756928/pl/kKaKKXKKzpzJ8lHE.m3u8?tag=14&v=ef7"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047600066853327152",
+        "created_at": "2026-04-25T08:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047963392867270906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531795717391536129",
+              "start": 0,
+              "username": "xiangchunerxin1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047963392867270906",
+        "in_reply_to_user_id": "1531795717391536129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047600066853327152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangchunerxin1 大支那帝國"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047599953061756928"
+          ]
+        },
+        "author_id": "1531795717391536129",
+        "conversation_id": "2047600066853327152",
+        "created_at": "2026-04-24T08:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047600066853327152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MAszE15jai",
+              "end": 50,
+              "expanded_url": "https://x.com/xiangchunerxin1/status/2047600066853327152/video/1",
+              "media_key": "13_2047599953061756928",
+              "start": 27,
+              "url": "https://t.co/MAszE15jai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047600066853327152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 29597,
+          "like_count": 177,
+          "quote_count": 5,
+          "reply_count": 111,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "学生戏称“大日本帝国”，老师现场拍案怒批，说得太好了 https://t.co/MAszE15jai"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2025",
+                "start": 0,
+                "url": "https://t.co/88dwT7z2iF"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 365,
+          "like_count": 11323,
+          "listed_count": 4,
+          "media_count": 657,
+          "tweet_count": 3290
+        },
+        "url": "https://t.co/88dwT7z2iF",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-01T00:32:23.000Z",
+        "description": "爱我你怕了吗",
+        "id": "1531795717391536129",
+        "name": "梦想家拉斐尔（互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581592655875776515/BTXhbzna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16420,
+          "following_count": 12628,
+          "like_count": 8376,
+          "listed_count": 33,
+          "media_count": 10048,
+          "tweet_count": 16773
+        },
+        "username": "xiangchunerxin1",
+        "verified": false
+      }
+    ]
+  }
+}

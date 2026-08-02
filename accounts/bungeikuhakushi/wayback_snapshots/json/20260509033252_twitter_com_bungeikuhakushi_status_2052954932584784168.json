@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052954921218244608",
+        "3_2052954921058869248",
+        "3_2052954921880965120",
+        "3_2052954921214099456"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2052954932584784168",
+    "created_at": "2026-05-09T03:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052954932584784168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Lt0biCo4w",
+          "end": 39,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2052954932584784168/photo/1",
+          "media_key": "3_2052954921218244608",
+          "start": 16,
+          "url": "https://t.co/3Lt0biCo4w"
+        },
+        {
+          "display_url": "pic.x.com/3Lt0biCo4w",
+          "end": 39,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2052954932584784168/photo/1",
+          "media_key": "3_2052954921058869248",
+          "start": 16,
+          "url": "https://t.co/3Lt0biCo4w"
+        },
+        {
+          "display_url": "pic.x.com/3Lt0biCo4w",
+          "end": 39,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2052954932584784168/photo/1",
+          "media_key": "3_2052954921880965120",
+          "start": 16,
+          "url": "https://t.co/3Lt0biCo4w"
+        },
+        {
+          "display_url": "pic.x.com/3Lt0biCo4w",
+          "end": 39,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2052954932584784168/photo/1",
+          "media_key": "3_2052954921214099456",
+          "start": 16,
+          "url": "https://t.co/3Lt0biCo4w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052954932584784168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我tm每天遇到的到底是啥陰間啊 https://t.co/3Lt0biCo4w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052954921218244608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2Pn7MagAAs1Jc.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052954921058869248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2Pn6maoAAEX7q.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052954921880965120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2Pn9qa0AAvjVw.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052954921214099456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2Pn7LbQAA44A3.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052954921218244608",
+            "3_2052954921058869248",
+            "3_2052954921880965120",
+            "3_2052954921214099456"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052954932584784168",
+        "created_at": "2026-05-09T03:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052954932584784168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Lt0biCo4w",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2052954932584784168/photo/1",
+              "media_key": "3_2052954921218244608",
+              "start": 16,
+              "url": "https://t.co/3Lt0biCo4w"
+            },
+            {
+              "display_url": "pic.x.com/3Lt0biCo4w",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2052954932584784168/photo/1",
+              "media_key": "3_2052954921058869248",
+              "start": 16,
+              "url": "https://t.co/3Lt0biCo4w"
+            },
+            {
+              "display_url": "pic.x.com/3Lt0biCo4w",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2052954932584784168/photo/1",
+              "media_key": "3_2052954921880965120",
+              "start": 16,
+              "url": "https://t.co/3Lt0biCo4w"
+            },
+            {
+              "display_url": "pic.x.com/3Lt0biCo4w",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2052954932584784168/photo/1",
+              "media_key": "3_2052954921214099456",
+              "start": 16,
+              "url": "https://t.co/3Lt0biCo4w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052954932584784168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我tm每天遇到的到底是啥陰間啊 https://t.co/3Lt0biCo4w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 356,
+          "like_count": 11771,
+          "listed_count": 4,
+          "media_count": 744,
+          "tweet_count": 3724
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

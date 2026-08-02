@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2045442109579428194",
+    "created_at": "2026-04-18T09:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045442109579428194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2027215842572988416",
+          "start": 3,
+          "username": "chunxuehu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045442109579428194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045347422919139742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chunxuehu: 这里是春雪狐，是个药娘，大号冻结中，推文主要是自己的一些自拍，偶尔会有福利照，还会发自己的一些情绪宣泄和生活分享。本人门槛50元可以加\nQQ或者微信，主要内容是陪你聊天提供一些情绪价值，要是有空也会按照要求拍一点你想看的照片，只要你一直跟我说话我就…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045347409967116288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKIofVa8AAlHQy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2045347409967161344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKIofVboAAJ_eO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1940,
+        "media_key": "3_2045347409962958848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKIofUbgAA9Xhu.jpg",
+        "width": 1754
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045347409988063232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKIofaakAAKVcw.jpg",
+        "width": 1719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045442109579428194",
+        "created_at": "2026-04-18T09:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045442109579428194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2027215842572988416",
+              "start": 3,
+              "username": "chunxuehu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045442109579428194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045347422919139742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chunxuehu: 这里是春雪狐，是个药娘，大号冻结中，推文主要是自己的一些自拍，偶尔会有福利照，还会发自己的一些情绪宣泄和生活分享。本人门槛50元可以加\nQQ或者微信，主要内容是陪你聊天提供一些情绪价值，要是有空也会按照要求拍一点你想看的照片，只要你一直跟我说话我就…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045347409967116288",
+            "3_2045347409967161344",
+            "3_2045347409962958848",
+            "3_2045347409988063232"
+          ]
+        },
+        "author_id": "2027215842572988416",
+        "conversation_id": "2045347422919139742",
+        "created_at": "2026-04-18T03:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045347422919139742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Pcyeqx3CV",
+              "end": 164,
+              "expanded_url": "https://x.com/2026Fxs/status/2045347422919139742/photo/1",
+              "media_key": "3_2045347409967116288",
+              "start": 141,
+              "url": "https://t.co/5Pcyeqx3CV"
+            },
+            {
+              "display_url": "pic.x.com/5Pcyeqx3CV",
+              "end": 164,
+              "expanded_url": "https://x.com/2026Fxs/status/2045347422919139742/photo/1",
+              "media_key": "3_2045347409967161344",
+              "start": 141,
+              "url": "https://t.co/5Pcyeqx3CV"
+            },
+            {
+              "display_url": "pic.x.com/5Pcyeqx3CV",
+              "end": 164,
+              "expanded_url": "https://x.com/2026Fxs/status/2045347422919139742/photo/1",
+              "media_key": "3_2045347409962958848",
+              "start": 141,
+              "url": "https://t.co/5Pcyeqx3CV"
+            },
+            {
+              "display_url": "pic.x.com/5Pcyeqx3CV",
+              "end": 164,
+              "expanded_url": "https://x.com/2026Fxs/status/2045347422919139742/photo/1",
+              "media_key": "3_2045347409988063232",
+              "start": 141,
+              "url": "https://t.co/5Pcyeqx3CV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045347422919139742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 59,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这里是春雪狐，是个药娘，大号冻结中，推文主要是自己的一些自拍，偶尔会有福利照，还会发自己的一些情绪宣泄和生活分享。本人门槛50元可以加\nQQ或者微信，主要内容是陪你聊天提供一些情绪价值，要是有空也会按照要求拍一点你想看的照片，只要你一直跟我说话我就会跟你一直聊下去，谢谢大家支持喵 https://t.co/5Pcyeqx3CV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 385,
+          "like_count": 10890,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 3087
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T02:55:08.000Z",
+        "description": "就是原来的那个春雪狐，@S_Hyoscine这个大号被封了🥲推友寻回ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "S_Hyoscine"
+              }
+            ]
+          }
+        },
+        "id": "2027215842572988416",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "公用便器春雪狐🌸",
+        "pinned_tweet_id": "2045347422919139742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045346494308585472/M5_K9oZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 15,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 14
+        },
+        "username": "chunxuehu",
+        "verified": false
+      }
+    ]
+  }
+}

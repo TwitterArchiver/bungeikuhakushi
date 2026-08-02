@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044062149409157124"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044062152525525230",
+    "created_at": "2026-04-14T14:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044062152525525230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "2001998644673994752",
+          "start": 10,
+          "username": "morganofliberal"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ziXbeHl62Y",
+          "end": 59,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2044062152525525230/photo/1",
+          "media_key": "3_2044062149409157124",
+          "start": 36,
+          "url": "https://t.co/ziXbeHl62Y"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2044062152525525230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊 這是什麼圈子？ @morganofliberal 怎麼你也上榜了？ https://t.co/ziXbeHl62Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044062149409157124",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF33sepasAQQzWU.jpg",
+        "width": 922
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044062149409157124"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044062152525525230",
+        "created_at": "2026-04-14T14:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044062152525525230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "2001998644673994752",
+              "start": 10,
+              "username": "morganofliberal"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ziXbeHl62Y",
+              "end": 59,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2044062152525525230/photo/1",
+              "media_key": "3_2044062149409157124",
+              "start": 36,
+              "url": "https://t.co/ziXbeHl62Y"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2044062152525525230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊 這是什麼圈子？ @morganofliberal 怎麼你也上榜了？ https://t.co/ziXbeHl62Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 418,
+          "like_count": 10636,
+          "listed_count": 3,
+          "media_count": 603,
+          "tweet_count": 2993
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "免于匮乏和恐惧，自由而自尊地生活，直至生命消逝的时刻的权利",
+        "id": "2001998644673994752",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Morgan",
+        "pinned_tweet_id": "2004869400487493943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037426839099195392/Ymo2CbTR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 459,
+          "like_count": 4573,
+          "listed_count": 6,
+          "media_count": 214,
+          "tweet_count": 2596
+        },
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

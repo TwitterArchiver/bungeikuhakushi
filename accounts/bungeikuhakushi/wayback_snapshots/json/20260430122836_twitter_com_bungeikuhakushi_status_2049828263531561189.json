@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049820236174782936",
+    "created_at": "2026-04-30T12:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049828263531561189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2000383206445719552",
+          "start": 0,
+          "username": "PRC_Arba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049828263531561189",
+    "in_reply_to_user_id": "2000383206445719552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049820236174782936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PRC_Arba 這是流量密碼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049820236174782936",
+        "created_at": "2026-04-30T12:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049828263531561189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2000383206445719552",
+              "start": 0,
+              "username": "PRC_Arba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049828263531561189",
+        "in_reply_to_user_id": "2000383206445719552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049820236174782936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PRC_Arba 這是流量密碼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000383206445719552",
+        "conversation_id": "2049820236174782936",
+        "created_at": "2026-04-30T11:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049820236174782936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ravenxux/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Ravenxux/status/2049769739535397190",
+              "start": 29,
+              "url": "https://t.co/NC1L99oRlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049820236174782936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049769739535397190",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个时候你发一句“去你妈的搞台独的不许过老娘门槛”包火的 https://t.co/NC1L99oRlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 355,
+          "like_count": 11766,
+          "listed_count": 4,
+          "media_count": 685,
+          "tweet_count": 3483
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T01:51:45.000Z",
+        "description": "PRC🇨🇳|前期本土自由派中期网左|目前为左翼改良建制派|反独促统、一国一制|联欧🇪🇺抗美🇺🇸|理性拥护习近平|60%民族主义40%国际主义|有限市场经济|对本土自由派友好|不拉黑屏蔽任何人\n台湾朋友：@whitelate0001",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "whitelate0001"
+              }
+            ]
+          }
+        },
+        "id": "2000383206445719552",
+        "location": "THE PEOPLE'S REPUBLIC OF CHINA",
+        "name": "Arba🇨🇳☭",
+        "pinned_tweet_id": "2006763449796407599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048073420399837184/fhN3ghgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 127,
+          "like_count": 1680,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 913
+        },
+        "username": "PRC_Arba",
+        "verified": false
+      }
+    ]
+  }
+}

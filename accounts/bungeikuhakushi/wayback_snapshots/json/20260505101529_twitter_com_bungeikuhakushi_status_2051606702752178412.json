@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051606702752178412",
+    "created_at": "2026-05-05T10:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051606702752178412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/renyue105/stat…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/renyue105/status/2051512055996322077",
+          "start": 18,
+          "url": "https://t.co/gc3vzXE9WL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051606702752178412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051512055996322077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼玩意 這sb跨出腦子沒問題吧？ https://t.co/gc3vzXE9WL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2051512053307748363",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHhvV9XXMAsREi_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051606702752178412",
+        "created_at": "2026-05-05T10:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051606702752178412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/renyue105/stat…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/renyue105/status/2051512055996322077",
+              "start": 18,
+              "url": "https://t.co/gc3vzXE9WL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051606702752178412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051512055996322077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼玩意 這sb跨出腦子沒問題吧？ https://t.co/gc3vzXE9WL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051512053307748363"
+          ]
+        },
+        "author_id": "2036071254873276416",
+        "conversation_id": "2051512055996322077",
+        "created_at": "2026-05-05T03:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051512055996322077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HcGfYfqxQy",
+              "end": 140,
+              "expanded_url": "https://x.com/renyue105/status/2051512055996322077/photo/1",
+              "media_key": "3_2051512053307748363",
+              "start": 117,
+              "url": "https://t.co/HcGfYfqxQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051512055996322077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11464,
+          "like_count": 73,
+          "quote_count": 12,
+          "reply_count": 20,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "..呜呜呜 咱要清醒一点喵，咱是一名中国男人喵 哦吼吼吼..咱是呜啊..世界上最崇高的群体喵，咱正在被东亚去雄计划洗脑喵..在用药物毁了自己的身体喵，自己的未来喵..呜，咱要振作起来喵，立刻开始停用药物喵，并开始肌肉训练喵~啊呜❤️ https://t.co/HcGfYfqxQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生🍥｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 349,
+          "like_count": 11613,
+          "listed_count": 4,
+          "media_count": 722,
+          "tweet_count": 3598
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T13:23:41.000Z",
+        "description": "孤鹤游天外，凡禽莫近身.",
+        "id": "2036071254873276416",
+        "location": "中国 江西 ",
+        "name": "任成轩",
+        "pinned_tweet_id": "2046413472829731201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051512275219980288/X27FoXxx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 76,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 2039
+        },
+        "username": "renyue105",
+        "verified": false
+      }
+    ]
+  }
+}

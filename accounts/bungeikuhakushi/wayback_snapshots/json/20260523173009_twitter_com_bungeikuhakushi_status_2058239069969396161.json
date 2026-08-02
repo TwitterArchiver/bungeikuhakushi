@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2058138174824841675",
+    "created_at": "2026-05-23T17:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058239069969396161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058239069969396161",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058138174824841675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 我發現你挺愛研究這些推流機制的嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2058138174824841675",
+        "created_at": "2026-05-23T17:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058239069969396161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058239069969396161",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058138174824841675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 我發現你挺愛研究這些推流機制的嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763034943599607808",
+        "conversation_id": "2058138174824841675",
+        "created_at": "2026-05-23T10:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058138174824841675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058138174824841675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "新来的朋友们，当你关注某一位大博主后，会有一行推荐，与该博主配合的较好的博主们，这就是X的推流机制。简单来说，X主要看的是互动，系统看你最近的互动内容进行推流，而不是粉丝量，这点与国内app完全不同。\n\n如何获得曝光推流？首先你要知道，观众的喜好非常多，一个人喜欢看黄色，他未必不喜欢打篮球、抽彩票、炒股等等。我想说的是什么？设定好的你的人设，不要看到不喜欢的内容就屏蔽划走，这样你永远只是一个观众。\n\n方式\n1、确定人设：金融圈，新闻圈，日常生活吐槽，男娘，美女等等\n2、互动：抱着交朋友的心态，礼貌友好，去找各个圈子的博主，给他贴子点赞，在底下评论互动，持之以恒，别人不回你，有很多原因，不要不回你你就觉得不开心了，不回你也隔三差五的评论，换个人评论，总有一个人会回你。评论也不要瞎评论，评论好了主播才会回你。这叫做人脉。\n3、推流：系统发现，某个博主回复了你，会认为你也是这个圈子的人，当你发了贴子，就会给你推流。因为你互动了很多品类，那么就会获得很多品类的推流。\n4、总结：人设，评论互动，持之以恒，不要不喜欢就毙，做博主就要有海纳百川的心态，你是做博主的新号，你毙了一大堆还怎么做博主？那就只能当观众。\n想做起来流量的蓝v博主关注私信我，我会根据你的人设你的品类，为你推荐思路，细节，可能有好的推文送给你，因为不适合我发。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3258,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新来的朋友们，当你关注某一位大博主后，会有一行推荐，与该博主配合的较好的博主们，这就是X的推流机制。简单来说，X主要看的是互动，系统看你最近的互动内容进行推流，而不是粉丝量，这点与国内app完全不同。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 355,
+          "like_count": 12180,
+          "listed_count": 4,
+          "media_count": 818,
+          "tweet_count": 3936
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "男娘｜En_name：Luna ruri｜femboy｜not trans｜friendly to trans｜EN CN JP｜ally of justice and fairness｜cute things｜168cm50kg｜ACG culture｜Beauty share｜thanks",
+        "id": "1763034943599607808",
+        "location": "🚪50🉑date✈️｜鄂｜埼玉｜蓝v必回请私信｜DM",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2057639266470215689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041518071383527424/Ikw4pdSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6376,
+          "following_count": 311,
+          "like_count": 914,
+          "listed_count": 14,
+          "media_count": 141,
+          "tweet_count": 1800
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

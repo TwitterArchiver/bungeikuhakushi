@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2077627017554768245",
+    "created_at": "2026-07-18T09:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078419025013678334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1893242364199849984",
+          "start": 0,
+          "username": "hingahue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078419025013678334",
+    "in_reply_to_user_id": "1893242364199849984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077627017554768245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hingahue 你現在還看小紅書了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 751,
+        "media_key": "3_2077627007664529408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNU2wXeaIAAJb21.jpg",
+        "width": 416
+      },
+      {
+        "height": 750,
+        "media_key": "3_2077627007584829440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNU2wXLaAAAZqic.jpg",
+        "width": 407
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2077627017554768245",
+        "created_at": "2026-07-18T09:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078419025013678334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1893242364199849984",
+              "start": 0,
+              "username": "hingahue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078419025013678334",
+        "in_reply_to_user_id": "1893242364199849984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077627017554768245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hingahue 你現在還看小紅書了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077627007664529408",
+            "3_2077627007584829440"
+          ]
+        },
+        "author_id": "1893242364199849984",
+        "conversation_id": "2077627017554768245",
+        "created_at": "2026-07-16T05:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077627017554768245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2BvtHAcivu",
+              "end": 31,
+              "expanded_url": "https://x.com/hingahue/status/2077627017554768245/photo/1",
+              "media_key": "3_2077627007664529408",
+              "start": 8,
+              "url": "https://t.co/2BvtHAcivu"
+            },
+            {
+              "display_url": "pic.x.com/2BvtHAcivu",
+              "end": 31,
+              "expanded_url": "https://x.com/hingahue/status/2077627017554768245/photo/1",
+              "media_key": "3_2077627007584829440",
+              "start": 8,
+              "url": "https://t.co/2BvtHAcivu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077627017554768245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2244,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "華人種族優勢： https://t.co/2BvtHAcivu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰｜​人活在幻想裏 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078130819269566464/G5H3ogAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 355,
+          "like_count": 12678,
+          "listed_count": 3,
+          "media_count": 968,
+          "tweet_count": 4436
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T10:12:19.000Z",
+        "description": "科學民族主義者\n東亞諸國得向南非聯邦和西南非託管地學習",
+        "id": "1893242364199849984",
+        "name": "Lynn Richard的好學生",
+        "pinned_tweet_id": "2076311300129656944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075239343585964032/5Sz-l_8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 95,
+          "like_count": 6632,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1069
+        },
+        "url": "",
+        "username": "hingahue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2068800683361616308",
+    "created_at": "2026-06-22T16:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T17:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069093207800213558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055911737208315904",
+          "start": 0,
+          "username": "omgnowihasfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069093207800213558",
+    "in_reply_to_user_id": "2055911737208315904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068800683361616308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihasfish 我願榮光歸香港\n光復香港 時代革命\n清除香港毒瘤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2068800681402875904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLXbQj4awAABPLe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2068800683361616308",
+        "created_at": "2026-06-22T16:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069093207800213558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055911737208315904",
+              "start": 0,
+              "username": "omgnowihasfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069093207800213558",
+        "in_reply_to_user_id": "2055911737208315904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068800683361616308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihasfish 我願榮光歸香港\n光復香港 時代革命\n清除香港毒瘤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068800681402875904"
+          ]
+        },
+        "author_id": "2055911737208315904",
+        "conversation_id": "2068800683361616308",
+        "created_at": "2026-06-21T20:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T21:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068800683361616308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yd7BLF6fFK",
+              "end": 34,
+              "expanded_url": "https://x.com/omgnowihasfish/status/2068800683361616308/photo/1",
+              "media_key": "3_2068800681402875904",
+              "start": 11,
+              "url": "https://t.co/Yd7BLF6fFK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068800683361616308",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 21074,
+          "like_count": 222,
+          "quote_count": 3,
+          "reply_count": 69,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "打倒邪惡中共😡👊🇨🇳 https://t.co/Yd7BLF6fFK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese ｜對現實失望 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 362,
+          "like_count": 12718,
+          "listed_count": 3,
+          "media_count": 925,
+          "tweet_count": 4344
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市 \n2009/12/24 抑鬱 精分 雙向 多重人格 自閉 adhd 雷霆亞硝蒜末美食家 我不是ragebaiter🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=Gnc7ktA0TsADpGRe",
+                "start": 0,
+                "url": "https://t.co/FZ1JCwuotB"
+              }
+            ]
+          }
+        },
+        "id": "2055911737208315904",
+        "location": "台中市, 台灣",
+        "name": "黃瓜🍥",
+        "pinned_tweet_id": "2068364575226163422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1350,
+          "following_count": 596,
+          "like_count": 2861,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 699
+        },
+        "url": "https://t.co/FZ1JCwuotB",
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

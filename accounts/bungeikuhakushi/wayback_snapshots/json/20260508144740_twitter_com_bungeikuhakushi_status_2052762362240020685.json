@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2052762362240020685",
+    "created_at": "2026-05-08T14:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052762362240020685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shuliaosui/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Shuliaosui/status/2052681471966715955",
+          "start": 12,
+          "url": "https://t.co/Aemvp724U5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052762362240020685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052681471966715955",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是我說 這不一眼男呀 https://t.co/Aemvp724U5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052681463536193536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyW6l8akAAP9Vf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2052762362240020685",
+        "created_at": "2026-05-08T14:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052762362240020685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shuliaosui/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Shuliaosui/status/2052681471966715955",
+              "start": 12,
+              "url": "https://t.co/Aemvp724U5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052762362240020685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052681471966715955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是我說 這不一眼男呀 https://t.co/Aemvp724U5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052681463536193536"
+          ]
+        },
+        "author_id": "2049292877814173696",
+        "conversation_id": "2052681471966715955",
+        "created_at": "2026-05-08T09:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052681471966715955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RgEEyXDtB",
+              "end": 45,
+              "expanded_url": "https://x.com/Shuliaosui/status/2052681471966715955/photo/1",
+              "media_key": "3_2052681463536193536",
+              "start": 22,
+              "url": "https://t.co/6RgEEyXDtB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052681471966715955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请大家睿评一下，我到底是更像男的还是女的？ https://t.co/6RgEEyXDtB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 360,
+          "like_count": 11888,
+          "listed_count": 4,
+          "media_count": 740,
+          "tweet_count": 3710
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-29T01:01:19.000Z",
+        "description": "/24年牢药娘/接陪伴任务/爱自己/信奉阿德勒学派/16岁/护理专业/Q:3755457720/Q群:285607409/匿名提问:https://t.co/P7wEVYG2Sn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 89,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 66,
+                "url": "https://t.co/P7wEVYG2Sn"
+              }
+            ]
+          }
+        },
+        "id": "2049292877814173696",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050083452826066944/WL1ORgHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 586,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 189
+        },
+        "username": "Shuliaosui",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2045752058184384827",
+    "created_at": "2026-04-19T06:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045752058184384827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2043041970097156299",
+          "start": 46,
+          "url": "https://t.co/mjFFJ7rs2o"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2045752058184384827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043041970097156299",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神人推特 不給推流 不讓我漲fo 我炒作炒作炒不過 梗圖梗圖火不了 難不成真讓我去當黃推？ https://t.co/mjFFJ7rs2o"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045752058184384827",
+        "created_at": "2026-04-19T06:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045752058184384827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2043041970097156299",
+              "start": 46,
+              "url": "https://t.co/mjFFJ7rs2o"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2045752058184384827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043041970097156299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神人推特 不給推流 不讓我漲fo 我炒作炒作炒不過 梗圖梗圖火不了 難不成真讓我去當黃推？ https://t.co/mjFFJ7rs2o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043041970097156299",
+        "created_at": "2026-04-11T19:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043041970097156299"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043041970097156299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 713,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去你的 fo數一點也沒漲 在這麼下去我干脆轉型去當男娘黃推得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 386,
+          "like_count": 10965,
+          "listed_count": 4,
+          "media_count": 621,
+          "tweet_count": 3111
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

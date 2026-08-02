@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082137954089365504"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082136479401422901",
+    "created_at": "2026-07-28T16:15:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T17:15:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082137962855448795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2082080789119016961",
+          "start": 0,
+          "username": "hoshinofuji___"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HnUeDBcXrW",
+          "end": 39,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2082137962855448795/photo/1",
+          "media_key": "3_2082137954089365504",
+          "start": 16,
+          "url": "https://t.co/HnUeDBcXrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082137962855448795",
+    "in_reply_to_user_id": "2082080789119016961",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082136479401422901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofuji___ https://t.co/HnUeDBcXrW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2082137954089365504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU9cAba8AATS7o.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2082136443946991616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU8EGtbAAA_Bh8.jpg",
+        "width": 1091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082137954089365504"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082136479401422901",
+        "created_at": "2026-07-28T16:15:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082137962855448795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2082080789119016961",
+              "start": 0,
+              "username": "hoshinofuji___"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnUeDBcXrW",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2082137962855448795/photo/1",
+              "media_key": "3_2082137954089365504",
+              "start": 16,
+              "url": "https://t.co/HnUeDBcXrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082137962855448795",
+        "in_reply_to_user_id": "2082080789119016961",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082136479401422901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofuji___ https://t.co/HnUeDBcXrW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082136443946991616"
+          ]
+        },
+        "author_id": "2082080789119016961",
+        "conversation_id": "2082136479401422901",
+        "created_at": "2026-07-28T16:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082136479401422901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ybCK6VQ3G7",
+              "end": 23,
+              "expanded_url": "https://x.com/hoshinofuji___/status/2082136479401422901/photo/1",
+              "media_key": "3_2082136443946991616",
+              "start": 0,
+              "url": "https://t.co/ybCK6VQ3G7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082136479401422901",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ybCK6VQ3G7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰🇲🇴｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081754219997200384/pJoooY_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 346,
+          "like_count": 12830,
+          "listed_count": 3,
+          "media_count": 1007,
+          "tweet_count": 4528
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-28T12:30:05.000Z",
+        "description": "「星穹阑珊，草野风动，斯人舞萤，其名为藤」｜My beloved @nationalpurevf4｜love the whole world🇺🇳｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              }
+            ]
+          }
+        },
+        "id": "2082080789119016961",
+        "name": "星野ふじ（reborn）",
+        "pinned_tweet_id": "2082097033486508340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081722901188608/L8AzdfTr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 139,
+          "like_count": 146,
+          "listed_count": 2,
+          "media_count": 10,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "hoshinofuji___",
+        "verified": true
+      }
+    ]
+  }
+}

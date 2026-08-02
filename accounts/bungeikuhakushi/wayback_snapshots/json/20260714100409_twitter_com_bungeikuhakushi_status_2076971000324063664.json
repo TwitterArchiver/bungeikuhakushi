@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2076921846902222949",
+    "created_at": "2026-07-14T10:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T11:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076971000324063664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055602609734512641",
+          "start": 0,
+          "username": "3838sengoku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076971000324063664",
+    "in_reply_to_user_id": "2055602609734512641",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076921846902222949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3838sengoku 3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2076921842783379456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNK1aXlaYAARsXs.jpg",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2076921846902222949",
+        "created_at": "2026-07-14T10:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T11:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076971000324063664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055602609734512641",
+              "start": 0,
+              "username": "3838sengoku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076971000324063664",
+        "in_reply_to_user_id": "2055602609734512641",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076921846902222949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3838sengoku 3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076921842783379456"
+          ]
+        },
+        "author_id": "2055602609734512641",
+        "conversation_id": "2076921846902222949",
+        "created_at": "2026-07-14T06:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T07:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076921846902222949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 0,
+              "tag": "フォロワーさんがどう思ってるか番号で教えてくれる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSRtPZVhEo",
+              "end": 49,
+              "expanded_url": "https://x.com/3838sengoku/status/2076921846902222949/photo/1",
+              "media_key": "3_2076921842783379456",
+              "start": 26,
+              "url": "https://t.co/aSRtPZVhEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076921846902222949",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 290,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#フォロワーさんがどう思ってるか番号で教えてくれる https://t.co/aSRtPZVhEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​桜の咲く頃に 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 354,
+          "like_count": 12609,
+          "listed_count": 3,
+          "media_count": 957,
+          "tweet_count": 4408
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T10:53:54.000Z",
+        "description": "この人は謎に包まれています。\n\n🪦→@EIQRj9gNlZHrot3 @owarikomaki480\n🏃‍♀️→@v19243 @shanhai_alice28 @chinootomad\n\n251→@thenamerc2amt3\n相方→@nidanida1291289",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "EIQRj9gNlZHrot3"
+              },
+              {
+                "end": 50,
+                "start": 35,
+                "username": "owarikomaki480"
+              },
+              {
+                "end": 63,
+                "start": 56,
+                "username": "v19243"
+              },
+              {
+                "end": 80,
+                "start": 64,
+                "username": "shanhai_alice28"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "chinootomad"
+              },
+              {
+                "end": 114,
+                "start": 99,
+                "username": "thenamerc2amt3"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "nidanida1291289"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/129801003",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/129801003",
+                "start": 0,
+                "url": "https://t.co/lCuvnzunns"
+              }
+            ]
+          }
+        },
+        "id": "2055602609734512641",
+        "location": "b180",
+        "name": "Aizu.🇳🇿🤯🍁／📷🗝️🚘",
+        "pinned_tweet_id": "2071496427583541261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062532082572918784/z24O9aVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 730,
+          "like_count": 9488,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 8215
+        },
+        "url": "https://t.co/lCuvnzunns",
+        "username": "3838sengoku",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050537731202379776"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050537742929661968",
+    "created_at": "2026-05-02T11:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050537742929661968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cHxA87kkVO",
+          "end": 30,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2050537742929661968/photo/1",
+          "media_key": "3_2050537731202379776",
+          "start": 7,
+          "url": "https://t.co/cHxA87kkVO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050537742929661968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "請銳評一下我 https://t.co/cHxA87kkVO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 674,
+        "media_key": "3_2050537731202379776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHT5M8racAA_Acy.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050537731202379776"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050537742929661968",
+        "created_at": "2026-05-02T11:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050537742929661968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHxA87kkVO",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2050537742929661968/photo/1",
+              "media_key": "3_2050537731202379776",
+              "start": 7,
+              "url": "https://t.co/cHxA87kkVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050537742929661968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "請銳評一下我 https://t.co/cHxA87kkVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 359,
+          "like_count": 11899,
+          "listed_count": 4,
+          "media_count": 699,
+          "tweet_count": 3532
+        },
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

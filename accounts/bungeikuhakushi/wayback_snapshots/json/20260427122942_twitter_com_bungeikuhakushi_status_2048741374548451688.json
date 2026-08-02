@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048741365601984513"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048741374548451688",
+    "created_at": "2026-04-27T12:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048741374548451688"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/roySkBdZG9",
+          "end": 23,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048741374548451688/photo/1",
+          "media_key": "3_2048741365601984513",
+          "start": 0,
+          "url": "https://t.co/roySkBdZG9"
+        },
+        {
+          "display_url": "x.com/JordanT51924/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/JordanT51924/status/2048737217544151233",
+          "start": 24,
+          "url": "https://t.co/yNbUtCgT6C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048741374548451688",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048737217544151233",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/roySkBdZG9 https://t.co/yNbUtCgT6C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1174,
+        "media_key": "3_2048741365601984513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6XatVa4AEN4NY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048741365601984513"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048741374548451688",
+        "created_at": "2026-04-27T12:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048741374548451688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/roySkBdZG9",
+              "end": 23,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048741374548451688/photo/1",
+              "media_key": "3_2048741365601984513",
+              "start": 0,
+              "url": "https://t.co/roySkBdZG9"
+            },
+            {
+              "display_url": "x.com/JordanT51924/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/JordanT51924/status/2048737217544151233",
+              "start": 24,
+              "url": "https://t.co/yNbUtCgT6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048741374548451688",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048737217544151233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/roySkBdZG9 https://t.co/yNbUtCgT6C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032138536342994944",
+        "conversation_id": "2048702200260546850",
+        "created_at": "2026-04-27T12:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048737217544151233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "954724026806448128",
+              "start": 0,
+              "username": "libertyelysium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048737217544151233",
+        "in_reply_to_user_id": "954724026806448128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048702200260546850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@libertyelysium ⁠广安呀 🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 366,
+          "like_count": 11552,
+          "listed_count": 4,
+          "media_count": 673,
+          "tweet_count": 3385
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-12T16:56:07.000Z",
+        "description": "💕个人兼职💕00后丄门服务💕诚信靠谱💕口嗨勿扰 🈷️丄门服务💕安全靠谱。飞机/电报：https://t.co/3bDNoEE4fM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 65,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 42,
+                "url": "https://t.co/3bDNoEE4fM"
+              }
+            ]
+          }
+        },
+        "id": "2032138536342994944",
+        "location": "1.9km",
+        "name": "玫媛~❀同城上门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048737223194169344/EeLIXqHd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "username": "JordanT51924",
+        "verified": false
+      }
+    ]
+  }
+}

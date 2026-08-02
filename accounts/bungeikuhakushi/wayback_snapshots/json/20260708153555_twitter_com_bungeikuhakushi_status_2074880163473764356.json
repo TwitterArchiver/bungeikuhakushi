@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2074880163473764356",
+    "created_at": "2026-07-08T15:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074880163473764356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhiyun114514/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/zhiyun114514/status/2074866005046907111",
+          "start": 25,
+          "url": "https://t.co/9VeAZGoVOJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074880163473764356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074866005046907111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "b友網名叫達爾文老爺爺 取甚麼名字可以壓b友一頭 https://t.co/9VeAZGoVOJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2074880163473764356",
+        "created_at": "2026-07-08T15:35:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:35:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074880163473764356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhiyun114514/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/zhiyun114514/status/2074866005046907111",
+              "start": 25,
+              "url": "https://t.co/9VeAZGoVOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074880163473764356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074866005046907111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "b友網名叫達爾文老爺爺 取甚麼名字可以壓b友一頭 https://t.co/9VeAZGoVOJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839865017392394240",
+        "conversation_id": "2074866005046907111",
+        "created_at": "2026-07-08T14:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074866005046907111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074866005046907111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友網名叫弹 钢琴，取什麼名字可以壓推友一頭？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 359,
+          "like_count": 12834,
+          "listed_count": 3,
+          "media_count": 954,
+          "tweet_count": 4463
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n中国人\n(有多少人认识我？)\n二世:@zhi96886   小号:@zhiyun1919810一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "zhi96886"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "zhiyun1919810"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2073990447685575072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072974559704481792/whDv4RKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 1134,
+          "like_count": 11405,
+          "listed_count": 7,
+          "media_count": 1026,
+          "tweet_count": 5957
+        },
+        "url": "",
+        "username": "zhiyun114514",
+        "verified": true
+      }
+    ]
+  }
+}

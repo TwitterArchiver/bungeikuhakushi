@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048418312166764544"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cell phones",
+          "id": "848920700073123840",
+          "name": "Cell Phones"
+        }
+      }
+    ],
+    "conversation_id": "2048377552801288543",
+    "created_at": "2026-04-26T15:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048418333545115846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463410562730233867",
+          "start": 0,
+          "username": "EIQRj9gNlZHrot3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/McOexZyK30",
+          "end": 50,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048418333545115846/photo/1",
+          "media_key": "3_2048418312166764544",
+          "start": 27,
+          "url": "https://t.co/McOexZyK30"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2048418333545115846",
+    "in_reply_to_user_id": "1463410562730233867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048377552801288543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EIQRj9gNlZHrot3 IQOOの携帯電話 https://t.co/McOexZyK30"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048418312166764544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1xmhga8AAN0E7.jpg",
+        "width": 922
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2048377537030733824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1MhGSbQAANGx2.jpg",
+        "width": 750
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048418312166764544"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "2048377552801288543",
+        "created_at": "2026-04-26T15:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048418333545115846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463410562730233867",
+              "start": 0,
+              "username": "EIQRj9gNlZHrot3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/McOexZyK30",
+              "end": 50,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048418333545115846/photo/1",
+              "media_key": "3_2048418312166764544",
+              "start": 27,
+              "url": "https://t.co/McOexZyK30"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2048418333545115846",
+        "in_reply_to_user_id": "1463410562730233867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048377552801288543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EIQRj9gNlZHrot3 IQOOの携帯電話 https://t.co/McOexZyK30"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048377537030733824"
+          ]
+        },
+        "author_id": "1463410562730233867",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048377552801288543",
+        "created_at": "2026-04-26T12:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048377552801288543"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "オタクどもホーム画面晒せ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dBZwXUPJaJ",
+              "end": 37,
+              "expanded_url": "https://x.com/EIQRj9gNlZHrot3/status/2048377552801288543/photo/1",
+              "media_key": "3_2048377537030733824",
+              "start": 14,
+              "url": "https://t.co/dBZwXUPJaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048377552801288543",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#オタクどもホーム画面晒せ https://t.co/dBZwXUPJaJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 369,
+          "like_count": 11496,
+          "listed_count": 4,
+          "media_count": 668,
+          "tweet_count": 3359
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-24T07:34:19.000Z",
+        "description": "08|“疲労の学生”|心の性別不詳|新全日制高３|発達|鬱病|情緒不安|フラッシュバック\n\nXのDMは返信が遅いのでできればQQかdiscordへお願いします\n\n必須アモト酸🟦🟨🟥／ごちうさ／東京都／ニコニコ／音mad／その他\n\nuser/129801003 鬱裏→@youkya5656_yami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "youkya5656_yami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakureihp.web.fc2.com/index.html",
+                "end": 23,
+                "expanded_url": "http://hakureihp.web.fc2.com/index.html",
+                "start": 0,
+                "url": "https://t.co/VP0WHhfxYB"
+              }
+            ]
+          }
+        },
+        "id": "1463410562730233867",
+        "location": "東京都新宿区信濃町３２番地",
+        "name": "Aizu Wakamatsu.🇳🇿🤯🍁/ ⚡️📱🕊️",
+        "pinned_tweet_id": "2018819299201490956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045531806355845120/zxODKf8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 4710,
+          "like_count": 46647,
+          "listed_count": 11,
+          "media_count": 5667,
+          "tweet_count": 73026
+        },
+        "url": "https://t.co/VP0WHhfxYB",
+        "username": "EIQRj9gNlZHrot3",
+        "verified": false
+      }
+    ]
+  }
+}

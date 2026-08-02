@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050418448489197568"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050227860619800908",
+    "created_at": "2026-05-02T03:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T04:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050418450649276742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1456051967675887620",
+          "start": 0,
+          "username": "ClyneImil"
+        },
+        {
+          "end": 21,
+          "id": "1957812160421400576",
+          "start": 11,
+          "username": "canton_ss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bUKxziWXdD",
+          "end": 45,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2050418450649276742/photo/1",
+          "media_key": "3_2050418448489197568",
+          "start": 22,
+          "url": "https://t.co/bUKxziWXdD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050418450649276742",
+    "in_reply_to_user_id": "1456051967675887620",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050415210864017752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ClyneImil @canton_ss https://t.co/bUKxziWXdD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050418448489197568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSMtx8bMAALUlP.jpg",
+        "width": 372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050418448489197568"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050227860619800908",
+        "created_at": "2026-05-02T03:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050418450649276742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1456051967675887620",
+              "start": 0,
+              "username": "ClyneImil"
+            },
+            {
+              "end": 21,
+              "id": "1957812160421400576",
+              "start": 11,
+              "username": "canton_ss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUKxziWXdD",
+              "end": 45,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2050418450649276742/photo/1",
+              "media_key": "3_2050418448489197568",
+              "start": 22,
+              "url": "https://t.co/bUKxziWXdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050418450649276742",
+        "in_reply_to_user_id": "1456051967675887620",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050415210864017752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ClyneImil @canton_ss https://t.co/bUKxziWXdD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1456051967675887620",
+        "conversation_id": "2050227860619800908",
+        "created_at": "2026-05-02T03:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050415210864017752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 27,
+              "id": "1957812160421400576",
+              "start": 17,
+              "username": "canton_ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050415210864017752",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050414029915803733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @canton_ss 你也知道你是反讽啊？难道看不出我们都是在反讽吗？看不出我们在逗你玩吗😜？这都能当真啊，蛙蛙们是真玻璃心啊？先破防的不就是你吗？🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1939,
+          "following_count": 354,
+          "like_count": 11860,
+          "listed_count": 4,
+          "media_count": 694,
+          "tweet_count": 3521
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-04T00:13:58.000Z",
+        "description": "人生如戏，全凭演技",
+        "id": "1456051967675887620",
+        "name": "闻潮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949282686117482496/-Hy2v0Zq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 81,
+          "like_count": 38,
+          "listed_count": 6,
+          "media_count": 608,
+          "tweet_count": 4483
+        },
+        "username": "ClyneImil",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "俾斯麥主義｜最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025557267823923200/Of1Y9OID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 736,
+          "like_count": 49031,
+          "listed_count": 11,
+          "media_count": 481,
+          "tweet_count": 7717
+        },
+        "username": "canton_ss",
+        "verified": false
+      }
+    ]
+  }
+}

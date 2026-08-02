@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050174783250395369",
+    "created_at": "2026-05-01T11:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T12:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050174783250395369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChanaWeins8937…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/ChanaWeins89377/status/2050084771666276452",
+          "start": 21,
+          "url": "https://t.co/1fIRtbmqVj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050174783250395369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050084771666276452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "得知毛澤東不是我親兒子 我哭了整整一下午 https://t.co/1fIRtbmqVj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2050084768768008192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHNdPEHbIAALuI9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050174783250395369",
+        "created_at": "2026-05-01T11:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T12:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050174783250395369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChanaWeins8937…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/ChanaWeins89377/status/2050084771666276452",
+              "start": 21,
+              "url": "https://t.co/1fIRtbmqVj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050174783250395369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050084771666276452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "得知毛澤東不是我親兒子 我哭了整整一下午 https://t.co/1fIRtbmqVj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050084768768008192"
+          ]
+        },
+        "author_id": "1889206585152741376",
+        "conversation_id": "2050084771666276452",
+        "created_at": "2026-05-01T05:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050084771666276452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsGcxaQFUN",
+              "end": 32,
+              "expanded_url": "https://x.com/ChanaWeins89377/status/2050084771666276452/photo/1",
+              "media_key": "3_2050084768768008192",
+              "start": 9,
+              "url": "https://t.co/hsGcxaQFUN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050084771666276452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2381,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书体👍🏻👍🏻 https://t.co/hsGcxaQFUN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 352,
+          "like_count": 11836,
+          "listed_count": 4,
+          "media_count": 692,
+          "tweet_count": 3508
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-11T06:56:59.000Z",
+        "description": "大陆文科高中生，社交能力很糟 精神状态堪忧 道德底线几乎没有，如果让你不高兴了对不起我没有恶意真的，欢迎所有人来找我玩。中⌚博爱。最大属性周飞辱追，看见他挨骂（各种意义上的）我都会很开心😋",
+        "id": "1889206585152741376",
+        "name": "Ender桓桓",
+        "pinned_tweet_id": "2013950943281529003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928588169009836034/cjk9Jz-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 121,
+          "like_count": 3721,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 625
+        },
+        "username": "ChanaWeins89377",
+        "verified": false
+      }
+    ]
+  }
+}

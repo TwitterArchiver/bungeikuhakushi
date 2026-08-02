@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2045077565891829801",
+    "created_at": "2026-04-19T12:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T13:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045841845486522759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1306129238827778048",
+          "start": 0,
+          "username": "YukinonCC"
+        },
+        {
+          "end": 26,
+          "id": "1776142720056385537",
+          "start": 11,
+          "username": "Zhmgws19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045841845486522759",
+    "in_reply_to_user_id": "1306129238827778048",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045077565891829801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukinonCC @Zhmgws19120101 xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2045077557016711168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGTM-wa0AAcbYB.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045077565891829801",
+        "created_at": "2026-04-19T12:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045841845486522759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1306129238827778048",
+              "start": 0,
+              "username": "YukinonCC"
+            },
+            {
+              "end": 26,
+              "id": "1776142720056385537",
+              "start": 11,
+              "username": "Zhmgws19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045841845486522759",
+        "in_reply_to_user_id": "1306129238827778048",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045077565891829801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinonCC @Zhmgws19120101 xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045077557016711168"
+          ]
+        },
+        "author_id": "1306129238827778048",
+        "conversation_id": "2045077565891829801",
+        "created_at": "2026-04-17T09:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045077565891829801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1776142720056385537",
+              "start": 5,
+              "username": "Zhmgws19120101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jzvf3sqp4j",
+              "end": 66,
+              "expanded_url": "https://x.com/YukinonCC/status/2045077565891829801/photo/1",
+              "media_key": "3_2045077557016711168",
+              "start": 43,
+              "url": "https://t.co/Jzvf3sqp4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045077565891829801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大小姐@Zhmgws19120101 送的soyo娃娃\n真是好可爱呢\n我喜欢你😘 https://t.co/Jzvf3sqp4j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 386,
+          "like_count": 10997,
+          "listed_count": 4,
+          "media_count": 623,
+          "tweet_count": 3125
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜欢迎找我来问匿名问题https://t.co/jmSdkECPE6｜个人网站装修中https://t.co/tKjbdA0r6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 54,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "superchat.moe",
+                "end": 108,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 85,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "superchat.moe",
+                "end": 23,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 0,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2044849985766948894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1404,
+          "following_count": 642,
+          "like_count": 14243,
+          "listed_count": 1,
+          "media_count": 410,
+          "tweet_count": 3140
+        },
+        "url": "https://t.co/tKjbdA0r6m",
+        "username": "YukinonCC",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091461191778304/kPgRLiTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 143,
+          "like_count": 8202,
+          "listed_count": 6,
+          "media_count": 58,
+          "tweet_count": 2801
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      }
+    ]
+  }
+}

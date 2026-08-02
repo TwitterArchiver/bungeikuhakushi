@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2072207796796342482",
+    "created_at": "2026-07-01T11:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072275384087740618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1890343594248036352",
+          "start": 0,
+          "username": "1s8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072275384087740618",
+    "in_reply_to_user_id": "1890343594248036352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072207796796342482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1s8964 👍祝賀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_2072207517367648256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMH1wg2XwAASZOZ.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2072207796796342482",
+        "created_at": "2026-07-01T11:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072275384087740618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1890343594248036352",
+              "start": 0,
+              "username": "1s8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072275384087740618",
+        "in_reply_to_user_id": "1890343594248036352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072207796796342482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1s8964 👍祝賀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072207517367648256"
+          ]
+        },
+        "author_id": "1890343594248036352",
+        "conversation_id": "2072207796796342482",
+        "created_at": "2026-07-01T06:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072207796796342482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NasaZBUz0E",
+              "end": 59,
+              "expanded_url": "https://x.com/1s8964/status/2072207796796342482/photo/1",
+              "media_key": "3_2072207517367648256",
+              "start": 36,
+              "url": "https://t.co/NasaZBUz0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072207796796342482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15578,
+          "like_count": 135,
+          "quote_count": 2,
+          "reply_count": 28,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天很多人在庆祝香港回归和建党105周年，然而我们迎来了一个更大的喜讯 https://t.co/NasaZBUz0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 357,
+          "like_count": 12750,
+          "listed_count": 3,
+          "media_count": 947,
+          "tweet_count": 4417
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-14T10:14:29.000Z",
+        "description": "Freiheit ist immer Freiheit der Andersdenkenden",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/7z6gPw9fqS"
+              }
+            ]
+          }
+        },
+        "id": "1890343594248036352",
+        "location": "刘家峡水电站",
+        "name": "腊稻蛤桃包的结合体☭🚩",
+        "pinned_tweet_id": "2046681269153476753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019218017431732224/e-4kyE4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2141,
+          "following_count": 1333,
+          "like_count": 9310,
+          "listed_count": 10,
+          "media_count": 1540,
+          "tweet_count": 7145
+        },
+        "url": "https://t.co/7z6gPw9fqS",
+        "username": "1s8964",
+        "verified": true
+      }
+    ]
+  }
+}

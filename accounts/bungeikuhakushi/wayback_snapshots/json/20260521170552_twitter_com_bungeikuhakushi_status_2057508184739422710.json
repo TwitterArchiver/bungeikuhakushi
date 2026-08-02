@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2057508184739422710",
+    "created_at": "2026-05-21T17:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057508184739422710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wuyuandev/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/wuyuandev/status/2055809323763474532",
+          "start": 22,
+          "url": "https://t.co/bJk8x5D6OY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057508184739422710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055809323763474532",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找了裏三圈外三圈都沒找到我 可以放心笑了😂 https://t.co/bJk8x5D6OY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2055809193186406400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIezka3bsAAAWgI.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2057508184739422710",
+        "created_at": "2026-05-21T17:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057508184739422710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuyuandev/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/wuyuandev/status/2055809323763474532",
+              "start": 22,
+              "url": "https://t.co/bJk8x5D6OY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057508184739422710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055809323763474532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找了裏三圈外三圈都沒找到我 可以放心笑了😂 https://t.co/bJk8x5D6OY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055809193186406400"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055809323763474532",
+        "created_at": "2026-05-17T00:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055809323763474532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EhEaIFIbYf",
+              "end": 30,
+              "expanded_url": "https://x.com/wuyuandev/status/2055809323763474532/photo/1",
+              "media_key": "3_2055809193186406400",
+              "start": 7,
+              "url": "https://t.co/EhEaIFIbYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055809323763474532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 9725,
+          "like_count": 192,
+          "quote_count": 4,
+          "reply_count": 98,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "超级大贴贴！ https://t.co/EhEaIFIbYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 359,
+          "like_count": 12148,
+          "listed_count": 3,
+          "media_count": 810,
+          "tweet_count": 3914
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者，构建社区、AI、规模化的数据收集 | \n\n每周更新跨圈大合照 | \n说话含喵量巨大 | \n今年欢笑复明年，秋月春风等闲度。| \n关注牢喵喵！关注牢喵谢谢喵！| \n你看白雪人间 你看寒夜无岸\n\n没看到私信可以随便找个帖子回复下提醒我\n\n要饭：https://t.co/aMQp3GpkVJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 147,
+                "expanded_url": "https://sink.wuyuan.dev/afd",
+                "start": 124,
+                "url": "https://t.co/aMQp3GpkVJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051553122678718464/Q_GQbOlo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 235,
+          "like_count": 3916,
+          "listed_count": 4,
+          "media_count": 219,
+          "tweet_count": 1114
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": false
+      }
+    ]
+  }
+}

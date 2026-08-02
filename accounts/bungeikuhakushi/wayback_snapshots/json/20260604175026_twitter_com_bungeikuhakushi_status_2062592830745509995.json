@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2062531178150928762",
+    "created_at": "2026-06-04T17:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062592830745509995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2005250971820290048",
+          "start": 0,
+          "username": "lxlx1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062592830745509995",
+    "in_reply_to_user_id": "2005250971820290048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062531178150928762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxlx1123 居然是唱完歌才捉人嗎？ 我們學校都開始玩上跑男 保安追逐戰了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2062531166499192832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-VKw1bQAA5e4A.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2062531178150928762",
+        "created_at": "2026-06-04T17:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062592830745509995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2005250971820290048",
+              "start": 0,
+              "username": "lxlx1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062592830745509995",
+        "in_reply_to_user_id": "2005250971820290048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062531178150928762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxlx1123 居然是唱完歌才捉人嗎？ 我們學校都開始玩上跑男 保安追逐戰了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062531166499192832"
+          ]
+        },
+        "author_id": "2005250971820290048",
+        "conversation_id": "2062531178150928762",
+        "created_at": "2026-06-04T13:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062531178150928762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UOkHftLsfd",
+              "end": 61,
+              "expanded_url": "https://x.com/lxlx1123/status/2062531178150928762/photo/1",
+              "media_key": "3_2062531166499192832",
+              "start": 38,
+              "url": "https://t.co/UOkHftLsfd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062531178150928762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这就是青春吗，高三学长晚自习课间喊楼唱歌，德育处主任等学长们唱完才出来赶人 https://t.co/UOkHftLsfd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062510006491300135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 352,
+          "like_count": 12536,
+          "listed_count": 3,
+          "media_count": 864,
+          "tweet_count": 4125
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-28T12:14:33.000Z",
+        "description": "再读书中人，已成书中人",
+        "id": "2005250971820290048",
+        "location": "水桶",
+        "name": "洛茜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049802259371024384/7209lYB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 34,
+          "like_count": 695,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 132
+        },
+        "username": "lxlx1123",
+        "verified": false
+      }
+    ]
+  }
+}

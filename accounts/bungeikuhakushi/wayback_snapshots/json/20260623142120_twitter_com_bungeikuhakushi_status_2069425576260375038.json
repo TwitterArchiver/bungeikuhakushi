@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2069421282064794094",
+    "created_at": "2026-06-23T14:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T15:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069425576260375038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060945493195116549",
+          "start": 0,
+          "username": "buzhimingdeyiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069425576260375038",
+    "in_reply_to_user_id": "2060945493195116549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069421282064794094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhimingdeyiai 俄羅斯是蘇聯解體後的一部分 換好理解的話說 蘇聯是過去的整體 俄羅斯是現在的部分 這幾張海報就是蘇聯時期的海報 你如果填俄羅斯絕對有問題 部分不能代表整體 想到能想到吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1088,
+        "media_key": "3_2069421277459484672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgPsAWbkAAnfZh.jpg",
+        "width": 956
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2069421282064794094",
+        "created_at": "2026-06-23T14:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069425576260375038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060945493195116549",
+              "start": 0,
+              "username": "buzhimingdeyiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069425576260375038",
+        "in_reply_to_user_id": "2060945493195116549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069421282064794094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhimingdeyiai 俄羅斯是蘇聯解體後的一部分 換好理解的話說 蘇聯是過去的整體 俄羅斯是現在的部分 這幾張海報就是蘇聯時期的海報 你如果填俄羅斯絕對有問題 部分不能代表整體 想到能想到吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069421277459484672"
+          ]
+        },
+        "author_id": "2060945493195116549",
+        "conversation_id": "2069421282064794094",
+        "created_at": "2026-06-23T14:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069421282064794094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l60OjNHC7D",
+              "end": 66,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2069421282064794094/photo/1",
+              "media_key": "3_2069421277459484672",
+              "start": 43,
+              "url": "https://t.co/l60OjNHC7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069421282064794094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我当时最后5分钟的时候我就在犹豫到底要写俄罗斯还是苏联，后面我还是写苏联了😭感谢直觉 https://t.co/l60OjNHC7D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese ｜對現實失望 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2095,
+          "following_count": 359,
+          "like_count": 12727,
+          "listed_count": 3,
+          "media_count": 925,
+          "tweet_count": 4349
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "可能认识？❌见证。｜友🏳️‍⚧️🏳️‍🌈｜日常推号｜偶尔精神病发作|座右铭:不知道",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/buzhimingdeyia…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/buzhimingdeyiai1",
+                "start": 0,
+                "url": "https://t.co/ulViwEzGUF"
+              }
+            ]
+          }
+        },
+        "id": "2060945493195116549",
+        "location": "Cape Morris Jesup",
+        "name": "小翌不是翌🍥🎊🎉🍟",
+        "pinned_tweet_id": "2063522560889798739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 188,
+          "like_count": 1930,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/ulViwEzGUF",
+        "username": "buzhimingdeyiai",
+        "verified": false
+      }
+    ]
+  }
+}

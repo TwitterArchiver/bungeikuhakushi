@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2052984807962071206",
+    "created_at": "2026-05-09T05:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052984807962071206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1852615097824251904",
+          "start": 3,
+          "username": "Suimikax"
+        },
+        {
+          "end": 30,
+          "id": "1964042844198621187",
+          "start": 14,
+          "username": "bungeikuhakushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052984807962071206",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052981593980235973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suimikax: @bungeikuhakushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2052984807962071206",
+        "created_at": "2026-05-09T05:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052984807962071206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1852615097824251904",
+              "start": 3,
+              "username": "Suimikax"
+            },
+            {
+              "end": 30,
+              "id": "1964042844198621187",
+              "start": 14,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052984807962071206",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052981593980235973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Suimikax: @bungeikuhakushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852615097824251904",
+        "conversation_id": "2052981593980235973",
+        "created_at": "2026-05-09T05:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052981593980235973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2052619419684421832",
+              "start": 17,
+              "url": "https://t.co/2Zm2uz179J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052981593980235973",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052619419684421832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi https://t.co/2Zm2uz179J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1985,
+          "following_count": 356,
+          "like_count": 11782,
+          "listed_count": 4,
+          "media_count": 745,
+          "tweet_count": 3730
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "Fighting, the only way to victory.",
+        "id": "1852615097824251904",
+        "name": "桃桃桃桃桃",
+        "pinned_tweet_id": "2035372179731411328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043161516695031808/jrfecv-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 120,
+          "like_count": 3494,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1789
+        },
+        "username": "Suimikax",
+        "verified": false
+      }
+    ]
+  }
+}

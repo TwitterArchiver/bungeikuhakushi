@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2057788204418560127",
+    "created_at": "2026-05-22T13:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057813538589249670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1957812160421400576",
+          "start": 0,
+          "username": "canton_ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057813538589249670",
+    "in_reply_to_user_id": "1957812160421400576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057788204418560127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canton_ss 我發現我在網上認識的東北人都是脫北者 脫北者能算作圖中的東北人嗎？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1946,
+        "media_key": "3_2057788199725072384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI67dwuagAA16PU.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2057788204418560127",
+        "created_at": "2026-05-22T13:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057813538589249670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1957812160421400576",
+              "start": 0,
+              "username": "canton_ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057813538589249670",
+        "in_reply_to_user_id": "1957812160421400576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057788204418560127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canton_ss 我發現我在網上認識的東北人都是脫北者 脫北者能算作圖中的東北人嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057788199725072384"
+          ]
+        },
+        "author_id": "1957812160421400576",
+        "conversation_id": "2057788204418560127",
+        "created_at": "2026-05-22T11:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057788204418560127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftqsaJSH7B",
+              "end": 52,
+              "expanded_url": "https://x.com/canton_ss/status/2057788204418560127/photo/1",
+              "media_key": "3_2057788199725072384",
+              "start": 29,
+              "url": "https://t.co/ftqsaJSH7B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057788204418560127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「你媽死了」是東北文化，東北文化只能夠拼湊這種水平的句子 https://t.co/ftqsaJSH7B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027,
+          "following_count": 357,
+          "like_count": 12159,
+          "listed_count": 4,
+          "media_count": 814,
+          "tweet_count": 3924
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "Cantonese\nFirst Worldist, Traditionalist, Tridemist\nRevolt against the Global Zimbabwe\n最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053458768265183232/YjlC4jbv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 779,
+          "like_count": 55715,
+          "listed_count": 10,
+          "media_count": 582,
+          "tweet_count": 8823
+        },
+        "username": "canton_ss",
+        "verified": false
+      }
+    ]
+  }
+}

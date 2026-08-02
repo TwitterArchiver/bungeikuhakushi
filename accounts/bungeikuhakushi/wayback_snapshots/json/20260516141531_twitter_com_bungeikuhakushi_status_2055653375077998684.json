@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2055653375077998684",
+    "created_at": "2026-05-16T14:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T15:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055653375077998684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Fly9981/status…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/Fly9981/status/2055645299700600880",
+          "start": 55,
+          "url": "https://t.co/o85RnXcEqj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055653375077998684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055645299700600880",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "盜圖狗 盜圖被正主捉到還那麼理直氣壯我是第一次見\n po主 po主 拿別人的圖這樣起號 家裏的兩位能保住嗎？ https://t.co/o85RnXcEqj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2055653375077998684",
+        "created_at": "2026-05-16T14:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T15:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055653375077998684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Fly9981/status…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/Fly9981/status/2055645299700600880",
+              "start": 55,
+              "url": "https://t.co/o85RnXcEqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055653375077998684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055645299700600880",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "盜圖狗 盜圖被正主捉到還那麼理直氣壯我是第一次見\n po主 po主 拿別人的圖這樣起號 家裏的兩位能保住嗎？ https://t.co/o85RnXcEqj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516455482772258816",
+        "conversation_id": "2055173247277412724",
+        "created_at": "2026-05-16T13:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T14:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055645299700600880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1622066090074607616",
+              "start": 14,
+              "username": "hoshinofujivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2055641262573928542",
+              "start": 111,
+              "url": "https://t.co/LJJ1sAoLzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055645299700600880",
+        "in_reply_to_user_id": "1516455482772258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 362,
+          "like_count": 0,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055641262573928542",
+            "type": "quoted"
+          },
+          {
+            "id": "2055173247277412724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据说这张无水印无ID的图片是@hoshinofujivy 用AI生成的。。到现在才出面确认是自己的东西，不过也不影响它装受害者，反咬别人专门盗它图。😌\n\n好像全世界都是它亲妈，都能在没任何标识的情况下认得是它的东西似的。 https://t.co/LJJ1sAoLzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼普通話 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 357,
+          "like_count": 12063,
+          "listed_count": 3,
+          "media_count": 784,
+          "tweet_count": 3864
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-19T16:35:45.000Z",
+        "description": "𝘵𝘩𝘦 𝘮𝘰𝘳𝘦 𝘺𝘰𝘶 𝘭𝘰𝘰𝘬, 𝘵𝘩𝘦 𝘭𝘦𝘴𝘴 𝘺𝘰𝘶 𝘴𝘦𝘦.",
+        "id": "1516455482772258816",
+        "name": "𝐶𝑜𝑟𝑟𝑖𝑛𝑒",
+        "pinned_tweet_id": "1523333036565471232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533909468534415360/0ooMC5WJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1485,
+          "following_count": 139,
+          "like_count": 15236,
+          "listed_count": 10,
+          "media_count": 2402,
+          "tweet_count": 9008
+        },
+        "username": "Fly9981",
+        "verified": false
+      }
+    ]
+  }
+}

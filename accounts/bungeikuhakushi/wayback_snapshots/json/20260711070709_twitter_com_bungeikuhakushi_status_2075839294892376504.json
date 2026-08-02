@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075839288307253248"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2075839294892376504",
+    "created_at": "2026-07-11T07:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075839294892376504"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J8TVkd7mMb",
+          "end": 52,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2075839294892376504/photo/1",
+          "media_key": "3_2075839288307253248",
+          "start": 29,
+          "url": "https://t.co/J8TVkd7mMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075839294892376504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這是崩鐵的兵嗎？ 不過好像作為這道題目答案也沒有甚麼問題 https://t.co/J8TVkd7mMb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 961,
+        "media_key": "3_2075839288307253248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7c1Z5agAAAelo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075839288307253248"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2075839294892376504",
+        "created_at": "2026-07-11T07:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075839294892376504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8TVkd7mMb",
+              "end": 52,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2075839294892376504/photo/1",
+              "media_key": "3_2075839288307253248",
+              "start": 29,
+              "url": "https://t.co/J8TVkd7mMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075839294892376504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這是崩鐵的兵嗎？ 不過好像作為這道題目答案也沒有甚麼問題 https://t.co/J8TVkd7mMb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​桜の咲く頃に 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 359,
+          "like_count": 12765,
+          "listed_count": 3,
+          "media_count": 953,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

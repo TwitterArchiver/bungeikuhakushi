@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2053801241843790196",
+    "created_at": "2026-05-11T13:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T14:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053827256313938390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1647197602717515776",
+          "start": 0,
+          "username": "canton_c_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053827256313938390",
+    "in_reply_to_user_id": "1647197602717515776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053823861939134718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canton_c_s 小龍蝦同海鮮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2053801241843790196",
+        "created_at": "2026-05-11T13:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053827256313938390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1647197602717515776",
+              "start": 0,
+              "username": "canton_c_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053827256313938390",
+        "in_reply_to_user_id": "1647197602717515776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053823861939134718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canton_c_s 小龍蝦同海鮮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647197602717515776",
+        "conversation_id": "2053801241843790196",
+        "created_at": "2026-05-11T13:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053823861939134718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053823861939134718",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053801241843790196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 湖北菜？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 355,
+          "like_count": 11917,
+          "listed_count": 4,
+          "media_count": 760,
+          "tweet_count": 3789
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T11:18:17.000Z",
+        "description": "本會成立於2025年12月15日成立\n主席是宋岑臨，副主席是黃量甫\n本會旨在透過海外拓殖來保存廣府人的語言、文化和民族精神，以及建立一個共享地利的社區\n有意入會者，敬請留言\n若然各位有意見同睇法，歡迎投稿",
+        "id": "1647197602717515776",
+        "name": "廣府拓殖協會 CRS",
+        "pinned_tweet_id": "2044077027553317294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041111195000995841/QO0toERm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 140,
+          "like_count": 3316,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 656
+        },
+        "username": "canton_c_s",
+        "verified": false
+      }
+    ]
+  }
+}

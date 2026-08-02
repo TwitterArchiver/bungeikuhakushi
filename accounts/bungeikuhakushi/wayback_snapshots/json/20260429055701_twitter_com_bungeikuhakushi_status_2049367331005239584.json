@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049316628236730638",
+    "created_at": "2026-04-29T05:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049367331005239584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "975134504393347072",
+          "start": 0,
+          "username": "zhinarencnm8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049367331005239584",
+    "in_reply_to_user_id": "975134504393347072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049316628236730638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarencnm8964 支黑 你有點辱日了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049316628236730638",
+        "created_at": "2026-04-29T05:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049367331005239584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "975134504393347072",
+              "start": 0,
+              "username": "zhinarencnm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049367331005239584",
+        "in_reply_to_user_id": "975134504393347072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049316628236730638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencnm8964 支黑 你有點辱日了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "975134504393347072",
+        "conversation_id": "2049316628236730638",
+        "created_at": "2026-04-29T02:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T03:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049316628236730638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/aoim33/status/2048962996387655924",
+              "start": 26,
+              "url": "https://t.co/ZGjNM0RR9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049316628236730638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048962996387655924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1945年的日本吗？我希望各大城市都能像广岛和长崎 https://t.co/ZGjNM0RR9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1927,
+          "following_count": 367,
+          "like_count": 11673,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 3437
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "恶俗支黑，一个四大皆空的老东西，少拉我站队谈立场｜喜欢中东战争和日帝，欢迎历史同好友好交流\n小号@zhinarensml8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "支那汉蛆和东北狗它妈逼里",
+        "name": "中東の虎✡️内格夫🩵🌸",
+        "pinned_tweet_id": "2047923887720354161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045434310237589504/UrpPa--O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1171,
+          "following_count": 1160,
+          "like_count": 44882,
+          "listed_count": 3,
+          "media_count": 975,
+          "tweet_count": 4329
+        },
+        "username": "zhinarencnm8964",
+        "verified": false
+      }
+    ]
+  }
+}

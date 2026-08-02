@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046987334814769397",
+    "created_at": "2026-04-22T16:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046987334814769397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Andrewh4540539…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Andrewh45405394/status/2044301673678680249",
+          "start": 9,
+          "url": "https://t.co/4TXVZMlmGP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046987334814769397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044301673678680249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我支持的國共合作 https://t.co/4TXVZMlmGP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2044301668217696257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7RiTvasAEnW1s.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046987334814769397",
+        "created_at": "2026-04-22T16:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046987334814769397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Andrewh4540539…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Andrewh45405394/status/2044301673678680249",
+              "start": 9,
+              "url": "https://t.co/4TXVZMlmGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046987334814769397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044301673678680249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我支持的國共合作 https://t.co/4TXVZMlmGP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044301668217696257"
+          ]
+        },
+        "author_id": "1515416985500221441",
+        "conversation_id": "2044301673678680249",
+        "created_at": "2026-04-15T06:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044301673678680249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4rZYjRmt8",
+              "end": 165,
+              "expanded_url": "https://x.com/Andrewh45405394/status/2044301673678680249/photo/1",
+              "media_key": "3_2044301668217696257",
+              "start": 142,
+              "url": "https://t.co/j4rZYjRmt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044301673678680249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是当年林彪的4 野长春围城的时候， 老百姓哦饿殍遍野的照片， 我们的林彪元帅下了一个命令“我们要困死长春” 当时的长春有70万老百姓10万国民党兵， 后世的国民党和共产党都不愿提起长春， 因为这个城市的陷落的并发症是大几十万老百姓活活饿死的换来的.  国共两党都把老百姓当成人质， 驻守长春的国军司令郑彤国不准老百姓出城， 共产党方面肖华萧劲光也不准老百姓出城.  我想说这么一句话， 几十年后林彪惨死在蒙古的温度尔汗， 会不会是老天对他当年造成大几十万长春人民的惨死的一种回报？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2586,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是当年林彪的4 野长春围城的时候， 老百姓哦饿殍遍野的照片， 我们的林彪元帅下了一个命令“我们要困死长春” 当时的长春有70万老百姓10万国民党兵， 后世的国民党和共产党都不愿提起长春， 因为这个城市的陷落的并发症是大几十万老百姓活活饿死的换来的.  国共两党都把老百姓当成人质， https://t.co/j4rZYjRmt8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高中生 炒作小男娘｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 384,
+          "like_count": 11183,
+          "listed_count": 4,
+          "media_count": 644,
+          "tweet_count": 3224
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-16T19:49:12.000Z",
+        "description": "前美国海军预备役军人，专业移民顾问， 不是律师.多年来帮无数同胞拿到绿卡.润美国，身份有问题咨询.微信： jas130909 whats app 0016262462579 line：16262462579. 电报： jiuzaigou888",
+        "id": "1515416985500221441",
+        "location": "Monterey Park, CA",
+        "name": "Andrew he",
+        "pinned_tweet_id": "1842468863692202280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618459924048252932/5_861SVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13915,
+          "following_count": 9245,
+          "like_count": 198,
+          "listed_count": 46,
+          "media_count": 5723,
+          "tweet_count": 25850
+        },
+        "username": "Andrewh45405394",
+        "verified": true
+      }
+    ]
+  }
+}

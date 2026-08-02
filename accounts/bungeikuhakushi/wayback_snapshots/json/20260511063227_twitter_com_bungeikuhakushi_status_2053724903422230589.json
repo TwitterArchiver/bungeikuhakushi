@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053724888930881536",
+        "3_2053724889455222784"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2053724903422230589",
+    "created_at": "2026-05-11T06:32:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:32:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053724903422230589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pCk748MftQ",
+          "end": 34,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2053724903422230589/photo/1",
+          "media_key": "3_2053724888930881536",
+          "start": 11,
+          "url": "https://t.co/pCk748MftQ"
+        },
+        {
+          "display_url": "pic.x.com/pCk748MftQ",
+          "end": 34,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2053724903422230589/photo/1",
+          "media_key": "3_2053724889455222784",
+          "start": 11,
+          "url": "https://t.co/pCk748MftQ"
+        },
+        {
+          "display_url": "x.com/Shioochicqwq/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Shioochicqwq/status/2053687864043741282",
+          "start": 35,
+          "url": "https://t.co/vKzB54kPtN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053724903422230589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053687864043741282",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這日文是啥陰間翻譯？ https://t.co/pCk748MftQ https://t.co/vKzB54kPtN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053724888930881536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBL58cakAAw60R.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053724889455222784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIBL5-ZbYAA9mUu.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053724888930881536",
+            "3_2053724889455222784"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2053724903422230589",
+        "created_at": "2026-05-11T06:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053724903422230589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCk748MftQ",
+              "end": 34,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2053724903422230589/photo/1",
+              "media_key": "3_2053724888930881536",
+              "start": 11,
+              "url": "https://t.co/pCk748MftQ"
+            },
+            {
+              "display_url": "pic.x.com/pCk748MftQ",
+              "end": 34,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2053724903422230589/photo/1",
+              "media_key": "3_2053724889455222784",
+              "start": 11,
+              "url": "https://t.co/pCk748MftQ"
+            },
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2053687864043741282",
+              "start": 35,
+              "url": "https://t.co/vKzB54kPtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053724903422230589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053687864043741282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這日文是啥陰間翻譯？ https://t.co/pCk748MftQ https://t.co/vKzB54kPtN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2053687864043741282",
+        "created_at": "2026-05-11T04:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053687864043741282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tatanakots/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/tatanakots/status/2053533505859293675",
+              "start": 9,
+              "url": "https://t.co/hvvJQ8VFTa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053687864043741282",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053533505859293675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤣tywxswl https://t.co/hvvJQ8VFTa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2005,
+          "following_count": 354,
+          "like_count": 11892,
+          "listed_count": 4,
+          "media_count": 757,
+          "tweet_count": 3779
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2578,
+          "following_count": 1619,
+          "like_count": 4933,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 3373
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051867420974104734",
+    "created_at": "2026-05-06T03:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051867420974104734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1860317861568536576",
+          "start": 3,
+          "username": "Finalvent1114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051867420974104734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051684644622623135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Finalvent1114: 你们到底是来混圈的还是真想跨性别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051867420974104734",
+        "created_at": "2026-05-06T03:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051867420974104734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1860317861568536576",
+              "start": 3,
+              "username": "Finalvent1114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051867420974104734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051684644622623135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Finalvent1114: 你们到底是来混圈的还是真想跨性别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860317861568536576",
+        "conversation_id": "2051684644622623135",
+        "created_at": "2026-05-05T15:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051684644622623135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051684644622623135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8522,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你们到底是来混圈的还是真想跨性别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 346,
+          "like_count": 11670,
+          "listed_count": 4,
+          "media_count": 724,
+          "tweet_count": 3623
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-23T13:42:06.000Z",
+        "description": "✟HRT 广东常驻 日本語を勉強している 🚪188 ｜｜｜｜｜当这个小男女孩在懵逼｜ 银月&小熊&🩵",
+        "id": "1860317861568536576",
+        "location": " ✟MERCY✟",
+        "name": "银月",
+        "pinned_tweet_id": "2051286830776262978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958969323109982208/J_dL5GH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4307,
+          "following_count": 215,
+          "like_count": 2921,
+          "listed_count": 15,
+          "media_count": 504,
+          "tweet_count": 2824
+        },
+        "username": "Finalvent1114",
+        "verified": false
+      }
+    ]
+  }
+}

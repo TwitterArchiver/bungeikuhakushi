@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2062412591218172290",
+    "created_at": "2026-06-04T15:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T16:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062552436741640248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055602609734512641",
+          "start": 0,
+          "username": "3838sengoku"
+        },
+        {
+          "end": 23,
+          "id": "1798423440044830720",
+          "start": 13,
+          "username": "PlanaAura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062552436741640248",
+    "in_reply_to_user_id": "2055602609734512641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062533333230502189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3838sengoku @PlanaAura 2人のアイコンのせいで、頭がごちゃごちゃになっちゃったよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2062412591218172290",
+        "created_at": "2026-06-04T15:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T16:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062552436741640248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055602609734512641",
+              "start": 0,
+              "username": "3838sengoku"
+            },
+            {
+              "end": 23,
+              "id": "1798423440044830720",
+              "start": 13,
+              "username": "PlanaAura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062552436741640248",
+        "in_reply_to_user_id": "2055602609734512641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062533333230502189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3838sengoku @PlanaAura 2人のアイコンのせいで、頭がごちゃごちゃになっちゃったよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055602609734512641",
+        "conversation_id": "2062412591218172290",
+        "created_at": "2026-06-04T13:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062533333230502189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1798423440044830720",
+              "start": 0,
+              "username": "PlanaAura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062533333230502189",
+        "in_reply_to_user_id": "1798423440044830720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062532919735034156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PlanaAura ふむ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062510006491300135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 353,
+          "like_count": 12529,
+          "listed_count": 3,
+          "media_count": 864,
+          "tweet_count": 4120
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T10:53:54.000Z",
+        "description": "この人は謎に包まれています。\n\n🪦→@EIQRj9gNlZHrot3 @owarikomaki480\n🔑→@youkya5656_yami\n🏃‍♀️→@v19243 @shanhai_alice28 @chinootomad\n\n251→@thenamerc2amt3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "EIQRj9gNlZHrot3"
+              },
+              {
+                "end": 50,
+                "start": 35,
+                "username": "owarikomaki480"
+              },
+              {
+                "end": 69,
+                "start": 53,
+                "username": "youkya5656_yami"
+              },
+              {
+                "end": 82,
+                "start": 75,
+                "username": "v19243"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "shanhai_alice28"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "chinootomad"
+              },
+              {
+                "end": 133,
+                "start": 118,
+                "username": "thenamerc2amt3"
+              }
+            ]
+          }
+        },
+        "id": "2055602609734512641",
+        "location": "b180",
+        "name": "Aizu.🇳🇿🤯🍁／📷🗝️🚘",
+        "pinned_tweet_id": "2056660911663046929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062532082572918784/z24O9aVf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 352,
+          "like_count": 3899,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 3432
+        },
+        "username": "3838sengoku",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T18:37:15.000Z",
+        "description": "親日の中国人(親日≠差別、ヘイトスピーチ、悪口賛同）、中文/English/日本語対応OK，ブルアカ、アニメなどの雑多垢、人民垢/五毛垢が大嫌いから見かけるとブロックします #Aizu感染者",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 87,
+                "tag": "Aizu感染者"
+              }
+            ]
+          }
+        },
+        "id": "1798423440044830720",
+        "name": "プラナ🇳🇿🤯🍁／📸🗝️🚘",
+        "pinned_tweet_id": "2061788127149412712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062527189405609984/GZBt2cXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 1078,
+          "like_count": 4819,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 3911
+        },
+        "username": "PlanaAura",
+        "verified": false
+      }
+    ]
+  }
+}

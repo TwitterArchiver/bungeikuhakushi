@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2045146211448217654",
+    "created_at": "2026-04-17T14:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045146211448217654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_FORAB/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/_FORAB/status/2045119797432848590",
+          "start": 12,
+          "url": "https://t.co/IGCdmX79ir"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2045146211448217654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045119797432848590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "學到了 以後就這麼申訴 https://t.co/IGCdmX79ir"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1146,
+        "media_key": "3_2045119101170057217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG4_KybgAEZM6B.jpg",
+        "width": 1107
+      },
+      {
+        "height": 1325,
+        "media_key": "3_2045119113325101056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGG4_4EawAAE5JX.jpg",
+        "width": 1224
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045146211448217654",
+        "created_at": "2026-04-17T14:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045146211448217654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/_FORAB/status/2045119797432848590",
+              "start": 12,
+              "url": "https://t.co/IGCdmX79ir"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2045146211448217654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045119797432848590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "學到了 以後就這麼申訴 https://t.co/IGCdmX79ir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045119101170057217",
+            "3_2045119113325101056"
+          ]
+        },
+        "author_id": "4848269835",
+        "conversation_id": "2045119797432848590",
+        "created_at": "2026-04-17T12:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:38:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045119651164889360",
+          "2045119797432848590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lxXBOXWkG7",
+              "end": 87,
+              "expanded_url": "https://x.com/_FORAB/status/2045119797432848590/photo/1",
+              "media_key": "3_2045119101170057217",
+              "start": 64,
+              "url": "https://t.co/lxXBOXWkG7"
+            },
+            {
+              "display_url": "pic.x.com/lxXBOXWkG7",
+              "end": 87,
+              "expanded_url": "https://x.com/_FORAB/status/2045119797432848590/photo/1",
+              "media_key": "3_2045119113325101056",
+              "start": 64,
+              "url": "https://t.co/lxXBOXWkG7"
+            },
+            {
+              "display_url": "x.com/cowboylikezain…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/cowboylikezain/status/2044885015897555007",
+              "start": 88,
+              "url": "https://t.co/Z2bjvjXrgq"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "451617631d24d98c"
+        },
+        "id": "2045119797432848590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 57231,
+          "like_count": 175,
+          "quote_count": 10,
+          "reply_count": 121,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044885015897555007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你的 X 账户被封了，就看看这名粉丝账号博主。\n\n他历时 2 个月，解封了自己的账号，但他的申诉内容，是我遇到最魔幻的 🤣 https://t.co/lxXBOXWkG7 https://t.co/Z2bjvjXrgq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 388,
+          "like_count": 10859,
+          "listed_count": 4,
+          "media_count": 616,
+          "tweet_count": 3073
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "location": "🇯🇵 Tokyo , Japan",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114965,
+          "following_count": 595,
+          "like_count": 10021,
+          "listed_count": 1891,
+          "media_count": 3123,
+          "tweet_count": 14033
+        },
+        "username": "_FORAB",
+        "verified": true
+      }
+    ]
+  }
+}

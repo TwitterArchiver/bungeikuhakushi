@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+          "id": "1502373339775397892",
+          "name": "WeChat"
+        }
+      }
+    ],
+    "conversation_id": "2062574582364774482",
+    "created_at": "2026-06-04T16:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062574770315731020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20625…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2062574690699444684",
+          "start": 0,
+          "url": "https://t.co/zOdQWntwxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062574770315731020",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062574690699444684",
+        "type": "quoted"
+      },
+      {
+        "id": "2062574582364774482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/zOdQWntwxk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2062574582364774482",
+        "created_at": "2026-06-04T16:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062574770315731020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20625…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2062574690699444684",
+              "start": 0,
+              "url": "https://t.co/zOdQWntwxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062574770315731020",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062574690699444684",
+            "type": "quoted"
+          },
+          {
+            "id": "2062574582364774482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/zOdQWntwxk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WeChat is a Chinese multi-purpose instant messaging, social media and mobile payment app developed by Tencent.",
+              "id": "1502373339775397892",
+              "name": "WeChat"
+            }
+          }
+        ],
+        "conversation_id": "2062574690699444684",
+        "created_at": "2026-06-04T16:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062574690699444684"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "師之文談第一期"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2062574582364774482",
+              "start": 157,
+              "url": "https://t.co/KYZa4kexc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062574690699444684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "師之文談第一期"
+              }
+            ]
+          },
+          "text": "#師之文談第一期\n  初三 經歷新一年的分班 我迎來了新的班主任 一個酷似普通男大的老師早已在新課室做好準備 他就是我們班新班主任兼語文老師 他全名拼音縮寫是zzz 所以他wechat名叫zzz 同學也稱呼他為zzz\n \n zzz好像有兩幅面孔 一面的他瘋狂暴躁 他平時最喜歡的就是動不動發脾氣了 背書背不過罰抄 課堂紀律亂罰抄 一言不合就是罰抄「岳陽樓記」三遍 就因為這個我「岳陽樓記」到現在都可以倒背如流 他平時一生氣就拍書 把書狠狠的丟在講台上 之後大聲的罵我們全班人 他罵可以從上課罵到放學後30分鐘  雖然我到現在都不記得他罵了甚麼 但是他好像樂此不疲\n\n zzz也有溫柔的一面 他會拿出他語文課的時間帶我們去玩 去唱歌 去操場玩撕名牌 講故事 和我們說高中生活多麼精彩 （雖然不是很精彩） 會請我喝奶茶 （雖然好像很多老師都請我喝過） 在我們的初三生活中鼓勵我們 讓我們放鬆壓力 也會拿起手機紀錄我們寶貴的青春生活 就像我們的朋友一樣 （我有時候真懷疑他是不是真有精神分裂）\n\n 24年7月5日 畢業典禮 他買了一大袋禮花 說讓我們給其他老師一點驚喜 他去辦公室引來一個個老師 所有老師都屬於他的驚喜 除了zzz 就這樣 畢業典禮在最後的合影的快門聲中結束了\n \n 25年6月6日 這天是高考假 我偷偷穿上以前初中的校服回到了母校 見到zzz的第一眼 他先是驚喜 之後就是斥責我學壞了 在之後越來越多的老同學都聚在一齊 有的都是上了高中的雜談 和母校過去的懷念 就這樣 我們一班人出去一齊和zzz與zzh（數學老師）去萬達吃了頓飯 最後在合了張影後我們各奔東西 但是他教會我的 永遠留存在我腦海裏\n\n5/6/2026"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062574582364774482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#師之文談第一期\n  初三 經歷新一年的分班 我迎來了新的班主任 一個酷似普通男大的老師早已在新課室做好準備 他就是我們班新班主任兼語文老師 他全名拼音縮寫是zzz 所以他wechat名叫zzz 同學也稱呼他為zzz\n \n zzz好像有兩幅面孔 一面的他瘋狂暴躁 他平時最喜歡的就是動不動發脾氣了 背書背不過罰抄 https://t.co/KYZa4kexc9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2062574582364774482",
+        "created_at": "2026-06-04T16:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062574582364774482"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2062574582364774482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很好奇你們對你們老師的態度是甚麼樣的？ 我可能是出生在好時代 好地區 遇到的基本上都是好老師 我將開一個系列 來聊聊我從小到大我印象比較深刻的老師（不進行排名）\n系列名就叫：師之文談"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062510006491300135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 353,
+          "like_count": 12533,
+          "listed_count": 3,
+          "media_count": 864,
+          "tweet_count": 4123
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

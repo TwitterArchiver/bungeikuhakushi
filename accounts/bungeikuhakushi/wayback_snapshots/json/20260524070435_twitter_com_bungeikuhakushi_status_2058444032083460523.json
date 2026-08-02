@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2058311910584688940",
+    "created_at": "2026-05-24T07:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058444032083460523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "Zhmgws19120101"
+        },
+        {
+          "end": 29,
+          "id": "1655758232420249602",
+          "start": 16,
+          "username": "Yutuanzi2375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058444032083460523",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058442826002973091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhmgws19120101 @Yutuanzi2375 🙂‍↔️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2058311910584688940",
+        "created_at": "2026-05-24T07:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058444032083460523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "Zhmgws19120101"
+            },
+            {
+              "end": 29,
+              "id": "1655758232420249602",
+              "start": 16,
+              "username": "Yutuanzi2375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058444032083460523",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058442826002973091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhmgws19120101 @Yutuanzi2375 🙂‍↔️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776142720056385537",
+        "conversation_id": "2058311910584688940",
+        "created_at": "2026-05-24T06:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058442826002973091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 30,
+              "id": "1655758232420249602",
+              "start": 17,
+              "username": "Yutuanzi2375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058442826002973091",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058442137801506944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @Yutuanzi2375 沒有啊，主要是我真的沒錢了🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 357,
+          "like_count": 12197,
+          "listed_count": 4,
+          "media_count": 822,
+          "tweet_count": 3949
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051937451447648256/aSXNd7Z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 151,
+          "like_count": 10072,
+          "listed_count": 6,
+          "media_count": 97,
+          "tweet_count": 3283
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-09T02:15:17.000Z",
+        "description": "167cm，55kg，00年，应该是比较大龄了吧，无证嗑药，6月5日开始吃糖🏳️‍⚧️ 关注我会互fo /可爱的妹妹🥰@zhengzheng03（号又寄了初始号@penp58）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "zhengzheng03"
+              },
+              {
+                "end": 87,
+                "start": 80,
+                "username": "penp58"
+              }
+            ]
+          }
+        },
+        "id": "1655758232420249602",
+        "location": "在你心里",
+        "name": "芋团子🏳️‍⚧️",
+        "pinned_tweet_id": "1840936789017833803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704477413542158336/w8horUOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 966,
+          "like_count": 80147,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 4554
+        },
+        "username": "Yutuanzi2375",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044237611431276896",
+    "created_at": "2026-04-16T10:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044725670237065440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043738262305439744",
+          "start": 0,
+          "username": "z8620796459693"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2044725670237065440",
+    "in_reply_to_user_id": "2043738262305439744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044237611431276896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z8620796459693 你就繼續這樣 認知低下 這輩子你也就這樣了"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044237611431276896",
+        "created_at": "2026-04-16T10:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044725670237065440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043738262305439744",
+              "start": 0,
+              "username": "z8620796459693"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2044725670237065440",
+        "in_reply_to_user_id": "2043738262305439744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044237611431276896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z8620796459693 你就繼續這樣 認知低下 這輩子你也就這樣了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043738262305439744",
+        "conversation_id": "2044237611431276896",
+        "created_at": "2026-04-15T02:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044237611431276896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044237611431276896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论我的大学生活是怎么度过的\n早上：去上课打卡\n中午：吃完饭刷 x 和傻逼台湾狗对骂 看脆上面的台湾狗发狂\n下午：去上课 上完课在回宿舍玩 ometv 随机连线几个台湾狗骂一下\n晚上：陪对象吃饭散步回来打一会游戏 打累了然后又去 x 上面打压台湾狗 \n然后睡觉 \n这就是我朴素无华的一天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 396,
+          "like_count": 10744,
+          "listed_count": 4,
+          "media_count": 609,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-13T17:09:17.000Z",
+        "description": "天天开心",
+        "id": "2043738262305439744",
+        "location": "USA",
+        "name": "我是日本妹妹我想吃美国爸爸的鸡巴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043738535602073600/5U11hTtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 50
+        },
+        "username": "z8620796459693",
+        "verified": false
+      }
+    ]
+  }
+}

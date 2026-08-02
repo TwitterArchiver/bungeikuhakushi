@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044046000306946289",
+    "created_at": "2026-04-14T13:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044046000306946289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shigure07288/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/shigure07288/status/2043880058478084445",
+          "start": 19,
+          "url": "https://t.co/hLSJLXt364"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044046000306946289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043880058478084445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這下不得不支持我兒子了 我兒子碾得好 https://t.co/hLSJLXt364"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2043879942660710400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1R-pnWYAAO9Eo.jpg",
+        "width": 1280
+      },
+      {
+        "height": 451,
+        "media_key": "3_2043879942660784130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1R-pnXgAI4WGD.jpg",
+        "width": 680
+      },
+      {
+        "height": 427,
+        "media_key": "3_2043879942660718592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1R-pnWgAAAOlS.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044046000306946289",
+        "created_at": "2026-04-14T13:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044046000306946289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigure07288/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/shigure07288/status/2043880058478084445",
+              "start": 19,
+              "url": "https://t.co/hLSJLXt364"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044046000306946289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043880058478084445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這下不得不支持我兒子了 我兒子碾得好 https://t.co/hLSJLXt364"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043879942660710400",
+            "3_2043879942660784130",
+            "3_2043879942660718592"
+          ]
+        },
+        "author_id": "1986828541930119168",
+        "conversation_id": "2043707286129143813",
+        "created_at": "2026-04-14T02:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043880058478084445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1598640474113290240",
+              "start": 0,
+              "username": "LQniupitang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpHYmlsHFA",
+              "end": 49,
+              "expanded_url": "https://x.com/shigure07288/status/2043880058478084445/photo/1",
+              "media_key": "3_2043879942660710400",
+              "start": 26,
+              "url": "https://t.co/CpHYmlsHFA"
+            },
+            {
+              "display_url": "pic.x.com/CpHYmlsHFA",
+              "end": 49,
+              "expanded_url": "https://x.com/shigure07288/status/2043880058478084445/photo/1",
+              "media_key": "3_2043879942660784130",
+              "start": 26,
+              "url": "https://t.co/CpHYmlsHFA"
+            },
+            {
+              "display_url": "pic.x.com/CpHYmlsHFA",
+              "end": 49,
+              "expanded_url": "https://x.com/shigure07288/status/2043880058478084445/photo/1",
+              "media_key": "3_2043879942660718592",
+              "start": 26,
+              "url": "https://t.co/CpHYmlsHFA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043880058478084445",
+        "in_reply_to_user_id": "1598640474113290240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1487,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043707286129143813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LQniupitang 邓小平主义者眼中的反革命 https://t.co/CpHYmlsHFA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 417,
+          "like_count": 10628,
+          "listed_count": 3,
+          "media_count": 601,
+          "tweet_count": 2988
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“马克思主义或列宁主义”\n📕🌈|INTP-A|自发毛主义|左翼共产主义|民主社会主义|左翼平民主义|反资本主义|反帝国主义|反修正主义|平权主义|友lgbt",
+        "id": "1986828541930119168",
+        "location": "中华公社",
+        "name": "時雨☭𝕷𝖊𝖋𝖙𝖈𝖔𝖒🚩🏴‍☠️🇵🇸🇺🇦🏳️‍🌈",
+        "pinned_tweet_id": "2027014737033326935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037543089099915264/LekdR7Q1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 574,
+          "like_count": 4090,
+          "listed_count": 6,
+          "media_count": 408,
+          "tweet_count": 5464
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

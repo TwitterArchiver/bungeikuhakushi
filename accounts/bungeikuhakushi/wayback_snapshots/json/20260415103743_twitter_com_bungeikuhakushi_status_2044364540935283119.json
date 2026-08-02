@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044364510052675584",
+        "3_2044364510463758336"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044364540935283119",
+    "created_at": "2026-04-15T10:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T11:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044364540935283119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IR9jQamBZb",
+          "end": 55,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2044364540935283119/photo/1",
+          "media_key": "3_2044364510052675584",
+          "start": 32,
+          "url": "https://t.co/IR9jQamBZb"
+        },
+        {
+          "display_url": "pic.x.com/IR9jQamBZb",
+          "end": 55,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2044364540935283119/photo/1",
+          "media_key": "3_2044364510463758336",
+          "start": 32,
+          "url": "https://t.co/IR9jQamBZb"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2044364540935283119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "兩個視頻一樣的宣傳內容 但彈幕評論出入好大 你們有什麼頭緒嗎？ https://t.co/IR9jQamBZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2044364510052675584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8KsL0a8AAkzhs.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2044364510463758336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF8KsNWbkAAbaQB.jpg",
+        "width": 922
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044364510052675584",
+            "3_2044364510463758336"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044364540935283119",
+        "created_at": "2026-04-15T10:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T11:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044364540935283119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IR9jQamBZb",
+              "end": 55,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2044364540935283119/photo/1",
+              "media_key": "3_2044364510052675584",
+              "start": 32,
+              "url": "https://t.co/IR9jQamBZb"
+            },
+            {
+              "display_url": "pic.x.com/IR9jQamBZb",
+              "end": 55,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2044364540935283119/photo/1",
+              "media_key": "3_2044364510463758336",
+              "start": 32,
+              "url": "https://t.co/IR9jQamBZb"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2044364540935283119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兩個視頻一樣的宣傳內容 但彈幕評論出入好大 你們有什麼頭緒嗎？ https://t.co/IR9jQamBZb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害｜同類互fo\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 399,
+          "like_count": 10681,
+          "listed_count": 3,
+          "media_count": 606,
+          "tweet_count": 3010
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

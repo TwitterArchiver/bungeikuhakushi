@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047258831286419683",
+    "created_at": "2026-04-23T13:05:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T14:05:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047300796044415231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1917487090797010946",
+          "start": 0,
+          "username": "elizabe73713497"
+        },
+        {
+          "end": 27,
+          "id": "1957812160421400576",
+          "start": 17,
+          "username": "canton_ss"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2047300796044415231",
+    "in_reply_to_user_id": "1917487090797010946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047258831286419683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elizabe73713497 @canton_ss 呢哋傻閪北角我早就拉曬嗰黑名單 我都懒得同呢班傻閪對線喇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2047258809694031872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlTCmMaEAAife5.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2047258809685721088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlTCmKbQAAAyQP.jpg",
+        "width": 1170
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047258831286419683",
+        "created_at": "2026-04-23T13:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047300796044415231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1917487090797010946",
+              "start": 0,
+              "username": "elizabe73713497"
+            },
+            {
+              "end": 27,
+              "id": "1957812160421400576",
+              "start": 17,
+              "username": "canton_ss"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2047300796044415231",
+        "in_reply_to_user_id": "1917487090797010946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047258831286419683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elizabe73713497 @canton_ss 呢哋傻閪北角我早就拉曬嗰黑名單 我都懒得同呢班傻閪對線喇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047258809694031872",
+            "3_2047258809685721088"
+          ]
+        },
+        "author_id": "1917487090797010946",
+        "conversation_id": "2047258831286419683",
+        "created_at": "2026-04-23T10:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047258831286419683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7zxLxqrRKU",
+              "end": 128,
+              "expanded_url": "https://x.com/elizabe73713497/status/2047258831286419683/photo/1",
+              "media_key": "3_2047258809694031872",
+              "start": 105,
+              "url": "https://t.co/7zxLxqrRKU"
+            },
+            {
+              "display_url": "pic.x.com/7zxLxqrRKU",
+              "end": 128,
+              "expanded_url": "https://x.com/elizabe73713497/status/2047258831286419683/photo/1",
+              "media_key": "3_2047258809685721088",
+              "start": 105,
+              "url": "https://t.co/7zxLxqrRKU"
+            },
+            {
+              "display_url": "x.com/elizabe7371349…",
+              "end": 152,
+              "expanded_url": "https://twitter.com/elizabe73713497/status/2047062743984066688",
+              "start": 129,
+              "url": "https://t.co/upqSrYyym6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047258831286419683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047062743984066688",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "台譯粵：我哋台獨就係全亞洲乃至全世界獨派嘅老竇，所有有分離主義思想嘅人都要含我哋台灣撚，我哋唔撚鍾意漢字你哋就唔可以用漢字，我哋唔撚鍾意漢文化你哋就必須去漢化，如果唔撚含我哋台灣撚，你就係粵🐒、、閩🐒、吳越豚 https://t.co/7zxLxqrRKU https://t.co/upqSrYyym6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 380,
+          "like_count": 11214,
+          "listed_count": 4,
+          "media_count": 649,
+          "tweet_count": 3242
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-30T07:52:18.000Z",
+        "description": "迦梨宇迦在当代的化身：平等主义、自由主义、物质主义，是一切现代性堕落的根源。",
+        "id": "1917487090797010946",
+        "name": "Jinsí",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044812217741438976/XcsXb7zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 130,
+          "like_count": 632,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 1058
+        },
+        "username": "elizabe73713497",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "新粵系 新桂系 自由經濟｜最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025557267823923200/Of1Y9OID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 704,
+          "like_count": 46418,
+          "listed_count": 11,
+          "media_count": 453,
+          "tweet_count": 7209
+        },
+        "username": "canton_ss",
+        "verified": false
+      }
+    ]
+  }
+}

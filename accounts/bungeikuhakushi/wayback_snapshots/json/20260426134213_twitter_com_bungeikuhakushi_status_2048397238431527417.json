@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048397223545950208"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048397238431527417",
+    "created_at": "2026-04-26T13:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T14:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048397238431527417"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1Xypf6hqAN",
+          "end": 51,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048397238431527417/photo/1",
+          "media_key": "3_2048397223545950208",
+          "start": 28,
+          "url": "https://t.co/1Xypf6hqAN"
+        },
+        {
+          "display_url": "x.com/feieyuhuo/stat…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/feieyuhuo/status/2048386379944734777",
+          "start": 52,
+          "url": "https://t.co/CEBmH5VD6H"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2048397238431527417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048386379944734777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "還好空白子上數學課的時候還是有一段時間認真聽的 ... https://t.co/1Xypf6hqAN https://t.co/CEBmH5VD6H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2048397223545950208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG1ebARaUAAcIep.jpg",
+        "width": 1536
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048397223545950208"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048397238431527417",
+        "created_at": "2026-04-26T13:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T14:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048397238431527417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Xypf6hqAN",
+              "end": 51,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048397238431527417/photo/1",
+              "media_key": "3_2048397223545950208",
+              "start": 28,
+              "url": "https://t.co/1Xypf6hqAN"
+            },
+            {
+              "display_url": "x.com/feieyuhuo/stat…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/feieyuhuo/status/2048386379944734777",
+              "start": 52,
+              "url": "https://t.co/CEBmH5VD6H"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2048397238431527417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048386379944734777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "還好空白子上數學課的時候還是有一段時間認真聽的 ... https://t.co/1Xypf6hqAN https://t.co/CEBmH5VD6H"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882051931763568643",
+        "conversation_id": "2048361833480990760",
+        "created_at": "2026-04-26T12:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048386379944734777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048386379944734777",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048384969278705984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 设函数f(x)=x³-3x²+ax+1\n(1) 若函数在x=1处取得极值，求实数a的值；\n(2) 在 (1) 的条件下，讨论函数f(x)的单调区间；\n(3) 在 (1) 的条件下，求函数f(x)在［0，2］区间上的最值。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1901,
+          "following_count": 370,
+          "like_count": 11460,
+          "listed_count": 4,
+          "media_count": 663,
+          "tweet_count": 3341
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T13:05:32.000Z",
+        "description": "你好呀，这里是飞蛾～社科求学者一枚。( *ˊᵕˋ)✩︎.₊(键政号回fo100%)  历史是假的,政经是真的,没有什么是理所当然的。 \n无论如何，请让理智与信念刻骨铭心，让傲慢与偏见无处遁形。                          \n标签概括：散修毛左\n09 ENTP 劳有所得 造反有理",
+        "id": "1882051931763568643",
+        "location": "乌托邦之桥",
+        "name": "飞蛾浴火",
+        "pinned_tweet_id": "2024545803310944754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026688690211401732/PfmtK5HU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 91,
+          "like_count": 3351,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1656
+        },
+        "username": "feieyuhuo",
+        "verified": false
+      }
+    ]
+  }
+}

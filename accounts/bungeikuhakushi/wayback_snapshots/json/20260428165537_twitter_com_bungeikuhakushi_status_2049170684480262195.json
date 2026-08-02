@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049162135591436293",
+        "3_2049162247067648002"
+      ],
+      "media_source_tweet_id": [
+        "2049162584113500227",
+        "2049162584113500227"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049170684480262195",
+    "created_at": "2026-04-28T16:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049170684480262195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "940761632140967936",
+          "start": 3,
+          "username": "IDOLAS4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/llYvsz5VzJ",
+          "end": 129,
+          "expanded_url": "https://x.com/IDOLAS4/status/2049162584113500227/photo/1",
+          "media_key": "3_2049162135591436293",
+          "start": 106,
+          "url": "https://t.co/llYvsz5VzJ"
+        },
+        {
+          "display_url": "pic.x.com/llYvsz5VzJ",
+          "end": 129,
+          "expanded_url": "https://x.com/IDOLAS4/status/2049162584113500227/photo/1",
+          "media_key": "3_2049162247067648002",
+          "start": 106,
+          "url": "https://t.co/llYvsz5VzJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049170684480262195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049162584113500227",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IDOLAS4: 某位BRO睡前真是有耐心，創新帳號後，一個半小時內把騷擾用帳號全都一起跟隨了\n\nUSERID：2049079911164633088\n辦帳號時間：2026年4月28日10:56:33秒 https://t.co/llYvsz5VzJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1255,
+        "media_key": "3_2049162135591436293",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAWGvsbwAU-iaz.jpg",
+        "width": 711
+      },
+      {
+        "height": 946,
+        "media_key": "3_2049162247067648002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAWNO-bwAIk9x8.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049162135591436293",
+            "3_2049162247067648002"
+          ],
+          "media_source_tweet_id": [
+            "2049162584113500227",
+            "2049162584113500227"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049170684480262195",
+        "created_at": "2026-04-28T16:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049170684480262195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "940761632140967936",
+              "start": 3,
+              "username": "IDOLAS4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/llYvsz5VzJ",
+              "end": 129,
+              "expanded_url": "https://x.com/IDOLAS4/status/2049162584113500227/photo/1",
+              "media_key": "3_2049162135591436293",
+              "start": 106,
+              "url": "https://t.co/llYvsz5VzJ"
+            },
+            {
+              "display_url": "pic.x.com/llYvsz5VzJ",
+              "end": 129,
+              "expanded_url": "https://x.com/IDOLAS4/status/2049162584113500227/photo/1",
+              "media_key": "3_2049162247067648002",
+              "start": 106,
+              "url": "https://t.co/llYvsz5VzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049170684480262195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049162584113500227",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IDOLAS4: 某位BRO睡前真是有耐心，創新帳號後，一個半小時內把騷擾用帳號全都一起跟隨了\n\nUSERID：2049079911164633088\n辦帳號時間：2026年4月28日10:56:33秒 https://t.co/llYvsz5VzJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049162135591436293",
+            "3_2049162247067648002"
+          ]
+        },
+        "author_id": "940761632140967936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049162584113500227",
+        "created_at": "2026-04-28T16:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049162584113500227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llYvsz5VzJ",
+              "end": 116,
+              "expanded_url": "https://x.com/IDOLAS4/status/2049162584113500227/photo/1",
+              "media_key": "3_2049162135591436293",
+              "start": 93,
+              "url": "https://t.co/llYvsz5VzJ"
+            },
+            {
+              "display_url": "pic.x.com/llYvsz5VzJ",
+              "end": 116,
+              "expanded_url": "https://x.com/IDOLAS4/status/2049162584113500227/photo/1",
+              "media_key": "3_2049162247067648002",
+              "start": 93,
+              "url": "https://t.co/llYvsz5VzJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049162584113500227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "某位BRO睡前真是有耐心，創新帳號後，一個半小時內把騷擾用帳號全都一起跟隨了\n\nUSERID：2049079911164633088\n辦帳號時間：2026年4月28日10:56:33秒 https://t.co/llYvsz5VzJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 366,
+          "like_count": 11643,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 3422
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-13T01:53:46.000Z",
+        "description": "謊言無法辯真\n\n每星期二實況 人類一敗塗地",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/bruce7963",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/bruce7963",
+                "start": 0,
+                "url": "https://t.co/WoECGHmWKM"
+              }
+            ]
+          }
+        },
+        "id": "940761632140967936",
+        "name": "伊多 IDOLAS",
+        "pinned_tweet_id": "2049162584113500227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734909242153549824/o33tXlKE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 497,
+          "like_count": 21965,
+          "listed_count": 0,
+          "media_count": 995,
+          "tweet_count": 11350
+        },
+        "url": "https://t.co/WoECGHmWKM",
+        "username": "IDOLAS4",
+        "verified": true
+      }
+    ]
+  }
+}

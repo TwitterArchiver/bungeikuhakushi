@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049467802646696095",
+    "created_at": "2026-04-29T12:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049467802646696095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YiJin_0v0/stat…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/YiJin_0v0/status/2049141574119124999",
+          "start": 21,
+          "url": "https://t.co/VfFRc8jR3e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049467802646696095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049141574119124999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现实里谁不想急头白脸不顾一切的玩震动棒呀 https://t.co/VfFRc8jR3e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049467802646696095",
+        "created_at": "2026-04-29T12:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049467802646696095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YiJin_0v0/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/YiJin_0v0/status/2049141574119124999",
+              "start": 21,
+              "url": "https://t.co/VfFRc8jR3e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049467802646696095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049141574119124999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现实里谁不想急头白脸不顾一切的玩震动棒呀 https://t.co/VfFRc8jR3e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031715041196875776",
+        "conversation_id": "2049141574119124999",
+        "created_at": "2026-04-28T14:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049141574119124999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049141574119124999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现实里谁不想急头白脸不顾一切的玩震动棒呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 362,
+          "like_count": 11715,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 3456
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "@rinii165892 有事优先联系此账号\n我是辣条，不要欺负我/精神病很严重，随时都会死掉/情商低智商低素质低文化低/传奇炸柜王/无证含糖/家暴党",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "垃圾袋",
+        "name": "霖/伊井酱酱酱🍥8964～",
+        "pinned_tweet_id": "2049137147219968346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047345595497738240/v4nAldhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 442,
+          "like_count": 2610,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1633
+        },
+        "username": "YiJin_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

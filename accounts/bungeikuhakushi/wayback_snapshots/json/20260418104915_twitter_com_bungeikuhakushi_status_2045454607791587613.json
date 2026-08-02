@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2045454607791587613",
+    "created_at": "2026-04-18T10:49:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:49:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045454607791587613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Zhmgws19120101…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Zhmgws19120101/status/2045453374620078175",
+          "start": 37,
+          "url": "https://t.co/ac8XBDYszf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045454607791587613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045453374620078175",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是 可是我感覺真的沒他們說的那麼爽啊 你們到底是怎麼前列腺高潮的？ 🤔 https://t.co/ac8XBDYszf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2045453108508266496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLow9FakAAEFKo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 383,
+        "media_key": "3_2045453138917003264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLoyuXbEAA85s1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 265,
+        "media_key": "3_2045453191102566400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLo1wxbkAAmytf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 587,
+        "media_key": "3_2045453254642094080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLo5deb0AAmzuj.jpg",
+        "width": 1006
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045454607791587613",
+        "created_at": "2026-04-18T10:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045454607791587613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Zhmgws19120101…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Zhmgws19120101/status/2045453374620078175",
+              "start": 37,
+              "url": "https://t.co/ac8XBDYszf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045454607791587613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045453374620078175",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是 可是我感覺真的沒他們說的那麼爽啊 你們到底是怎麼前列腺高潮的？ 🤔 https://t.co/ac8XBDYszf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045453108508266496",
+            "3_2045453138917003264",
+            "3_2045453191102566400",
+            "3_2045453254642094080"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045453374620078175",
+        "created_at": "2026-04-18T10:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045453374620078175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9UdBf2aNB",
+              "end": 31,
+              "expanded_url": "https://x.com/Zhmgws19120101/status/2045453374620078175/photo/1",
+              "media_key": "3_2045453108508266496",
+              "start": 8,
+              "url": "https://t.co/c9UdBf2aNB"
+            },
+            {
+              "display_url": "pic.x.com/c9UdBf2aNB",
+              "end": 31,
+              "expanded_url": "https://x.com/Zhmgws19120101/status/2045453374620078175/photo/1",
+              "media_key": "3_2045453138917003264",
+              "start": 8,
+              "url": "https://t.co/c9UdBf2aNB"
+            },
+            {
+              "display_url": "pic.x.com/c9UdBf2aNB",
+              "end": 31,
+              "expanded_url": "https://x.com/Zhmgws19120101/status/2045453374620078175/photo/1",
+              "media_key": "3_2045453191102566400",
+              "start": 8,
+              "url": "https://t.co/c9UdBf2aNB"
+            },
+            {
+              "display_url": "pic.x.com/c9UdBf2aNB",
+              "end": 31,
+              "expanded_url": "https://x.com/Zhmgws19120101/status/2045453374620078175/photo/1",
+              "media_key": "3_2045453254642094080",
+              "start": 8,
+              "url": "https://t.co/c9UdBf2aNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045453374620078175",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "類人群星閃耀時 https://t.co/c9UdBf2aNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1695,
+          "following_count": 383,
+          "like_count": 10902,
+          "listed_count": 4,
+          "media_count": 618,
+          "tweet_count": 3092
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091461191778304/kPgRLiTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 143,
+          "like_count": 8144,
+          "listed_count": 6,
+          "media_count": 58,
+          "tweet_count": 2792
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      }
+    ]
+  }
+}

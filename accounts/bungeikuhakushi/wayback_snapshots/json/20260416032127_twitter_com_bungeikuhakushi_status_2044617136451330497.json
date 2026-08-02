@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044617122962399232"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044617136451330497",
+    "created_at": "2026-04-16T03:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044617136451330497"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wXR8PQXFWp",
+          "end": 43,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2044617136451330497/photo/1",
+          "media_key": "3_2044617122962399232",
+          "start": 20,
+          "url": "https://t.co/wXR8PQXFWp"
+        },
+        {
+          "display_url": "x.com/hoshinofujivy/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/hoshinofujivy/status/2044063351777661376",
+          "start": 44,
+          "url": "https://t.co/VIN7O92mU7"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2044617136451330497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044063351777661376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "... 笑了 不知道它腦子是什麼構造？ https://t.co/wXR8PQXFWp https://t.co/VIN7O92mU7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_2044617122962399232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_wcMPa4AAdKjC.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044617122962399232"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044617136451330497",
+        "created_at": "2026-04-16T03:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044617136451330497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXR8PQXFWp",
+              "end": 43,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2044617136451330497/photo/1",
+              "media_key": "3_2044617122962399232",
+              "start": 20,
+              "url": "https://t.co/wXR8PQXFWp"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2044063351777661376",
+              "start": 44,
+              "url": "https://t.co/VIN7O92mU7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2044617136451330497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044063351777661376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "... 笑了 不知道它腦子是什麼構造？ https://t.co/wXR8PQXFWp https://t.co/VIN7O92mU7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622066090074607616",
+        "conversation_id": "2043933924754370885",
+        "created_at": "2026-04-14T14:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044063351777661376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1561262672888434688",
+              "start": 0,
+              "username": "cai436"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044063351777661376",
+        "in_reply_to_user_id": "1561262672888434688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044062174239211882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cai436 我要的是人情，你在这里讲校规"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 397,
+          "like_count": 10717,
+          "listed_count": 3,
+          "media_count": 608,
+          "tweet_count": 3023
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8717,
+          "following_count": 4125,
+          "like_count": 43454,
+          "listed_count": 29,
+          "media_count": 1768,
+          "tweet_count": 12012
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

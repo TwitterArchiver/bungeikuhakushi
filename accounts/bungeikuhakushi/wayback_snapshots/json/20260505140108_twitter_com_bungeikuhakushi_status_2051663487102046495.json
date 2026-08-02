@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051661407612281281",
+    "created_at": "2026-05-05T14:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051663487102046495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "975134504393347072",
+          "start": 0,
+          "username": "zhinarencnm8964"
+        },
+        {
+          "end": 28,
+          "id": "147929555",
+          "start": 17,
+          "username": "leige88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051663487102046495",
+    "in_reply_to_user_id": "975134504393347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051661407612281281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarencnm8964 @leige88888 老傻子來了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051661407612281281",
+        "created_at": "2026-05-05T14:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051663487102046495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "975134504393347072",
+              "start": 0,
+              "username": "zhinarencnm8964"
+            },
+            {
+              "end": 28,
+              "id": "147929555",
+              "start": 17,
+              "username": "leige88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051663487102046495",
+        "in_reply_to_user_id": "975134504393347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051661407612281281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencnm8964 @leige88888 老傻子來了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "975134504393347072",
+        "conversation_id": "2051661407612281281",
+        "created_at": "2026-05-05T13:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051661407612281281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "147929555",
+              "start": 0,
+              "username": "leige88888"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Warma_Giraffe/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Warma_Giraffe/status/2051283433356406802",
+              "start": 30,
+              "url": "https://t.co/qyfXHDD5YJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051661407612281281",
+        "in_reply_to_user_id": "147929555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051283433356406802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leige88888 你养的狗已经彻底疯了，你不管一下吗 https://t.co/qyfXHDD5YJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生🍥｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 349,
+          "like_count": 11636,
+          "listed_count": 4,
+          "media_count": 724,
+          "tweet_count": 3609
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "功名何ぞ夢の跡\n消えざるものはただ誠\n人生意気に感じては\n成否を誰かあげつらう\n\nやめよ離騒の一悲曲\n悲歌慷慨の日は去りぬ\nわれらが剣今こそは\n廓清の血に躍るかな｜小号@zhinarensml8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 84,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 140,
+                "start": 125,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "汉支满支一家亲共和国",
+        "name": "中東の虎✡️内格夫🩵🌸",
+        "pinned_tweet_id": "2049550460886126977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045434310237589504/UrpPa--O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 1277,
+          "like_count": 50293,
+          "listed_count": 3,
+          "media_count": 1101,
+          "tweet_count": 5201
+        },
+        "username": "zhinarencnm8964",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T12:03:13.000Z",
+        "description": "我是来看反贼笑话的",
+        "id": "147929555",
+        "name": "磊哥聊政经",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696104044497178624/ix24cEav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40842,
+          "following_count": 407,
+          "like_count": 344,
+          "listed_count": 122,
+          "media_count": 3438,
+          "tweet_count": 5877
+        },
+        "username": "leige88888",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058161419963842560"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058161422274896006",
+    "created_at": "2026-05-23T12:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058161422274896006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "台灣價值 是一個政治光譜測驗，透過回答一系列的問題來幫助使用者探索他們的政治意識形態。",
+          "display_url": "twvalues.github.io/TW-Values/#/re…",
+          "end": 23,
+          "expanded_url": "https://twvalues.github.io/TW-Values/#/result?api_version=1.0.0&economic=54&diplomatic=68&civil=46&environmental=55&societal=49&sovereignty=26&us_vs_china=22&tags=roc_unification%2Cprc_unification%2Cdeath_penalty_abolitionists%2Chomophobia%2Cfeminism",
+          "start": 0,
+          "status": 200,
+          "title": "台灣價值 TW Values",
+          "unwound_url": "https://twvalues.github.io/TW-Values/#/result?api_version=1.0.0&economic=54&diplomatic=68&civil=46&environmental=55&societal=49&sovereignty=26&us_vs_china=22&tags=roc_unification%2Cprc_unification%2Cdeath_penalty_abolitionists%2Chomophobia%2Cfeminism",
+          "url": "https://t.co/VkeNMpHrGc"
+        },
+        {
+          "display_url": "pic.x.com/OpTmc0iopK",
+          "end": 47,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2058161422274896006/photo/1",
+          "media_key": "3_2058161419963842560",
+          "start": 24,
+          "url": "https://t.co/OpTmc0iopK"
+        },
+        {
+          "display_url": "x.com/Zhmgws19120101…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/Zhmgws19120101/status/2058068629233848835",
+          "start": 48,
+          "url": "https://t.co/bqvMEMW4Lv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058161422274896006",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058068629233848835",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/VkeNMpHrGc https://t.co/OpTmc0iopK https://t.co/bqvMEMW4Lv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058161419963842560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAO6CdbwAA3XmL.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058068617061965824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-6gMtboAA1ECG.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058161419963842560"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058161422274896006",
+        "created_at": "2026-05-23T12:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058161422274896006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "台灣價值 是一個政治光譜測驗，透過回答一系列的問題來幫助使用者探索他們的政治意識形態。",
+              "display_url": "twvalues.github.io/TW-Values/#/re…",
+              "end": 23,
+              "expanded_url": "https://twvalues.github.io/TW-Values/#/result?api_version=1.0.0&economic=54&diplomatic=68&civil=46&environmental=55&societal=49&sovereignty=26&us_vs_china=22&tags=roc_unification%2Cprc_unification%2Cdeath_penalty_abolitionists%2Chomophobia%2Cfeminism",
+              "start": 0,
+              "status": 200,
+              "title": "台灣價值 TW Values",
+              "unwound_url": "https://twvalues.github.io/TW-Values/#/result?api_version=1.0.0&economic=54&diplomatic=68&civil=46&environmental=55&societal=49&sovereignty=26&us_vs_china=22&tags=roc_unification%2Cprc_unification%2Cdeath_penalty_abolitionists%2Chomophobia%2Cfeminism",
+              "url": "https://t.co/VkeNMpHrGc"
+            },
+            {
+              "display_url": "pic.x.com/OpTmc0iopK",
+              "end": 47,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2058161422274896006/photo/1",
+              "media_key": "3_2058161419963842560",
+              "start": 24,
+              "url": "https://t.co/OpTmc0iopK"
+            },
+            {
+              "display_url": "x.com/Zhmgws19120101…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Zhmgws19120101/status/2058068629233848835",
+              "start": 48,
+              "url": "https://t.co/bqvMEMW4Lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058161422274896006",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058068629233848835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VkeNMpHrGc https://t.co/OpTmc0iopK https://t.co/bqvMEMW4Lv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058068617061965824"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058068629233848835",
+        "created_at": "2026-05-23T06:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058068629233848835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "台灣價值 是一個政治光譜測驗，透過回答一系列的問題來幫助使用者探索他們的政治意識形態。",
+              "display_url": "twvalues.github.io/TW-Values/#/",
+              "end": 34,
+              "expanded_url": "https://twvalues.github.io/TW-Values/#/",
+              "start": 11,
+              "status": 200,
+              "title": "台灣價值 TW Values",
+              "unwound_url": "https://twvalues.github.io/TW-Values/#/",
+              "url": "https://t.co/svWgcJbtoy"
+            },
+            {
+              "display_url": "pic.x.com/Wa7rJLKLVI",
+              "end": 58,
+              "expanded_url": "https://x.com/Zhmgws19120101/status/2058068629233848835/photo/1",
+              "media_key": "3_2058068617061965824",
+              "start": 35,
+              "url": "https://t.co/Wa7rJLKLVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058068629233848835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3182,
+          "like_count": 30,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中華民國千秋萬代🇹🇼\nhttps://t.co/svWgcJbtoy https://t.co/Wa7rJLKLVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 357,
+          "like_count": 12171,
+          "listed_count": 4,
+          "media_count": 816,
+          "tweet_count": 3931
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051937451447648256/aSXNd7Z8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 151,
+          "like_count": 10043,
+          "listed_count": 6,
+          "media_count": 96,
+          "tweet_count": 3275
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      }
+    ]
+  }
+}

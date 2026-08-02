@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2055882619028677112",
+    "created_at": "2026-05-17T11:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T12:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055979602124968343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885641757469380608",
+          "start": 0,
+          "username": "nishuodeduiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055979602124968343",
+    "in_reply_to_user_id": "1885641757469380608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055882619028677112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nishuodeduiiii 死守南京！ 青天白日！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2055882582357921792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf2UO1bUAAc_f6.jpg",
+        "width": 1006
+      },
+      {
+        "height": 563,
+        "media_key": "3_2055882582353756160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf2UO0bwAArpAG.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2055882619028677112",
+        "created_at": "2026-05-17T11:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055979602124968343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885641757469380608",
+              "start": 0,
+              "username": "nishuodeduiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055979602124968343",
+        "in_reply_to_user_id": "1885641757469380608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055882619028677112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nishuodeduiiii 死守南京！ 青天白日！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055882582357921792",
+            "3_2055882582353756160"
+          ]
+        },
+        "author_id": "1885641757469380608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055882619028677112",
+        "created_at": "2026-05-17T05:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055882619028677112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdYlY9Po3I",
+              "end": 32,
+              "expanded_url": "https://x.com/nishuodeduiiii/status/2055882619028677112/photo/1",
+              "media_key": "3_2055882582357921792",
+              "start": 9,
+              "url": "https://t.co/SdYlY9Po3I"
+            },
+            {
+              "display_url": "pic.x.com/SdYlY9Po3I",
+              "end": 32,
+              "expanded_url": "https://x.com/nishuodeduiiii/status/2055882619028677112/photo/1",
+              "media_key": "3_2055882582353756160",
+              "start": 9,
+              "url": "https://t.co/SdYlY9Po3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055882619028677112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 15849,
+          "like_count": 173,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的阵营: https://t.co/SdYlY9Po3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 359,
+          "like_count": 12099,
+          "listed_count": 3,
+          "media_count": 793,
+          "tweet_count": 3882
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-01T10:50:09.000Z",
+        "description": "世界穿过我———\n\n“革命死了，革命万岁！”\n\n欢迎互fo 关注鱼泡泡（你说得对）谢谢喵\n\n马主义者 不完全的卢主义者 可能是民社 也可能是极左\n\n暴躁的我@GrlIntrpted\n高考完或许会有小男娘形态的我……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "GrlIntrpted"
+              }
+            ]
+          }
+        },
+        "id": "1885641757469380608",
+        "location": "雨一直下",
+        "name": "鱼鱼鱼鱼鱼泡泡（你说得对）",
+        "pinned_tweet_id": "2026997670326468936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053484031225016320/29RTmaK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 475,
+          "like_count": 1515,
+          "listed_count": 3,
+          "media_count": 207,
+          "tweet_count": 2826
+        },
+        "username": "nishuodeduiiii",
+        "verified": false
+      }
+    ]
+  }
+}

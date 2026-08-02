@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2078024888305258759",
+    "created_at": "2026-07-18T10:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T11:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078430836077269019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1639247931898306561",
+          "start": 0,
+          "username": "sam51824016070"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078430836077269019",
+    "in_reply_to_user_id": "1639247931898306561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078024888305258759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sam51824016070 依家黑警真既係越來越黐撚線喇 隨隨便便就check人哋身分證... 我喺大陸都冇俾人噉樣check過"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 105234,
+        "height": 1280,
+        "media_key": "7_2078024788283731968",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2078024788283731968/pu/img/eeWXXRKyVD8She5q.jpg",
+        "public_metrics": {
+          "view_count": 62781
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078024788283731968/pu/vid/avc1/320x568/VC03YORuEuyDg0-g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078024788283731968/pu/vid/avc1/480x852/9fM7pYx2V9o57UPe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2078024788283731968/pu/vid/avc1/720x1280/Y8Isg4K509wHHjtz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2078024788283731968/pu/pl/IpnuiFiuO55ICbCs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2078024888305258759",
+        "created_at": "2026-07-18T10:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T11:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078430836077269019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1639247931898306561",
+              "start": 0,
+              "username": "sam51824016070"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078430836077269019",
+        "in_reply_to_user_id": "1639247931898306561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078024888305258759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sam51824016070 依家黑警真既係越來越黐撚線喇 隨隨便便就check人哋身分證... 我喺大陸都冇俾人噉樣check過"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2078024788283731968"
+          ]
+        },
+        "author_id": "1639247931898306561",
+        "conversation_id": "2078024888305258759",
+        "created_at": "2026-07-17T07:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T08:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078024888305258759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vfGlZxaz3H",
+              "end": 125,
+              "expanded_url": "https://x.com/sam51824016070/status/2078024888305258759/video/1",
+              "media_key": "7_2078024788283731968",
+              "start": 102,
+              "url": "https://t.co/vfGlZxaz3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078024888305258759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 107747,
+          "like_count": 619,
+          "quote_count": 5,
+          "reply_count": 84,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "香港曾经是自由之港，自从“回归”中国以后，就变成了警察之港，“港共警察”（听话于中共的香港警察）可以任意盘查市民身份证。\n\n最近有自觉的香港市民在街上遇到正在巡逻的“港共警察”，于是就自己申请查身分证😆 https://t.co/vfGlZxaz3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰｜​人活在幻想裏 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078130819269566464/G5H3ogAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 355,
+          "like_count": 12674,
+          "listed_count": 3,
+          "media_count": 968,
+          "tweet_count": 4437
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-24T12:50:09.000Z",
+        "description": "共产党那么邪恶，如果我们不反共，我们还是人吗❓\n\n爱国就反共，反共才是真爱国，没有共产党才有新中国，爱国反共，反共光荣，亲共可耻！\n\n请关注小号https://t.co/dllXpw0KFa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/Jamesso972309?…",
+                "end": 95,
+                "expanded_url": "https://x.com/Jamesso972309?t=HqKwQBV3q3Iar0J1ZHYvFQ&s=09",
+                "start": 72,
+                "url": "https://t.co/dllXpw0KFa"
+              }
+            ]
+          }
+        },
+        "id": "1639247931898306561",
+        "location": "California, USA",
+        "name": "YiFeng Su",
+        "pinned_tweet_id": "2043574281398091860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836500437815693314/URQTGhSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42004,
+          "following_count": 11720,
+          "like_count": 59958,
+          "listed_count": 200,
+          "media_count": 5208,
+          "tweet_count": 15224
+        },
+        "url": "",
+        "username": "sam51824016070",
+        "verified": true
+      }
+    ]
+  }
+}

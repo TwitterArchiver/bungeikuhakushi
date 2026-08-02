@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2045889297358958929",
+    "created_at": "2026-04-19T15:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045893392325111949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1778293240132759552",
+          "start": 0,
+          "username": "Yuanrpa"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2045893392325111949",
+    "in_reply_to_user_id": "1778293240132759552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045889297358958929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuanrpa 這是不是有點罵得太過了吧..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1673,
+        "media_key": "3_2045889294376808448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR1eUEasAAuOjF.jpg",
+        "width": 1440
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045889297358958929",
+        "created_at": "2026-04-19T15:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045893392325111949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1778293240132759552",
+              "start": 0,
+              "username": "Yuanrpa"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2045893392325111949",
+        "in_reply_to_user_id": "1778293240132759552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045889297358958929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuanrpa 這是不是有點罵得太過了吧..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045889294376808448"
+          ]
+        },
+        "author_id": "1778293240132759552",
+        "conversation_id": "2045889297358958929",
+        "created_at": "2026-04-19T15:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045889297358958929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rsar3PtwxN",
+              "end": 110,
+              "expanded_url": "https://x.com/Yuanrpa/status/2045889297358958929/photo/1",
+              "media_key": "3_2045889294376808448",
+              "start": 87,
+              "url": "https://t.co/Rsar3PtwxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045889297358958929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼unk给雨晴处方还天天和雨晴聊od😅你妈被我奸杀了知道吗有妈生没妈养臭逼玩意😅你爸头七没过被你配冥婚了拿去换pr吃是吗😅你他妈配用RainEngine2024这几个字吗 https://t.co/Rsar3PtwxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 383,
+          "like_count": 11027,
+          "listed_count": 4,
+          "media_count": 628,
+          "tweet_count": 3141
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-11T05:27:02.000Z",
+        "description": "芋圆圆🥺😭🥵😍😋😡😈 发的东西虽然有点煌，但是墙内也能过审，所以不算😈/讨厌：赌，毒，鉴政，伤害，od/",
+        "id": "1778293240132759552",
+        "location": "福建",
+        "name": "芋圆圆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816052107333632/JyJWS9kB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 453,
+          "like_count": 7853,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 3409
+        },
+        "username": "Yuanrpa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062832008221589504"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2062832025657315828",
+    "created_at": "2026-06-05T09:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T10:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062832025657315828"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ES791kmVq9",
+          "end": 32,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2062832025657315828/photo/1",
+          "media_key": "3_2062832008221589504",
+          "start": 9,
+          "url": "https://t.co/ES791kmVq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062832025657315828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再等足一百八十天 https://t.co/ES791kmVq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062832008221589504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCmyDlagAAnkNp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062832008221589504"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2062832025657315828",
+        "created_at": "2026-06-05T09:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062832025657315828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ES791kmVq9",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2062832025657315828/photo/1",
+              "media_key": "3_2062832008221589504",
+              "start": 9,
+              "url": "https://t.co/ES791kmVq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062832025657315828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再等足一百八十天 https://t.co/ES791kmVq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062510006491300135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2071,
+          "following_count": 352,
+          "like_count": 12548,
+          "listed_count": 3,
+          "media_count": 867,
+          "tweet_count": 4129
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

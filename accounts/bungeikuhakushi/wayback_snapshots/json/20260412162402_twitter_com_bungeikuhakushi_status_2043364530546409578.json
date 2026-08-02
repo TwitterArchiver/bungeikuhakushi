@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2043308433798299837",
+    "created_at": "2026-04-12T16:24:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:24:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043364530546409578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942493462810525696",
+          "start": 0,
+          "username": "AsanagiYori486"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2043364530546409578",
+    "in_reply_to_user_id": "1942493462810525696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043308433798299837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsanagiYori486 這是在o布洛芬嗎？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_2043308424575000576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtKL61bIAAJN7h.jpg",
+        "width": 979
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043308433798299837",
+        "created_at": "2026-04-12T16:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043364530546409578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942493462810525696",
+              "start": 0,
+              "username": "AsanagiYori486"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2043364530546409578",
+        "in_reply_to_user_id": "1942493462810525696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043308433798299837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsanagiYori486 這是在o布洛芬嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043308424575000576"
+          ]
+        },
+        "author_id": "1942493462810525696",
+        "conversation_id": "2043308433798299837",
+        "created_at": "2026-04-12T12:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043308433798299837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPAOZIy4MQ",
+              "end": 81,
+              "expanded_url": "https://x.com/AsanagiYori486/status/2043308433798299837/photo/1",
+              "media_key": "3_2043308424575000576",
+              "start": 58,
+              "url": "https://t.co/rPAOZIy4MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043308433798299837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽赚大了\n5t布洛芬体验到了麻药一般的感觉\n只不过要准备换泰诺了\n布洛芬不到五天已经见底了🥲\n每日任务：😴🤮🥱😴 https://t.co/rPAOZIy4MQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 417,
+          "like_count": 10546,
+          "listed_count": 3,
+          "media_count": 596,
+          "tweet_count": 2956
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-08T07:58:39.000Z",
+        "description": "第五届中推模拟大选委员会主席｜可以叫我依老师｜蒂蒂最锋利的剑｜研究新派刑法学｜Antitheist｜初始默认温柔人格｜爱好：明日方舟、视奸你｜讨厌：宗教神权，无脑粉红｜不站队，不摇摆｜1+1=2理论坚决反对者｜推：木野日鞠&朝凪依，八百岁比名子&近江汐莉｜写简介而已，又不是写毕业论文，没必要写那么完美”——她如此说到",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "AsanagiYori.com",
+                "end": 23,
+                "expanded_url": "http://AsanagiYori.com",
+                "start": 0,
+                "url": "https://t.co/MJsJa8uhxz"
+              }
+            ]
+          }
+        },
+        "id": "1942493462810525696",
+        "location": "My realms",
+        "name": "𝓐𝓼𝓪𝓷𝓪𝓰𝓲 𝓨𝓸𝓻𝓲",
+        "pinned_tweet_id": "2043352016622325999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039542257301475328/sq1OcSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 1801,
+          "like_count": 18989,
+          "listed_count": 0,
+          "media_count": 1284,
+          "tweet_count": 5921
+        },
+        "url": "https://t.co/MJsJa8uhxz",
+        "username": "AsanagiYori486",
+        "verified": true
+      }
+    ]
+  }
+}

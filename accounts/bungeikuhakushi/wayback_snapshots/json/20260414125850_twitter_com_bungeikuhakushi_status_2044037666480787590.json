@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044036384978284603",
+    "created_at": "2026-04-14T12:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044037666480787590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978352432301387776",
+          "start": 0,
+          "username": "zhngjing322708"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044037666480787590",
+    "in_reply_to_user_id": "1978352432301387776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044036384978284603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhngjing322708 走資派還在走！\n你說什麼啊？\n算了算了 留著也好 以示警示..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2044036372252749825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF3gQDQacAEixBj.jpg",
+        "width": 952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044036384978284603",
+        "created_at": "2026-04-14T12:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044037666480787590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978352432301387776",
+              "start": 0,
+              "username": "zhngjing322708"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044037666480787590",
+        "in_reply_to_user_id": "1978352432301387776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044036384978284603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhngjing322708 走資派還在走！\n你說什麼啊？\n算了算了 留著也好 以示警示..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044036372252749825"
+          ]
+        },
+        "author_id": "1978352432301387776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044036384978284603",
+        "created_at": "2026-04-14T12:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044036384978284603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WaSCHPBBEq",
+              "end": 55,
+              "expanded_url": "https://x.com/zhngjing322708/status/2044036384978284603/photo/1",
+              "media_key": "3_2044036372252749825",
+              "start": 32,
+              "url": "https://t.co/WaSCHPBBEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044036384978284603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一九七九年，小平畫圈，黃山奇石有遺篇。改革春風今拂面，換了人間 https://t.co/WaSCHPBBEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 417,
+          "like_count": 10626,
+          "listed_count": 3,
+          "media_count": 601,
+          "tweet_count": 2987
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-15T06:49:29.000Z",
+        "description": "|中國共產黨新左派|左翼|新三民主義|民主社會主義|自由社會主義|自由意志社會主義|共產主義|聯孫反蔣|Liberté· Égalité· Fraternité🇫🇷|妹妹@Zhmgws19120101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "Zhmgws19120101"
+              }
+            ]
+          }
+        },
+        "id": "1978352432301387776",
+        "location": "中華民主社會主義革命委員會",
+        "name": "征酱☭❂🇹🇼🇨🇳",
+        "pinned_tweet_id": "2030966081914106346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005255984210706433/jo2IRaWX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 188,
+          "like_count": 7664,
+          "listed_count": 6,
+          "media_count": 1012,
+          "tweet_count": 3157
+        },
+        "username": "zhngjing322708",
+        "verified": false
+      }
+    ]
+  }
+}

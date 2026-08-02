@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056402285782339584"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2056402405965930560",
+    "created_at": "2026-05-18T15:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T16:51:27.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056402293868945519",
+      "2056402405965930560"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BeSjzaeTEu",
+          "end": 130,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2056402405965930560/photo/1",
+          "media_key": "3_2056402285782339584",
+          "start": 107,
+          "url": "https://t.co/BeSjzaeTEu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056402405965930560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "諗唔明 深圳到底有咩底氣可以同千年商都同廣州嚟爭省會\n廣府文化與歷史來自廣州 改革開放讓深圳企起來d亦都係廣州同埋港澳\n廣州嘅三級財政 將d錢分去俾外省最多嘅就係廣州\n憑咩讓一個深圳嚟挑戰廣州嘅省會地位？ on9 https://t.co/BeSjzaeTEu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 934,
+        "media_key": "3_2056402285782339584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInO-89bkAAuxcA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056402285782339584"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2056402293868945519",
+        "created_at": "2026-05-18T15:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:51:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056402293868945519",
+          "2056402405965930560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B3sotMvwux",
+              "end": 127,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2056402293868945519/photo/1",
+              "media_key": "3_2056402285782339584",
+              "start": 104,
+              "url": "https://t.co/B3sotMvwux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056402293868945519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "諗唔明 深圳到底有咩底氣可以同千年商都同廣州嚟爭省會\n廣府文化來自廣州 改革開放讓深圳企起來d亦都係廣州同埋港澳\n廣州嘅三級財政 將d錢分去俾外省最多嘅就係廣州\n憑咩讓一個深圳嚟挑戰廣州嘅省會地位？ on9 https://t.co/B3sotMvwux"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056402285782339584"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2056402405965930560",
+        "created_at": "2026-05-18T15:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:51:27.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056402293868945519",
+          "2056402405965930560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BeSjzaeTEu",
+              "end": 130,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2056402405965930560/photo/1",
+              "media_key": "3_2056402285782339584",
+              "start": 107,
+              "url": "https://t.co/BeSjzaeTEu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056402405965930560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "諗唔明 深圳到底有咩底氣可以同千年商都同廣州嚟爭省會\n廣府文化與歷史來自廣州 改革開放讓深圳企起來d亦都係廣州同埋港澳\n廣州嘅三級財政 將d錢分去俾外省最多嘅就係廣州\n憑咩讓一個深圳嚟挑戰廣州嘅省會地位？ on9 https://t.co/BeSjzaeTEu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 360,
+          "like_count": 12115,
+          "listed_count": 3,
+          "media_count": 798,
+          "tweet_count": 3894
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2066737414287286688",
+    "created_at": "2026-06-16T16:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066915028973031861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1938160341885865984",
+          "start": 0,
+          "username": "heweidaootto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066915028973031861",
+    "in_reply_to_user_id": "1938160341885865984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066737414287286688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@heweidaootto 臘左最嚴歷的父親"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2066737402622943232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6Gt7daoAAfntu.jpg",
+        "width": 285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2066737414287286688",
+        "created_at": "2026-06-16T16:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066915028973031861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1938160341885865984",
+              "start": 0,
+              "username": "heweidaootto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066915028973031861",
+        "in_reply_to_user_id": "1938160341885865984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066737414287286688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heweidaootto 臘左最嚴歷的父親"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066737402622943232"
+          ]
+        },
+        "author_id": "1938160341885865984",
+        "conversation_id": "2066737414287286688",
+        "created_at": "2026-06-16T04:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066737414287286688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lE0RPS7eTG",
+              "end": 60,
+              "expanded_url": "https://x.com/heweidaootto/status/2066737414287286688/photo/1",
+              "media_key": "3_2066737402622943232",
+              "start": 37,
+              "url": "https://t.co/lE0RPS7eTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066737414287286688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2839,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "伟大的导师，伟大的领袖，伟大的统帅，伟大的舵手邓主席万岁万岁万万岁！！！ https://t.co/lE0RPS7eTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 352,
+          "like_count": 12546,
+          "listed_count": 3,
+          "media_count": 895,
+          "tweet_count": 4231
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T09:00:18.000Z",
+        "description": "你何意味？",
+        "id": "1938160341885865984",
+        "location": "Nai Long",
+        "name": "弹坦克（合意味？）",
+        "pinned_tweet_id": "2066737414287286688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045691534658445312/3s5t4kS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 69,
+          "like_count": 3118,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 684
+        },
+        "username": "heweidaootto",
+        "verified": false
+      }
+    ]
+  }
+}

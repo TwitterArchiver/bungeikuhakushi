@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046105396621029576",
+    "created_at": "2026-04-20T12:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T13:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046200216903422260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "Zhmgws19120101"
+        },
+        {
+          "end": 26,
+          "id": "1957812160421400576",
+          "start": 16,
+          "username": "canton_ss"
+        },
+        {
+          "end": 38,
+          "id": "1647197602717515776",
+          "start": 27,
+          "username": "canton_c_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046200216903422260",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046198433820938544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhmgws19120101 @canton_ss @canton_c_s 😡什麼意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046105396621029576",
+        "created_at": "2026-04-20T12:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046200216903422260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "Zhmgws19120101"
+            },
+            {
+              "end": 26,
+              "id": "1957812160421400576",
+              "start": 16,
+              "username": "canton_ss"
+            },
+            {
+              "end": 38,
+              "id": "1647197602717515776",
+              "start": 27,
+              "username": "canton_c_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046200216903422260",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046198433820938544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhmgws19120101 @canton_ss @canton_c_s 😡什麼意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776142720056385537",
+        "conversation_id": "2046105396621029576",
+        "created_at": "2026-04-20T12:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T13:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046198433820938544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 27,
+              "id": "1957812160421400576",
+              "start": 17,
+              "username": "canton_ss"
+            },
+            {
+              "end": 39,
+              "id": "1647197602717515776",
+              "start": 28,
+              "username": "canton_c_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046198433820938544",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046196249570021560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @canton_ss @canton_c_s 🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1840,
+          "following_count": 395,
+          "like_count": 11065,
+          "listed_count": 4,
+          "media_count": 629,
+          "tweet_count": 3157
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091461191778304/kPgRLiTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 142,
+          "like_count": 8261,
+          "listed_count": 6,
+          "media_count": 60,
+          "tweet_count": 2815
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "新粵系 新桂系 自由經濟｜最愛@Jocelynfloresjk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "Jocelynfloresjk"
+              }
+            ]
+          }
+        },
+        "id": "1957812160421400576",
+        "name": "宋岑臨",
+        "pinned_tweet_id": "2005304782421135680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025557267823923200/Of1Y9OID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 691,
+          "like_count": 45456,
+          "listed_count": 11,
+          "media_count": 443,
+          "tweet_count": 7017
+        },
+        "username": "canton_ss",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T11:18:17.000Z",
+        "description": "本會成立於2025年12月15日成立\n主席是宋岑臨，副主席是黃量甫\n本會旨在透過海外拓殖來保存廣府人的語言、文化和民族精神，以及建立一個共享地利的社區\n有意入會者，敬請留言\n若然各位有意見同睇法，歡迎投稿",
+        "id": "1647197602717515776",
+        "name": "廣府拓殖協會 CRS",
+        "pinned_tweet_id": "2044077027553317294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041111195000995841/QO0toERm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 90,
+          "like_count": 2138,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 298
+        },
+        "username": "canton_c_s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073900812640952320"
+      ],
+      "media_source_tweet_id": [
+        "2073900919910187151"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2074070789784244664",
+    "created_at": "2026-07-06T09:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074070789784244664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1776142720056385537",
+          "start": 3,
+          "username": "qtbrmdh19120101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fhdyi29qJC",
+          "end": 53,
+          "expanded_url": "https://x.com/qtbrmdh19120101/status/2073900919910187151/photo/1",
+          "media_key": "3_2073900812640952320",
+          "start": 30,
+          "url": "https://t.co/Fhdyi29qJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074070789784244664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073900919910187151",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qtbrmdh19120101: 中華民國國父尊像 https://t.co/Fhdyi29qJC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 317,
+        "media_key": "3_2073900812640952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMf5zRTboAAiyw7.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073900812640952320"
+          ],
+          "media_source_tweet_id": [
+            "2073900919910187151"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2074070789784244664",
+        "created_at": "2026-07-06T09:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074070789784244664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1776142720056385537",
+              "start": 3,
+              "username": "qtbrmdh19120101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fhdyi29qJC",
+              "end": 53,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2073900919910187151/photo/1",
+              "media_key": "3_2073900812640952320",
+              "start": 30,
+              "url": "https://t.co/Fhdyi29qJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074070789784244664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073900919910187151",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qtbrmdh19120101: 中華民國國父尊像 https://t.co/Fhdyi29qJC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073900812640952320"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "conversation_id": "2073900919910187151",
+        "created_at": "2026-07-05T22:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T23:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073900919910187151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fhdyi29qJC",
+              "end": 32,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2073900919910187151/photo/1",
+              "media_key": "3_2073900812640952320",
+              "start": 9,
+              "url": "https://t.co/Fhdyi29qJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073900919910187151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 374,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "中華民國國父尊像 https://t.co/Fhdyi29qJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 360,
+          "like_count": 12805,
+          "listed_count": 3,
+          "media_count": 951,
+          "tweet_count": 4447
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿地紅之名",
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣 寶寶@zhngjing322708",
+        "name": "李延卿🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069437190871089152/XzMHMYK__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 160,
+          "like_count": 11727,
+          "listed_count": 4,
+          "media_count": 132,
+          "tweet_count": 3705
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": true
+      }
+    ]
+  }
+}

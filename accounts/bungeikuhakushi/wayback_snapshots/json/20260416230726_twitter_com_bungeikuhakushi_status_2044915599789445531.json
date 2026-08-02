@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044911488150982656",
+        "3_2044911488268410880"
+      ],
+      "media_source_tweet_id": [
+        "2044911490629787899",
+        "2044911490629787899"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044915599789445531",
+    "created_at": "2026-04-16T23:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T00:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044915599789445531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainBuild_2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SWxZrXsSR1",
+          "end": 72,
+          "expanded_url": "https://x.com/RainBuild_2024/status/2044911490629787899/photo/1",
+          "media_key": "3_2044911488150982656",
+          "start": 49,
+          "url": "https://t.co/SWxZrXsSR1"
+        },
+        {
+          "display_url": "pic.x.com/SWxZrXsSR1",
+          "end": 72,
+          "expanded_url": "https://x.com/RainBuild_2024/status/2044911490629787899/photo/1",
+          "media_key": "3_2044911488268410880",
+          "start": 49,
+          "url": "https://t.co/SWxZrXsSR1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044915599789445531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044911490629787899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainBuild_2024: Telegram官方现已支持中文显示，可在设置中选择语言 https://t.co/SWxZrXsSR1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1160,
+        "media_key": "3_2044911488150982656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGD8KgBa0AAcYqy.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1857,
+        "media_key": "3_2044911488268410880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGD8KgdaoAAg1Mz.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044911488150982656",
+            "3_2044911488268410880"
+          ],
+          "media_source_tweet_id": [
+            "2044911490629787899",
+            "2044911490629787899"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044915599789445531",
+        "created_at": "2026-04-16T23:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T00:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044915599789445531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainBuild_2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWxZrXsSR1",
+              "end": 72,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2044911490629787899/photo/1",
+              "media_key": "3_2044911488150982656",
+              "start": 49,
+              "url": "https://t.co/SWxZrXsSR1"
+            },
+            {
+              "display_url": "pic.x.com/SWxZrXsSR1",
+              "end": 72,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2044911490629787899/photo/1",
+              "media_key": "3_2044911488268410880",
+              "start": 49,
+              "url": "https://t.co/SWxZrXsSR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044915599789445531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044911490629787899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainBuild_2024: Telegram官方现已支持中文显示，可在设置中选择语言 https://t.co/SWxZrXsSR1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044911488150982656",
+            "3_2044911488268410880"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2044911490629787899",
+        "created_at": "2026-04-16T22:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T23:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044911490629787899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SWxZrXsSR1",
+              "end": 52,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2044911490629787899/photo/1",
+              "media_key": "3_2044911488150982656",
+              "start": 29,
+              "url": "https://t.co/SWxZrXsSR1"
+            },
+            {
+              "display_url": "pic.x.com/SWxZrXsSR1",
+              "end": 52,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2044911490629787899/photo/1",
+              "media_key": "3_2044911488268410880",
+              "start": 29,
+              "url": "https://t.co/SWxZrXsSR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044911490629787899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Telegram官方现已支持中文显示，可在设置中选择语言 https://t.co/SWxZrXsSR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 384,
+          "like_count": 10782,
+          "listed_count": 4,
+          "media_count": 611,
+          "tweet_count": 3050
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042977093999570944/b0OIdVg__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9551,
+          "following_count": 923,
+          "like_count": 76716,
+          "listed_count": 19,
+          "media_count": 1525,
+          "tweet_count": 10834
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

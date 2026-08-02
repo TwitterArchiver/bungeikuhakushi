@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2077735140571377869",
+    "created_at": "2026-07-16T16:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T17:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077786192054268007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1837843674283294720",
+          "start": 0,
+          "username": "TeamRain2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077786192054268007",
+    "in_reply_to_user_id": "1837843674283294720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077735140571377869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TeamRain2024 神經質🙄"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077735134548332544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWZGLgaEAAE_lq.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2077735140571377869",
+        "created_at": "2026-07-16T16:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T17:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077786192054268007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1837843674283294720",
+              "start": 0,
+              "username": "TeamRain2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077786192054268007",
+        "in_reply_to_user_id": "1837843674283294720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077735140571377869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TeamRain2024 神經質🙄"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077735134548332544"
+          ]
+        },
+        "author_id": "1837843674283294720",
+        "conversation_id": "2077735140571377869",
+        "created_at": "2026-07-16T12:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077735140571377869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWLTa84zZA",
+              "end": 30,
+              "expanded_url": "https://x.com/TeamRain2024/status/2077735140571377869/photo/1",
+              "media_key": "3_2077735134548332544",
+              "start": 7,
+              "url": "https://t.co/DWLTa84zZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077735140571377869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "威胁我？强大 https://t.co/DWLTa84zZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese｜​有人活在幻想裏 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 357,
+          "like_count": 12640,
+          "listed_count": 3,
+          "media_count": 965,
+          "tweet_count": 4423
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-22T13:17:49.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Design / 🥰 @AotraWong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2026",
+                "end": 23,
+                "expanded_url": "http://t.me/RainEngine2026",
+                "start": 0,
+                "url": "https://t.co/7JvZdxAqN1"
+              }
+            ]
+          }
+        },
+        "id": "1837843674283294720",
+        "name": "晴日向_Official",
+        "pinned_tweet_id": "2074486635853758675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074471177054195712/JAy9wINP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 164,
+          "like_count": 866,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 169
+        },
+        "url": "https://t.co/7JvZdxAqN1",
+        "username": "TeamRain2024",
+        "verified": false
+      }
+    ]
+  }
+}

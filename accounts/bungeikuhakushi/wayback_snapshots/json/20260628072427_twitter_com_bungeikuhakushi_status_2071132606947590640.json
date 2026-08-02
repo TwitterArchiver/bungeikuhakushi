@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2071122023292846166",
+    "created_at": "2026-06-28T07:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T08:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071132606947590640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055911737208315904",
+          "start": 0,
+          "username": "omgnowihasfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071132606947590640",
+    "in_reply_to_user_id": "2055911737208315904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071122023292846166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihasfish 所以你是用大陸拼音的嗎？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2071122020788801536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4agS-bEAA3GUK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2071122023292846166",
+        "created_at": "2026-06-28T07:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071132606947590640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055911737208315904",
+              "start": 0,
+              "username": "omgnowihasfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071132606947590640",
+        "in_reply_to_user_id": "2055911737208315904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071122023292846166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihasfish 所以你是用大陸拼音的嗎？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071122020788801536"
+          ]
+        },
+        "author_id": "2055911737208315904",
+        "conversation_id": "2071122023292846166",
+        "created_at": "2026-06-28T06:42:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071122023292846166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgteCUXW2N",
+              "end": 38,
+              "expanded_url": "https://x.com/omgnowihasfish/status/2071122023292846166/photo/1",
+              "media_key": "3_2071122020788801536",
+              "start": 15,
+              "url": "https://t.co/MgteCUXW2N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071122023292846166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鍵盤沒有注音超越99%台灣人 https://t.co/MgteCUXW2N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 357,
+          "like_count": 12718,
+          "listed_count": 3,
+          "media_count": 937,
+          "tweet_count": 4393
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市 \n2009/12/24 抑鬱 精分 雙向 多重人格 自閉 adhd 雷霆亞硝蒜末美食家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/dQw4w9WgXcQ?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/dQw4w9WgXcQ?si=Gnc7ktA0TsADpGRe",
+                "start": 0,
+                "url": "https://t.co/FZ1JCwuotB"
+              }
+            ]
+          }
+        },
+        "id": "2055911737208315904",
+        "location": "台中市, 台灣",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 622,
+          "like_count": 3270,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 831
+        },
+        "url": "https://t.co/FZ1JCwuotB",
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

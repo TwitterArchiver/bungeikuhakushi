@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2077622746683437210",
+    "created_at": "2026-07-16T17:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T18:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077813334955688114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2060945493195116549",
+          "start": 0,
+          "username": "buzhimingdeyiai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077813334955688114",
+    "in_reply_to_user_id": "2060945493195116549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077622746683437210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzhimingdeyiai 加油華為！ 加油China！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 586,
+        "media_key": "3_2077622621827481601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNUyxE9XwAEKBNM.jpg",
+        "width": 454
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2077622746683437210",
+        "created_at": "2026-07-16T17:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077813334955688114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2060945493195116549",
+              "start": 0,
+              "username": "buzhimingdeyiai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077813334955688114",
+        "in_reply_to_user_id": "2060945493195116549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077622746683437210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzhimingdeyiai 加油華為！ 加油China！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077622621827481601"
+          ]
+        },
+        "author_id": "2060945493195116549",
+        "conversation_id": "2077622746683437210",
+        "created_at": "2026-07-16T05:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077622746683437210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nLVO8IMb3Q",
+              "end": 23,
+              "expanded_url": "https://x.com/buzhimingdeyiai/status/2077622746683437210/photo/1",
+              "media_key": "3_2077622621827481601",
+              "start": 0,
+              "url": "https://t.co/nLVO8IMb3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077622746683437210",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1472,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nLVO8IMb3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese｜​有人活在幻想裏 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 357,
+          "like_count": 12644,
+          "listed_count": 3,
+          "media_count": 965,
+          "tweet_count": 4425
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T04:47:23.000Z",
+        "description": "❌见证，没有任何立场｜幼稚小孩｜友🏳️‍⚧️🏳️‍🌈｜可互fo｜梗图号｜偶尔精神病发作｜不喜欢请回避拉黑｜看个乐就行了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/buzhimingdeyia…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/buzhimingdeyiai1",
+                "start": 0,
+                "url": "https://t.co/ulViwEzGUF"
+              }
+            ]
+          }
+        },
+        "id": "2060945493195116549",
+        "location": "Cape Morris Jesup",
+        "name": "小翌不是翌🍥🎊🎉🍟",
+        "pinned_tweet_id": "2063522560889798739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061034067236163590/TKRptDyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 226,
+          "like_count": 2545,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/ulViwEzGUF",
+        "username": "buzhimingdeyiai",
+        "verified": true
+      }
+    ]
+  }
+}

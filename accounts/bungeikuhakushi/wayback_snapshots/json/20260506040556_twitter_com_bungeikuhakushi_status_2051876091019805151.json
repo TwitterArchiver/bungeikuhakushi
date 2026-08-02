@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051696740529745993",
+    "created_at": "2026-05-06T04:05:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:05:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051876091019805151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051876091019805151",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051696740529745993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 說得對"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051696740529745993",
+        "created_at": "2026-05-06T04:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051876091019805151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051876091019805151",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051696740529745993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 說得對"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2051696740529745993",
+        "created_at": "2026-05-05T16:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T17:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051696740529745993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/smiroyama/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/smiroyama/status/2051685182353330643",
+              "start": 141,
+              "url": "https://t.co/M6wO6lckXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051696740529745993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "環状線认为，在他人有自杀倾向的时候，有时看似温暖的话语或许会起到适得其反的作用，而这种看似毫无同理心的标语反而可能阻止自杀。\n\n温暖的安慰的出发点通常是自杀者自己或者其家人，但自杀者即然有自杀倾向，说明其是已经把自己看得非常轻了，也没有顾及家人会感受如何，環状線想此时的安慰起到的 作用或许并不大，甚至会适得其反。\n\n但这个标语不一样，它是以其他陌生人出发的，并且语气相当强硬。这就给人一种「有人强烈反对你自杀」以及「你的自杀行为不应是完全自由而毫不顾及他人感受的选择」的感觉，这对一些人而言反而是稳定因素，有时还会唤起自杀者一定的责任感，进而起到阻止自杀的作用。\n\n不过，如果有的人是因为长期受到他人控制或者压迫而产生自杀倾向的，那么这种标语或许反而会加速其自杀进程。人的不幸毕竟各不相同，一种标语肯定不是对所有人都有效的。\n\n環状線坚决反对一切自杀行为，同时希望各位推友好好活下去。如果自己或身边人出现自杀倾向，请务必寻求专业人士的帮助。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 50751,
+          "like_count": 469,
+          "quote_count": 10,
+          "reply_count": 50,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051685182353330643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "環状線认为，在他人有自杀倾向的时候，有时看似温暖的话语或许会起到适得其反的作用，而这种看似毫无同理心的标语反而可能阻止自杀。\n\n温暖的安慰的出发点通常是自杀者自己或者其家人，但自杀者即然有自杀倾向，说明其是已经把自己看得非常轻了，也没有顾及家人会感受如何，環状線想此时的安慰起到的 https://t.co/M6wO6lckXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 346,
+          "like_count": 11673,
+          "listed_count": 4,
+          "media_count": 724,
+          "tweet_count": 3625
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n日语号：@NihonKanjousen\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "HuamanX09"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 108,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 85,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2666,
+          "following_count": 801,
+          "like_count": 18121,
+          "listed_count": 9,
+          "media_count": 980,
+          "tweet_count": 5389
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

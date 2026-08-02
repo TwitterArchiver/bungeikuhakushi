@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2053198423843835974",
+    "created_at": "2026-05-10T13:04:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T14:04:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053461195651535039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944286765206122496",
+          "start": 0,
+          "username": "CurryFoxFish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053461195651535039",
+    "in_reply_to_user_id": "1944286765206122496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053198423843835974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CurryFoxFish 好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053198396169854976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5tECEbIAAk1um.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053198398116028416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5tEJUbYAA75CX.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053198391283441664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5tDv3aYAAVEjm.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053198416285696000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH5tFNAagAARqAv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2053198423843835974",
+        "created_at": "2026-05-10T13:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053461195651535039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944286765206122496",
+              "start": 0,
+              "username": "CurryFoxFish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053461195651535039",
+        "in_reply_to_user_id": "1944286765206122496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053198423843835974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CurryFoxFish 好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053198396169854976",
+            "3_2053198398116028416",
+            "3_2053198391283441664",
+            "3_2053198416285696000"
+          ]
+        },
+        "author_id": "1944286765206122496",
+        "conversation_id": "2053198423843835974",
+        "created_at": "2026-05-09T19:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053198423843835974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "男娘"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "水色"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "白丝"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/H66LJB4t6S",
+              "end": 64,
+              "expanded_url": "https://x.com/CurryFoxFish/status/2053198423843835974/photo/1",
+              "media_key": "3_2053198396169854976",
+              "start": 41,
+              "url": "https://t.co/H66LJB4t6S"
+            },
+            {
+              "display_url": "pic.x.com/H66LJB4t6S",
+              "end": 64,
+              "expanded_url": "https://x.com/CurryFoxFish/status/2053198423843835974/photo/1",
+              "media_key": "3_2053198398116028416",
+              "start": 41,
+              "url": "https://t.co/H66LJB4t6S"
+            },
+            {
+              "display_url": "pic.x.com/H66LJB4t6S",
+              "end": 64,
+              "expanded_url": "https://x.com/CurryFoxFish/status/2053198423843835974/photo/1",
+              "media_key": "3_2053198391283441664",
+              "start": 41,
+              "url": "https://t.co/H66LJB4t6S"
+            },
+            {
+              "display_url": "pic.x.com/H66LJB4t6S",
+              "end": 64,
+              "expanded_url": "https://x.com/CurryFoxFish/status/2053198423843835974/photo/1",
+              "media_key": "3_2053198416285696000",
+              "start": 41,
+              "url": "https://t.co/H66LJB4t6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053198423843835974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 9569,
+          "like_count": 196,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "标配校服这一块喵，明明我那么清纯可爱怎么都说我是烧鸡😭\n\n#男娘 #水色 #白丝 https://t.co/H66LJB4t6S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1998,
+          "following_count": 357,
+          "like_count": 11848,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 3765
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T06:45:44.000Z",
+        "description": "我是傻逼，男的，INFP纯良大学生。无糖，不给，混合，活的。平时爱拍点腿子给兄弟们看，我自己也喜欢看嘿嘿😋VRC同名遇到了可以摸摸。",
+        "id": "1944286765206122496",
+        "location": "Your Home",
+        "name": "Icsugar_Fox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042132156512878592/i1NGftQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 9,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 8
+        },
+        "username": "CurryFoxFish",
+        "verified": false
+      }
+    ]
+  }
+}

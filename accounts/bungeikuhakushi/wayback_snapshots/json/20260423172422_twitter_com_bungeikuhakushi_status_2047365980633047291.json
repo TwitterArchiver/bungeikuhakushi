@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046973683470905367",
+    "created_at": "2026-04-23T17:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047365980633047291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001998644673994752",
+          "start": 0,
+          "username": "morganofliberal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047365980633047291",
+    "in_reply_to_user_id": "2001998644673994752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046973683470905367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@morganofliberal 樂不樂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1413,
+        "media_key": "3_2046973439857307649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhPf4tasAE_pBv.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046973683470905367",
+        "created_at": "2026-04-23T17:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047365980633047291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001998644673994752",
+              "start": 0,
+              "username": "morganofliberal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047365980633047291",
+        "in_reply_to_user_id": "2001998644673994752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046973683470905367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@morganofliberal 樂不樂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046973439857307649"
+          ]
+        },
+        "author_id": "2001998644673994752",
+        "conversation_id": "2046973683470905367",
+        "created_at": "2026-04-22T15:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046973683470905367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIE8KXqbeA",
+              "end": 30,
+              "expanded_url": "https://x.com/morganofliberal/status/2046973683470905367/photo/1",
+              "media_key": "3_2046973439857307649",
+              "start": 7,
+              "url": "https://t.co/RIE8KXqbeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046973683470905367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2221,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "向导师社敬🫡 https://t.co/RIE8KXqbeA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 370,
+          "like_count": 11234,
+          "listed_count": 4,
+          "media_count": 649,
+          "tweet_count": 3252
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T12:51:01.000Z",
+        "description": "免于匮乏和恐惧，自由而自尊地生活，直至生命消逝的时刻的权利",
+        "id": "2001998644673994752",
+        "location": "Shinagawa-ku, Tokyo",
+        "name": "Morgan",
+        "pinned_tweet_id": "2004869400487493943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037426839099195392/Ymo2CbTR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 473,
+          "like_count": 4804,
+          "listed_count": 6,
+          "media_count": 226,
+          "tweet_count": 2699
+        },
+        "username": "morganofliberal",
+        "verified": false
+      }
+    ]
+  }
+}

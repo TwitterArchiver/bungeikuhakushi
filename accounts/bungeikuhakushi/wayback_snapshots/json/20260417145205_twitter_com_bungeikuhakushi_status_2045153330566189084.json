@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2045153330566189084",
+    "created_at": "2026-04-17T14:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045153330566189084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Momo0310211/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Momo0310211/status/2044824166948540710",
+          "start": 6,
+          "url": "https://t.co/JXhv5pmVLa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045153330566189084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044824166948540710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "神马玩意？ https://t.co/JXhv5pmVLa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045153330566189084",
+        "created_at": "2026-04-17T14:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045153330566189084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Momo0310211/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Momo0310211/status/2044824166948540710",
+              "start": 6,
+              "url": "https://t.co/JXhv5pmVLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045153330566189084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044824166948540710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "神马玩意？ https://t.co/JXhv5pmVLa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992190279865298945",
+        "conversation_id": "2044824166948540710",
+        "created_at": "2026-04-16T17:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044824166948540710"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044824166948540710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1534,
+          "impression_count": 1652897,
+          "like_count": 14910,
+          "quote_count": 603,
+          "reply_count": 922,
+          "retweet_count": 1831
+        },
+        "reply_settings": "everyone",
+        "text": "厦门174医院还我鸡吧！还我鸡吧！我本来是去割包皮，他们说要先把鸡毛刮了，我就同意了，免责单上面也签了字，打上麻醉醒来以后发现自己鸡吧没了，what？？？他们无人监管！谋财害命！！我在微博上维权这么久，他们也不把我的鸡吧接上！还我鸡吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 385,
+          "like_count": 10864,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 3078
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-22T11:15:58.000Z",
+        "description": "我胡说的呀 置顶推广真假自辨",
+        "id": "1992190279865298945",
+        "name": "绵绵冰",
+        "pinned_tweet_id": "2045074152038814008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043277090792030208/M8GFLtYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 117,
+          "like_count": 2317,
+          "listed_count": 5,
+          "media_count": 55,
+          "tweet_count": 934
+        },
+        "username": "Momo0310211",
+        "verified": false
+      }
+    ]
+  }
+}

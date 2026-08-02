@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2043118136816505303",
+    "created_at": "2026-04-12T16:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043362870830981370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1264169461935833090",
+          "start": 0,
+          "username": "1X1G3Lr7pBe1AJR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043362870830981370",
+    "in_reply_to_user_id": "1264169461935833090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043118136816505303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1X1G3Lr7pBe1AJR 來"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043118136816505303",
+        "created_at": "2026-04-12T16:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043362870830981370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1264169461935833090",
+              "start": 0,
+              "username": "1X1G3Lr7pBe1AJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043362870830981370",
+        "in_reply_to_user_id": "1264169461935833090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043118136816505303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1X1G3Lr7pBe1AJR 來"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264169461935833090",
+        "conversation_id": "2043118136816505303",
+        "created_at": "2026-04-12T00:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T01:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043118136816505303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043118136816505303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3445,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 86,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "各位蓝V來互關了，必回關，有信譽！🫶🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 417,
+          "like_count": 10543,
+          "listed_count": 3,
+          "media_count": 596,
+          "tweet_count": 2955
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-23T12:22:18.000Z",
+        "description": "欢迎各位互关，每关必回，永不取关。 我愿尽微薄之力传播真相，揭露邪恶！让我们一起见证推翻中共的时刻，让民主自由之光洗涤这黑暗的世界！ 期待各位訂閱。谢谢🙏！🔥🔥🏮🏮 🧚‍♀️推荐观看【干净世界】https://t.co/nTrgD7iSdp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ganjing.com/zh-TW",
+                "end": 120,
+                "expanded_url": "https://www.ganjing.com/zh-TW",
+                "start": 97,
+                "url": "https://t.co/nTrgD7iSdp"
+              }
+            ]
+          }
+        },
+        "id": "1264169461935833090",
+        "name": "婉清",
+        "pinned_tweet_id": "2042730209347277262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767454706358796288/Ld0WUTgE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88362,
+          "following_count": 4736,
+          "like_count": 72738,
+          "listed_count": 247,
+          "media_count": 8730,
+          "tweet_count": 22608
+        },
+        "username": "1X1G3Lr7pBe1AJR",
+        "verified": true
+      }
+    ]
+  }
+}

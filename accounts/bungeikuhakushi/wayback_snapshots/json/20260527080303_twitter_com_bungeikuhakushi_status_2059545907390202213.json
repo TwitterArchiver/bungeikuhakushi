@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059545905108586496"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2059545907390202213",
+    "created_at": "2026-05-27T08:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059545907390202213"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nBYjUIcSKp",
+          "end": 34,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2059545907390202213/photo/1",
+          "media_key": "3_2059545905108586496",
+          "start": 11,
+          "url": "https://t.co/nBYjUIcSKp"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "18d30ff8086ed40c"
+    },
+    "id": "2059545907390202213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "請選擇你的日文程度： https://t.co/nBYjUIcSKp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1540,
+        "media_key": "3_2059545905108586496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJT6FribkAA2Lxg.jpg",
+        "width": 972
+      }
+    ],
+    "places": [
+      {
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Chiba-shi Chuo, Chiba",
+        "geo": {
+          "bbox": [
+            140.081222996382,
+            35.5391200010188,
+            140.184443000202,
+            35.6177089989807
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "18d30ff8086ed40c",
+        "name": "Chiba-shi Chuo",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059545905108586496"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2059545907390202213",
+        "created_at": "2026-05-27T08:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059545907390202213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nBYjUIcSKp",
+              "end": 34,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2059545907390202213/photo/1",
+              "media_key": "3_2059545905108586496",
+              "start": 11,
+              "url": "https://t.co/nBYjUIcSKp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "18d30ff8086ed40c"
+        },
+        "id": "2059545907390202213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "請選擇你的日文程度： https://t.co/nBYjUIcSKp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 353,
+          "like_count": 12297,
+          "listed_count": 4,
+          "media_count": 835,
+          "tweet_count": 3997
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

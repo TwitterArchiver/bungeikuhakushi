@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051888787240943617"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051888808988496221",
+    "created_at": "2026-05-06T04:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051888808988496221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZngggPAxVS",
+          "end": 28,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2051888808988496221/photo/1",
+          "media_key": "3_2051888787240943617",
+          "start": 5,
+          "url": "https://t.co/ZngggPAxVS"
+        },
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2051570284298469653",
+          "start": 29,
+          "url": "https://t.co/D3kEgOMXoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051888808988496221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051570284298469653",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "到貨了😋 https://t.co/ZngggPAxVS https://t.co/D3kEgOMXoe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2051888787240943617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHnF-woagAEgIJZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2051570267240210432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHikSdKbIAAAQSU.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051888787240943617"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051888808988496221",
+        "created_at": "2026-05-06T04:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051888808988496221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZngggPAxVS",
+              "end": 28,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2051888808988496221/photo/1",
+              "media_key": "3_2051888787240943617",
+              "start": 5,
+              "url": "https://t.co/ZngggPAxVS"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2051570284298469653",
+              "start": 29,
+              "url": "https://t.co/D3kEgOMXoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051888808988496221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051570284298469653",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到貨了😋 https://t.co/ZngggPAxVS https://t.co/D3kEgOMXoe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051570267240210432"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051570284298469653",
+        "created_at": "2026-05-05T07:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T08:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051570284298469653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4W7p2mugG",
+              "end": 43,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2051570284298469653/photo/1",
+              "media_key": "3_2051570267240210432",
+              "start": 20,
+              "url": "https://t.co/n4W7p2mugG"
+            },
+            {
+              "display_url": "x.com/Lvmaosamaovo/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Lvmaosamaovo/status/2051367486659170556",
+              "start": 44,
+              "url": "https://t.co/1ubuPg44Pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051570284298469653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5239,
+          "like_count": 29,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051367486659170556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是？ 真能買到！ 那讓我買個收藏收藏 https://t.co/n4W7p2mugG https://t.co/1ubuPg44Pz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 346,
+          "like_count": 11676,
+          "listed_count": 4,
+          "media_count": 725,
+          "tweet_count": 3627
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

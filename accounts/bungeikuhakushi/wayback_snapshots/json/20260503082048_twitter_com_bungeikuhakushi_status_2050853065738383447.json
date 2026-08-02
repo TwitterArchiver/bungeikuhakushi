@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050853053977567232"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050853065738383447",
+    "created_at": "2026-05-03T08:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T09:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050853065738383447"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2DuEXfRG6x",
+          "end": 32,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2050853065738383447/photo/1",
+          "media_key": "3_2050853053977567232",
+          "start": 9,
+          "url": "https://t.co/2DuEXfRG6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050853065738383447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "建廁所的人牛大了 https://t.co/2DuEXfRG6x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2050853053977567232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYX_JjboAAhb3k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050853053977567232"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050853065738383447",
+        "created_at": "2026-05-03T08:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050853065738383447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2DuEXfRG6x",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2050853065738383447/photo/1",
+              "media_key": "3_2050853053977567232",
+              "start": 9,
+              "url": "https://t.co/2DuEXfRG6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050853065738383447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "建廁所的人牛大了 https://t.co/2DuEXfRG6x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害熱愛生活\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 352,
+          "like_count": 11936,
+          "listed_count": 4,
+          "media_count": 701,
+          "tweet_count": 3543
+        },
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

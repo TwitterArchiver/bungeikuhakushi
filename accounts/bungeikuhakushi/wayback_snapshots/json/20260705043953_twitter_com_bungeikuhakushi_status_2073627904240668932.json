@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2073627904240668932",
+    "created_at": "2026-07-05T04:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T05:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073627904240668932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Yg_PriseTwinkl…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Yg_PriseTwinkle/status/2073205827390083159",
+          "start": 21,
+          "url": "https://t.co/OWcBRrgqMc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073627904240668932",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073205827390083159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UnkMtX  我草尼馬 你還是人嗎？ https://t.co/OWcBRrgqMc"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [UnkMtX].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "UnkMtX",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "UnkMtX"
+    },
+    {
+      "detail": "User has been suspended: [2055095022425722880].",
+      "parameter": "in_reply_to_user_id",
+      "resource_id": "2055095022425722880",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2055095022425722880"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1113,
+        "media_key": "3_2073205822562385920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMWBthgaQAAu3kH.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2073627904240668932",
+        "created_at": "2026-07-05T04:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073627904240668932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Yg_PriseTwinkl…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Yg_PriseTwinkle/status/2073205827390083159",
+              "start": 21,
+              "url": "https://t.co/OWcBRrgqMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073627904240668932",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073205827390083159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UnkMtX  我草尼馬 你還是人嗎？ https://t.co/OWcBRrgqMc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073205822562385920"
+          ]
+        },
+        "author_id": "2072606907995746304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073205827390083159",
+        "created_at": "2026-07-04T00:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073205827390083159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWZbtWTS76",
+              "end": 49,
+              "expanded_url": "https://x.com/Yg_PriseTwinkle/status/2073205827390083159/photo/1",
+              "media_key": "3_2073205822562385920",
+              "start": 26,
+              "url": "https://t.co/lWZbtWTS76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073205827390083159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4459,
+          "like_count": 26,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在Unk的指导下，也是知道怎么用了😋今天晚上就来点 https://t.co/lWZbtWTS76"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106,
+          "following_count": 361,
+          "like_count": 12800,
+          "listed_count": 3,
+          "media_count": 956,
+          "tweet_count": 4454
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-02T09:05:04.000Z",
+        "description": "a",
+        "id": "2072606907995746304",
+        "location": "a",
+        "name": "@Yg_PriseTwinkle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073205292381384704/dzYjW44Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "Yg_PriseTwinkle",
+        "verified": false
+      }
+    ]
+  }
+}

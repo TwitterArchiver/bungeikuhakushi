@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2081820437013733673",
+    "created_at": "2026-07-27T22:41:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T23:41:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081872559201833279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2077352385958342656",
+          "start": 0,
+          "username": "RainEngine2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081872559201833279",
+    "in_reply_to_user_id": "2077352385958342656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081820437013733673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2026 讓唐毓文打開手機前置攝像頭 可以找到一個醜到爆的死跨出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081820427438178304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQcpheawAA9mg8.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2081820437013733673",
+        "created_at": "2026-07-27T22:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T23:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081872559201833279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077352385958342656",
+              "start": 0,
+              "username": "RainEngine2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081872559201833279",
+        "in_reply_to_user_id": "2077352385958342656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081820437013733673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2026 讓唐毓文打開手機前置攝像頭 可以找到一個醜到爆的死跨出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081820427438178304"
+          ]
+        },
+        "author_id": "2077352385958342656",
+        "conversation_id": "2081820437013733673",
+        "created_at": "2026-07-27T19:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081820437013733673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t919k6Ugnu",
+              "end": 88,
+              "expanded_url": "https://x.com/RainEngine2026/status/2081820437013733673/photo/1",
+              "media_key": "3_2081820427438178304",
+              "start": 65,
+              "url": "https://t.co/t919k6Ugnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081820437013733673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 687,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到这条post的时候给我整笑了，我上推上了三年我都没说过自己是mtf，但我却能无时无刻的都被挂在跨圈里被当作mtf，还是太强了 https://t.co/t919k6Ugnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰🇲🇴｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081754219997200384/pJoooY_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2151,
+          "following_count": 346,
+          "like_count": 12814,
+          "listed_count": 3,
+          "media_count": 1004,
+          "tweet_count": 4518
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T11:21:28.000Z",
+        "description": "Xiaomi Partner / RainEngine UX Designer",
+        "id": "2077352385958342656",
+        "name": "雨晴酱_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080733589575241728/rpJUSNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 109,
+          "like_count": 762,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "RainEngine2026",
+        "verified": false
+      }
+    ]
+  }
+}

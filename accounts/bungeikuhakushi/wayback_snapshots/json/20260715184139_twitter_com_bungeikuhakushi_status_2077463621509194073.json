@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2077360351700717968",
+    "created_at": "2026-07-15T18:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T19:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077463621509194073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1008615379885670400",
+          "start": 0,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077463621509194073",
+    "in_reply_to_user_id": "1008615379885670400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077360351700717968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensml8964 可以可以 還是個法學生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2077360101950951424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNREAaNbEAAiipP.jpg",
+        "width": 2121
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2077360351700717968",
+        "created_at": "2026-07-15T18:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077463621509194073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077463621509194073",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077360351700717968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 可以可以 還是個法學生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077360101950951424"
+          ]
+        },
+        "author_id": "1008615379885670400",
+        "conversation_id": "2077360351700717968",
+        "created_at": "2026-07-15T11:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T12:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077360351700717968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wTcPymVHb",
+              "end": 53,
+              "expanded_url": "https://x.com/zhinarensml8964/status/2077360351700717968/photo/1",
+              "media_key": "3_2077360101950951424",
+              "start": 30,
+              "url": "https://t.co/9wTcPymVHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077360351700717968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 402,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一到家直接累躺了，法院实习好累啊…（虽然我根本就没干什么） https://t.co/9wTcPymVHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​活在幻想裏 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 357,
+          "like_count": 12637,
+          "listed_count": 3,
+          "media_count": 965,
+          "tweet_count": 4421
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "已复活",
+        "id": "1008615379885670400",
+        "location": "731无害化东北狗中心",
+        "name": "大統領_official",
+        "pinned_tweet_id": "2077314942500520231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077317566763307008/YwZz00oR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 1086,
+          "like_count": 47965,
+          "listed_count": 6,
+          "media_count": 719,
+          "tweet_count": 4624
+        },
+        "url": "",
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

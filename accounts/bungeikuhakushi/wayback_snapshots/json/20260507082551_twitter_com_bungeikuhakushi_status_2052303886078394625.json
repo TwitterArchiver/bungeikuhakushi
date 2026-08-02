@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2052242912860066052",
+    "created_at": "2026-05-07T08:25:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T09:25:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052303886078394625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291307698848505858",
+          "start": 0,
+          "username": "hkposter777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052303886078394625",
+    "in_reply_to_user_id": "1291307698848505858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052242912860066052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hkposter777 一次性 視頻 素質 數碼 改進 重點 巔峰 意見"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2052242907940139012",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHsIDTCWMAQdv5W.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2052242912860066052",
+        "created_at": "2026-05-07T08:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052303886078394625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291307698848505858",
+              "start": 0,
+              "username": "hkposter777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052303886078394625",
+        "in_reply_to_user_id": "1291307698848505858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052242912860066052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hkposter777 一次性 視頻 素質 數碼 改進 重點 巔峰 意見"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052242907940139012"
+          ]
+        },
+        "author_id": "1291307698848505858",
+        "conversation_id": "2052242912860066052",
+        "created_at": "2026-05-07T04:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052242912860066052"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 26,
+              "tag": "我係香港人我講廣東話"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "支語"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "蝗語"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "廣東話"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "香港文化"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v01YezgSDE",
+              "end": 102,
+              "expanded_url": "https://x.com/hkposter777/status/2052242912860066052/photo/1",
+              "media_key": "3_2052242907940139012",
+              "start": 79,
+              "url": "https://t.co/v01YezgSDE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052242912860066052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 506,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "有冇人都會咁在意啲用字？你哋又會揀邊啲用字呢？🤔\n\n#我係香港人我講廣東話\n#支語 #蝗語 #廣東話 #香港文化\n\nCredit: @kwankungmui https://t.co/v01YezgSDE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット（広州",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 351,
+          "like_count": 11801,
+          "listed_count": 4,
+          "media_count": 730,
+          "tweet_count": 3670
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-06T09:38:50.000Z",
+        "description": "本頻道自2019年6月設立，集合文宣作品，以供同路人廣傳\n\nTG/Twitter/FB/MeWe/IG: @hkposter777\n\n不是因為看見希望而堅持\n而是因為堅持才看見希望",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 53,
+                "username": "hkposter777"
+              }
+            ]
+          }
+        },
+        "id": "1291307698848505858",
+        "name": "777文宣傳播稿件大合集",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1300111959992365056/Q7nIv4x2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7027,
+          "following_count": 611,
+          "like_count": 3745,
+          "listed_count": 34,
+          "media_count": 7735,
+          "tweet_count": 7774
+        },
+        "username": "hkposter777",
+        "verified": false
+      }
+    ]
+  }
+}

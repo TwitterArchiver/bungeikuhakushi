@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2063915808041181387",
+    "created_at": "2026-06-08T09:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063915808041181387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ziye743964/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/ziye743964/status/2063912911140196409",
+          "start": 35,
+          "url": "https://t.co/XkuwMcvap0"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2063915808041181387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063912911140196409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你達爾文老爺爺都800年沒更新了 不知道是不是死在重慶的哪個死地方了 https://t.co/XkuwMcvap0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2063912908627816448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKR92vYasAAVwZ3.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2063915808041181387",
+        "created_at": "2026-06-08T09:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063915808041181387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ziye743964/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/ziye743964/status/2063912911140196409",
+              "start": 35,
+              "url": "https://t.co/XkuwMcvap0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2063915808041181387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063912911140196409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你達爾文老爺爺都800年沒更新了 不知道是不是死在重慶的哪個死地方了 https://t.co/XkuwMcvap0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063912908627816448"
+          ]
+        },
+        "author_id": "2020036253216083968",
+        "conversation_id": "2063912911140196409",
+        "created_at": "2026-06-08T09:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063912911140196409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5IE3RYE9aW",
+              "end": 66,
+              "expanded_url": "https://x.com/ziye743964/status/2063912911140196409/photo/1",
+              "media_key": "3_2063912908627816448",
+              "start": 43,
+              "url": "https://t.co/5IE3RYE9aW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063912911140196409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天就是生物高考了\n你達替達爾文老爺爺給大家助力高考\n祝大家高考加油 生物必上100 https://t.co/5IE3RYE9aW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 354,
+          "like_count": 12631,
+          "listed_count": 3,
+          "media_count": 877,
+          "tweet_count": 4158
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-07T07:26:01.000Z",
+        "description": "跨出們和東北逼最嚴歷的父親\n反跨 反LGBT 反滿洲 反北角 反東北 \n傻逼跨出和東北dog還是早點轉生好點",
+        "id": "2020036253216083968",
+        "location": "IP所在地：湖北",
+        "name": "達達達達達爾文🍥",
+        "pinned_tweet_id": "2062177300326842611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063255963843620864/8qH5lj8s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 9,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 69
+        },
+        "username": "ziye743964",
+        "verified": false
+      }
+    ]
+  }
+}

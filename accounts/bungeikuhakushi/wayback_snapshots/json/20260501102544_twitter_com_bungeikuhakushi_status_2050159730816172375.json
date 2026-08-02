@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050146628582134020",
+    "created_at": "2026-05-01T10:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050159730816172375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "958306825237020672",
+          "start": 0,
+          "username": "Aravin29604927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050159730816172375",
+    "in_reply_to_user_id": "958306825237020672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050159069303079244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aravin29604927 啥玩意來的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050146628582134020",
+        "created_at": "2026-05-01T10:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050159730816172375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "958306825237020672",
+              "start": 0,
+              "username": "Aravin29604927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050159730816172375",
+        "in_reply_to_user_id": "958306825237020672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050159069303079244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aravin29604927 啥玩意來的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958306825237020672",
+        "conversation_id": "2050146628582134020",
+        "created_at": "2026-05-01T10:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050159069303079244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050159069303079244",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050146628582134020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 之前还有帮下龙虾赚钱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 352,
+          "like_count": 11828,
+          "listed_count": 4,
+          "media_count": 692,
+          "tweet_count": 3505
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-30T11:52:06.000Z",
+        "description": "请慎重fo我，以免造成不良的观感",
+        "id": "958306825237020672",
+        "name": "cx2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048099345715888128/dX-1OPHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 93,
+          "like_count": 3245,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 4085
+        },
+        "username": "Aravin29604927",
+        "verified": false
+      }
+    ]
+  }
+}

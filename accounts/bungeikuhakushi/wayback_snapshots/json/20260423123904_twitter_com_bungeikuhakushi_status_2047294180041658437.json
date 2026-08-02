@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047294169996279808"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046966203865010476",
+    "created_at": "2026-04-23T12:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T13:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047294180041658437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "Rennord9407"
+        },
+        {
+          "end": 27,
+          "id": "1915087790913810432",
+          "start": 13,
+          "username": "Jougasaki_Noa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S9DwvqhDH4",
+          "end": 51,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2047294180041658437/photo/1",
+          "media_key": "3_2047294169996279808",
+          "start": 28,
+          "url": "https://t.co/S9DwvqhDH4"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2047294180041658437",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047293990798799035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rennord9407 @Jougasaki_Noa https://t.co/S9DwvqhDH4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_2047294169996279808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlzM1lbQAALaE-.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047294169996279808"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046966203865010476",
+        "created_at": "2026-04-23T12:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047294180041658437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "Rennord9407"
+            },
+            {
+              "end": 27,
+              "id": "1915087790913810432",
+              "start": 13,
+              "username": "Jougasaki_Noa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9DwvqhDH4",
+              "end": 51,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2047294180041658437/photo/1",
+              "media_key": "3_2047294169996279808",
+              "start": 28,
+              "url": "https://t.co/S9DwvqhDH4"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2047294180041658437",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047293990798799035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rennord9407 @Jougasaki_Noa https://t.co/S9DwvqhDH4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980140172726673408",
+        "conversation_id": "2046966203865010476",
+        "created_at": "2026-04-23T12:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047293990798799035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915087790913810432",
+              "start": 0,
+              "username": "Jougasaki_Noa"
+            },
+            {
+              "end": 31,
+              "id": "1964042844198621187",
+              "start": 15,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047293990798799035",
+        "in_reply_to_user_id": "1915087790913810432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047293807893655689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jougasaki_Noa @bungeikuhakushi 开！除！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 380,
+          "like_count": 11203,
+          "listed_count": 4,
+          "media_count": 648,
+          "tweet_count": 3236
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "pansexual🏳️‍🌈 友跨 全力支持争取性少数群体权益|社会民主主义🌹左翼 国际主义|键政学习中|\n有精神病所以请温柔对待我喵\n🇩🇪学习中|可以与任何立场的友善的人互fo",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 549,
+          "like_count": 37764,
+          "listed_count": 4,
+          "media_count": 109,
+          "tweet_count": 6642
+        },
+        "username": "Rennord9407",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T16:58:29.000Z",
+        "description": "小号:@xinglinai8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "xinglinai8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/ZcQJWPzC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/ZcQJWPzC",
+                "start": 0,
+                "url": "https://t.co/pst1zDQJif"
+              }
+            ]
+          }
+        },
+        "id": "1915087790913810432",
+        "name": "城ケ崎 ノア",
+        "pinned_tweet_id": "1957072684271194469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004329674328129538/Wd4LU80G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 457,
+          "like_count": 39120,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/pst1zDQJif",
+        "username": "Jougasaki_Noa",
+        "verified": false
+      }
+    ]
+  }
+}

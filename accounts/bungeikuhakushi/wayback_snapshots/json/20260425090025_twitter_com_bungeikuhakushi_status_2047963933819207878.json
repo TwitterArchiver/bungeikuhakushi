@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047353344734515616",
+    "created_at": "2026-04-25T09:00:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047963933819207878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1904054795939536896",
+          "start": 0,
+          "username": "zuiyoujie00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047963933819207878",
+    "in_reply_to_user_id": "1904054795939536896",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047353344734515616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@zuiyoujie00 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2047353316334850048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmo_m3bUAAtSd9.jpg",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047353344734515616",
+        "created_at": "2026-04-25T09:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047963933819207878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1904054795939536896",
+              "start": 0,
+              "username": "zuiyoujie00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047963933819207878",
+        "in_reply_to_user_id": "1904054795939536896",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047353344734515616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@zuiyoujie00 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047353316334850048"
+          ]
+        },
+        "author_id": "1904054795939536896",
+        "conversation_id": "2047353344734515616",
+        "created_at": "2026-04-23T16:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047353344734515616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cddtOS79OR",
+              "end": 42,
+              "expanded_url": "https://x.com/zuiyoujie00/status/2047353344734515616/photo/1",
+              "media_key": "3_2047353316334850048",
+              "start": 19,
+              "url": "https://t.co/cddtOS79OR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047353344734515616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 487,
+          "impression_count": 67337,
+          "like_count": 4518,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 64
+        },
+        "reply_settings": "verified",
+        "text": "这个姿势一定很舒服吧，做起来就不累啦 https://t.co/cddtOS79OR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2025",
+                "start": 0,
+                "url": "https://t.co/88dwT7z2iF"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 365,
+          "like_count": 11325,
+          "listed_count": 4,
+          "media_count": 657,
+          "tweet_count": 3291
+        },
+        "url": "https://t.co/88dwT7z2iF",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-24T06:17:03.000Z",
+        "description": "敏感的小猫一枚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zuiyoujieya",
+                "end": 23,
+                "expanded_url": "http://t.me/zuiyoujieya",
+                "start": 0,
+                "url": "https://t.co/wjqXh1cVXW"
+              }
+            ]
+          }
+        },
+        "id": "1904054795939536896",
+        "location": "入🚪详细👉",
+        "name": "最优解",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044828333658243072/MdY3rtoa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 19
+        },
+        "url": "https://t.co/wjqXh1cVXW",
+        "username": "zuiyoujie00",
+        "verified": false
+      }
+    ]
+  }
+}

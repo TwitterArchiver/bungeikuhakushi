@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067534830821421057"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2067534844851323155",
+    "created_at": "2026-06-18T09:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067534844851323155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFSrZXAdtX",
+          "end": 35,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2067534844851323155/photo/1",
+          "media_key": "3_2067534830821421057",
+          "start": 12,
+          "url": "https://t.co/oFSrZXAdtX"
+        },
+        {
+          "display_url": "x.com/jim71351321670…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/jim71351321670/status/2067529879856509012",
+          "start": 36,
+          "url": "https://t.co/CIJu9DzIVZ"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2067534844851323155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067529879856509012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行 沒去過北方 也夠了 https://t.co/oFSrZXAdtX https://t.co/CIJu9DzIVZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2067534830821421057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFb-W_bsAERXJu.jpg",
+        "width": 2268
+      },
+      {
+        "height": 2268,
+        "media_key": "3_2067529875024695296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFXd5Na0AAU4b7.jpg",
+        "width": 2268
+      },
+      {
+        "height": 1084,
+        "media_key": "3_2067529874047418368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFXd1kawAACuQX.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2067529874005471232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFXd1aasAArk3m.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2067529876173889536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFXd9faIAAn_1V.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067534830821421057"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2067534844851323155",
+        "created_at": "2026-06-18T09:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067534844851323155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFSrZXAdtX",
+              "end": 35,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2067534844851323155/photo/1",
+              "media_key": "3_2067534830821421057",
+              "start": 12,
+              "url": "https://t.co/oFSrZXAdtX"
+            },
+            {
+              "display_url": "x.com/jim71351321670…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/jim71351321670/status/2067529879856509012",
+              "start": 36,
+              "url": "https://t.co/CIJu9DzIVZ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2067534844851323155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067529879856509012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行 沒去過北方 也夠了 https://t.co/oFSrZXAdtX https://t.co/CIJu9DzIVZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067529875024695296",
+            "3_2067529874047418368",
+            "3_2067529874005471232",
+            "3_2067529876173889536"
+          ]
+        },
+        "author_id": "1816123872087007235",
+        "conversation_id": "2067529879856509012",
+        "created_at": "2026-06-18T08:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067529879856509012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7mY6Jd7CuD",
+              "end": 41,
+              "expanded_url": "https://x.com/jim71351321670/status/2067529879856509012/photo/1",
+              "media_key": "3_2067529875024695296",
+              "start": 18,
+              "url": "https://t.co/7mY6Jd7CuD"
+            },
+            {
+              "display_url": "pic.x.com/7mY6Jd7CuD",
+              "end": 41,
+              "expanded_url": "https://x.com/jim71351321670/status/2067529879856509012/photo/1",
+              "media_key": "3_2067529874047418368",
+              "start": 18,
+              "url": "https://t.co/7mY6Jd7CuD"
+            },
+            {
+              "display_url": "pic.x.com/7mY6Jd7CuD",
+              "end": 41,
+              "expanded_url": "https://x.com/jim71351321670/status/2067529879856509012/photo/1",
+              "media_key": "3_2067529874005471232",
+              "start": 18,
+              "url": "https://t.co/7mY6Jd7CuD"
+            },
+            {
+              "display_url": "pic.x.com/7mY6Jd7CuD",
+              "end": 41,
+              "expanded_url": "https://x.com/jim71351321670/status/2067529879856509012/photo/1",
+              "media_key": "3_2067529876173889536",
+              "start": 18,
+              "url": "https://t.co/7mY6Jd7CuD"
+            },
+            {
+              "display_url": "x.com/RenChan_VmV/st…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/RenChan_VmV/status/2067503868653731963",
+              "start": 42,
+              "url": "https://t.co/pbrD6DDb9c"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2067529879856509012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067503868653731963",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就去過這些地方，後邊是在香港拍的 https://t.co/7mY6Jd7CuD https://t.co/pbrD6DDb9c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 357,
+          "like_count": 12586,
+          "listed_count": 3,
+          "media_count": 906,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n  平壤江東郡現任執事【2025-2028】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwan.gov.tw",
+                "end": 23,
+                "expanded_url": "https://www.taiwan.gov.tw/",
+                "start": 0,
+                "url": "https://t.co/k4uEtD9c9b"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "Kaohsiung, Taiwan",
+        "name": "冉冉面（s版）🇨🇳🇹🇼",
+        "pinned_tweet_id": "2039728461015838818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 638,
+          "like_count": 16027,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 3183
+        },
+        "url": "https://t.co/k4uEtD9c9b",
+        "username": "jim71351321670",
+        "verified": true
+      }
+    ]
+  }
+}

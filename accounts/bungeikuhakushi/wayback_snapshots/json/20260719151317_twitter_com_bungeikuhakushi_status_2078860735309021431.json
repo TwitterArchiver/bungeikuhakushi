@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2078536673177330016",
+    "created_at": "2026-07-19T15:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078860735309021431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063304150084157440",
+          "start": 0,
+          "username": "StarvePanda"
+        },
+        {
+          "end": 28,
+          "id": "1260553941714186241",
+          "start": 13,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 41,
+          "id": "98864871",
+          "start": 29,
+          "username": "wangdan1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078860735309021431",
+    "in_reply_to_user_id": "2063304150084157440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078536673177330016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarvePanda @whyyoutouzhele @wangdan1989 李老師我感覺還真是出生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_2078536648070246400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhyEaDbsAAmha5.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1988,
+        "media_key": "3_2078536648112173056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhyEaNbcAAkgpm.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1973,
+        "media_key": "3_2078536648120500224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhyEaPagAAWDU-.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1983,
+        "media_key": "3_2078536648128913408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNhyEaRa4AA3Fe8.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2078536673177330016",
+        "created_at": "2026-07-19T15:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078860735309021431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063304150084157440",
+              "start": 0,
+              "username": "StarvePanda"
+            },
+            {
+              "end": 28,
+              "id": "1260553941714186241",
+              "start": 13,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 41,
+              "id": "98864871",
+              "start": 29,
+              "username": "wangdan1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078860735309021431",
+        "in_reply_to_user_id": "2063304150084157440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078536673177330016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarvePanda @whyyoutouzhele @wangdan1989 李老師我感覺還真是出生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078536648070246400",
+            "3_2078536648112173056",
+            "3_2078536648120500224",
+            "3_2078536648128913408"
+          ]
+        },
+        "author_id": "2063304150084157440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2078536673177330016",
+        "created_at": "2026-07-18T17:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078536673177330016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ww7a7TepK",
+              "end": 41,
+              "expanded_url": "https://x.com/StarvePanda/status/2078536673177330016/photo/1",
+              "media_key": "3_2078536648070246400",
+              "start": 18,
+              "url": "https://t.co/5ww7a7TepK"
+            },
+            {
+              "display_url": "pic.x.com/5ww7a7TepK",
+              "end": 41,
+              "expanded_url": "https://x.com/StarvePanda/status/2078536673177330016/photo/1",
+              "media_key": "3_2078536648112173056",
+              "start": 18,
+              "url": "https://t.co/5ww7a7TepK"
+            },
+            {
+              "display_url": "pic.x.com/5ww7a7TepK",
+              "end": 41,
+              "expanded_url": "https://x.com/StarvePanda/status/2078536673177330016/photo/1",
+              "media_key": "3_2078536648120500224",
+              "start": 18,
+              "url": "https://t.co/5ww7a7TepK"
+            },
+            {
+              "display_url": "pic.x.com/5ww7a7TepK",
+              "end": 41,
+              "expanded_url": "https://x.com/StarvePanda/status/2078536673177330016/photo/1",
+              "media_key": "3_2078536648128913408",
+              "start": 18,
+              "url": "https://t.co/5ww7a7TepK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078536673177330016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1217,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了李老師的介紹不對，其他都好準😋 https://t.co/5ww7a7TepK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰｜​人活在幻想裏 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078130819269566464/G5H3ogAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 356,
+          "like_count": 12696,
+          "listed_count": 3,
+          "media_count": 974,
+          "tweet_count": 4444
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T16:58:47.000Z",
+        "description": "熊貓絕食 Starve Panda｜人本主義・康德奧威爾「人是目的，而非手段」｜友跨🏳️‍⚧️🍥｜🇹🇼🇭🇰🇸🇬🇯🇵🇰🇷｜我係香港人，喺台灣住緊｜母語國語｜P&L",
+        "id": "2063304150084157440",
+        "location": "彰化縣, 台灣",
+        "name": "熊貓絕食",
+        "pinned_tweet_id": "2078787640724537497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072349658530410496/90KFCIVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 211,
+          "like_count": 3845,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 643
+        },
+        "url": "",
+        "username": "StarvePanda",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2242144,
+          "following_count": 1078,
+          "like_count": 9803,
+          "listed_count": 8822,
+          "media_count": 50682,
+          "tweet_count": 57899
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-23T12:05:30.000Z",
+        "description": "一个不可救药的理想主义者； 致力于做一个温和，坚定，建设性的政治反对派； 期待未来的中国，能够重建政治秩序和生活秩序。 油管：王丹学堂；个人PayPal账户：https://t.co/31K0DAWhJK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.me/wangdan1989",
+                "end": 102,
+                "expanded_url": "http://www.paypal.me/wangdan1989",
+                "start": 79,
+                "url": "https://t.co/31K0DAWhJK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCAbpB…",
+                "end": 23,
+                "expanded_url": "http://youtube.com/channel/UCAbpBUsrolyu6HvwPcmhXZw",
+                "start": 0,
+                "url": "https://t.co/2Nz8cyeo2Z"
+              }
+            ]
+          }
+        },
+        "id": "98864871",
+        "name": "王丹",
+        "pinned_tweet_id": "2039413410409107835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/986803942205022208/v3mMEbZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375297,
+          "following_count": 12957,
+          "like_count": 9324,
+          "listed_count": 1908,
+          "media_count": 3112,
+          "tweet_count": 22115
+        },
+        "url": "https://t.co/2Nz8cyeo2Z",
+        "username": "wangdan1989",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050166234277396864",
+    "created_at": "2026-05-01T13:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T14:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050210986469298257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029854517685284864",
+          "start": 0,
+          "username": "d0llface_shioko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050210986469298257",
+    "in_reply_to_user_id": "2029854517685284864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050166234277396864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d0llface_shioko かわいね"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19945,
+        "height": 1024,
+        "media_key": "7_2050166189830311936",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2050166189830311936/pu/img/HOio_8TTjWG1M0xh.jpg",
+        "public_metrics": {
+          "view_count": 137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050166189830311936/pu/vid/avc1/320x568/fPliXiVeNMhBh1Ed.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050166189830311936/pu/vid/avc1/480x852/QedgmYKrrJh1eryM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2050166189830311936/pu/vid/avc1/576x1024/mi9FaIhzZO3zb5AA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2050166189830311936/pu/pl/QUQ4B5XwfAsr6NSY.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050166234277396864",
+        "created_at": "2026-05-01T13:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050210986469298257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029854517685284864",
+              "start": 0,
+              "username": "d0llface_shioko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050210986469298257",
+        "in_reply_to_user_id": "2029854517685284864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050166234277396864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d0llface_shioko かわいね"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2050166189830311936"
+          ]
+        },
+        "author_id": "2029854517685284864",
+        "conversation_id": "2050166234277396864",
+        "created_at": "2026-05-01T10:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050166234277396864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZcBqnoWlEH",
+              "end": 44,
+              "expanded_url": "https://x.com/d0llface_shioko/status/2050166234277396864/video/1",
+              "media_key": "7_2050166189830311936",
+              "start": 21,
+              "url": "https://t.co/ZcBqnoWlEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050166234277396864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 299,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Holy I'm bad at this https://t.co/ZcBqnoWlEH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1937,
+          "following_count": 354,
+          "like_count": 11842,
+          "listed_count": 4,
+          "media_count": 692,
+          "tweet_count": 3513
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-06T09:40:17.000Z",
+        "description": "꒰ა INTERNET ❤︎ ANGEL ໒꒱ \n:¨ ·.· ¨ ꔫ#地雷女 🇭🇰⸝⸝ #hsrtwt #yumetwt\n`· .推し: #刃 𝟎𝟕.𝟎𝟑. 𝟐𝟎𝟐𝟒 ♡ @itz_shioko\n⤷#夢女 ⸝⸝ 中文.ᐟ日語.ᐟENG \ninsta/disc/tt: d0llface_shioko",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "hsrtwt"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "yumetwt"
+              },
+              {
+                "end": 72,
+                "start": 70,
+                "tag": "刃"
+              },
+              {
+                "end": 103,
+                "start": 100,
+                "tag": "夢女"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "itz_shioko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/d0llface_shioko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/d0llface_shioko",
+                "start": 0,
+                "url": "https://t.co/mI2hDEu6DK"
+              }
+            ]
+          }
+        },
+        "id": "2029854517685284864",
+        "location": "priv: @shios_archive",
+        "name": "SHIOKO/刃の愛 ☆‧₊˚",
+        "pinned_tweet_id": "2042606565484814830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029854930283139072/VFet0LK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2376,
+          "following_count": 1260,
+          "like_count": 3123,
+          "listed_count": 31,
+          "media_count": 318,
+          "tweet_count": 1841
+        },
+        "url": "https://t.co/mI2hDEu6DK",
+        "username": "d0llface_shioko",
+        "verified": false
+      }
+    ]
+  }
+}

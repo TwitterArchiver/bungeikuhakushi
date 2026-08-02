@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2067892486295744806",
+    "created_at": "2026-06-19T10:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067921451248947416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1833775663222075392",
+          "start": 0,
+          "username": "SocDemCNBunny"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067921451248947416",
+    "in_reply_to_user_id": "1833775663222075392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067892486295744806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SocDemCNBunny 粽子必須是鹹的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2067892486295744806",
+        "created_at": "2026-06-19T10:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067921451248947416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1833775663222075392",
+              "start": 0,
+              "username": "SocDemCNBunny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067921451248947416",
+        "in_reply_to_user_id": "1833775663222075392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067892486295744806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SocDemCNBunny 粽子必須是鹹的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833775663222075392",
+        "conversation_id": "2067892486295744806",
+        "created_at": "2026-06-19T08:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067892486295744806"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "兔酱民调"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "南北战争"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067892486295744806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#兔酱民调 #南北战争 甜粽还是咸粽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 359,
+          "like_count": 12609,
+          "listed_count": 3,
+          "media_count": 910,
+          "tweet_count": 4275
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-11T07:52:53.000Z",
+        "description": "医学预科🥼+政学📖｜社民🌹｜进步派⏩｜INTP🧪｜🇺🇦🇵🇸｜史政coser🎭｜🚹🚺平等｜🏳️‍🌈🏳️‍⚧️友好｜中文🇨🇳English🇺🇸Français🇫🇷｜国际主义🌍+左翼民族主义🇨🇳🇭🇰🇲🇴🇹🇼｜樊星🏓+罗迷⚽️｜Retardophobia不与傻子论长短",
+        "id": "1833775663222075392",
+        "name": "进步的🐇酱🇨🇳🇺🇦🇵🇸🏳️‍🌈🏳️‍⚧️🌹🚩🍉🌻Vamos🇵🇹",
+        "pinned_tweet_id": "2065329854858613056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065330000434548736/-6aT5PSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1134,
+          "like_count": 29169,
+          "listed_count": 8,
+          "media_count": 1883,
+          "tweet_count": 12161
+        },
+        "url": "",
+        "username": "SocDemCNBunny",
+        "verified": false
+      }
+    ]
+  }
+}

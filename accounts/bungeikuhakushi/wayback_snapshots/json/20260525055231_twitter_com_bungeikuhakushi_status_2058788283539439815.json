@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2058390938066759693",
+    "created_at": "2026-05-25T05:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T06:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058788283539439815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378164402101182469",
+          "start": 0,
+          "username": "Appraiser008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058788283539439815",
+    "in_reply_to_user_id": "1378164402101182469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058390938066759693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Appraiser008 on9 話自己係香港人但喺香港又講廣東話 有八達通唔用 用個死人支付寶 有其他雪糕唔食 偏要食個遊客打卡嘅細菌超標雪糕 嗰阿伯唔抵死xd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 193445,
+        "height": 1280,
+        "media_key": "7_2058390807544315905",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2058390807544315905/pu/img/PYB0lUcaJl7hIuJa.jpg",
+        "public_metrics": {
+          "view_count": 264473
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058390807544315905/pu/vid/avc1/320x568/jXKphgYawf0dc80u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058390807544315905/pu/vid/avc1/480x852/zb1QzNxakKihbojS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2058390807544315905/pu/vid/avc1/720x1280/3SGkgZ3i87Lw0-QA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2058390807544315905/pu/pl/loE4iWAE4wG6rDUu.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2058390938066759693",
+        "created_at": "2026-05-25T05:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T06:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058788283539439815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378164402101182469",
+              "start": 0,
+              "username": "Appraiser008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058788283539439815",
+        "in_reply_to_user_id": "1378164402101182469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058390938066759693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Appraiser008 on9 話自己係香港人但喺香港又講廣東話 有八達通唔用 用個死人支付寶 有其他雪糕唔食 偏要食個遊客打卡嘅細菌超標雪糕 嗰阿伯唔抵死xd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2058390807544315905"
+          ]
+        },
+        "author_id": "1378164402101182469",
+        "conversation_id": "2058390938066759693",
+        "created_at": "2026-05-24T03:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058390938066759693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9n8KkVCip9",
+              "end": 165,
+              "expanded_url": "https://x.com/Appraiser008/status/2058390938066759693/video/1",
+              "media_key": "7_2058390807544315905",
+              "start": 142,
+              "url": "https://t.co/9n8KkVCip9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058390938066759693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "香港尖沙咀街头一辆雪糕车前，一名游客购买雪糕时使用支付宝支付，因讲普通话、用内地支付方式，被雪糕车老板误以为是不懂粤语的内地游客，当众用粤语辱骂“白痴仔”。不料游客是广东人，精通粤语。当场用粤语、普通话、英语三语冷静回怼，逻辑清晰、立场坚定，还报警维权。现场路人纷纷围观并谴责摊主，认为其歧视同胞、损害城市形象。面对舆论压力，涉事老板最终公开道歉。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 567526,
+          "like_count": 2198,
+          "quote_count": 19,
+          "reply_count": 360,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "香港尖沙咀街头一辆雪糕车前，一名游客购买雪糕时使用支付宝支付，因讲普通话、用内地支付方式，被雪糕车老板误以为是不懂粤语的内地游客，当众用粤语辱骂“白痴仔”。不料游客是广东人，精通粤语。当场用粤语、普通话、英语三语冷静回怼，逻辑清晰、立场坚定，还报警维权。现场路人纷纷围观并谴责摊主， https://t.co/9n8KkVCip9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 355,
+          "like_count": 12225,
+          "listed_count": 4,
+          "media_count": 826,
+          "tweet_count": 3964
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-03T01:56:26.000Z",
+        "description": "纵有千古，横有八荒；\n前途似海，来日方长。",
+        "id": "1378164402101182469",
+        "location": "Hong Kong",
+        "name": "🇨🇳 大牛🇨🇳",
+        "pinned_tweet_id": "2056749782497174016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922143712928530432/znfFyshI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174017,
+          "following_count": 6910,
+          "like_count": 112770,
+          "listed_count": 398,
+          "media_count": 17220,
+          "tweet_count": 66515
+        },
+        "username": "Appraiser008",
+        "verified": true
+      }
+    ]
+  }
+}

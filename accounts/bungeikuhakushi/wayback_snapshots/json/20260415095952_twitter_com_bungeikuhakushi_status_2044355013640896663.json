@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044355013640896663",
+    "created_at": "2026-04-15T09:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044355013640896663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Cldeop/status/2044288106309026163",
+          "start": 6,
+          "url": "https://t.co/OfT2ptFplC"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2044355013640896663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044288106309026163",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這你們誰？ https://t.co/OfT2ptFplC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1279,
+        "media_key": "3_2044152320343322625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF5JtHjasAERJNi.jpg",
+        "width": 1284
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044355013640896663",
+        "created_at": "2026-04-15T09:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044355013640896663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Cldeop/status/2044288106309026163",
+              "start": 6,
+              "url": "https://t.co/OfT2ptFplC"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2044355013640896663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044288106309026163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這你們誰？ https://t.co/OfT2ptFplC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044152320343322625"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2044288106309026163",
+        "created_at": "2026-04-15T05:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044288106309026163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJ5goh7AH9",
+              "end": 23,
+              "expanded_url": "https://x.com/Cldeop/status/2044288106309026163/photo/1",
+              "media_key": "3_2044152320343322625",
+              "start": 0,
+              "url": "https://t.co/nJ5goh7AH9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044288106309026163",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2840,
+          "like_count": 158,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nJ5goh7AH9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害｜同類互fo\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 400,
+          "like_count": 10679,
+          "listed_count": 3,
+          "media_count": 605,
+          "tweet_count": 3009
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2035514809815638174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101032,
+          "following_count": 760,
+          "like_count": 36169,
+          "listed_count": 281,
+          "media_count": 17634,
+          "tweet_count": 25369
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

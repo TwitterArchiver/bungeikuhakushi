@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2057457552481571183",
+    "created_at": "2026-05-21T16:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T17:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057503516185571396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1947618624945983488",
+          "start": 0,
+          "username": "tonghua_me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057503516185571396",
+    "in_reply_to_user_id": "1947618624945983488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057503411642503588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tonghua_me 滾！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2057457552481571183",
+        "created_at": "2026-05-21T16:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057503516185571396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1947618624945983488",
+              "start": 0,
+              "username": "tonghua_me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057503516185571396",
+        "in_reply_to_user_id": "1947618624945983488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057503411642503588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tonghua_me 滾！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947618624945983488",
+        "conversation_id": "2057457552481571183",
+        "created_at": "2026-05-21T16:46:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057503411642503588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057503411642503588",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057457552481571183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 你试试？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2023,
+          "following_count": 359,
+          "like_count": 12147,
+          "listed_count": 3,
+          "media_count": 810,
+          "tweet_count": 3913
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-22T11:24:11.000Z",
+        "description": "恩格斯保守道德左派 托洛茨基主义者 支持托洛茨基的党内民主 不是男娘 是猛男。反建制 反极端目田 反分离主义 反极端民族 理中客 TQ请直接B我",
+        "id": "1947618624945983488",
+        "location": "距离你114514km",
+        "name": "NNK的饭桶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026325982760873984/AGSj2mYH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 127,
+          "like_count": 360,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 2101
+        },
+        "username": "tonghua_me",
+        "verified": false
+      }
+    ]
+  }
+}

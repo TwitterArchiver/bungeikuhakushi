@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049478903811784743",
+    "created_at": "2026-04-29T14:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049499095946219948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882051931763568643",
+          "start": 0,
+          "username": "feieyuhuo"
+        },
+        {
+          "end": 23,
+          "id": "1980140172726673408",
+          "start": 11,
+          "username": "Rennord9407"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049499095946219948",
+    "in_reply_to_user_id": "1882051931763568643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049490916210339844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@feieyuhuo @Rennord9407 妳們兩個都太極端啦 具體我就不說了 我不想討論關於LGBT的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049478903811784743",
+        "created_at": "2026-04-29T14:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049499095946219948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882051931763568643",
+              "start": 0,
+              "username": "feieyuhuo"
+            },
+            {
+              "end": 23,
+              "id": "1980140172726673408",
+              "start": 11,
+              "username": "Rennord9407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049499095946219948",
+        "in_reply_to_user_id": "1882051931763568643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049490916210339844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@feieyuhuo @Rennord9407 妳們兩個都太極端啦 具體我就不說了 我不想討論關於LGBT的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882051931763568643",
+        "conversation_id": "2049478903811784743",
+        "created_at": "2026-04-29T14:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049490916210339844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 29,
+              "id": "1980140172726673408",
+              "start": 17,
+              "username": "Rennord9407"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049490916210339844",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049481483308642812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @Rennord9407 您感觉哪有问题可以帮我指指吗，光打比方顶多贴个标签，辨不出对错。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1930,
+          "following_count": 361,
+          "like_count": 11730,
+          "listed_count": 4,
+          "media_count": 681,
+          "tweet_count": 3466
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T13:05:32.000Z",
+        "description": "你好呀，这里是飞蛾～社科求学者一枚。( *ˊᵕˋ)✩︎.₊(键政号回fo100%)  历史是假的,政经是真的,没有什么是理所当然的。 \n无论如何，请让理智与信念刻骨铭心，让傲慢与偏见无处遁形。                          \n标签概括：散修毛左\n09 ENTP 劳有所得 造反有理",
+        "id": "1882051931763568643",
+        "location": "乌托邦之桥",
+        "name": "飞蛾浴火",
+        "pinned_tweet_id": "2024545803310944754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026688690211401732/PfmtK5HU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 88,
+          "like_count": 3506,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1719
+        },
+        "username": "feieyuhuo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/She/They ？sexual🏳️‍🌈 友跨 全力支持争取性少数群体权益|社会民主主义🌹左翼 国际主义|键政暂时闭关|\n看到我说话跟磕了药一样请见谅\n🇩🇪学习中|可以与任何立场的友善的人互fo",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 607,
+          "like_count": 41142,
+          "listed_count": 4,
+          "media_count": 112,
+          "tweet_count": 7260
+        },
+        "username": "Rennord9407",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068159395633176576"
+      ],
+      "media_source_tweet_id": [
+        "2068159408773960008"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2068264563599159512",
+    "created_at": "2026-06-20T09:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068264563599159512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600024316552179713",
+          "start": 3,
+          "username": "kiki_qiqing"
+        },
+        {
+          "end": 37,
+          "id": "1852615097824251904",
+          "start": 28,
+          "username": "Suimikax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TB4C6BOjtL",
+          "end": 61,
+          "expanded_url": "https://x.com/kiki_qiqing/status/2068159408773960008/photo/1",
+          "media_key": "3_2068159395633176576",
+          "start": 38,
+          "url": "https://t.co/TB4C6BOjtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068264563599159512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068159408773960008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiki_qiqing: 小蛋糕被我拐到手了😋 @Suimikax https://t.co/TB4C6BOjtL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068159395633176576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOUA0OaIAA11ox.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068159395633176576"
+          ],
+          "media_source_tweet_id": [
+            "2068159408773960008"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2068264563599159512",
+        "created_at": "2026-06-20T09:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068264563599159512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600024316552179713",
+              "start": 3,
+              "username": "kiki_qiqing"
+            },
+            {
+              "end": 37,
+              "id": "1852615097824251904",
+              "start": 28,
+              "username": "Suimikax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TB4C6BOjtL",
+              "end": 61,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2068159408773960008/photo/1",
+              "media_key": "3_2068159395633176576",
+              "start": 38,
+              "url": "https://t.co/TB4C6BOjtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068264563599159512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068159408773960008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiki_qiqing: 小蛋糕被我拐到手了😋 @Suimikax https://t.co/TB4C6BOjtL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068159395633176576"
+          ]
+        },
+        "author_id": "1600024316552179713",
+        "conversation_id": "2068159408773960008",
+        "created_at": "2026-06-20T02:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068159408773960008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1852615097824251904",
+              "start": 11,
+              "username": "Suimikax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TB4C6BOjtL",
+              "end": 44,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2068159408773960008/photo/1",
+              "media_key": "3_2068159395633176576",
+              "start": 21,
+              "url": "https://t.co/TB4C6BOjtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068159408773960008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 560,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小蛋糕被我拐到手了😋 @Suimikax https://t.co/TB4C6BOjtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 361,
+          "like_count": 12671,
+          "listed_count": 3,
+          "media_count": 919,
+          "tweet_count": 4313
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 | 泛性恋喵 | 170cm/61kg | 有点地雷 | 老婆 @Y205621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "Y205621"
+              }
+            ]
+          }
+        },
+        "id": "1600024316552179713",
+        "location": "荒漠迷城",
+        "name": "祈晴kiki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062376314695532544/1WEAosvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 336,
+          "like_count": 5915,
+          "listed_count": 7,
+          "media_count": 125,
+          "tweet_count": 2115
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "Fighting, the only way to victory.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@suimikax",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@suimikax",
+                "start": 0,
+                "url": "https://t.co/foV3F4WzeX"
+              }
+            ]
+          }
+        },
+        "id": "1852615097824251904",
+        "name": "桃桃桃桃桃",
+        "pinned_tweet_id": "2035372179731411328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043161516695031808/jrfecv-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 130,
+          "like_count": 3852,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/foV3F4WzeX",
+        "username": "Suimikax",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049077770538688750",
+    "created_at": "2026-04-28T11:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T12:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049094642478755971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2658834144",
+          "start": 0,
+          "username": "JOERze_VR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049094642478755971",
+    "in_reply_to_user_id": "2658834144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049077770538688750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JOERze_VR 還是當兵哥哥呀喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2503,
+        "media_key": "3_2049077567374950400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_JMOibAAAKBy4.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049077770538688750",
+        "created_at": "2026-04-28T11:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T12:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049094642478755971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2658834144",
+              "start": 0,
+              "username": "JOERze_VR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049094642478755971",
+        "in_reply_to_user_id": "2658834144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049077770538688750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JOERze_VR 還是當兵哥哥呀喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049077567374950400"
+          ]
+        },
+        "author_id": "2658834144",
+        "conversation_id": "2049077770538688750",
+        "created_at": "2026-04-28T10:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049077770538688750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L1fIHrh10U",
+              "end": 52,
+              "expanded_url": "https://x.com/JOERze_VR/status/2049077770538688750/photo/1",
+              "media_key": "3_2049077567374950400",
+              "start": 29,
+              "url": "https://t.co/L1fIHrh10U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049077770538688750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1370,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "給大家看看\n我穿男裝的樣子\n另外這條短褲\n是我當兵時穿的 https://t.co/L1fIHrh10U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 366,
+          "like_count": 11618,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 3412
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-19T06:50:34.000Z",
+        "description": "Twitch Partner 紫勾勾🍡\nYoutube萬訂🎀\n恋ゆきママ@koiyuki841201\n紫陽パパ@ziyang0719\n語言：中文O/日本語▲/ENG▲ \n特色：FPS、女裝精華、爵士鼓Cover\nHashtag #嬌蘿\nFanArt #嬌繪\nFanName #狐焦糖粉\n#個人勢 #台灣Vtuber",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 114,
+                "tag": "嬌蘿"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "嬌繪"
+              },
+              {
+                "end": 142,
+                "start": 137,
+                "tag": "狐焦糖粉"
+              },
+              {
+                "end": 147,
+                "start": 143,
+                "tag": "個人勢"
+              },
+              {
+                "end": 157,
+                "start": 148,
+                "tag": "台灣Vtuber"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "koiyuki841201"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "ziyang0719"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/joerze",
+                "end": 23,
+                "expanded_url": "https://lit.link/joerze",
+                "start": 0,
+                "url": "https://t.co/KFXiRHiuVJ"
+              }
+            ]
+          }
+        },
+        "id": "2658834144",
+        "location": "台灣",
+        "name": "焦兒JOERze🌸蘿太Vtuber",
+        "pinned_tweet_id": "1831192654723588572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685664382376890368/gJ5qTY_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21907,
+          "following_count": 1562,
+          "like_count": 120624,
+          "listed_count": 53,
+          "media_count": 2266,
+          "tweet_count": 73693
+        },
+        "url": "https://t.co/KFXiRHiuVJ",
+        "username": "JOERze_VR",
+        "verified": true
+      }
+    ]
+  }
+}

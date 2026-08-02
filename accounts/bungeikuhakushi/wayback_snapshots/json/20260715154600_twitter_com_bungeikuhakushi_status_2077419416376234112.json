@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077389669478846464"
+      ],
+      "media_source_tweet_id": [
+        "2077389686914662523"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2077419416376234112",
+    "created_at": "2026-07-15T15:46:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T16:46:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077419416376234112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600024316552179713",
+          "start": 3,
+          "username": "kiki_qiqing"
+        },
+        {
+          "end": 32,
+          "id": "2023210361764360192",
+          "start": 18,
+          "username": "NanakoLumkung"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/au8RmMGFJF",
+          "end": 100,
+          "expanded_url": "https://x.com/kiki_qiqing/status/2077389686914662523/photo/1",
+          "media_key": "3_2077389669478846464",
+          "start": 77,
+          "url": "https://t.co/au8RmMGFJF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077419416376234112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077389686914662523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiki_qiqing: 和@NanakoLumkung 面基，她真的好香啊，抱起来软软的肉肉的，还毛茸茸的特别好rua，我一直要黏着在她身上🥺 https://t.co/au8RmMGFJF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077389669478846464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRe5d1aUAAVCum.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077389669478846464"
+          ],
+          "media_source_tweet_id": [
+            "2077389686914662523"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2077419416376234112",
+        "created_at": "2026-07-15T15:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077419416376234112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600024316552179713",
+              "start": 3,
+              "username": "kiki_qiqing"
+            },
+            {
+              "end": 32,
+              "id": "2023210361764360192",
+              "start": 18,
+              "username": "NanakoLumkung"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/au8RmMGFJF",
+              "end": 100,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2077389686914662523/photo/1",
+              "media_key": "3_2077389669478846464",
+              "start": 77,
+              "url": "https://t.co/au8RmMGFJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077419416376234112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077389686914662523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiki_qiqing: 和@NanakoLumkung 面基，她真的好香啊，抱起来软软的肉肉的，还毛茸茸的特别好rua，我一直要黏着在她身上🥺 https://t.co/au8RmMGFJF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077389669478846464"
+          ]
+        },
+        "author_id": "1600024316552179713",
+        "conversation_id": "2077389686914662523",
+        "created_at": "2026-07-15T13:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077389686914662523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2023210361764360192",
+              "start": 1,
+              "username": "NanakoLumkung"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/au8RmMGFJF",
+              "end": 83,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2077389686914662523/photo/1",
+              "media_key": "3_2077389669478846464",
+              "start": 60,
+              "url": "https://t.co/au8RmMGFJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077389686914662523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "和@NanakoLumkung 面基，她真的好香啊，抱起来软软的肉肉的，还毛茸茸的特别好rua，我一直要黏着在她身上🥺 https://t.co/au8RmMGFJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​活在幻想裏 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2154,
+          "following_count": 357,
+          "like_count": 12633,
+          "listed_count": 3,
+          "media_count": 965,
+          "tweet_count": 4419
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 泛性恋喵 | 170cm/61kg | 有点地雷",
+        "id": "1600024316552179713",
+        "location": "暨南大学附属第一医院",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062376314695532544/1WEAosvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 338,
+          "like_count": 5912,
+          "listed_count": 7,
+          "media_count": 148,
+          "tweet_count": 1908
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T01:38:50.000Z",
+        "description": "Freut mich, dich kennenzulernen — willkommen im Hintergarten von @SuzukiHnnn｜HRTは永久に中断しています ｜My Redemption @HappyHejsDay @Liunian_a｜E9スクール在学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "SuzukiHnnn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "Liunian_a"
+              }
+            ]
+          }
+        },
+        "id": "2023210361764360192",
+        "location": "Basilica Sancti Petri",
+        "name": "𝓝·𝓪·𝓷·𝓪·𝓴·𝓸·𝓢·𝓽·𝓻·𝓪·𝔀·𝓫·𝓮·𝓻·𝓻·𝔂",
+        "pinned_tweet_id": "2074678558145061249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032659428667961344/NopHtjOo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 85,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 577
+        },
+        "url": "",
+        "username": "NanakoLumkung",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070014574796095488"
+      ],
+      "media_source_tweet_id": [
+        "2070014591569100839"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2070084103882576084",
+    "created_at": "2026-06-25T09:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070084103882576084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756246342676979713",
+          "start": 3,
+          "username": "shungleemain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SdrdNi8yp9",
+          "end": 55,
+          "expanded_url": "https://x.com/shungleemain/status/2070014591569100839/photo/1",
+          "media_key": "3_2070014574796095488",
+          "start": 32,
+          "url": "https://t.co/SdrdNi8yp9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070084103882576084",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070014591569100839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shungleemain: 中共台辦數學水平堪比于北辰 https://t.co/SdrdNi8yp9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2070014574796095488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLorSdKaQAAmKYf.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070014574796095488"
+          ],
+          "media_source_tweet_id": [
+            "2070014591569100839"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2070084103882576084",
+        "created_at": "2026-06-25T09:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070084103882576084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756246342676979713",
+              "start": 3,
+              "username": "shungleemain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdrdNi8yp9",
+              "end": 55,
+              "expanded_url": "https://x.com/shungleemain/status/2070014591569100839/photo/1",
+              "media_key": "3_2070014574796095488",
+              "start": 32,
+              "url": "https://t.co/SdrdNi8yp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070084103882576084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070014591569100839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shungleemain: 中共台辦數學水平堪比于北辰 https://t.co/SdrdNi8yp9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070014574796095488"
+          ]
+        },
+        "author_id": "1756246342676979713",
+        "conversation_id": "2070014591569100839",
+        "created_at": "2026-06-25T05:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070014591569100839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SdrdNi8yp9",
+              "end": 37,
+              "expanded_url": "https://x.com/shungleemain/status/2070014591569100839/photo/1",
+              "media_key": "3_2070014574796095488",
+              "start": 14,
+              "url": "https://t.co/SdrdNi8yp9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070014591569100839",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 255,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "中共台辦數學水平堪比于北辰 https://t.co/SdrdNi8yp9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜對現實失望 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 362,
+          "like_count": 12677,
+          "listed_count": 3,
+          "media_count": 931,
+          "tweet_count": 4367
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "超級好詭秘 @Akinoyo_desu\n可愛的蜜獾 @kittymi030\n可愛的Mercy @Mercyvnv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "kittymi030"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Mercyvnv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "https://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/ZWd7sZXvOA"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的TG→",
+        "name": "聖米格爾生力麵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138223767003137/717JFCWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 616,
+          "like_count": 2828,
+          "listed_count": 7,
+          "media_count": 592,
+          "tweet_count": 6889
+        },
+        "url": "https://t.co/ZWd7sZXvOA",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}

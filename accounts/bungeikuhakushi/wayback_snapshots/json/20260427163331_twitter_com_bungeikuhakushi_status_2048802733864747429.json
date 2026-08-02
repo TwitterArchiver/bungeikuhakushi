@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048802733864747429",
+    "created_at": "2026-04-27T16:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048802733864747429"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DaiianaVez6977…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/DaiianaVez69773/status/2048615579120988670",
+          "start": 18,
+          "url": "https://t.co/lZbeVbOhYB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048802733864747429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048615579120988670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "說得在理 這種十個裏有九個都是粉紅 https://t.co/lZbeVbOhYB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048802733864747429",
+        "created_at": "2026-04-27T16:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048802733864747429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DaiianaVez6977…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/DaiianaVez69773/status/2048615579120988670",
+              "start": 18,
+              "url": "https://t.co/lZbeVbOhYB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048802733864747429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048615579120988670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "說得在理 這種十個裏有九個都是粉紅 https://t.co/lZbeVbOhYB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874458926558961664",
+        "conversation_id": "2048615579120988670",
+        "created_at": "2026-04-27T04:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048615579120988670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048615579120988670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 35515,
+          "like_count": 454,
+          "quote_count": 19,
+          "reply_count": 147,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "最害怕那种粉丝和关注都很少，每天发帖只为发泄喷人的简中账号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 364,
+          "like_count": 11576,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "中国人 高3 18 infj-t 不安障害 双極性感情障害 日本語を勉強中\n神聖かまってちゃん/未来電波基地/純戸川/moreru/yokai jaki/鮮血A子ちゃん",
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義✞",
+        "pinned_tweet_id": "2044722696920125723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 183,
+          "like_count": 10671,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 819
+        },
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

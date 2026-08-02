@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2066320563526922464",
+    "created_at": "2026-06-15T13:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066510741742784797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046955236531855360",
+          "start": 0,
+          "username": "xmliu114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066510741742784797",
+    "in_reply_to_user_id": "2046955236531855360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066320563526922464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmliu114514 上上次是達爾文老爺爺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2066320563526922464",
+        "created_at": "2026-06-15T13:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066510741742784797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046955236531855360",
+              "start": 0,
+              "username": "xmliu114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066510741742784797",
+        "in_reply_to_user_id": "2046955236531855360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066320563526922464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmliu114514 上上次是達爾文老爺爺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046955236531855360",
+        "conversation_id": "2066320563526922464",
+        "created_at": "2026-06-15T00:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066320563526922464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066320563526922464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1344,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "講真，我真沒看到過中推這麼團結，彈鋼琴真是我看到的第一個"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 352,
+          "like_count": 12533,
+          "listed_count": 3,
+          "media_count": 891,
+          "tweet_count": 4220
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-22T14:12:44.000Z",
+        "description": "小号：@xm0347347185242/药娘🏳️‍⚧️|中国人🇨🇳/反台独/左翼青年/包容不同政见(台独除外)/不反日/两岸和统/可以互fo/不主动b人/入🚪89.64/刚开始发育求夸🥹 /如果讨厌就屏蔽我吧😊(🇨🇳=🇨🇳🇭🇰🇹🇼🇲🇴)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "xm0347347185242"
+              }
+            ]
+          }
+        },
+        "id": "2046955236531855360",
+        "name": "Liuxm☭❂🇨🇳🇹🇼🇭🇰🇲🇴🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2053142599977074737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065748774182596608/DNFdX4rC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 530,
+          "like_count": 4432,
+          "listed_count": 3,
+          "media_count": 43,
+          "tweet_count": 425
+        },
+        "username": "xmliu114514",
+        "verified": false
+      }
+    ]
+  }
+}

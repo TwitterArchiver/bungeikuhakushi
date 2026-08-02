@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2055628840324768015",
+    "created_at": "2026-05-16T17:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055709506412400791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "882027271782936576",
+          "start": 0,
+          "username": "HC42090921"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055709506412400791",
+    "in_reply_to_user_id": "882027271782936576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055706743921897727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HC42090921 每個地方都有沒素質的人 台灣也不例外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2055628840324768015",
+        "created_at": "2026-05-16T17:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055709506412400791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "882027271782936576",
+              "start": 0,
+              "username": "HC42090921"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055709506412400791",
+        "in_reply_to_user_id": "882027271782936576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055706743921897727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HC42090921 每個地方都有沒素質的人 台灣也不例外"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "882027271782936576",
+        "conversation_id": "2055628840324768015",
+        "created_at": "2026-05-16T17:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055706743921897727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055706743921897727",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055628840324768015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 不要只説中國人，台灣人也漸漸被日本人黑名單了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼普通話 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 358,
+          "like_count": 12074,
+          "listed_count": 3,
+          "media_count": 787,
+          "tweet_count": 3868
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-04T00:04:23.000Z",
+        "description": "",
+        "id": "882027271782936576",
+        "name": "蔡HC",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 183,
+          "like_count": 18449,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 605
+        },
+        "username": "HC42090921",
+        "verified": false
+      }
+    ]
+  }
+}

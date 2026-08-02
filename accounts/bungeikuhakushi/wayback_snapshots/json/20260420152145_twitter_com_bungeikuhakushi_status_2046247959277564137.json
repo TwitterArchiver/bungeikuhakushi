@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2046247959277564137",
+    "created_at": "2026-04-20T15:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T16:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046247959277564137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1776142720056385537",
+          "start": 3,
+          "username": "Zhmgws19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046247959277564137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046244163952472287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zhmgws19120101: 我用grok生成的一個愿榮光歸香港的前景小故事:\n《榮光之殤》\n2019年的香港，淚水像怎麼擦也擦不乾。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2046247959277564137",
+        "created_at": "2026-04-20T15:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046247959277564137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1776142720056385537",
+              "start": 3,
+              "username": "Zhmgws19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046247959277564137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046244163952472287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zhmgws19120101: 我用grok生成的一個愿榮光歸香港的前景小故事:\n《榮光之殤》\n2019年的香港，淚水像怎麼擦也擦不乾。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776142720056385537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2046244163952472287",
+        "created_at": "2026-04-20T15:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046244163952472287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046244163952472287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我用grok生成的一個愿榮光歸香港的前景小故事:\n《榮光之殤》\n2019年的香港，淚水像怎麼擦也擦不乾。\n阿凱只是個二十三歲的普通大學生。他從沒想過自己會走上街頭。他只是看不下去：警察用水炮車噴向手無寸鐵的學生和老人，母親在電視機前默默抹眼淚，低聲說：「這片土地，為什麼又要流這麼多眼淚？」他開始去遊行，只做最簡單的事——舉手機直播、派水、陪朋友。他以為只要和平發聲，這座城市就會好起來。直到那天，他在中環被防暴警察按在地上拖走。警棍一下又一下砸在身上，鮮血混著催淚水流進眼睛。那一刻，他腦海裡只有一個念頭：我想回家抱抱媽媽。他被控「非法集結」，關進冰冷的收押所。牢房很暗、很擠。夜晚，他聽見隔壁年輕人壓抑的哭聲，有人因為轉發一張海報就被單獨關禁閉。阿凱害怕得睡不著，他把臉埋進膝蓋，心裡一遍又一遍問自己：「我只是不想這座城市繼續跪下去，為什麼連說真話的權利都沒有？」他最怕的不是自己受苦，而是母親。每次探監日，媽媽隔著玻璃強顏歡笑，眼裡卻全是淚。他知道她一個人在家，每天看新聞都心驚膽戰，怕兒子出事，怕這個家徹底散掉。阿凱低頭不敢看她的眼睛，心裡像被刀割：「對不起，媽，我讓你擔心了……」出獄後，阿凱瘦了二十多磅。半夜常常被警笛聲驚醒，冷汗濕透衣衫。很多朋友已經移民或徹底沉默，他卻只能低頭過日子。找工作時，對方一看他的記錄就搖頭。他坐在公園長椅上，看著維港的燈光，輕聲自語：「我只是想自由……想這座城市不用再活在恐懼裡。」那些日子，他看見更多和他一樣的年輕人：有人被捕後再也找不到工作，有人半夜偷偷哭泣，有人明明害怕得發抖，卻依然選擇為這片土地堅持。他們的眼淚、傷痕和無聲的倔強，像無形的線，把無數普通人連在一起。阿凱沒有變成英雄。他只是繼續過著低調卻不妥協的生活。偶爾在街頭看到年輕人舉起手機直播時，他會在心裡默默說：「繼續走吧……\n即使我們這一代可能看不到這片土地重拾榮光，\n但至少，我們從來沒有低頭。\n我們只是普通人，\n卻願意為這座深愛的城市，\n流過眼淚，流過血，\n也從未真正放棄。」"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我用grok生成的一個愿榮光歸香港的前景小故事:\n《榮光之殤》\n2019年的香港，淚水像怎麼擦也擦不乾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 388,
+          "like_count": 11078,
+          "listed_count": 4,
+          "media_count": 631,
+          "tweet_count": 3165
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "以青天白日滿地紅之名\n青天白日満地紅の名の下に\n姐姐@zhngjing322708",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "zhngjing322708"
+              }
+            ]
+          }
+        },
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣（暫居高雄）",
+        "name": "李鶴齡「リー・カクレイ」 🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091461191778304/kPgRLiTh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 142,
+          "like_count": 8265,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 2820
+        },
+        "username": "Zhmgws19120101",
+        "verified": true
+      }
+    ]
+  }
+}

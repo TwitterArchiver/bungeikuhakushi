@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051668472082628642",
+    "created_at": "2026-05-05T14:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051668472082628642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AuroraLight_01…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/AuroraLight_01/status/2051643218564161654",
+          "start": 38,
+          "url": "https://t.co/oBYpkwAjjN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051668472082628642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051643218564161654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感覺挺好笑的 推上以前玩的好的人都知道我的名字...\n可惜現在都漸行漸遠了 https://t.co/oBYpkwAjjN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_2051643208724348929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjmoNXbgAEYsMN.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051668472082628642",
+        "created_at": "2026-05-05T14:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051668472082628642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AuroraLight_01…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/AuroraLight_01/status/2051643218564161654",
+              "start": 38,
+              "url": "https://t.co/oBYpkwAjjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051668472082628642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051643218564161654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感覺挺好笑的 推上以前玩的好的人都知道我的名字...\n可惜現在都漸行漸遠了 https://t.co/oBYpkwAjjN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051643208724348929"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2051643218564161654",
+        "created_at": "2026-05-05T12:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:40:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051643134158008400",
+          "2051643218564161654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wi41uDzPhh",
+              "end": 46,
+              "expanded_url": "https://x.com/AuroraLight_01/status/2051643218564161654/photo/1",
+              "media_key": "3_2051643208724348929",
+              "start": 23,
+              "url": "https://t.co/wi41uDzPhh"
+            },
+            {
+              "display_url": "x.com/RainEngine_202…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/RainEngine_2024/status/2041385842560860432",
+              "start": 47,
+              "url": "https://t.co/XXiQe0y8n5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051643218564161654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041385842560860432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前有Unk知雨晴姓名，后有芸光知Unk姓名🤫 https://t.co/wi41uDzPhh https://t.co/XXiQe0y8n5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生🍥｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 349,
+          "like_count": 11641,
+          "listed_count": 4,
+          "media_count": 724,
+          "tweet_count": 3612
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？推龄最小的? \n无证小药娘🍥2026.4.7 MTF-从小想做个女孩子-炸柜：5.2,断糖ing\n喜欢折腾电脑和会一点编程-分享Hrt日常\n自残但不Od💊 心理健康 \n关注芸光谢谢喵~（目标800fo QWQ）\n—————\n“你会成就你的荣耀时刻还是会如流星般陨落天际？”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Coxe_Pica",
+                "end": 23,
+                "expanded_url": "http://t.me/Coxe_Pica",
+                "start": 0,
+                "url": "https://t.co/ic4apAlvVH"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "晴芸曙光AurLight 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2051459774445916246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 27,
+          "like_count": 1419,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/ic4apAlvVH",
+        "username": "AuroraLight_01",
+        "verified": true
+      }
+    ]
+  }
+}

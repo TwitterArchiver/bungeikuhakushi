@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2062886834859045037",
+    "created_at": "2026-06-05T13:18:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:18:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062886834859045037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 178,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2024431643344457964",
+          "start": 155,
+          "url": "https://t.co/9j2Rq6xEsY"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2062886834859045037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024431643344457964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "置頂post：\n重新對自己的現狀分析 還是要發些梗圖 不然我也不能做些啥逆天行為拿流量 \n梗圖po頻率在一天1~3po吧 之後會share下我的日常帖 女裝帖 人文帖\n我想將這個帳號發揚光大 將文芸印到大部分人的心中 我會在這一直陪着你們的 我以文芸之名保證 直到我大學畢業 直到我開始人生新階段 我都在這裏 https://t.co/9j2Rq6xEsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024431637753450497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg52UBbUAESIBy.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2024431638130966528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBg52VbbwAA83Zs.jpg",
+        "width": 768
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2062886834859045037",
+        "created_at": "2026-06-05T13:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062886834859045037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2024431643344457964",
+              "start": 155,
+              "url": "https://t.co/9j2Rq6xEsY"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2062886834859045037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024431643344457964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "置頂post：\n重新對自己的現狀分析 還是要發些梗圖 不然我也不能做些啥逆天行為拿流量 \n梗圖po頻率在一天1~3po吧 之後會share下我的日常帖 女裝帖 人文帖\n我想將這個帳號發揚光大 將文芸印到大部分人的心中 我會在這一直陪着你們的 我以文芸之名保證 直到我大學畢業 直到我開始人生新階段 我都在這裏 https://t.co/9j2Rq6xEsY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024431637753450497",
+            "3_2024431638130966528"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2024431643344457964",
+        "created_at": "2026-02-19T10:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T11:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024431643344457964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iJSry7ycuK",
+              "end": 28,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2024431643344457964/photo/1",
+              "media_key": "3_2024431637753450497",
+              "start": 5,
+              "url": "https://t.co/iJSry7ycuK"
+            },
+            {
+              "display_url": "pic.x.com/iJSry7ycuK",
+              "end": 28,
+              "expanded_url": "https://x.com/bungeihaku8964/status/2024431643344457964/photo/1",
+              "media_key": "3_2024431638130966528",
+              "start": 5,
+              "url": "https://t.co/iJSry7ycuK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024431643344457964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 39236,
+          "like_count": 125,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "鯊鯊出場 https://t.co/iJSry7ycuK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062510006491300135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 356,
+          "like_count": 12556,
+          "listed_count": 3,
+          "media_count": 868,
+          "tweet_count": 4131
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2068134839036018808",
+    "created_at": "2026-06-20T09:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T10:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068266695794598240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1008615379885670400",
+          "start": 0,
+          "username": "zhinarensml8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068266695794598240",
+    "in_reply_to_user_id": "1008615379885670400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068134839036018808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarensml8964 依舊滿清人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2068134839036018808",
+        "created_at": "2026-06-20T09:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T10:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068266695794598240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1008615379885670400",
+              "start": 0,
+              "username": "zhinarensml8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068266695794598240",
+        "in_reply_to_user_id": "1008615379885670400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068134839036018808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarensml8964 依舊滿清人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1008615379885670400",
+        "conversation_id": "2068134839036018808",
+        "created_at": "2026-06-20T00:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068134839036018808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qin88484/statu…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/qin88484/status/2067891551578005608",
+              "start": 19,
+              "url": "https://t.co/NUC6Pa8JRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068134839036018808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1892,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067891551578005608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "慈禧从坟里爬出来一看发现大清还有兵力 https://t.co/NUC6Pa8JRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 361,
+          "like_count": 12677,
+          "listed_count": 3,
+          "media_count": 919,
+          "tweet_count": 4317
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-18T07:40:20.000Z",
+        "description": "一代目@zhinarencnm8964三代目@zhinarensb8964四代目@zhinarencs8964\n⚠️无差别屏蔽垃圾账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 37,
+                "start": 22,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 55,
+                "start": 40,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "1008615379885670400",
+        "location": "731无害化东北狗中心",
+        "name": "大胆不敵大統領",
+        "pinned_tweet_id": "2067919767206609025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067996531668713472/TgNG1QNo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 1078,
+          "like_count": 46273,
+          "listed_count": 6,
+          "media_count": 696,
+          "tweet_count": 4265
+        },
+        "url": "",
+        "username": "zhinarensml8964",
+        "verified": false
+      }
+    ]
+  }
+}

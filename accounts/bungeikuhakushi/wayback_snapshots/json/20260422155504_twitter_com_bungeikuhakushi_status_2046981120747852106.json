@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046981120747852106",
+    "created_at": "2026-04-22T15:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T16:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046981120747852106"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 13,
+          "start": 5,
+          "tag": "妳們怎麼評價它"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2046966203865010476",
+          "start": 69,
+          "url": "https://t.co/gvJ2mpP3ln"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2046981120747852106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046966203865010476",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老節目了\n#妳們怎麼評價它？\n空白子銳評 不知道是odo傻了 還是鍵政把腦子鍵丟了 發表的言論 一個比一個腦殘 這孩子沒救了 純跨➗一名 https://t.co/gvJ2mpP3ln"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046966196030124033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhI6PWbsAEvvJJ.jpg",
+        "width": 922
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046981120747852106",
+        "created_at": "2026-04-22T15:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046981120747852106"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 5,
+              "tag": "妳們怎麼評價它"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2046966203865010476",
+              "start": 69,
+              "url": "https://t.co/gvJ2mpP3ln"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2046981120747852106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046966203865010476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老節目了\n#妳們怎麼評價它？\n空白子銳評 不知道是odo傻了 還是鍵政把腦子鍵丟了 發表的言論 一個比一個腦殘 這孩子沒救了 純跨➗一名 https://t.co/gvJ2mpP3ln"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046966196030124033"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046966203865010476",
+        "created_at": "2026-04-22T14:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T15:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046966203865010476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uwNEocFIs7",
+              "end": 37,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2046966203865010476/photo/1",
+              "media_key": "3_2046966196030124033",
+              "start": 14,
+              "url": "https://t.co/uwNEocFIs7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2046966203865010476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誰回來了？ 這逼養的... https://t.co/uwNEocFIs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高中生 炒作小男娘｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🌸",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 385,
+          "like_count": 11171,
+          "listed_count": 4,
+          "media_count": 644,
+          "tweet_count": 3217
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

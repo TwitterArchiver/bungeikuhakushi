@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2050978563168616765",
+    "created_at": "2026-05-03T16:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T17:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050980859147350463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980140172726673408",
+          "start": 0,
+          "username": "RenChan_LoveYou"
+        },
+        {
+          "end": 33,
+          "id": "975134504393347072",
+          "start": 17,
+          "username": "zhinarencnm8964"
+        },
+        {
+          "end": 49,
+          "id": "1954474751260585984",
+          "start": 34,
+          "username": "TheLongMarchAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050980859147350463",
+    "in_reply_to_user_id": "1980140172726673408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050978563168616765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RenChan_LoveYou @zhinarencnm8964 @TheLongMarchAI 我很傷心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2050978563168616765",
+        "created_at": "2026-05-03T16:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050980859147350463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980140172726673408",
+              "start": 0,
+              "username": "RenChan_LoveYou"
+            },
+            {
+              "end": 33,
+              "id": "975134504393347072",
+              "start": 17,
+              "username": "zhinarencnm8964"
+            },
+            {
+              "end": 49,
+              "id": "1954474751260585984",
+              "start": 34,
+              "username": "TheLongMarchAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050980859147350463",
+        "in_reply_to_user_id": "1980140172726673408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050978563168616765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RenChan_LoveYou @zhinarencnm8964 @TheLongMarchAI 我很傷心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980140172726673408",
+        "conversation_id": "2050978563168616765",
+        "created_at": "2026-05-03T16:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T17:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050978563168616765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "975134504393347072",
+              "start": 34,
+              "username": "zhinarencnm8964"
+            },
+            {
+              "end": 148,
+              "id": "1954474751260585984",
+              "start": 133,
+              "username": "TheLongMarchAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050978563168616765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 50,
+                "id": "975134504393347072",
+                "start": 34,
+                "username": "zhinarencnm8964"
+              },
+              {
+                "end": 148,
+                "id": "1954474751260585984",
+                "start": 133,
+                "username": "TheLongMarchAI"
+              },
+              {
+                "end": 268,
+                "id": "2001998644673994752",
+                "start": 252,
+                "username": "morganofliberal"
+              },
+              {
+                "end": 329,
+                "id": "1847835560175685635",
+                "start": 314,
+                "username": "OPPOFANS114514"
+              },
+              {
+                "end": 380,
+                "id": "2009174908581134336",
+                "start": 365,
+                "username": "cswxiaowei6302"
+              },
+              {
+                "end": 429,
+                "id": "1164467672819499008",
+                "start": 415,
+                "username": "whitelate0001"
+              },
+              {
+                "end": 470,
+                "id": "1944225210284314624",
+                "start": 460,
+                "username": "NMD_China"
+              },
+              {
+                "end": 523,
+                "id": "1838479565267898368",
+                "start": 512,
+                "username": "qasx143554"
+              },
+              {
+                "end": 565,
+                "id": "1306129238827778048",
+                "start": 555,
+                "username": "YukinonCC"
+              },
+              {
+                "end": 616,
+                "id": "1802704441961017344",
+                "start": 603,
+                "username": "misumikaede3"
+              },
+              {
+                "end": 665,
+                "id": "1839865017392394240",
+                "start": 652,
+                "username": "zhiyun114514"
+              },
+              {
+                "end": 699,
+                "id": "1247054463329656832",
+                "start": 690,
+                "username": "quasarne"
+              },
+              {
+                "end": 761,
+                "id": "1974036716727201792",
+                "start": 749,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 796,
+                "id": "1974865605204586498",
+                "start": 784,
+                "username": "Krktmk_8964"
+              },
+              {
+                "end": 837,
+                "id": "1830493173099208704",
+                "start": 822,
+                "username": "Ellenalice7990"
+              },
+              {
+                "end": 887,
+                "id": "1992467730176565248",
+                "start": 875,
+                "username": "nicardoysa_"
+              }
+            ]
+          },
+          "text": "OK呀也是900fo了好吧 在此也是来整理一下和我关系比较好的推友\n@zhinarencnm8964 首先必须是内格夫 内格夫在寒假我和老登闹掰时候给了我总共一百多块钱 如果没有这些想必在被断粮的情况下本人早就在这老小区老房子里面腐烂发臭了 必须夯完了🥹🥹🥹🥰🥰🥰\n@TheLongMarchAI 他和我最初也只是在一次吉列の煎蒸中认识的 但是之后就慢慢熟络了 很阳光 也很体贴 会照顾人的情绪（真的很亚撒西的欧尼酱呢） 甚至赞助了我一台荣耀手机和一些买游戏的钱 必须给到夯中夯🫶🫶🫶😘😘😘❤️❤️❤️\n@morganofliberal 然后是G竹溪 在我被晶以后我就把号交给他保管了 他也是帮了我很多忙 综上所述也是顶级好吧\n@OPPOFANS114514 中推小天使一枚吖～OPPO也真的很会照顾人 最善良的毋庸置疑 夯！😽\n@cswxiaowei6302 他也是我在键政时候认识的 温和 务实的左派 总之就是好入 给到夯！\n@whitelate0001 最早fo我的一位推友 还记得我最初的昵称 不用说必须给到夯\n@NMD_China 波头鹰同样也是我最早认识的一批 但是因为发的血腥重口的内容太多所以只能给到顶级😔\n@qasx143554 文笔很好 也很温柔 建制改革民主派（算吗？） 总之也必须夯🥰\n@YukinonCC 地雷跨性别 很可爱 大家都来灌注她👉➕只是最近不理我 我很难受叫医生来😾\n@misumikaede3 她好惨喵😿希望可以更多治愈她一点…一定不要做过激的事情了喵！给到顶级\n@zhiyun114514 是个好同志 可惜却反同 我不想把话说得太难听😒\n@quasarne 安仁 数码懂的多 帮我解决了电脑的问题（虽然没有完全解决） 还有我要皈依安那其的时候记得帮我喵😘\n@jilianmeing 韩娱妹 说话挺有意思的 像小孩 给到顶级👍\n@Krktmk_8964 宝宝你好好啊宝宝 那个就是能不能教我OD呀宝宝🥹\n@Ellenalice7990 高水平自由派 理性分析 数码科技也懂很多 只是感觉有点日黑 顶级与夯中间\n@nicardoysa_ N指导也是我最早认识的鉴证推友 只是后来不知道由于什么原因号没了 给到顶级🌹"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "OK呀也是900fo了好吧 在此也是来整理一下和我关系比较好的推友\n@zhinarencnm8964 首先必须是内格夫 内格夫在寒假我和老登闹掰时候给了我总共一百多块钱 如果没有这些想必在被断粮的情况下本人早就在这老小区老房子里面腐烂发臭了 必须夯完了🥹🥹🥹🥰🥰🥰\n@TheLongMarchAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 346,
+          "like_count": 11980,
+          "listed_count": 4,
+          "media_count": 708,
+          "tweet_count": 3563
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T05:13:10.000Z",
+        "description": "He/She/They ？sexual🏳️‍🌈 友跨 全力支持争取性少数群体权益|认同女性主义 反对激女|社会民主主义🌹中间派偏左 国际主义 和平万岁☮️|键政暂时闭关|\n看到我说话跟磕了药一样请见谅\n🇩🇪学习中|可以与任何立场的友善的人互fo",
+        "id": "1980140172726673408",
+        "location": "中華自由聯邦武漢市",
+        "name": "東洋蓮花酥🌹🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2050978563168616765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036505669101297665/WDp2YEIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 627,
+          "like_count": 43364,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 7625
+        },
+        "username": "RenChan_LoveYou",
+        "verified": true
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "朝敵、日比谷公会堂にあり！天誅国賊！\n｜小号@zhinarensml8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 78,
+                "start": 63,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "汉支满支一家亲共和国",
+        "name": "中東の虎✡️内格夫🩵🌸",
+        "pinned_tweet_id": "2049550460886126977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045434310237589504/UrpPa--O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 1230,
+          "like_count": 48511,
+          "listed_count": 3,
+          "media_count": 1078,
+          "tweet_count": 4962
+        },
+        "username": "zhinarencnm8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T09:28:03.000Z",
+        "description": "中国人(PRC)🇨🇳，一中各表🇨🇳🇹🇼认可，中国朝鲜族\n新左派/民主主义者/共产主义者☭/温和毛主义者/ENTJ\n厌恶支黑，青鸟，极端民族主义与分裂主义\n✈️：🇨🇳🇰🇷🇯🇵🇭🇰🇲🇴🇩🇪🇫🇷🇮🇹🇨🇭🇦🇹🇧🇪🇪🇸🇵🇹🇸🇬🇹🇭🇹🇷🇷🇺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mc.163.com",
+                "end": 23,
+                "expanded_url": "https://mc.163.com",
+                "start": 0,
+                "url": "https://t.co/tCeyYxQN4d"
+              }
+            ]
+          }
+        },
+        "id": "1954474751260585984",
+        "location": "东亚防御倡议协定 中华人民共和国",
+        "name": "The Long March☭🇨🇳🇰🇷🇹🇼🇯🇵",
+        "pinned_tweet_id": "2045410580635546038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041550755824590848/nyiZMsS0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 500,
+          "like_count": 7609,
+          "listed_count": 4,
+          "media_count": 628,
+          "tweet_count": 5594
+        },
+        "url": "https://t.co/tCeyYxQN4d",
+        "username": "TheLongMarchAI",
+        "verified": true
+      }
+    ]
+  }
+}

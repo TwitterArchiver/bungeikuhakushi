@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2058884251182108824",
+    "created_at": "2026-05-25T12:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058894819389534707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "958306825237020672",
+          "start": 0,
+          "username": "Aravin29604927"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058894819389534707",
+    "in_reply_to_user_id": "958306825237020672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058888528139071510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aravin29604927 肛腸科警告"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2058884251182108824",
+        "created_at": "2026-05-25T12:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058894819389534707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "958306825237020672",
+              "start": 0,
+              "username": "Aravin29604927"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058894819389534707",
+        "in_reply_to_user_id": "958306825237020672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888528139071510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aravin29604927 肛腸科警告"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958306825237020672",
+        "conversation_id": "2058884251182108824",
+        "created_at": "2026-05-25T12:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058888528139071510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058888528139071510",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888058930663551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 像肛塞一样用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 353,
+          "like_count": 12241,
+          "listed_count": 4,
+          "media_count": 826,
+          "tweet_count": 3971
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-30T11:52:06.000Z",
+        "description": "请慎重fo我，以免造成不良的观感",
+        "id": "958306825237020672",
+        "name": "cx2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048099345715888128/dX-1OPHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 117,
+          "like_count": 3491,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 4500
+        },
+        "username": "Aravin29604927",
+        "verified": false
+      }
+    ]
+  }
+}

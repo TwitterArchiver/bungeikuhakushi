@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2079673699385618746",
+    "created_at": "2026-07-21T21:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079673787000541260"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20796…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2079631074284704253",
+          "start": 0,
+          "url": "https://t.co/VoCE2qKEhb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079673787000541260",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079631074284704253",
+        "type": "quoted"
+      },
+      {
+        "id": "2079673699385618746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/VoCE2qKEhb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2079673681480200192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx8MdlbMAAbH6q.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2079673691408113664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNx8NCkbIAAqO2a.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2079673699385618746",
+        "created_at": "2026-07-21T21:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079673787000541260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20796…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2079631074284704253",
+              "start": 0,
+              "url": "https://t.co/VoCE2qKEhb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079673787000541260",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079631074284704253",
+            "type": "quoted"
+          },
+          {
+            "id": "2079673699385618746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VoCE2qKEhb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809619841055391744",
+        "conversation_id": "2079360635482300831",
+        "created_at": "2026-07-21T18:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T19:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079631074284704253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020036253216083968",
+              "start": 0,
+              "username": "ziye743964"
+            },
+            {
+              "end": 23,
+              "id": "2037575598730584064",
+              "start": 12,
+              "username": "RenChanT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079631074284704253",
+        "in_reply_to_user_id": "2020036253216083968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079609262175871399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ziye743964 @RenChanT_T 可惜咯，準確來說我是台灣宜蘭人啦，在你眼裡還是要比你高貴不少的，還有，你怎麼還在用著這麼噁心低賤的支那語？日本語が使えませんか？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079673681480200192",
+            "3_2079673691408113664"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2079673699385618746",
+        "created_at": "2026-07-21T21:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079673699385618746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bA67gexwl6",
+              "end": 80,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2079673699385618746/photo/1",
+              "media_key": "3_2079673681480200192",
+              "start": 57,
+              "url": "https://t.co/bA67gexwl6"
+            },
+            {
+              "display_url": "pic.x.com/bA67gexwl6",
+              "end": 80,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2079673699385618746/photo/1",
+              "media_key": "3_2079673691408113664",
+              "start": 57,
+              "url": "https://t.co/bA67gexwl6"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2079673699385618746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想不明白這種人的腦迴路 用機翻的日文敬語です&amp;ます型來罵人 而且還有那不知所云的罵人方式 とても奇妙だ🙃 https://t.co/bA67gexwl6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078130819269566464/G5H3ogAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2168,
+          "following_count": 356,
+          "like_count": 12742,
+          "listed_count": 3,
+          "media_count": 982,
+          "tweet_count": 4476
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-06T16:07:11.000Z",
+        "description": "人生的意义，不就是去海边整点薯条嘛",
+        "id": "1809619841055391744",
+        "name": "去海边整点薯条",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022376345171554304/37dqdi-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 73,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "DeutscheDd34097",
+        "verified": false
+      }
+    ]
+  }
+}

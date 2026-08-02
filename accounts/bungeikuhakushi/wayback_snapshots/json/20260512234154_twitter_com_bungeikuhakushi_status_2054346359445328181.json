@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054346353350938626",
+        "3_2054346353548070912"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2054346359445328181",
+    "created_at": "2026-05-12T23:41:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T00:41:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054346359445328181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dekl2g3V4X",
+          "end": 30,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2054346359445328181/photo/1",
+          "media_key": "3_2054346353350938626",
+          "start": 7,
+          "url": "https://t.co/dekl2g3V4X"
+        },
+        {
+          "display_url": "pic.x.com/dekl2g3V4X",
+          "end": 30,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2054346359445328181/photo/1",
+          "media_key": "3_2054346353548070912",
+          "start": 7,
+          "url": "https://t.co/dekl2g3V4X"
+        },
+        {
+          "display_url": "x.com/HappyHejsDay/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/HappyHejsDay/status/2054240816730886321",
+          "start": 31,
+          "url": "https://t.co/toxYsXe2m3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054346359445328181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054240816730886321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "！ 全連上了 https://t.co/dekl2g3V4X https://t.co/toxYsXe2m3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 904,
+        "media_key": "3_2054346353350938626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKBH70aEAI0ME5.jpg",
+        "width": 1080
+      },
+      {
+        "height": 906,
+        "media_key": "3_2054346353548070912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKBH8jaEAA_C59.jpg",
+        "width": 1080
+      },
+      {
+        "height": 906,
+        "media_key": "3_2054240808916897793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhIcKaUAEUxAI.jpg",
+        "width": 1080
+      },
+      {
+        "height": 906,
+        "media_key": "3_2054240808925286404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIIhIcMaUAQs9Cn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054346353350938626",
+            "3_2054346353548070912"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2054346359445328181",
+        "created_at": "2026-05-12T23:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054346359445328181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dekl2g3V4X",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2054346359445328181/photo/1",
+              "media_key": "3_2054346353350938626",
+              "start": 7,
+              "url": "https://t.co/dekl2g3V4X"
+            },
+            {
+              "display_url": "pic.x.com/dekl2g3V4X",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2054346359445328181/photo/1",
+              "media_key": "3_2054346353548070912",
+              "start": 7,
+              "url": "https://t.co/dekl2g3V4X"
+            },
+            {
+              "display_url": "x.com/HappyHejsDay/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/HappyHejsDay/status/2054240816730886321",
+              "start": 31,
+              "url": "https://t.co/toxYsXe2m3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054346359445328181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054240816730886321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "！ 全連上了 https://t.co/dekl2g3V4X https://t.co/toxYsXe2m3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054240808916897793",
+            "3_2054240808925286404"
+          ]
+        },
+        "author_id": "2005261732751802368",
+        "conversation_id": "2054240816730886321",
+        "created_at": "2026-05-12T16:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054240816730886321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuKvJe7LWp",
+              "end": 45,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2054240816730886321/photo/1",
+              "media_key": "3_2054240808916897793",
+              "start": 22,
+              "url": "https://t.co/NuKvJe7LWp"
+            },
+            {
+              "display_url": "pic.x.com/NuKvJe7LWp",
+              "end": 45,
+              "expanded_url": "https://x.com/HappyHejsDay/status/2054240816730886321/photo/1",
+              "media_key": "3_2054240808925286404",
+              "start": 22,
+              "url": "https://t.co/NuKvJe7LWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054240816730886321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 458,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的尸体Bingo \n大家也来试试吧！ https://t.co/NuKvJe7LWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼書面語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 354,
+          "like_count": 11967,
+          "listed_count": 4,
+          "media_count": 769,
+          "tweet_count": 3810
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-28T12:57:17.000Z",
+        "description": "低脂國奻｜惡俗醜釹｜疑似鍵政｜痛苦大學生｜准健全逼｜不OD不割手｜失敗合約交易員｜🇹🇼🇭🇰🇨🇳｜歡迎私訊聊天｜同類互fo｜前世@franciswwwww｜寵物@Fe_ions ｜小玩具@wwwAlce4｜寶寶窩@PaulDrizzyvlni @Suimikax @Jskyeye @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 63,
+                "username": "franciswwwww"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "Fe_ions"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "wwwAlce4"
+              },
+              {
+                "end": 120,
+                "start": 105,
+                "username": "PaulDrizzyvlni"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "username": "Suimikax"
+              },
+              {
+                "end": 139,
+                "start": 131,
+                "username": "Jskyeye"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "zwh20081"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/franciswwwww",
+                "end": 23,
+                "expanded_url": "https://ngl.link/franciswwwww",
+                "start": 0,
+                "url": "https://t.co/XuuvUtx6bP"
+              }
+            ]
+          }
+        },
+        "id": "2005261732751802368",
+        "location": "秦城监狱",
+        "name": "𝕙𝕖𝕛😉",
+        "pinned_tweet_id": "2045133003077427269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039022077857124352/L7EpIiFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1558,
+          "following_count": 1742,
+          "like_count": 9116,
+          "listed_count": 4,
+          "media_count": 407,
+          "tweet_count": 5512
+        },
+        "url": "https://t.co/XuuvUtx6bP",
+        "username": "HappyHejsDay",
+        "verified": false
+      }
+    ]
+  }
+}

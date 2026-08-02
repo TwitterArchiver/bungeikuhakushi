@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2075613443646984553",
+    "created_at": "2026-07-10T19:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T20:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075658197277474819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1272930023926665216",
+          "start": 0,
+          "username": "JawenZhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075658197277474819",
+    "in_reply_to_user_id": "1272930023926665216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075613443646984553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JawenZhu 為甚麼管疫登記了醫院還可以放他們走 還可以過海關坐飛機的（？ 這管理是不是有點鬆啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075613440597757952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4PbVnbEAAH-lK.jpg",
+        "width": 1229
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075613440908120064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4PbWxa0AADLOs.jpg",
+        "width": 1072
+      },
+      {
+        "height": 1942,
+        "media_key": "3_2075613440320901120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4PbUlakAAPRa6.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2075613440262197248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4PbUXa0AAlwvD.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2075613443646984553",
+        "created_at": "2026-07-10T19:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T20:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075658197277474819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1272930023926665216",
+              "start": 0,
+              "username": "JawenZhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075658197277474819",
+        "in_reply_to_user_id": "1272930023926665216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075613443646984553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JawenZhu 為甚麼管疫登記了醫院還可以放他們走 還可以過海關坐飛機的（？ 這管理是不是有點鬆啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075613440597757952",
+            "3_2075613440908120064",
+            "3_2075613440320901120",
+            "3_2075613440262197248"
+          ]
+        },
+        "author_id": "1272930023926665216",
+        "conversation_id": "2075613443646984553",
+        "created_at": "2026-07-10T16:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075613443646984553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TekSikrmgy",
+              "end": 146,
+              "expanded_url": "https://x.com/JawenZhu/status/2075613443646984553/photo/1",
+              "media_key": "3_2075613440597757952",
+              "start": 123,
+              "url": "https://t.co/TekSikrmgy"
+            },
+            {
+              "display_url": "pic.x.com/TekSikrmgy",
+              "end": 146,
+              "expanded_url": "https://x.com/JawenZhu/status/2075613443646984553/photo/1",
+              "media_key": "3_2075613440908120064",
+              "start": 123,
+              "url": "https://t.co/TekSikrmgy"
+            },
+            {
+              "display_url": "pic.x.com/TekSikrmgy",
+              "end": 146,
+              "expanded_url": "https://x.com/JawenZhu/status/2075613443646984553/photo/1",
+              "media_key": "3_2075613440320901120",
+              "start": 123,
+              "url": "https://t.co/TekSikrmgy"
+            },
+            {
+              "display_url": "pic.x.com/TekSikrmgy",
+              "end": 146,
+              "expanded_url": "https://x.com/JawenZhu/status/2075613443646984553/photo/1",
+              "media_key": "3_2075613440262197248",
+              "start": 123,
+              "url": "https://t.co/TekSikrmgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075613443646984553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 803,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太逆天了，一家人在澳门感染病毒，然后不想在澳门医院看病上报，看一半就跑了，瞒着自己的身体状况上了飞机，结果在飞机里上吐下泻，污染了飞机座位，这个帖子的当事人居然还能如此大言不惭发出来，毫无危害公众的歉意和愧疚😅（图二三四是小红书当事人发的原帖） https://t.co/TekSikrmgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​桜の咲く頃に 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 359,
+          "like_count": 12759,
+          "listed_count": 3,
+          "media_count": 951,
+          "tweet_count": 4409
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-16T16:32:36.000Z",
+        "description": "最爱@Masochiat 亲爱的@Zane_III_Ren 好同志@Aboubac68719912 @_Weace_ @NationalPureVF4死宅，左，反帝反修，支持LGBT。沒玩過東方正作云東方眾。不喜歡滯納笑话。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "Masochiat"
+              },
+              {
+                "end": 29,
+                "start": 16,
+                "username": "Zane_III_Ren"
+              },
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Aboubac68719912"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "_Weace_"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "NationalPureVF4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilipili.com",
+                "end": 23,
+                "expanded_url": "http://www.pilipili.com",
+                "start": 0,
+                "url": "https://t.co/wylUGcFYaG"
+              }
+            ]
+          }
+        },
+        "id": "1272930023926665216",
+        "location": "대한민국",
+        "name": "🌹Jawen🌹（淡推中）",
+        "pinned_tweet_id": "1910882349757444541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004503761163841536/XIqMmJl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4294,
+          "following_count": 2115,
+          "like_count": 76206,
+          "listed_count": 24,
+          "media_count": 1268,
+          "tweet_count": 23513
+        },
+        "url": "https://t.co/wylUGcFYaG",
+        "username": "JawenZhu",
+        "verified": false
+      }
+    ]
+  }
+}

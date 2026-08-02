@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049378604010934763",
+    "created_at": "2026-04-29T06:41:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:41:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049378604010934763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1964042844198621187",
+          "start": 3,
+          "username": "bungeikuhakushi"
+        },
+        {
+          "end": 37,
+          "id": "1883984775184011264",
+          "start": 21,
+          "username": "AirConcorde8964"
+        },
+        {
+          "end": 47,
+          "id": "311603632",
+          "start": 38,
+          "username": "wadezone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049378604010934763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049378564630540340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bungeikuhakushi: @AirConcorde8964 @wadezone 其實我不太喜歡被人當成台灣人 那些大陸粉紅一看到我用正體字就罵我台蛙 青鳥 讓我很不舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049378604010934763",
+        "created_at": "2026-04-29T06:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049378604010934763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1964042844198621187",
+              "start": 3,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 37,
+              "id": "1883984775184011264",
+              "start": 21,
+              "username": "AirConcorde8964"
+            },
+            {
+              "end": 47,
+              "id": "311603632",
+              "start": 38,
+              "username": "wadezone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049378604010934763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049378564630540340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bungeikuhakushi: @AirConcorde8964 @wadezone 其實我不太喜歡被人當成台灣人 那些大陸粉紅一看到我用正體字就罵我台蛙 青鳥 讓我很不舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048659888596041966",
+        "created_at": "2026-04-29T06:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049378564630540340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1883984775184011264",
+              "start": 0,
+              "username": "AirConcorde8964"
+            },
+            {
+              "end": 26,
+              "id": "311603632",
+              "start": 17,
+              "username": "wadezone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049378564630540340",
+        "in_reply_to_user_id": "1883984775184011264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049279041988153817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AirConcorde8964 @wadezone 其實我不太喜歡被人當成台灣人 那些大陸粉紅一看到我用正體字就罵我台蛙 青鳥 讓我很不舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 367,
+          "like_count": 11678,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 3440
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-27T21:06:06.000Z",
+        "description": "I know it's me, I could be one from millions.\nI never trust anything to survive.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/people/brother…",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/people/brotherfarmers",
+                "start": 0,
+                "url": "https://t.co/SbnBWIBzka"
+              }
+            ]
+          }
+        },
+        "id": "1883984775184011264",
+        "location": "Alpha Centauri, Trisolaris",
+        "name": "Reagan-Thatcherite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015842634540236800/LOAEmHj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 186,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/SbnBWIBzka",
+        "username": "AirConcorde8964",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-05T18:46:04.000Z",
+        "description": "一人公司 / 反认知商业写作\n  程序员 → 跨境 8 年 → YouTube 3 万粉 → AI 重启\n  X 单篇最高 250 万阅读 · 不卖课不收徒",
+        "id": "311603632",
+        "name": "Koda",
+        "pinned_tweet_id": "2049307094097318271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049312888649928704/UsBrY6Kx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7142,
+          "following_count": 175,
+          "like_count": 33,
+          "listed_count": 29,
+          "media_count": 67,
+          "tweet_count": 3692
+        },
+        "username": "wadezone",
+        "verified": true
+      }
+    ]
+  }
+}

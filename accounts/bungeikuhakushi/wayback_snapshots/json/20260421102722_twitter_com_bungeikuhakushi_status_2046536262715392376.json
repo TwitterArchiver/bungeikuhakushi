@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046533714977689600"
+      ],
+      "media_source_tweet_id": [
+        "2046533740751663174"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2046536262715392376",
+    "created_at": "2026-04-21T10:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046536262715392376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046530162536357888",
+          "start": 3,
+          "username": "yueyechunxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/du5iouEmVt",
+          "end": 77,
+          "expanded_url": "https://x.com/yueyechunxue/status/2046533740751663174/photo/1",
+          "media_key": "3_2046533714977689600",
+          "start": 54,
+          "url": "https://t.co/du5iouEmVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046536262715392376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046533740751663174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyechunxue: 春雪狐堂堂转生！请各位原来的互关推友来fo一下谢谢喵，咱会回fo的喵🥹 https://t.co/du5iouEmVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1185,
+        "media_key": "3_2046533714977689600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa_kh4bEAACUEJ.jpg",
+        "width": 1197
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046533714977689600"
+          ],
+          "media_source_tweet_id": [
+            "2046533740751663174"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2046536262715392376",
+        "created_at": "2026-04-21T10:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046536262715392376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046530162536357888",
+              "start": 3,
+              "username": "yueyechunxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/du5iouEmVt",
+              "end": 77,
+              "expanded_url": "https://x.com/yueyechunxue/status/2046533740751663174/photo/1",
+              "media_key": "3_2046533714977689600",
+              "start": 54,
+              "url": "https://t.co/du5iouEmVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046536262715392376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046533740751663174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueyechunxue: 春雪狐堂堂转生！请各位原来的互关推友来fo一下谢谢喵，咱会回fo的喵🥹 https://t.co/du5iouEmVt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046533714977689600"
+          ]
+        },
+        "author_id": "2046530162536357888",
+        "conversation_id": "2046533740751663174",
+        "created_at": "2026-04-21T10:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046533740751663174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/du5iouEmVt",
+              "end": 59,
+              "expanded_url": "https://x.com/yueyechunxue/status/2046533740751663174/photo/1",
+              "media_key": "3_2046533714977689600",
+              "start": 36,
+              "url": "https://t.co/du5iouEmVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046533740751663174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "春雪狐堂堂转生！请各位原来的互关推友来fo一下谢谢喵，咱会回fo的喵🥹 https://t.co/du5iouEmVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1881,
+          "following_count": 389,
+          "like_count": 11093,
+          "listed_count": 5,
+          "media_count": 631,
+          "tweet_count": 3173
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，是个小药娘,08年出厂,主要发碎碎念和涩图,业余福利姬然而发的大多数是清水涩图,陪聊🚪门槛50,爱好很多但是不精,可能会接线下单子哦",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046535232296570880/KSm_JaEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "yueyechunxue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048409152658227699",
+    "created_at": "2026-04-26T14:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048409152658227699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Moningmeng/sta…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/Moningmeng/status/2048290334128652659",
+          "start": 51,
+          "url": "https://t.co/g5dnud3mWm"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2048409152658227699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048290334128652659",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "會日文和會英文是魚和熊掌不得兼得\n真的 日語的外來詞會帶壞妳的英文口音\n不是真的特別喜歡不要去學日文 https://t.co/g5dnud3mWm"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048409152658227699",
+        "created_at": "2026-04-26T14:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048409152658227699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2048290334128652659",
+              "start": 51,
+              "url": "https://t.co/g5dnud3mWm"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2048409152658227699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048290334128652659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "會日文和會英文是魚和熊掌不得兼得\n真的 日語的外來詞會帶壞妳的英文口音\n不是真的特別喜歡不要去學日文 https://t.co/g5dnud3mWm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2048290334128652659",
+        "created_at": "2026-04-26T06:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T07:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048290334128652659"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048290334128652659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13082,
+          "like_count": 258,
+          "quote_count": 3,
+          "reply_count": 35,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我真羡慕你们又会中文又会英语还会日语的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 370,
+          "like_count": 11483,
+          "listed_count": 4,
+          "media_count": 664,
+          "tweet_count": 3352
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ | 对象 @linmoCHYA0 | 提问箱📦https://t.co/TOvX6zqP3L",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "linmoCHYA0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/muoujiang_",
+                "end": 52,
+                "expanded_url": "https://ngl.link/muoujiang_",
+                "start": 29,
+                "url": "https://t.co/TOvX6zqP3L"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠",
+        "pinned_tweet_id": "1927365238833250356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033881825312215040/hgSEkGmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27206,
+          "following_count": 11012,
+          "like_count": 87569,
+          "listed_count": 102,
+          "media_count": 5027,
+          "tweet_count": 16943
+        },
+        "username": "Moningmeng",
+        "verified": false
+      }
+    ]
+  }
+}

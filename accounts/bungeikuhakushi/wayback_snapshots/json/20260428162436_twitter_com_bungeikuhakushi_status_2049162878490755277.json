@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049117664799609290",
+    "created_at": "2026-04-28T16:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049162878490755277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463410562730233867",
+          "start": 0,
+          "username": "EIQRj9gNlZHrot3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049162878490755277",
+    "in_reply_to_user_id": "1463410562730233867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049117664799609290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EIQRj9gNlZHrot3 おめ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2049117617487855616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_tnc1bwAACBj_.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049117664799609290",
+        "created_at": "2026-04-28T16:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049162878490755277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463410562730233867",
+              "start": 0,
+              "username": "EIQRj9gNlZHrot3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049162878490755277",
+        "in_reply_to_user_id": "1463410562730233867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049117664799609290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EIQRj9gNlZHrot3 おめ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049117617487855616"
+          ]
+        },
+        "author_id": "1463410562730233867",
+        "conversation_id": "2049117664799609290",
+        "created_at": "2026-04-28T13:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049117664799609290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7OZkC2I5yA",
+              "end": 43,
+              "expanded_url": "https://x.com/EIQRj9gNlZHrot3/status/2049117664799609290/photo/1",
+              "media_key": "3_2049117617487855616",
+              "start": 20,
+              "url": "https://t.co/7OZkC2I5yA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049117664799609290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2222\nにゃんにゃんにゃんにゃん！！ https://t.co/7OZkC2I5yA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 366,
+          "like_count": 11636,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 3418
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-24T07:34:19.000Z",
+        "description": "08|“疲労の学生”|心の性別不詳|新全日制高３|発達|鬱病|情緒不安|フラッシュバック\n\nXのDMは返信が遅いのでできればQQかdiscordへお願いします\n\n必須アモト酸🟦🟨🟥／ごちうさ／東京都／ニコニコ／音mad／その他\n\nuser/129801003 鬱裏→@youkya5656_yami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "youkya5656_yami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakureihp.web.fc2.com/index.html",
+                "end": 23,
+                "expanded_url": "http://hakureihp.web.fc2.com/index.html",
+                "start": 0,
+                "url": "https://t.co/VP0WHhfxYB"
+              }
+            ]
+          }
+        },
+        "id": "1463410562730233867",
+        "location": "東京都新宿区信濃町３２番地",
+        "name": "Aizu Wakamatsu.🇳🇿🤯🍁/ ⚡️📱🕊️",
+        "pinned_tweet_id": "2018819299201490956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045531806355845120/zxODKf8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 4730,
+          "like_count": 46949,
+          "listed_count": 13,
+          "media_count": 5679,
+          "tweet_count": 73274
+        },
+        "url": "https://t.co/VP0WHhfxYB",
+        "username": "EIQRj9gNlZHrot3",
+        "verified": false
+      }
+    ]
+  }
+}

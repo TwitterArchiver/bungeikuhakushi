@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2074313416932807166",
+    "created_at": "2026-07-07T12:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074469323608105161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2026547944418312192",
+          "start": 0,
+          "username": "skibidi_dicker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074469323608105161",
+    "in_reply_to_user_id": "2026547944418312192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074313416932807166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@skibidi_dicker 其實 我早就不是中國人呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2074313416932807166",
+        "created_at": "2026-07-07T12:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074469323608105161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026547944418312192",
+              "start": 0,
+              "username": "skibidi_dicker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074469323608105161",
+        "in_reply_to_user_id": "2026547944418312192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074313416932807166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skibidi_dicker 其實 我早就不是中國人呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026547944418312192",
+        "conversation_id": "2074313416932807166",
+        "created_at": "2026-07-07T02:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074313416932807166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MioKitsukawa/s…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/MioKitsukawa/status/2074085536596410754",
+              "start": 50,
+              "url": "https://t.co/ChqkfLjJJd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074313416932807166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 901,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074085536596410754",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天主流的 VPN 梯子基本都炸了，\n\n  现在还能翻墙出来刷到此推的中国人，基本都是人中龙凤🤣🤣 https://t.co/ChqkfLjJJd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 359,
+          "like_count": 12812,
+          "listed_count": 3,
+          "media_count": 953,
+          "tweet_count": 4452
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T06:41:04.000Z",
+        "description": "@omgnowihasfish 的小帳號 我會在這裡分享我的日常🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "omgnowihasfish"
+              }
+            ]
+          }
+        },
+        "id": "2026547944418312192",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051489095621525504/wwJd-zjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 221,
+          "like_count": 771,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "skibidi_dicker",
+        "verified": true
+      }
+    ]
+  }
+}

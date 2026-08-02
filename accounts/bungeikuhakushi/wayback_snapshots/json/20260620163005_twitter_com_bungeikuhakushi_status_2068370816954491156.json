@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2068351367455137792"
+      ],
+      "media_source_tweet_id": [
+        "2068351603690856820"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2068370816954491156",
+    "created_at": "2026-06-20T16:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068370816954491156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600024316552179713",
+          "start": 3,
+          "username": "kiki_qiqing"
+        },
+        {
+          "end": 41,
+          "id": "1852615097824251904",
+          "start": 32,
+          "username": "Suimikax"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/idtwuOCGE7",
+          "end": 65,
+          "expanded_url": "https://x.com/kiki_qiqing/status/2068351603690856820/video/1",
+          "media_key": "7_2068351367455137792",
+          "start": 42,
+          "url": "https://t.co/idtwuOCGE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068370816954491156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068351603690856820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiki_qiqing: 这两个入是不是太漏味了点🍥😋 @Suimikax https://t.co/idtwuOCGE7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22848,
+        "height": 1280,
+        "media_key": "7_2068351367455137792",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068351367455137792/pu/img/r98rkn72bsfgUq2M.jpg",
+        "public_metrics": {
+          "view_count": 41
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068351367455137792/pu/vid/avc1/320x568/vhXYnV87nVe-igFU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068351367455137792/pu/vid/avc1/480x852/6Toeyhc8jOYKQdMq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068351367455137792/pu/vid/avc1/720x1280/D1MMTv-pO2SKhyET.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068351367455137792/pu/pl/GoPbFTpkyPRa81GY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068351367455137792"
+          ],
+          "media_source_tweet_id": [
+            "2068351603690856820"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2068370816954491156",
+        "created_at": "2026-06-20T16:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068370816954491156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600024316552179713",
+              "start": 3,
+              "username": "kiki_qiqing"
+            },
+            {
+              "end": 41,
+              "id": "1852615097824251904",
+              "start": 32,
+              "username": "Suimikax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/idtwuOCGE7",
+              "end": 65,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2068351603690856820/video/1",
+              "media_key": "7_2068351367455137792",
+              "start": 42,
+              "url": "https://t.co/idtwuOCGE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068370816954491156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068351603690856820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiki_qiqing: 这两个入是不是太漏味了点🍥😋 @Suimikax https://t.co/idtwuOCGE7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2068351367455137792"
+          ]
+        },
+        "author_id": "1600024316552179713",
+        "conversation_id": "2068351603690856820",
+        "created_at": "2026-06-20T15:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068351603690856820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1852615097824251904",
+              "start": 15,
+              "username": "Suimikax"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/idtwuOCGE7",
+              "end": 48,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2068351603690856820/video/1",
+              "media_key": "7_2068351367455137792",
+              "start": 25,
+              "url": "https://t.co/idtwuOCGE7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2068351603690856820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这两个入是不是太漏味了点🍥😋 @Suimikax https://t.co/idtwuOCGE7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 361,
+          "like_count": 12686,
+          "listed_count": 3,
+          "media_count": 919,
+          "tweet_count": 4322
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 | 泛性恋喵 | 170cm/61kg | 有点地雷 | 老婆 @Y205621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "Y205621"
+              }
+            ]
+          }
+        },
+        "id": "1600024316552179713",
+        "location": "荒漠迷城",
+        "name": "祈晴kiki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062376314695532544/1WEAosvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 336,
+          "like_count": 5922,
+          "listed_count": 7,
+          "media_count": 127,
+          "tweet_count": 2117
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T07:34:06.000Z",
+        "description": "Fighting, the only way to victory.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@suimikax",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@suimikax",
+                "start": 0,
+                "url": "https://t.co/foV3F4WzeX"
+              }
+            ]
+          }
+        },
+        "id": "1852615097824251904",
+        "name": "桃桃桃桃桃",
+        "pinned_tweet_id": "2035372179731411328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043161516695031808/jrfecv-X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 132,
+          "like_count": 3857,
+          "listed_count": 0,
+          "media_count": 235,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/foV3F4WzeX",
+        "username": "Suimikax",
+        "verified": false
+      }
+    ]
+  }
+}

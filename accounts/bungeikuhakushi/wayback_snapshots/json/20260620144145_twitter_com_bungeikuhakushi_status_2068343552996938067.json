@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2068338916319810021",
+    "created_at": "2026-06-20T14:41:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T15:41:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068343552996938067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816123872087007235",
+          "start": 0,
+          "username": "jim71351321670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068343552996938067",
+    "in_reply_to_user_id": "1816123872087007235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068338916319810021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jim71351321670 我來推特就是來看黃的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2068338913304035328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQ3SHqawAAoH2C.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2068338916319810021",
+        "created_at": "2026-06-20T14:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068343552996938067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816123872087007235",
+              "start": 0,
+              "username": "jim71351321670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068343552996938067",
+        "in_reply_to_user_id": "1816123872087007235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068338916319810021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jim71351321670 我來推特就是來看黃的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068338913304035328"
+          ]
+        },
+        "author_id": "1816123872087007235",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2068338916319810021",
+        "created_at": "2026-06-20T14:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T15:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068338916319810021"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "19Junio"
+            },
+            {
+              "end": 59,
+              "start": 53,
+              "tag": "sınav"
+            },
+            {
+              "end": 68,
+              "start": 60,
+              "tag": "twitter"
+            },
+            {
+              "end": 74,
+              "start": 69,
+              "tag": "藍V互關"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AL2JdslZOM",
+              "end": 98,
+              "expanded_url": "https://x.com/jim71351321670/status/2068338916319810021/photo/1",
+              "media_key": "3_2068338913304035328",
+              "start": 75,
+              "url": "https://t.co/AL2JdslZOM"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2068338916319810021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我上推特又不是來看偽娘色色、同溫層小圈圈，還有Gay、拉拉跟蘿莉控在那邊集體發瘋的……\n#19Junio #sınav #twitter #藍V互關 https://t.co/AL2JdslZOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 361,
+          "like_count": 12683,
+          "listed_count": 3,
+          "media_count": 919,
+          "tweet_count": 4320
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n  平壤江東郡現任執事【2025-2028】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwan.gov.tw",
+                "end": 23,
+                "expanded_url": "https://www.taiwan.gov.tw/",
+                "start": 0,
+                "url": "https://t.co/k4uEtD9c9b"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "Kaohsiung, Taiwan",
+        "name": "冉冉面（s版），🇭🇰🇹🇼",
+        "pinned_tweet_id": "2039728461015838818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 646,
+          "like_count": 16261,
+          "listed_count": 4,
+          "media_count": 494,
+          "tweet_count": 3220
+        },
+        "url": "https://t.co/k4uEtD9c9b",
+        "username": "jim71351321670",
+        "verified": true
+      }
+    ]
+  }
+}

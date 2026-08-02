@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072530428825845760"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2072242016130617723",
+    "created_at": "2026-07-02T03:58:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:58:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072530431778635798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAI4hsnZ05",
+          "end": 39,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2072530431778635798/photo/1",
+          "media_key": "3_2072530428825845760",
+          "start": 16,
+          "url": "https://t.co/wAI4hsnZ05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072530431778635798",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072242016130617723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen https://t.co/wAI4hsnZ05"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 611,
+        "media_key": "3_2072530428825845760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMbcbxaQAAxrEv.jpg",
+        "width": 1072
+      },
+      {
+        "height": 560,
+        "media_key": "3_2072241981682761728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIVGmbaQAASBdx.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072530428825845760"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2072242016130617723",
+        "created_at": "2026-07-02T03:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072530431778635798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAI4hsnZ05",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2072530431778635798/photo/1",
+              "media_key": "3_2072530428825845760",
+              "start": 16,
+              "url": "https://t.co/wAI4hsnZ05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072530431778635798",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072242016130617723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen https://t.co/wAI4hsnZ05"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072241981682761728"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2072242016130617723",
+        "created_at": "2026-07-01T08:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072242016130617723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw9YBCh6XR",
+              "end": 26,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2072242016130617723/photo/1",
+              "media_key": "3_2072241981682761728",
+              "start": 3,
+              "url": "https://t.co/uw9YBCh6XR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072242016130617723",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9339,
+          "like_count": 216,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "😰？ https://t.co/uw9YBCh6XR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 356,
+          "like_count": 12756,
+          "listed_count": 3,
+          "media_count": 950,
+          "tweet_count": 4422
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 881,
+          "like_count": 28998,
+          "listed_count": 13,
+          "media_count": 1817,
+          "tweet_count": 9349
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047933424485413240",
+    "created_at": "2026-04-26T10:27:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:27:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048348208712335514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1262333036516892675",
+          "start": 0,
+          "username": "tamanegisinbun"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2048348208712335514",
+    "in_reply_to_user_id": "1262333036516892675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048302053886489050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tamanegisinbun 哪來的豬頭？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1899,
+        "media_key": "3_2048302051420155904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0H3QeaMAAXg2A.jpg",
+        "width": 1179
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047933424485413240",
+        "created_at": "2026-04-26T10:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048348208712335514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1262333036516892675",
+              "start": 0,
+              "username": "tamanegisinbun"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2048348208712335514",
+        "in_reply_to_user_id": "1262333036516892675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048302053886489050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tamanegisinbun 哪來的豬頭？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048302051420155904"
+          ]
+        },
+        "author_id": "1262333036516892675",
+        "conversation_id": "2047933424485413240",
+        "created_at": "2026-04-26T07:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048302053886489050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gpCeFZFC5m",
+              "end": 51,
+              "expanded_url": "https://x.com/tamanegisinbun/status/2048302053886489050/photo/1",
+              "media_key": "3_2048302051420155904",
+              "start": 28,
+              "url": "https://t.co/gpCeFZFC5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048302053886489050",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047933424485413240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 我们知道了，这就是你 https://t.co/gpCeFZFC5m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1896,
+          "following_count": 368,
+          "like_count": 11449,
+          "listed_count": 4,
+          "media_count": 662,
+          "tweet_count": 3335
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-18T10:44:02.000Z",
+        "description": "👊👊👊👊👊👊👊👊👊👊👊👊👊👊👊\n🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵🇯🇵\n🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥\n大汁华伪史论发明人，汁华文明都是从日本韩国等周边国家偷来的",
+        "id": "1262333036516892675",
+        "location": "日本 京都",
+        "name": "西野・金平　🤜🇨🇳🐷🇨🇳🤛",
+        "pinned_tweet_id": "1823417823944949938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813128047752847363/TlbsYN66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 279,
+          "like_count": 10499,
+          "listed_count": 21,
+          "media_count": 2056,
+          "tweet_count": 24401
+        },
+        "username": "tamanegisinbun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070137379206402048"
+      ],
+      "media_source_tweet_id": [
+        "2071911633073349062"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2071938098318168546",
+    "created_at": "2026-06-30T12:45:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:45:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071938098318168546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976995735532138496",
+          "start": 3,
+          "username": "JanboMikan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XvSxXfsgzl",
+          "end": 90,
+          "expanded_url": "https://x.com/JanboMikan/status/2071911633073349062/photo/1",
+          "media_key": "3_2070137379206402048",
+          "start": 67,
+          "url": "https://t.co/XvSxXfsgzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071938098318168546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071911633073349062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JanboMikan: 一盒补佳乐21片，刚好不够吃一个月。\n我一直觉得这是厂家在提醒我：你不是女人，别想按月经周期那套来。 https://t.co/XvSxXfsgzl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2070137379206402048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqa-nPbEAAi4M3.jpg",
+        "width": 914
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070137379206402048"
+          ],
+          "media_source_tweet_id": [
+            "2071911633073349062"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2071938098318168546",
+        "created_at": "2026-06-30T12:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071938098318168546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976995735532138496",
+              "start": 3,
+              "username": "JanboMikan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvSxXfsgzl",
+              "end": 90,
+              "expanded_url": "https://x.com/JanboMikan/status/2071911633073349062/photo/1",
+              "media_key": "3_2070137379206402048",
+              "start": 67,
+              "url": "https://t.co/XvSxXfsgzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071938098318168546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071911633073349062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JanboMikan: 一盒补佳乐21片，刚好不够吃一个月。\n我一直觉得这是厂家在提醒我：你不是女人，别想按月经周期那套来。 https://t.co/XvSxXfsgzl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070137379206402048"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2071911633073349062",
+        "created_at": "2026-06-30T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071911633073349062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XvSxXfsgzl",
+              "end": 74,
+              "expanded_url": "https://x.com/JanboMikan/status/2071911633073349062/photo/1",
+              "media_key": "3_2070137379206402048",
+              "start": 51,
+              "url": "https://t.co/XvSxXfsgzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071911633073349062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1384,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一盒补佳乐21片，刚好不够吃一个月。\n我一直觉得这是厂家在提醒我：你不是女人，别想按月经周期那套来。 https://t.co/XvSxXfsgzl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 358,
+          "like_count": 12745,
+          "listed_count": 3,
+          "media_count": 946,
+          "tweet_count": 4413
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "深圳(全广随机出现)/珠海/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2030455087240519874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14734,
+          "following_count": 573,
+          "like_count": 20119,
+          "listed_count": 53,
+          "media_count": 338,
+          "tweet_count": 10650
+        },
+        "url": "",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

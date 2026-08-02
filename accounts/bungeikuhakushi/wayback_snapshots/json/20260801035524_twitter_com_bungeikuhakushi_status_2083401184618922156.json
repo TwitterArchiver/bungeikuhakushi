@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2083390219479601317",
+    "created_at": "2026-08-01T03:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T04:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083401184618922156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2077698986593730560",
+          "start": 0,
+          "username": "omgnowihadfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083401184618922156",
+    "in_reply_to_user_id": "2077698986593730560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083390219479601317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omgnowihadfish 騷騷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2083390219479601317",
+        "created_at": "2026-08-01T03:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083401184618922156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2077698986593730560",
+              "start": 0,
+              "username": "omgnowihadfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083401184618922156",
+        "in_reply_to_user_id": "2077698986593730560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083390219479601317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omgnowihadfish 騷騷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077698986593730560",
+        "conversation_id": "2083390219479601317",
+        "created_at": "2026-08-01T03:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T04:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083390219479601317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PinkCatLoveSky…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/PinkCatLoveSky/status/2083298589447709131",
+              "start": 13,
+              "url": "https://t.co/lY3ShMl4bW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083390219479601317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083298589447709131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這傻逼半年前開始騷擾我🤢 https://t.co/lY3ShMl4bW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰🇲🇴｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081754219997200384/pJoooY_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2163,
+          "following_count": 348,
+          "like_count": 12776,
+          "listed_count": 3,
+          "media_count": 977,
+          "tweet_count": 4465
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-16T10:17:42.000Z",
+        "description": "雷霆視姦小帳號",
+        "id": "2077698986593730560",
+        "name": "黃瓜(視姦版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078467275045457920/C8_xhhEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 25,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "omgnowihadfish",
+        "verified": false
+      }
+    ]
+  }
+}

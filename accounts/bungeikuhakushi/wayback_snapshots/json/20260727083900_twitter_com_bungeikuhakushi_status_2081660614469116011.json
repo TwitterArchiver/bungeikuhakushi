@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2081660565659795850",
+    "created_at": "2026-07-27T08:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081660614469116011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "threads.com/@bungeihaku202…",
+          "end": 23,
+          "expanded_url": "https://www.threads.com/@bungeihaku2024/post/DbSivdAgfEZ?xmt=AQG0RnrEFcGbUSFjZNkiVKN9SsCyzZceUt5u3QAsoDzMPAiWptXOkFppoB3J5fDO68-PYl4K&slof=1",
+          "start": 0,
+          "status": 200,
+          "title": "文芸~空白子 (@bungeihaku2024) on Threads",
+          "unwound_url": "https://www.threads.com/@bungeihaku2024/post/DbSivdAgfEZ/mtr%E6%B8%AF%E9%90%B5-%E5%A3%AB%E5%A4%9A-%E5%AF%84%E8%89%99%E5%A4%A7%E9%99%B8%E6%89%98%E9%81%8B-%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%A4%A7%E9%99%B8%E9%9B%BB%E5%8B%95%E8%BB%8A%E9%B3%B3%E6%A2%A8-%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8%E5%A4%A7%E9%99%B8%E8%8D%89%E8%8E%93%E5%85%AC%E4%BB%94%E9%BA%B5-%E5%8D%B3%E9%A3%9F%E9%BA%B5%E5%A4%A7%E9%99%B8%E6%B3%A1%E9%BA%B5-%E6%96%B9%E4%BE%BF%E9%BA%B5?slof=1",
+          "url": "https://t.co/Np26FbdC79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081660614469116011",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081660565659795850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Np26FbdC79"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2081660558173163521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOLP6DaUAEXQg0.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2081660565659795850",
+        "created_at": "2026-07-27T08:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081660614469116011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "threads.com/@bungeihaku202…",
+              "end": 23,
+              "expanded_url": "https://www.threads.com/@bungeihaku2024/post/DbSivdAgfEZ?xmt=AQG0RnrEFcGbUSFjZNkiVKN9SsCyzZceUt5u3QAsoDzMPAiWptXOkFppoB3J5fDO68-PYl4K&slof=1",
+              "start": 0,
+              "status": 200,
+              "title": "文芸~空白子 (@bungeihaku2024) on Threads",
+              "unwound_url": "https://www.threads.com/@bungeihaku2024/post/DbSivdAgfEZ/mtr%E6%B8%AF%E9%90%B5-%E5%A3%AB%E5%A4%9A-%E5%AF%84%E8%89%99%E5%A4%A7%E9%99%B8%E6%89%98%E9%81%8B-%E9%9B%BB%E5%96%AE%E8%BB%8A%E5%A4%A7%E9%99%B8%E9%9B%BB%E5%8B%95%E8%BB%8A%E9%B3%B3%E6%A2%A8-%E5%A3%AB%E5%A4%9A%E5%95%A4%E6%A2%A8%E5%A4%A7%E9%99%B8%E8%8D%89%E8%8E%93%E5%85%AC%E4%BB%94%E9%BA%B5-%E5%8D%B3%E9%A3%9F%E9%BA%B5%E5%A4%A7%E9%99%B8%E6%B3%A1%E9%BA%B5-%E6%96%B9%E4%BE%BF%E9%BA%B5?slof=1",
+              "url": "https://t.co/Np26FbdC79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081660614469116011",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081660565659795850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Np26FbdC79"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081660558173163521"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081660565659795850",
+        "created_at": "2026-07-27T08:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081660565659795850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LBHUmVRtQa",
+              "end": 38,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2081660565659795850/photo/1",
+              "media_key": "3_2081660558173163521",
+              "start": 15,
+              "url": "https://t.co/LBHUmVRtQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081660565659795850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台灣的傻逼新聞 你們就繼續吧 https://t.co/LBHUmVRtQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰🇲🇴｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080732306717990912/1CNcQ3y1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 348,
+          "like_count": 12790,
+          "listed_count": 3,
+          "media_count": 1000,
+          "tweet_count": 4508
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311766165065142273",
+          "name": "Higurashi When They Cry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2071525043235131900",
+    "created_at": "2026-06-29T09:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T10:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071525043235131900"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eigacom/status…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/eigacom/status/2070771650011050224",
+          "start": 61,
+          "url": "https://t.co/wLucVnqHmy"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2071525043235131900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070771650011050224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有時候我都在想 天天拿寒蟬炒冷飯 不如把海貓的動漫製作完 寒蟬那邊沙都子和梨花都開始魔法少女大戰了 這次又想搞甚麼新活？ https://t.co/wLucVnqHmy"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2071525043235131900",
+        "created_at": "2026-06-29T09:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T10:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071525043235131900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eigacom/status…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/eigacom/status/2070771650011050224",
+              "start": 61,
+              "url": "https://t.co/wLucVnqHmy"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2071525043235131900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070771650011050224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有時候我都在想 天天拿寒蟬炒冷飯 不如把海貓的動漫製作完 寒蟬那邊沙都子和梨花都開始魔法少女大戰了 這次又想搞甚麼新活？ https://t.co/wLucVnqHmy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7550252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1114213516271964160",
+              "name": "Movie news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1114213516271964160",
+              "name": "Movie news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311766165065142273",
+              "name": "Higurashi When They Cry"
+            }
+          }
+        ],
+        "conversation_id": "2070771650011050224",
+        "created_at": "2026-06-27T07:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070771650011050224"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 68,
+              "tag": "ひぐらしのなく頃に"
+            }
+          ],
+          "urls": [
+            {
+              "description": "アニメ「ひぐらしのなく頃に」シリーズが、インフィニットのYouTubeチャンネルで順次無料配信されている。20年前の2006年に放送されたテレビアニメ「ひぐらしのなく頃に」(全26話)が7月22日まで無料配信中のほか、6月29日午後6時から",
+              "display_url": "eiga.com/l/SdCrf",
+              "end": 66,
+              "expanded_url": "https://eiga.com/l/SdCrf",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2070771696827826176/dcpoC8jh?format=jpg&name=orig",
+                  "width": 448
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070771696827826176/dcpoC8jh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 43,
+              "status": 200,
+              "title": "【新作発表・アニメ化20周年】「ひぐらしのなく頃に」アニメシリーズが順次無料配信中",
+              "unwound_url": "https://eiga.com/news/20260627/11/",
+              "url": "https://t.co/1CEWl0ep7T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070771650011050224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 22971,
+          "like_count": 115,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "【新作発表・アニメ化20周年】「ひぐらしのなく頃に」アニメシリーズが順次無料配信中\n\nhttps://t.co/1CEWl0ep7T\n\n#ひぐらしのなく頃に"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 356,
+          "like_count": 12730,
+          "listed_count": 3,
+          "media_count": 942,
+          "tweet_count": 4406
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2007-07-18T05:53:12.000Z",
+        "description": "映画のことなら映画.com❗️\n最新ニュースやおすすめ映画・ドラマ情報をお届け✨\n各SNSはこちら👉https://t.co/DaAWoZMZTr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/eigacom",
+                "end": 73,
+                "expanded_url": "http://linktr.ee/eigacom",
+                "start": 50,
+                "url": "https://t.co/DaAWoZMZTr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eiga.com",
+                "end": 23,
+                "expanded_url": "http://eiga.com/",
+                "start": 0,
+                "url": "https://t.co/BWajJRUZiX"
+              }
+            ]
+          }
+        },
+        "id": "7550252",
+        "name": "映画.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476932580519780352/m-U9r5Py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829557,
+          "following_count": 716,
+          "like_count": 8587,
+          "listed_count": 7628,
+          "media_count": 61757,
+          "tweet_count": 211648
+        },
+        "url": "https://t.co/BWajJRUZiX",
+        "username": "eigacom",
+        "verified": true
+      }
+    ]
+  }
+}

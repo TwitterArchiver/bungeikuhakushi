@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071957511356223488"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2071957527064121788",
+    "created_at": "2026-06-30T14:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071957527064121788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SeE0saiYTK",
+          "end": 28,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2071957527064121788/photo/1",
+          "media_key": "3_2071957511356223488",
+          "start": 5,
+          "url": "https://t.co/SeE0saiYTK"
+        },
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2071817296763379752",
+          "start": 29,
+          "url": "https://t.co/eSWQTQjLVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071957527064121788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071817296763379752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "案發現場 https://t.co/SeE0saiYTK https://t.co/eSWQTQjLVx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071957511356223488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMESYP4XEAA8S_g.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2071817293194031104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCS2ehXcAA73Mj.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2071817293772808194",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMCS2grW4AINRz1.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071957511356223488"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2071957527064121788",
+        "created_at": "2026-06-30T14:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071957527064121788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SeE0saiYTK",
+              "end": 28,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2071957527064121788/photo/1",
+              "media_key": "3_2071957511356223488",
+              "start": 5,
+              "url": "https://t.co/SeE0saiYTK"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2071817296763379752",
+              "start": 29,
+              "url": "https://t.co/eSWQTQjLVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071957527064121788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071817296763379752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "案發現場 https://t.co/SeE0saiYTK https://t.co/eSWQTQjLVx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071817293194031104",
+            "3_2071817293772808194"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071817296763379752",
+        "created_at": "2026-06-30T04:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071817296763379752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RlcGj5KvJD",
+              "end": 123,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2071817296763379752/photo/1",
+              "media_key": "3_2071817293194031104",
+              "start": 100,
+              "url": "https://t.co/RlcGj5KvJD"
+            },
+            {
+              "display_url": "pic.x.com/RlcGj5KvJD",
+              "end": 123,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2071817296763379752/photo/1",
+              "media_key": "3_2071817293772808194",
+              "start": 100,
+              "url": "https://t.co/RlcGj5KvJD"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2071817296763379752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 567,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草 妳們空白子今天墜機了😂\n今天早上醒來一看時間 7點47分 已經遲到了22分鐘 距離第一節課還有13分鐘 我原本想跑著過去應該還來得急的 結果路上被個石子伴到 摔成這樣 腿和手受傷了 手機也壞了😭 https://t.co/RlcGj5KvJD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2110,
+          "following_count": 358,
+          "like_count": 12744,
+          "listed_count": 3,
+          "media_count": 947,
+          "tweet_count": 4414
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

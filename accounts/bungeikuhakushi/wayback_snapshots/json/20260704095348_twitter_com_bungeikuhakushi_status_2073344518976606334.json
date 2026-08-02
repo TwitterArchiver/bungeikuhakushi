@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2073329492014268684",
+    "created_at": "2026-07-04T09:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T10:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073344518976606334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 26,
+          "id": "1710930079453437952",
+          "start": 16,
+          "username": "123_95MHz"
+        },
+        {
+          "end": 43,
+          "id": "1461323392930385921",
+          "start": 27,
+          "username": "momojia71815465"
+        },
+        {
+          "end": 54,
+          "id": "2036459029237833728",
+          "start": 44,
+          "username": "HMiku2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073344518976606334",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073329492014268684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @123_95MHz @momojia71815465 @HMiku2333 我也要！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073329468991836160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXyKsWbkAAhFv1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2073329492014268684",
+        "created_at": "2026-07-04T09:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073344518976606334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 26,
+              "id": "1710930079453437952",
+              "start": 16,
+              "username": "123_95MHz"
+            },
+            {
+              "end": 43,
+              "id": "1461323392930385921",
+              "start": 27,
+              "username": "momojia71815465"
+            },
+            {
+              "end": 54,
+              "id": "2036459029237833728",
+              "start": 44,
+              "username": "HMiku2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073344518976606334",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073329492014268684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @123_95MHz @momojia71815465 @HMiku2333 我也要！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073329468991836160"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073329492014268684",
+        "created_at": "2026-07-04T08:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073329492014268684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1710930079453437952",
+              "start": 13,
+              "username": "123_95MHz"
+            },
+            {
+              "end": 40,
+              "id": "1461323392930385921",
+              "start": 24,
+              "username": "momojia71815465"
+            },
+            {
+              "end": 51,
+              "id": "2036459029237833728",
+              "start": 41,
+              "username": "HMiku2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ICJ79lPeNS",
+              "end": 75,
+              "expanded_url": "https://x.com/RainEngine2024/status/2073329492014268684/photo/1",
+              "media_key": "3_2073329468991836160",
+              "start": 52,
+              "url": "https://t.co/ICJ79lPeNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073329492014268684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎各位推友来我家玩（（\n@123_95MHz @momojia71815465 @HMiku2333 https://t.co/ICJ79lPeNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 360,
+          "like_count": 12778,
+          "listed_count": 3,
+          "media_count": 954,
+          "tweet_count": 4445
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/现移动合作伙伴/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/最喜欢的姐姐🥰 @AotraWong  /PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "AotraWong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainEngine2024",
+                "end": 23,
+                "expanded_url": "https://t.me/RainEngine2024",
+                "start": 0,
+                "url": "https://t.co/9PQn0qPrWk"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2038233746755948881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060444078790348800/OZRYk2nj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10649,
+          "following_count": 984,
+          "like_count": 97293,
+          "listed_count": 25,
+          "media_count": 2022,
+          "tweet_count": 13653
+        },
+        "url": "https://t.co/9PQn0qPrWk",
+        "username": "RainEngine2024",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-08T08:08:32.000Z",
+        "description": "逃生舱：@Mevius_nte",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Mevius_nte"
+              }
+            ]
+          }
+        },
+        "id": "1710930079453437952",
+        "location": "希望在喜欢的人身边呢",
+        "name": "123.950_MTF🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058823289745833984/0TzDDqfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 138,
+          "like_count": 336,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "123_95MHz",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-18T13:20:43.000Z",
+        "description": "Continuous progress can cure all frustration and inferiority.\n\nMBTI    infj\n\nFate will eventually bring us together.",
+        "id": "1461323392930385921",
+        "location": "Wong Tai Sin District",
+        "name": "xiaoxiaoxiao小墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1461323763883012096/XY8dZIXI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 401,
+          "like_count": 1294,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1221
+        },
+        "url": "",
+        "username": "momojia71815465",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T15:04:15.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/15|药娘小资历 | 170 厘米 | 60公斤| 不抽烟 |双相情感障碍|成分复杂|飞友|日本语|English|中文｜有小证｜含糖中｜❤️@C_lier_fufu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 94,
+                "username": "C_lier_fufu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hmiku2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hmiku2333",
+                "start": 0,
+                "url": "https://t.co/hD487V0nKB"
+              }
+            ]
+          }
+        },
+        "id": "2036459029237833728",
+        "name": "Yuri🍥🏳️‍⚧",
+        "pinned_tweet_id": "2072413404137132081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070549945539756032/xU5q1B5r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 335,
+          "like_count": 4372,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/hD487V0nKB",
+        "username": "HMiku2333",
+        "verified": true
+      }
+    ]
+  }
+}

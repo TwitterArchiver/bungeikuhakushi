@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047366997915344896"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047367000582943209",
+    "created_at": "2026-04-23T17:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047367000582943209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I8rpEgJmkB",
+          "end": 30,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2047367000582943209/photo/1",
+          "media_key": "3_2047366997915344896",
+          "start": 7,
+          "url": "https://t.co/I8rpEgJmkB"
+        },
+        {
+          "display_url": "x.com/lin14637555/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/lin14637555/status/2047117853552251244",
+          "start": 31,
+          "url": "https://t.co/WUO6HDsute"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2047367000582943209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047117853552251244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "小三？三小？ https://t.co/I8rpEgJmkB https://t.co/WUO6HDsute"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1922,
+        "media_key": "3_2047366997915344896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGm1b-uaIAAOCJ6.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047366997915344896"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047367000582943209",
+        "created_at": "2026-04-23T17:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047367000582943209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8rpEgJmkB",
+              "end": 30,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2047367000582943209/photo/1",
+              "media_key": "3_2047366997915344896",
+              "start": 7,
+              "url": "https://t.co/I8rpEgJmkB"
+            },
+            {
+              "display_url": "x.com/lin14637555/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/lin14637555/status/2047117853552251244",
+              "start": 31,
+              "url": "https://t.co/WUO6HDsute"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2047367000582943209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047117853552251244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "小三？三小？ https://t.co/I8rpEgJmkB https://t.co/WUO6HDsute"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795004004264796160",
+        "conversation_id": "2047082386215633326",
+        "created_at": "2026-04-23T00:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T01:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047117853552251244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1813561571941183488",
+              "start": 0,
+              "username": "care1337_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047117853552251244",
+        "in_reply_to_user_id": "1813561571941183488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047105877514371513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@care1337_ 你爱小三爱去，何必来这儿说三道四？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 370,
+          "like_count": 11238,
+          "listed_count": 4,
+          "media_count": 650,
+          "tweet_count": 3253
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T08:09:55.000Z",
+        "description": "Tell the story of China and raise the image of China！\n\n若有侵权请联删。",
+        "id": "1795004004264796160",
+        "name": "糖葫芦（100%回）冲10000",
+        "pinned_tweet_id": "2046886465620038063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795010207887896576/_ady9QF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6483,
+          "following_count": 5053,
+          "like_count": 53783,
+          "listed_count": 10,
+          "media_count": 14349,
+          "tweet_count": 38026
+        },
+        "username": "lin14637555",
+        "verified": false
+      }
+    ]
+  }
+}

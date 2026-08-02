@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054137869388935168"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2054137880671555964",
+    "created_at": "2026-05-12T09:53:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:53:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054137880671555964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9AdN9v37Rm",
+          "end": 38,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2054137880671555964/photo/1",
+          "media_key": "3_2054137869388935168",
+          "start": 15,
+          "url": "https://t.co/9AdN9v37Rm"
+        },
+        {
+          "display_url": "x.com/Aravin29604927…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Aravin29604927/status/2054133518054395908",
+          "start": 39,
+          "url": "https://t.co/DrM187ivUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054137880671555964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054133518054395908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子們 妳們覺得我會割蛋嘛？ https://t.co/9AdN9v37Rm https://t.co/DrM187ivUs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1378,
+        "media_key": "3_2054137869388935168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHDgkia8AAeXiW.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054137869388935168"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2054137880671555964",
+        "created_at": "2026-05-12T09:53:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:53:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054137880671555964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AdN9v37Rm",
+              "end": 38,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2054137880671555964/photo/1",
+              "media_key": "3_2054137869388935168",
+              "start": 15,
+              "url": "https://t.co/9AdN9v37Rm"
+            },
+            {
+              "display_url": "x.com/Aravin29604927…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Aravin29604927/status/2054133518054395908",
+              "start": 39,
+              "url": "https://t.co/DrM187ivUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054137880671555964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054133518054395908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子們 妳們覺得我會割蛋嘛？ https://t.co/9AdN9v37Rm https://t.co/DrM187ivUs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "958306825237020672",
+        "conversation_id": "2053720530596008045",
+        "created_at": "2026-05-12T09:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054133518054395908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 26,
+              "id": "1254442404410621958",
+              "start": 17,
+              "username": "zwh20081"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054133518054395908",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053769859058774084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi @zwh20081 反跨割蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼書面語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 354,
+          "like_count": 11955,
+          "listed_count": 4,
+          "media_count": 768,
+          "tweet_count": 3802
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2018-01-30T11:52:06.000Z",
+        "description": "请慎重fo我，以免造成不良的观感",
+        "id": "958306825237020672",
+        "name": "cx2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048099345715888128/dX-1OPHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 101,
+          "like_count": 3390,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 4318
+        },
+        "username": "Aravin29604927",
+        "verified": false
+      }
+    ]
+  }
+}

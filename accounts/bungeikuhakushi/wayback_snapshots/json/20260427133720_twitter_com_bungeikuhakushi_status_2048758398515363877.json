@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048758387228426240"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048758398515363877",
+    "created_at": "2026-04-27T13:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048758398515363877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 0,
+          "tag": "阿Q本Q來了"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NCmLpxd5ai",
+          "end": 31,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048758398515363877/photo/1",
+          "media_key": "3_2048758387228426240",
+          "start": 8,
+          "url": "https://t.co/NCmLpxd5ai"
+        },
+        {
+          "display_url": "x.com/trn1229093/sta…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/trn1229093/status/2048755832666640559",
+          "start": 32,
+          "url": "https://t.co/YgMcxSOHvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048758398515363877",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048755832666640559",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#阿Q本Q來了 https://t.co/NCmLpxd5ai https://t.co/YgMcxSOHvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048758387228426240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6m5f1aQAABeCQ.jpg",
+        "width": 603
+      },
+      {
+        "height": 448,
+        "media_key": "16_2048755822617063424",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HG6kkN6acAAOxu1.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HG6kkN6acAAOxu1.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048758387228426240"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048758398515363877",
+        "created_at": "2026-04-27T13:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048758398515363877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "阿Q本Q來了"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NCmLpxd5ai",
+              "end": 31,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048758398515363877/photo/1",
+              "media_key": "3_2048758387228426240",
+              "start": 8,
+              "url": "https://t.co/NCmLpxd5ai"
+            },
+            {
+              "display_url": "x.com/trn1229093/sta…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/trn1229093/status/2048755832666640559",
+              "start": 32,
+              "url": "https://t.co/YgMcxSOHvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048758398515363877",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048755832666640559",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#阿Q本Q來了 https://t.co/NCmLpxd5ai https://t.co/YgMcxSOHvZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2048755822617063424"
+          ]
+        },
+        "author_id": "2025450618320797696",
+        "conversation_id": "2048618571320938588",
+        "created_at": "2026-04-27T13:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048755832666640559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 22,
+              "id": "1964042844198621187",
+              "start": 6,
+              "username": "bungeikuhakushi"
+            },
+            {
+              "end": 35,
+              "id": "1980140172726673408",
+              "start": 23,
+              "username": "Rennord9407"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvJu6rKF7X",
+              "end": 80,
+              "expanded_url": "https://x.com/trn1229093/status/2048755832666640559/photo/1",
+              "media_key": "16_2048755822617063424",
+              "start": 57,
+              "url": "https://t.co/lvJu6rKF7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048755832666640559",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048752457870630990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @bungeikuhakushi @Rennord9407 精神胜利法这一块🤣继续加油这就是现在的你 https://t.co/lvJu6rKF7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 366,
+          "like_count": 11561,
+          "listed_count": 4,
+          "media_count": 676,
+          "tweet_count": 3392
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T06:00:51.000Z",
+        "description": "",
+        "id": "2025450618320797696",
+        "name": "tr n",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025450695282057216/MRxOQcO8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 72
+        },
+        "username": "trn1229093",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044832402577760553",
+    "created_at": "2026-04-21T05:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T06:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046465790317309983"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046465790317309983",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044832402577760553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "本人b人標準：\n1.邏輯不通罵我的小粉紅和支黑\n2.滿洲人和罵人的東北b\n3.北角和罵我的台獨勢力\n4.b了我的 我會回b回去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044832402577760553",
+        "created_at": "2026-04-21T05:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046465790317309983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046465790317309983",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044832402577760553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "本人b人標準：\n1.邏輯不通罵我的小粉紅和支黑\n2.滿洲人和罵人的東北b\n3.北角和罵我的台獨勢力\n4.b了我的 我會回b回去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044832402577760553",
+        "created_at": "2026-04-16T17:36:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T18:36:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044832402577760553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You are invited to the group 空白一片的小窩. Click above to",
+              "display_url": "t.me/+HkWdckPdMPkzM…",
+              "end": 29,
+              "expanded_url": "https://t.me/+HkWdckPdMPkzMWRl",
+              "start": 6,
+              "status": 200,
+              "title": "空白一片的小窩",
+              "unwound_url": "https://t.me/+HkWdckPdMPkzMWRl",
+              "url": "https://t.co/7tsLUagwJy"
+            },
+            {
+              "description": "快到 Discord 上的 空白一片 的伺服器 社群消磨時間，與 1 位成員享受免費的語音與文字聊天。",
+              "display_url": "discord.gg/gNZr5XPUf",
+              "end": 59,
+              "expanded_url": "https://discord.gg/gNZr5XPUf",
+              "start": 36,
+              "status": 200,
+              "title": "加入 空白一片 的伺服器 Discord 伺服器！",
+              "unwound_url": "https://discord.com/invite/gNZr5XPUf",
+              "url": "https://t.co/qunXrC2pQO"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2024431643344457964",
+              "start": 67,
+              "url": "https://t.co/9j2Rq6xEsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044832402577760553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4860,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024431643344457964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "tg粉絲群：https://t.co/7tsLUagwJy\ndc伺服器：https://t.co/qunXrC2pQO\n歡迎大家加入 https://t.co/9j2Rq6xEsY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 388,
+          "like_count": 11085,
+          "listed_count": 4,
+          "media_count": 631,
+          "tweet_count": 3168
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

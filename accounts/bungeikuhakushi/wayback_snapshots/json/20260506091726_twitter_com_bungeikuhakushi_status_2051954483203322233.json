@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051954472382054400"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051954483203322233",
+    "created_at": "2026-05-06T09:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051954483203322233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tCtRgRhBqZ",
+          "end": 79,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2051954483203322233/photo/1",
+          "media_key": "3_2051954472382054400",
+          "start": 56,
+          "url": "https://t.co/tCtRgRhBqZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051954483203322233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "❤️苦+❤️苦=上学❤️❤️ 🎊良辰已定，学校等你🎊 ❤️吾有学上，以谢良友❤️ 💓诚挚邀请您一起共赴学校❤️ https://t.co/tCtRgRhBqZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2051954472382054400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoBuI2bQAAhurn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051954472382054400"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051954483203322233",
+        "created_at": "2026-05-06T09:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051954483203322233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tCtRgRhBqZ",
+              "end": 79,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2051954483203322233/photo/1",
+              "media_key": "3_2051954472382054400",
+              "start": 56,
+              "url": "https://t.co/tCtRgRhBqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051954483203322233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "❤️苦+❤️苦=上学❤️❤️ 🎊良辰已定，学校等你🎊 ❤️吾有学上，以谢良友❤️ 💓诚挚邀请您一起共赴学校❤️ https://t.co/tCtRgRhBqZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット（広州",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 347,
+          "like_count": 11698,
+          "listed_count": 4,
+          "media_count": 727,
+          "tweet_count": 3637
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

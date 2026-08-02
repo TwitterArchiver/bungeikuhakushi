@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2058161749720011050",
+    "created_at": "2026-05-23T12:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058163578239431066"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058163578239431066",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058161749720011050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "政黨居然沒有國民黨是我想不到的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058161747320848384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAPNF9bQAA3I7L.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2058161749720011050",
+        "created_at": "2026-05-23T12:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058163578239431066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058163578239431066",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058161749720011050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "政黨居然沒有國民黨是我想不到的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058161747320848384"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058161749720011050",
+        "created_at": "2026-05-23T12:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058161749720011050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "台灣價值 是一個政治光譜測驗，透過回答一系列的問題來幫助使用者探索他們的政治意識形態。",
+              "display_url": "twvalues.github.io/TW-Values/#/re…",
+              "end": 23,
+              "expanded_url": "https://twvalues.github.io/TW-Values/#/result?api_version=1.0.0&economic=54&diplomatic=68&civil=46&environmental=55&societal=49&sovereignty=26&us_vs_china=22&tags=roc_unification%2Cprc_unification%2Cdeath_penalty_abolitionists%2Chomophobia%2Cfeminism",
+              "start": 0,
+              "status": 200,
+              "title": "台灣價值 TW Values",
+              "unwound_url": "https://twvalues.github.io/TW-Values/#/result?api_version=1.0.0&economic=54&diplomatic=68&civil=46&environmental=55&societal=49&sovereignty=26&us_vs_china=22&tags=roc_unification%2Cprc_unification%2Cdeath_penalty_abolitionists%2Chomophobia%2Cfeminism",
+              "url": "https://t.co/VkeNMpHrGc"
+            },
+            {
+              "display_url": "pic.x.com/c4uD490NHh",
+              "end": 47,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2058161749720011050/photo/1",
+              "media_key": "3_2058161747320848384",
+              "start": 24,
+              "url": "https://t.co/c4uD490NHh"
+            },
+            {
+              "display_url": "x.com/Zhmgws19120101…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Zhmgws19120101/status/2058068629233848835",
+              "start": 48,
+              "url": "https://t.co/bqvMEMW4Lv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058161749720011050",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058068629233848835",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/VkeNMpHrGc https://t.co/c4uD490NHh https://t.co/bqvMEMW4Lv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 357,
+          "like_count": 12174,
+          "listed_count": 4,
+          "media_count": 816,
+          "tweet_count": 3932
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

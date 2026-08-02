@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048099701531238400",
+        "3_2048099701984296960"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048099704417010046",
+    "created_at": "2026-04-25T17:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T18:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048099704417010046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j8bBNYigZ1",
+          "end": 33,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048099704417010046/photo/1",
+          "media_key": "3_2048099701531238400",
+          "start": 10,
+          "url": "https://t.co/j8bBNYigZ1"
+        },
+        {
+          "display_url": "pic.x.com/j8bBNYigZ1",
+          "end": 33,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048099704417010046/photo/1",
+          "media_key": "3_2048099701984296960",
+          "start": 10,
+          "url": "https://t.co/j8bBNYigZ1"
+        },
+        {
+          "display_url": "x.com/Ciallo_114_514…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Ciallo_114_514/status/2048064236350566858",
+          "start": 34,
+          "url": "https://t.co/NVQ8vazSuG"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2048099704417010046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048064236350566858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是 這都什麼玩意 https://t.co/j8bBNYigZ1 https://t.co/NVQ8vazSuG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1312,
+        "media_key": "3_2048099701531238400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxP08ZaYAAniC4.jpg",
+        "width": 1204
+      },
+      {
+        "height": 1315,
+        "media_key": "3_2048099701984296960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxP0-FbgAA0lzv.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1175,
+        "media_key": "3_2048064106683621376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwvdDQa4AAn3cr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1315,
+        "media_key": "3_2048064138287726592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwve4_bQAAA383.jpg",
+        "width": 1206
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048099701531238400",
+            "3_2048099701984296960"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048099704417010046",
+        "created_at": "2026-04-25T17:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T18:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048099704417010046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j8bBNYigZ1",
+              "end": 33,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048099704417010046/photo/1",
+              "media_key": "3_2048099701531238400",
+              "start": 10,
+              "url": "https://t.co/j8bBNYigZ1"
+            },
+            {
+              "display_url": "pic.x.com/j8bBNYigZ1",
+              "end": 33,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048099704417010046/photo/1",
+              "media_key": "3_2048099701984296960",
+              "start": 10,
+              "url": "https://t.co/j8bBNYigZ1"
+            },
+            {
+              "display_url": "x.com/Ciallo_114_514…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Ciallo_114_514/status/2048064236350566858",
+              "start": 34,
+              "url": "https://t.co/NVQ8vazSuG"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2048099704417010046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048064236350566858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是 這都什麼玩意 https://t.co/j8bBNYigZ1 https://t.co/NVQ8vazSuG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048064106683621376",
+            "3_2048064138287726592"
+          ]
+        },
+        "author_id": "2031097520840167424",
+        "conversation_id": "2048064236350566858",
+        "created_at": "2026-04-25T15:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048064236350566858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/890XUsBZow",
+              "end": 33,
+              "expanded_url": "https://x.com/Ciallo_114_514/status/2048064236350566858/photo/1",
+              "media_key": "3_2048064106683621376",
+              "start": 10,
+              "url": "https://t.co/890XUsBZow"
+            },
+            {
+              "display_url": "pic.x.com/890XUsBZow",
+              "end": 33,
+              "expanded_url": "https://x.com/Ciallo_114_514/status/2048064236350566858/photo/1",
+              "media_key": "3_2048064138287726592",
+              "start": 10,
+              "url": "https://t.co/890XUsBZow"
+            },
+            {
+              "display_url": "x.com/yueyechunxue/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/yueyechunxue/status/2048013737655935297",
+              "start": 34,
+              "url": "https://t.co/sGmkyqKybJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048064236350566858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 380,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048013737655935297",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来我是个好学生😋 https://t.co/890XUsBZow https://t.co/sGmkyqKybJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1879,
+          "following_count": 365,
+          "like_count": 11398,
+          "listed_count": 4,
+          "media_count": 660,
+          "tweet_count": 3317
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T19:59:37.000Z",
+        "description": "前世@YunoQiu56649｜互fo喵(没回私信提醒我喵)\n生日0402｜hrt2026.1.12-3.19 4.24-？｜已炸柜｜超级天残党+家长不管党｜中焦重抑｜全部立场中立｜碎碎念｜我又不想死了｜fo我请顺带fo小号@qi_bu64350",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "YunoQiu56649"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "qi_bu64350"
+              }
+            ]
+          }
+        },
+        "id": "2031097520840167424",
+        "location": "你家",
+        "name": "Ciallo～(∠・ω ＜ )︵★🍥🏳️‍⚧️（互fo寻回ing）",
+        "pinned_tweet_id": "2047315543703928878",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035909538168328193/rP91M_1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 739,
+          "like_count": 2131,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 3829
+        },
+        "username": "Ciallo_114_514",
+        "verified": false
+      }
+    ]
+  }
+}

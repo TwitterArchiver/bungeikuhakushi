@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2044600150010835371",
+    "created_at": "2026-04-16T02:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044609988510072952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1520686487540740097",
+          "start": 0,
+          "username": "KokonaKokoro"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2044609988510072952",
+    "in_reply_to_user_id": "1520686487540740097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044600150010835371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KokonaKokoro 獨裁者萬歲！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2044600147938873344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_hAHWbkAApMZg.jpg",
+        "width": 720
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2044600150010835371",
+        "created_at": "2026-04-16T02:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044609988510072952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520686487540740097",
+              "start": 0,
+              "username": "KokonaKokoro"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2044609988510072952",
+        "in_reply_to_user_id": "1520686487540740097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044600150010835371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KokonaKokoro 獨裁者萬歲！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044600147938873344"
+          ]
+        },
+        "author_id": "1520686487540740097",
+        "conversation_id": "2044600150010835371",
+        "created_at": "2026-04-16T02:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044600150010835371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lMEZD3by5J",
+              "end": 36,
+              "expanded_url": "https://x.com/KokonaKokoro/status/2044600150010835371/photo/1",
+              "media_key": "3_2044600147938873344",
+              "start": 13,
+              "url": "https://t.co/lMEZD3by5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044600150010835371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 82,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全世界独裁者，联合起来！ https://t.co/lMEZD3by5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1675,
+          "following_count": 397,
+          "like_count": 10714,
+          "listed_count": 3,
+          "media_count": 607,
+          "tweet_count": 3021
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T08:48:29.000Z",
+        "description": "小天使，哲学新手，温和自由主义/存在主义。日常更新，欢迎来互动。好朋友@hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1520686487540740097",
+        "location": "Japan 🇯🇵",
+        "name": "心心心奈 🇯🇵⛩️",
+        "pinned_tweet_id": "2036708877337817267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037575983071723520/31QgPMtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 897,
+          "like_count": 12575,
+          "listed_count": 2,
+          "media_count": 215,
+          "tweet_count": 2655
+        },
+        "username": "KokonaKokoro",
+        "verified": true
+      }
+    ]
+  }
+}

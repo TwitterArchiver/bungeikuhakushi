@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2070965619365724545",
+    "created_at": "2026-06-27T20:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T21:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070965619365724545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ye06782480/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/ye06782480/status/2070856658079867255",
+          "start": 33,
+          "url": "https://t.co/gmqkl59Cyb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070965619365724545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070856658079867255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男人最該珍惜的就是第一次射精。因為你畢生都不會有那麽爽的感覺了。 https://t.co/gmqkl59Cyb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2070965619365724545",
+        "created_at": "2026-06-27T20:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T21:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070965619365724545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ye06782480/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/ye06782480/status/2070856658079867255",
+              "start": 33,
+              "url": "https://t.co/gmqkl59Cyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070965619365724545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070856658079867255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男人最該珍惜的就是第一次射精。因為你畢生都不會有那麽爽的感覺了。 https://t.co/gmqkl59Cyb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1235870523265073153",
+        "conversation_id": "2070856658079867255",
+        "created_at": "2026-06-27T13:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070856658079867255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070856658079867255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4291,
+          "like_count": 24,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男人最该珍惜的就是第一次射精。因为你毕生都不会有那么爽的感觉了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜對現實失望 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 357,
+          "like_count": 12715,
+          "listed_count": 3,
+          "media_count": 937,
+          "tweet_count": 4392
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T10:11:20.000Z",
+        "description": "这里是四百亿（百百）/水瓶💦/172cm/04年/美院在读🦪/情绪不定的furry/超级探店侠/榴莲究极梦男🥵🥵\n目前武汉读书，几乎没有什么雷点，欢迎找我玩噢🤪🤪",
+        "id": "1235870523265073153",
+        "name": "四百亿OvO",
+        "pinned_tweet_id": "1936638615347778003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054551083029241856/Yy7Gnrm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5518,
+          "following_count": 810,
+          "like_count": 5144,
+          "listed_count": 8,
+          "media_count": 270,
+          "tweet_count": 4620
+        },
+        "url": "",
+        "username": "ye06782480",
+        "verified": false
+      }
+    ]
+  }
+}

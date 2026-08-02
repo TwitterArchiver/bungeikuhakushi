@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048736854841901056",
+        "3_2048736855424978945"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048736870360850595",
+    "created_at": "2026-04-27T12:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T13:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048736870360850595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bt8BlOZTGJ",
+          "end": 159,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048736870360850595/photo/1",
+          "media_key": "3_2048736854841901056",
+          "start": 136,
+          "url": "https://t.co/bt8BlOZTGJ"
+        },
+        {
+          "display_url": "pic.x.com/bt8BlOZTGJ",
+          "end": 159,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048736870360850595/photo/1",
+          "media_key": "3_2048736855424978945",
+          "start": 136,
+          "url": "https://t.co/bt8BlOZTGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048736870360850595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "今天試卷考了篇我覺得很有意思的文學類文本 講的是「批判性思維的雙面鏡：從詭辯到公允」\n一個人若不能站在對方的角度考慮思考問題 思維就缺乏一種公允無偏性 這種批判性思維被稱為低境界的批判性思維\n反之 用一種理解和欣賞他人的觀點方式處事 這便是高境界的批判性思維\n那問題來了 你們覺得我是以上的哪種人呢？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天試卷考了篇我覺得很有意思的文學類文本 講的是「批判性思維的雙面鏡：從詭辯到公允」\n一個人若不能站在對方的角度考慮思考問題 思維就缺乏一種公允無偏性 這種批判性思維被稱為低境界的批判性思維\n反之 用一種理解和欣賞他人的觀點方式處事 這便是高境界的批判性思維\n那問題來了 https://t.co/bt8BlOZTGJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2048736854841901056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6TUJcaQAAb6FT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2268,
+        "media_key": "3_2048736855424978945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6TULnbUAE9QQ_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048736854841901056",
+            "3_2048736855424978945"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048736870360850595",
+        "created_at": "2026-04-27T12:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T13:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048736870360850595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bt8BlOZTGJ",
+              "end": 159,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048736870360850595/photo/1",
+              "media_key": "3_2048736854841901056",
+              "start": 136,
+              "url": "https://t.co/bt8BlOZTGJ"
+            },
+            {
+              "display_url": "pic.x.com/bt8BlOZTGJ",
+              "end": 159,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048736870360850595/photo/1",
+              "media_key": "3_2048736855424978945",
+              "start": 136,
+              "url": "https://t.co/bt8BlOZTGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048736870360850595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天試卷考了篇我覺得很有意思的文學類文本 講的是「批判性思維的雙面鏡：從詭辯到公允」\n一個人若不能站在對方的角度考慮思考問題 思維就缺乏一種公允無偏性 這種批判性思維被稱為低境界的批判性思維\n反之 用一種理解和欣賞他人的觀點方式處事 這便是高境界的批判性思維\n那問題來了 你們覺得我是以上的哪種人呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天試卷考了篇我覺得很有意思的文學類文本 講的是「批判性思維的雙面鏡：從詭辯到公允」\n一個人若不能站在對方的角度考慮思考問題 思維就缺乏一種公允無偏性 這種批判性思維被稱為低境界的批判性思維\n反之 用一種理解和欣賞他人的觀點方式處事 這便是高境界的批判性思維\n那問題來了 https://t.co/bt8BlOZTGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 366,
+          "like_count": 11549,
+          "listed_count": 4,
+          "media_count": 672,
+          "tweet_count": 3382
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

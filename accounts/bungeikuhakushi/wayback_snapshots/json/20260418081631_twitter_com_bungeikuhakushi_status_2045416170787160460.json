@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2045404553827504217",
+    "created_at": "2026-04-18T08:16:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T09:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045416170787160460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "10waterlili"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2045416170787160460",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045404553827504217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@10waterlili 這是個sz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2045404280556060672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGK8WyybgAAAmkg.jpg",
+        "width": 720
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045404553827504217",
+        "created_at": "2026-04-18T08:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T09:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045416170787160460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "10waterlili"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2045416170787160460",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045404553827504217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@10waterlili 這是個sz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045404280556060672"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2045404553827504217",
+        "created_at": "2026-04-18T07:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045404553827504217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vGTaIr5kJ",
+              "end": 59,
+              "expanded_url": "https://x.com/10waterlili/status/2045404553827504217/photo/1",
+              "media_key": "3_2045404280556060672",
+              "start": 36,
+              "url": "https://t.co/8vGTaIr5kJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045404553827504217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人不是一个反跨劳保吗，怎么这么多人fo\n我有从众效应了我也跟着fo… https://t.co/8vGTaIr5kJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 384,
+          "like_count": 10884,
+          "listed_count": 4,
+          "media_count": 617,
+          "tweet_count": 3085
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 26.2.21｜出厂日期🍰 09.3.14\n深柜中（坐以待炸）\nɪɴғᴘ-ᴛ｜重度抑郁中｜ex-音游人｜民间天文学家🔭\n同类互fo｜不开心可以找我聊天https://t.co/aydtYwj2Gi\n想和xyn们贴贴💕允许所有人请求私信\n下面是超超超详细的自介喵～（持续更新）\nhttps://t.co/KKvURpWk5o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/tennchu",
+                "end": 104,
+                "expanded_url": "http://t.me/tennchu",
+                "start": 81,
+                "url": "https://t.co/aydtYwj2Gi"
+              },
+              {
+                "display_url": "lit.link/zh-tw/tennOvO",
+                "end": 167,
+                "expanded_url": "http://lit.link/zh-tw/tennOvO",
+                "start": 144,
+                "url": "https://t.co/KKvURpWk5o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "深海",
+        "name": "𝒕𝒆𝒏𝒏 ᐝ 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2045294990817910853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045004879303958528/xNxtLn0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 376,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "10waterlili",
+        "verified": false
+      }
+    ]
+  }
+}

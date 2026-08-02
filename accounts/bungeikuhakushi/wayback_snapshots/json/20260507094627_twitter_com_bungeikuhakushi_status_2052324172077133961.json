@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052324164196024320"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2052324172077133961",
+    "created_at": "2026-05-07T09:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052324172077133961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6w3QQ5obHo",
+          "end": 73,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2052324172077133961/photo/1",
+          "media_key": "3_2052324164196024320",
+          "start": 50,
+          "url": "https://t.co/6w3QQ5obHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052324172077133961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在陸抖連使用鄭麗文AI都會被抓 看來中共真把鄭麗文當成中共同路人了呀 都有和中共領導人一樣的待遇了 https://t.co/6w3QQ5obHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052324164196024320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtR9CLawAAnq7V.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052324164196024320"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2052324172077133961",
+        "created_at": "2026-05-07T09:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052324172077133961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6w3QQ5obHo",
+              "end": 73,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2052324172077133961/photo/1",
+              "media_key": "3_2052324164196024320",
+              "start": 50,
+              "url": "https://t.co/6w3QQ5obHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052324172077133961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在陸抖連使用鄭麗文AI都會被抓 看來中共真把鄭麗文當成中共同路人了呀 都有和中共領導人一樣的待遇了 https://t.co/6w3QQ5obHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット（広州",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 352,
+          "like_count": 11807,
+          "listed_count": 4,
+          "media_count": 731,
+          "tweet_count": 3671
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048756035197030401"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2048755825867714996",
+    "created_at": "2026-04-27T13:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048756042734194803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SnukF8WUT",
+          "end": 23,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2048756042734194803/photo/1",
+          "media_key": "3_2048756035197030401",
+          "start": 0,
+          "url": "https://t.co/6SnukF8WUT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048756042734194803",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048755825867714996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/6SnukF8WUT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048756035197030401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6kwl1bUAEiGvq.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048756035197030401"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048755825867714996",
+        "created_at": "2026-04-27T13:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048756042734194803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SnukF8WUT",
+              "end": 23,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2048756042734194803/photo/1",
+              "media_key": "3_2048756035197030401",
+              "start": 0,
+              "url": "https://t.co/6SnukF8WUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048756042734194803",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048755825867714996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/6SnukF8WUT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2048755825867714996",
+        "created_at": "2026-04-27T13:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048755825867714996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048755825867714996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒特別情況不要在推特與別人對線 你以為是辯論 其實是對牛彈琴...\n一般不必要我還是不說話了\n畢竟推特傻逼多 衝浪要謹慎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917,
+          "following_count": 366,
+          "like_count": 11561,
+          "listed_count": 4,
+          "media_count": 675,
+          "tweet_count": 3391
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

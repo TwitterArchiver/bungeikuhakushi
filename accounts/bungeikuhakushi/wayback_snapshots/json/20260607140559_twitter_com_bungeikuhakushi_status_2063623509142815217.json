@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2063623486237806592"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2063623509142815217",
+    "created_at": "2026-06-07T14:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063623509142815217"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/siIhpEZq4N",
+          "end": 39,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2063623509142815217/video/1",
+          "media_key": "7_2063623486237806592",
+          "start": 16,
+          "url": "https://t.co/siIhpEZq4N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063623509142815217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我中推跨圈現狀be like： https://t.co/siIhpEZq4N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10541,
+        "height": 1280,
+        "media_key": "7_2063623486237806592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2063623486237806592/pu/img/SBRqHlkMh7YPn6E3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063623486237806592/pu/vid/avc1/320x710/Qki1XuyfmWwv_E68.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063623486237806592/pu/vid/avc1/480x1066/8UpenORmkV7C_gzn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2063623486237806592/pu/vid/avc1/576x1280/m8_w5TbhpnjLkCN5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2063623486237806592/pu/pl/uNldKONe3pO06Fdy.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2063623486237806592"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2063623509142815217",
+        "created_at": "2026-06-07T14:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063623509142815217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/siIhpEZq4N",
+              "end": 39,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2063623509142815217/video/1",
+              "media_key": "7_2063623486237806592",
+              "start": 16,
+              "url": "https://t.co/siIhpEZq4N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063623509142815217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我中推跨圈現狀be like： https://t.co/siIhpEZq4N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 354,
+          "like_count": 12618,
+          "listed_count": 3,
+          "media_count": 876,
+          "tweet_count": 4156
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

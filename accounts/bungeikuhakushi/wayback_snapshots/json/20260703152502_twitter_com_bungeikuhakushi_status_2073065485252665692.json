@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2073065485252665692",
+    "created_at": "2026-07-03T15:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073065485252665692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "2037575598730584064",
+          "start": 14,
+          "username": "SerenAzuma_HK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/LoveMikuBX/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/LoveMikuBX/status/2072951994034397503",
+          "start": 29,
+          "url": "https://t.co/3tqAgVSK2B"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2073065485252665692",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072951994034397503",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我相信蓮花蘇 願神明庇佑妳 @SerenAzuma_HK https://t.co/3tqAgVSK2B"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2073065485252665692",
+        "created_at": "2026-07-03T15:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073065485252665692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "2037575598730584064",
+              "start": 14,
+              "username": "SerenAzuma_HK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/LoveMikuBX/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/LoveMikuBX/status/2072951994034397503",
+              "start": 29,
+              "url": "https://t.co/3tqAgVSK2B"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2073065485252665692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072951994034397503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我相信蓮花蘇 願神明庇佑妳 @SerenAzuma_HK https://t.co/3tqAgVSK2B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035758475209572352",
+        "conversation_id": "2072951994034397503",
+        "created_at": "2026-07-03T07:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072951994034397503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2037575598730584064",
+              "start": 0,
+              "username": "SerenAzuma_HK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072951994034397503",
+        "in_reply_to_user_id": "2037575598730584064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@SerenAzuma_HK 蓮花蘇說：“最近我的两个账号都出现了重大变故 没有人陪伴 精神状态很不好\n于是打算退推一段时间 差不多是半个月 也有可能是永久性的 这期间我也会坚持申诉我的大号”\n                        某个隐身了的家伙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 358,
+          "like_count": 12778,
+          "listed_count": 3,
+          "media_count": 953,
+          "tweet_count": 4439
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-27T17:01:04.000Z",
+        "description": "蓮の贰号機|一般通过社民入🌹🇪🇺坚定的进步主义战士|友跨顺男暂未翻车 激挺LGBT🏳️‍🌈🏳️‍⚧️",
+        "id": "2037575598730584064",
+        "name": "東洋蓮花酥🇯🇵🎌⛩️🎇反🐜🐉紧急状态",
+        "pinned_tweet_id": "2069651092095586772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054195788482506752/IvaYamSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 368,
+          "like_count": 7589,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "SerenAzuma_HK",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "初始之音，響徹未來！八閩大地，萬頃重洋！\n友跨|中華民族主義/社民/左翼民族主義/中左|泛統派|理性思考，包容不同政見\n朋友@littlejusir @HuoSai0721 @SocDemCNBunny @xmliu114514 \n歡迎加入「中華統一復興大會」@ChineseURC_BOT \n望友好交流。查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "littlejusir"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "HuoSai0721"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "SocDemCNBunny"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "username": "xmliu114514"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "username": "ChineseURC_BOT"
+              }
+            ]
+          }
+        },
+        "id": "2035758475209572352",
+        "location": "Fukien Ningteh,China",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1733,
+          "like_count": 19396,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5776
+        },
+        "url": "",
+        "username": "LoveMikuBX",
+        "verified": true
+      }
+    ]
+  }
+}

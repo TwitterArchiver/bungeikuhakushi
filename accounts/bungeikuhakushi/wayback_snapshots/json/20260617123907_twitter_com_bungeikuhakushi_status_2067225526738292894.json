@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2067053824041537879",
+    "created_at": "2026-06-17T12:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067225526738292894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2047295680138362880",
+          "start": 0,
+          "username": "littlejusir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067225526738292894",
+    "in_reply_to_user_id": "2047295680138362880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067053824041537879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littlejusir 反習賊 wcnm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2067053804890279936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-me9wa0AAvZhx.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2067053824041537879",
+        "created_at": "2026-06-17T12:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067225526738292894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2047295680138362880",
+              "start": 0,
+              "username": "littlejusir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067225526738292894",
+        "in_reply_to_user_id": "2047295680138362880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067053824041537879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littlejusir 反習賊 wcnm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067053804890279936"
+          ]
+        },
+        "author_id": "2047295680138362880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2067053824041537879",
+        "created_at": "2026-06-17T01:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T02:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067053824041537879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdCa3TEbHS",
+              "end": 65,
+              "expanded_url": "https://x.com/littlejusir/status/2067053824041537879/photo/1",
+              "media_key": "3_2067053804890279936",
+              "start": 42,
+              "url": "https://t.co/hdCa3TEbHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067053824041537879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2088,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "始终团结在以习近平同志为代表的中国共产党的领导下，将中国特色社会主义道路进行到底！ https://t.co/hdCa3TEbHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2076,
+          "following_count": 354,
+          "like_count": 12566,
+          "listed_count": 3,
+          "media_count": 899,
+          "tweet_count": 4243
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T12:45:27.000Z",
+        "description": "中国人，互fo",
+        "id": "2047295680138362880",
+        "location": "中华人民共和国",
+        "name": "jusir的二号机",
+        "pinned_tweet_id": "2067165589504983313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065441705143549952/4ZlbmVbb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 309,
+          "like_count": 476,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "littlejusir",
+        "verified": false
+      }
+    ]
+  }
+}

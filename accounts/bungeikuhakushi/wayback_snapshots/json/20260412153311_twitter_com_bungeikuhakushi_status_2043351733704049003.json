@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2043351733704049003",
+    "created_at": "2026-04-12T15:33:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:33:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043351733704049003"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kleefia/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Kleefia/status/2043299622605701390",
+          "start": 28,
+          "url": "https://t.co/nwsHw2tDql"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2043351733704049003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043299622605701390",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看來 我不得不離開台北 離開這個由我一手創造的臨時首都 https://t.co/nwsHw2tDql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2043299617656426496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtCLSgaUAAjmlO.jpg",
+        "width": 935
+      },
+      {
+        "height": 1202,
+        "media_key": "3_2043299617681575936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtCLSmaEAA7ynO.jpg",
+        "width": 859
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043351733704049003",
+        "created_at": "2026-04-12T15:33:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:33:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043351733704049003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kleefia/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Kleefia/status/2043299622605701390",
+              "start": 28,
+              "url": "https://t.co/nwsHw2tDql"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2043351733704049003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043299622605701390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看來 我不得不離開台北 離開這個由我一手創造的臨時首都 https://t.co/nwsHw2tDql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043299617656426496",
+            "3_2043299617681575936"
+          ]
+        },
+        "author_id": "772468696660844544",
+        "conversation_id": "2043299622605701390",
+        "created_at": "2026-04-12T12:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043299622605701390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bbtPwpWaSX",
+              "end": 45,
+              "expanded_url": "https://x.com/Kleefia/status/2043299622605701390/photo/1",
+              "media_key": "3_2043299617656426496",
+              "start": 22,
+              "url": "https://t.co/bbtPwpWaSX"
+            },
+            {
+              "display_url": "pic.x.com/bbtPwpWaSX",
+              "end": 45,
+              "expanded_url": "https://x.com/Kleefia/status/2043299622605701390/photo/1",
+              "media_key": "3_2043299617681575936",
+              "start": 22,
+              "url": "https://t.co/bbtPwpWaSX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043299622605701390",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15508,
+          "like_count": 270,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "蒋介石があと2回は亡命できるのまだおもろい https://t.co/bbtPwpWaSX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1647,
+          "following_count": 415,
+          "like_count": 10534,
+          "listed_count": 3,
+          "media_count": 594,
+          "tweet_count": 2952
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-04T16:17:44.000Z",
+        "description": "台湾の国立大学で情報工学を専攻してる24歳👨‍💻🇯🇵 / 🛫台北在住5年目🇹🇼 / 歯磨きガチ勢🪥 / INTP / 語学垢→@Kleefia_tw / Threads: @kleefia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "Kleefia_tw"
+              },
+              {
+                "end": 94,
+                "start": 86,
+                "username": "kleefia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/Kleefia",
+                "end": 23,
+                "expanded_url": "http://instagram.com/Kleefia",
+                "start": 0,
+                "url": "https://t.co/WLyuinEtvf"
+              }
+            ]
+          }
+        },
+        "id": "772468696660844544",
+        "location": "Taipei City, Taiwan",
+        "name": "Kleefia",
+        "pinned_tweet_id": "1301086051591626752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010256982415171584/eNQdL2I7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 106,
+          "like_count": 10253,
+          "listed_count": 9,
+          "media_count": 2235,
+          "tweet_count": 8420
+        },
+        "url": "https://t.co/WLyuinEtvf",
+        "username": "Kleefia",
+        "verified": false
+      }
+    ]
+  }
+}

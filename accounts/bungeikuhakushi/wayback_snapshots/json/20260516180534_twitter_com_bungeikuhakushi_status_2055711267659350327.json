@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055709243039526912"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2055711267659350327",
+    "created_at": "2026-05-16T18:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:57:31.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055709245262471259",
+      "2055711267659350327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BT9nAz1nDl",
+          "end": 176,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2055711267659350327/photo/1",
+          "media_key": "3_2055709243039526912",
+          "start": 153,
+          "url": "https://t.co/BT9nAz1nDl"
+        },
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 200,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2054820437960560936",
+          "start": 177,
+          "url": "https://t.co/REFgg1kUMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055711267659350327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054820437960560936",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有些人真的是很討人厭的 幾天前我就在推特上share個meme 就有個傻子在我留言區上罵我  post如下圖 我反駁他之後就懒得和他爭了 就把他b了 沒想到這個死仆街啊 追到我的tg群上罵我 說我反駁他用的是思考模式 不是快速模式 我平時的脾氣真的是不想罵人的 但想不到個傻逼這麼傻 好像變了態一樣 有病 https://t.co/BT9nAz1nDl https://t.co/REFgg1kUMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055709243039526912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdYqjjbsAAknpX.jpg",
+        "width": 556
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054820431169998848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQwS5UaUAAzN6z.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055709243039526912"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2055709245262471259",
+        "created_at": "2026-05-16T17:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:57:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055709245262471259",
+          "2055711267659350327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dWcsIatY81",
+              "end": 169,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2055709245262471259/photo/1",
+              "media_key": "3_2055709243039526912",
+              "start": 146,
+              "url": "https://t.co/dWcsIatY81"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2054820437960560936",
+              "start": 170,
+              "url": "https://t.co/REFgg1kUMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055709245262471259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054820437960560936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有d人真嘅好乞人憎㗎 幾天前我就係推特上share個meme喇 就有個傻閪喺我留言區鬧我  post如下圖 我反駁左佢之後懒得同佢爭 就把佢b左 冇諗到呢個正仆街啊 追到我嘅tg群嚟鬧我 話我反駁佢用嘅係思考模式 唔係快速模式 我平時嘅脾氣真嘅唔想鬧人嘅 但諗唔到個傻閪咁閪傻 好似變左態噉 https://t.co/dWcsIatY81 https://t.co/REFgg1kUMx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055709243039526912"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2055711267659350327",
+        "created_at": "2026-05-16T18:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:57:31.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055709245262471259",
+          "2055711267659350327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BT9nAz1nDl",
+              "end": 176,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2055711267659350327/photo/1",
+              "media_key": "3_2055709243039526912",
+              "start": 153,
+              "url": "https://t.co/BT9nAz1nDl"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2054820437960560936",
+              "start": 177,
+              "url": "https://t.co/REFgg1kUMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055711267659350327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054820437960560936",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有些人真的是很討人厭的 幾天前我就在推特上share個meme 就有個傻子在我留言區上罵我  post如下圖 我反駁他之後就懒得和他爭了 就把他b了 沒想到這個死仆街啊 追到我的tg群上罵我 說我反駁他用的是思考模式 不是快速模式 我平時的脾氣真的是不想罵人的 但想不到個傻逼這麼傻 好像變了態一樣 有病 https://t.co/BT9nAz1nDl https://t.co/REFgg1kUMx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054820431169998848"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2054787255051706424",
+        "created_at": "2026-05-14T07:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054820437960560936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907699130580992000",
+              "start": 0,
+              "username": "SamaScp73931"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4Mvq9igpW",
+              "end": 92,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2054820437960560936/photo/1",
+              "media_key": "3_2054820431169998848",
+              "start": 69,
+              "url": "https://t.co/a4Mvq9igpW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054820437960560936",
+        "in_reply_to_user_id": "1907699130580992000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054817771595424027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamaScp73931 如果快速模式是24年的數據 那為什麼我現在在15點04分用快速模式問出來今天特朗普訪華呢？\n你的說法也不對啊 https://t.co/a4Mvq9igpW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼普通話 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055703671896473600/isUE_0P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 358,
+          "like_count": 12074,
+          "listed_count": 3,
+          "media_count": 788,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": false
+      }
+    ]
+  }
+}

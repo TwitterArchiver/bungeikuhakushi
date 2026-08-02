@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071276546338476032",
+        "3_2071276545004777472",
+        "3_2071276675422466048"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2071276678106779929",
+    "created_at": "2026-06-28T16:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071276678106779929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0sKyzcpLCm",
+          "end": 83,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2071276678106779929/photo/1",
+          "media_key": "3_2071276546338476032",
+          "start": 60,
+          "url": "https://t.co/0sKyzcpLCm"
+        },
+        {
+          "display_url": "pic.x.com/0sKyzcpLCm",
+          "end": 83,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2071276678106779929/photo/1",
+          "media_key": "3_2071276545004777472",
+          "start": 60,
+          "url": "https://t.co/0sKyzcpLCm"
+        },
+        {
+          "display_url": "pic.x.com/0sKyzcpLCm",
+          "end": 83,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2071276678106779929/photo/1",
+          "media_key": "3_2071276675422466048",
+          "start": 60,
+          "url": "https://t.co/0sKyzcpLCm"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2071276678106779929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天又被我媽對我的未來指指點點 一點腦子也沒有 居然要我一個文科生去學定向醫學（？ \n氣到爆炸 怎麼會有那麼憨的人啊？ https://t.co/0sKyzcpLCm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_2071276546338476032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6nC3gaUAAat-H.jpg",
+        "width": 776
+      },
+      {
+        "height": 1876,
+        "media_key": "3_2071276545004777472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6nCyibsAA8FHZ.jpg",
+        "width": 748
+      },
+      {
+        "height": 1468,
+        "media_key": "3_2071276675422466048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6nKYYbsAA_x2U.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071276546338476032",
+            "3_2071276545004777472",
+            "3_2071276675422466048"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2071276678106779929",
+        "created_at": "2026-06-28T16:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071276678106779929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sKyzcpLCm",
+              "end": 83,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2071276678106779929/photo/1",
+              "media_key": "3_2071276546338476032",
+              "start": 60,
+              "url": "https://t.co/0sKyzcpLCm"
+            },
+            {
+              "display_url": "pic.x.com/0sKyzcpLCm",
+              "end": 83,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2071276678106779929/photo/1",
+              "media_key": "3_2071276545004777472",
+              "start": 60,
+              "url": "https://t.co/0sKyzcpLCm"
+            },
+            {
+              "display_url": "pic.x.com/0sKyzcpLCm",
+              "end": 83,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2071276678106779929/photo/1",
+              "media_key": "3_2071276675422466048",
+              "start": 60,
+              "url": "https://t.co/0sKyzcpLCm"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2071276678106779929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天又被我媽對我的未來指指點點 一點腦子也沒有 居然要我一個文科生去學定向醫學（？ \n氣到爆炸 怎麼會有那麼憨的人啊？ https://t.co/0sKyzcpLCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 356,
+          "like_count": 12725,
+          "listed_count": 3,
+          "media_count": 941,
+          "tweet_count": 4401
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

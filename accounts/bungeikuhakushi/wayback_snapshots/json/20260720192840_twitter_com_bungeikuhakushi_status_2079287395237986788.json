@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2079287104199426215",
+    "created_at": "2026-07-20T19:28:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079287395237986788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20792…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/status/2079275244536344627",
+          "start": 0,
+          "url": "https://t.co/NajJI2QIRL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079287395237986788",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079275244536344627",
+        "type": "quoted"
+      },
+      {
+        "id": "2079287104199426215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/NajJI2QIRL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2079275239293517824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsR0ExbAAAWcyC.jpg",
+        "width": 1754
+      },
+      {
+        "height": 1119,
+        "media_key": "3_2079287097299714048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNscmTSaQAAcorQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2079287104199426215",
+        "created_at": "2026-07-20T19:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079287395237986788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20792…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/status/2079275244536344627",
+              "start": 0,
+              "url": "https://t.co/NajJI2QIRL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079287395237986788",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079275244536344627",
+            "type": "quoted"
+          },
+          {
+            "id": "2079287104199426215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/NajJI2QIRL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079275239293517824"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2079275244536344627",
+        "created_at": "2026-07-20T18:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079275244536344627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3b1wCnisoG",
+              "end": 42,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2079275244536344627/photo/1",
+              "media_key": "3_2079275239293517824",
+              "start": 19,
+              "url": "https://t.co/3b1wCnisoG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079275244536344627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中华人民共和国为什么不能简称中华民国 https://t.co/3b1wCnisoG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079287097299714048"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2079287104199426215",
+        "created_at": "2026-07-20T19:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079287104199426215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/60T7Wb3osk",
+              "end": 84,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2079287104199426215/photo/1",
+              "media_key": "3_2079287097299714048",
+              "start": 61,
+              "url": "https://t.co/60T7Wb3osk"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2079287104199426215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的沒人覺得這種AI很有靈性嗎？ 至少對比那些「有在萬達廣場附近的嗎？」「男大弟弟來」和那麼emoji戰神 感覺好太多了 https://t.co/60T7Wb3osk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078130819269566464/G5H3ogAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 355,
+          "like_count": 12726,
+          "listed_count": 3,
+          "media_count": 977,
+          "tweet_count": 4464
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5788,
+          "following_count": 1897,
+          "like_count": 76929,
+          "listed_count": 12,
+          "media_count": 1697,
+          "tweet_count": 12923
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

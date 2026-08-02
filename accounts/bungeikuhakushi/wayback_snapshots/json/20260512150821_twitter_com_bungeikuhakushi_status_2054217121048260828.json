@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2053736636782141902",
+    "created_at": "2026-05-12T15:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T16:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054217121048260828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "722248615716978688",
+          "start": 0,
+          "username": "Kung_Hank409"
+        },
+        {
+          "end": 26,
+          "id": "1999054490054643712",
+          "start": 14,
+          "username": "routourouer"
+        },
+        {
+          "end": 43,
+          "id": "1206904705160318981",
+          "start": 27,
+          "username": "congqianman1994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054217121048260828",
+    "in_reply_to_user_id": "722248615716978688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053820813359661522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kung_Hank409 @routourouer @congqianman1994 我們毛主席還是太偉大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2053736636782141902",
+        "created_at": "2026-05-12T15:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T16:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054217121048260828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "722248615716978688",
+              "start": 0,
+              "username": "Kung_Hank409"
+            },
+            {
+              "end": 26,
+              "id": "1999054490054643712",
+              "start": 14,
+              "username": "routourouer"
+            },
+            {
+              "end": 43,
+              "id": "1206904705160318981",
+              "start": 27,
+              "username": "congqianman1994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054217121048260828",
+        "in_reply_to_user_id": "722248615716978688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053820813359661522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kung_Hank409 @routourouer @congqianman1994 我們毛主席還是太偉大了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722248615716978688",
+        "conversation_id": "2053736636782141902",
+        "created_at": "2026-05-11T12:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053820813359661522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1999054490054643712",
+              "start": 0,
+              "username": "routourouer"
+            },
+            {
+              "end": 29,
+              "id": "1206904705160318981",
+              "start": 13,
+              "username": "congqianman1994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053820813359661522",
+        "in_reply_to_user_id": "1999054490054643712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6877,
+          "like_count": 8,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053787238572650838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@routourouer @congqianman1994 改革开放好像也是毛主席的计划一环"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼書面語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "粵港澳 IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 354,
+          "like_count": 11968,
+          "listed_count": 4,
+          "media_count": 768,
+          "tweet_count": 3808
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-19T02:21:03.000Z",
+        "description": "Lucky！You got me.",
+        "id": "722248615716978688",
+        "location": "Uranus",
+        "name": "清郎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998005078113095680/QHJ0qXyl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 382,
+          "like_count": 251,
+          "listed_count": 5,
+          "media_count": 406,
+          "tweet_count": 8014
+        },
+        "username": "Kung_Hank409",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T09:54:38.000Z",
+        "description": "海外粉红基本盘",
+        "id": "1999054490054643712",
+        "name": "trumping",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036022368980836352/52mAmiOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 71,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 470
+        },
+        "username": "routourouer",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T11:51:37.000Z",
+        "description": "There is no need to rush. There is no need to shine. You don't need to be anyone but yourself.\n我的油管：https://t.co/2bg3ik0hbs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@congqianman19…",
+                "end": 123,
+                "expanded_url": "https://www.youtube.com/@congqianman1994",
+                "start": 100,
+                "url": "https://t.co/2bg3ik0hbs"
+              }
+            ]
+          }
+        },
+        "id": "1206904705160318981",
+        "location": "China",
+        "name": "八瓣橘子七分甜",
+        "pinned_tweet_id": "2049750269387571382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1643515465866805248/Cb-0l-ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40774,
+          "following_count": 306,
+          "like_count": 192226,
+          "listed_count": 79,
+          "media_count": 4804,
+          "tweet_count": 20914
+        },
+        "username": "congqianman1994",
+        "verified": false
+      }
+    ]
+  }
+}

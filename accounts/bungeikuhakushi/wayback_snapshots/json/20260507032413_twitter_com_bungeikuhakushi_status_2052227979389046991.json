@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051912923858252065",
+    "created_at": "2026-05-07T03:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052227979389046991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2001822597441601536",
+          "start": 0,
+          "username": "tomatoproton00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052227979389046991",
+    "in_reply_to_user_id": "2001822597441601536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052069718249619599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomatoproton00 我從來不是友跨大手子啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051912923858252065",
+        "created_at": "2026-05-07T03:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052227979389046991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2001822597441601536",
+              "start": 0,
+              "username": "tomatoproton00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052227979389046991",
+        "in_reply_to_user_id": "2001822597441601536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052069718249619599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomatoproton00 我從來不是友跨大手子啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001822597441601536",
+        "conversation_id": "2051912923858252065",
+        "created_at": "2026-05-06T16:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052069718249619599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052069718249619599",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051912923858252065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi bro从友跨大手子变成了反跨大手子，何意味🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂｜反跨🏳️‍⚧️\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット（広州",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 364,
+          "like_count": 11775,
+          "listed_count": 4,
+          "media_count": 728,
+          "tweet_count": 3657
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-19T01:11:27.000Z",
+        "description": "我是余沐汐。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tomatoproton",
+                "end": 23,
+                "expanded_url": "http://t.me/tomatoproton",
+                "start": 0,
+                "url": "https://t.co/kJiJAFtRdV"
+              }
+            ]
+          }
+        },
+        "id": "2001822597441601536",
+        "location": "Taiwan",
+        "name": "余沐汐（番茄）",
+        "pinned_tweet_id": "2039958691898888231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042263104587972608/ZSUnsIKf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 86,
+          "like_count": 1407,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1231
+        },
+        "url": "https://t.co/kJiJAFtRdV",
+        "username": "tomatoproton00",
+        "verified": false
+      }
+    ]
+  }
+}

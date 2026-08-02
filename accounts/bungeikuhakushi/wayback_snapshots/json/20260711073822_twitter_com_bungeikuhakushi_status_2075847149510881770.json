@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2075805011981054118",
+    "created_at": "2026-07-11T07:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075847149510881770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067447448549949440",
+          "start": 0,
+          "username": "Unk_Snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075847149510881770",
+    "in_reply_to_user_id": "2067447448549949440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075805011981054118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unk_Snow 出生復活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2075804970671382528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM69n2vboAArjyZ.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2075805011981054118",
+        "created_at": "2026-07-11T07:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075847149510881770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067447448549949440",
+              "start": 0,
+              "username": "Unk_Snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075847149510881770",
+        "in_reply_to_user_id": "2067447448549949440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075805011981054118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unk_Snow 出生復活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075804970671382528"
+          ]
+        },
+        "author_id": "2067447448549949440",
+        "conversation_id": "2075805011981054118",
+        "created_at": "2026-07-11T04:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075805011981054118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgtVw6dR5Y",
+              "end": 45,
+              "expanded_url": "https://x.com/Unk_Snow/status/2075805011981054118/photo/1",
+              "media_key": "3_2075804970671382528",
+              "start": 22,
+              "url": "https://t.co/mgtVw6dR5Y"
+            },
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2075590129994051734",
+              "start": 46,
+              "url": "https://t.co/gbNN9iXUuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075805011981054118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 482,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075590129994051734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "刷到这条推文就休息一下，免费领取Unk套餐 https://t.co/mgtVw6dR5Y https://t.co/gbNN9iXUuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​桜の咲く頃に 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2120,
+          "following_count": 359,
+          "like_count": 12772,
+          "listed_count": 3,
+          "media_count": 953,
+          "tweet_count": 4407
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "被关精卫中，不发帖就是被晶抓走了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|年龄党|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|163cm53kg|INFP-T|重度社恐|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/0ewSOP9bxV"
+              }
+            ]
+          }
+        },
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "pinned_tweet_id": "2074414371103793364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073222728484851712/z8pUDHz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 474,
+          "like_count": 301,
+          "listed_count": 4,
+          "media_count": 26,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/0ewSOP9bxV",
+        "username": "Unk_Snow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079250619488194560"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2079250625674752227",
+    "created_at": "2026-07-20T17:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079250625674752227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 37,
+          "id": "2079243736350068740",
+          "start": 22,
+          "username": "bungeihaku2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PbT9ls13J",
+          "end": 97,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2079250625674752227/photo/1",
+          "media_key": "3_2079250619488194560",
+          "start": 74,
+          "url": "https://t.co/5PbT9ls13J"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2079250625674752227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "歡迎follow我的小帳 也是我的日文帳號\n@bungeihaku2024 \nfollow我吧 我真的會謝謝你的！\n關注空白喵 關注空白子謝謝喵！ https://t.co/5PbT9ls13J"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2079250619488194560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNr7bA2a0AANrvK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079250619488194560"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2079250625674752227",
+        "created_at": "2026-07-20T17:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079250625674752227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "2079243736350068740",
+              "start": 22,
+              "username": "bungeihaku2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PbT9ls13J",
+              "end": 97,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2079250625674752227/photo/1",
+              "media_key": "3_2079250619488194560",
+              "start": 74,
+              "url": "https://t.co/5PbT9ls13J"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2079250625674752227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "歡迎follow我的小帳 也是我的日文帳號\n@bungeihaku2024 \nfollow我吧 我真的會謝謝你的！\n關注空白喵 關注空白子謝謝喵！ https://t.co/5PbT9ls13J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078130819269566464/G5H3ogAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 355,
+          "like_count": 12721,
+          "listed_count": 3,
+          "media_count": 976,
+          "tweet_count": 4459
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-20T16:36:02.000Z",
+        "description": "おはよ、この垢は文芸空白子日本語学習垢だ。\n広東人で、08年生まれの高2だよ。\n​本垢：@bungeikuhakushi\n#Aizu感染者 @3838sengoku",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "Aizu感染者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "bungeikuhakushi"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "3838sengoku"
+              }
+            ]
+          }
+        },
+        "id": "2079243736350068740",
+        "name": "文芸-クウハクシ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079244247056912385/5NH7Id5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "bungeihaku2024",
+        "verified": false
+      }
+    ]
+  }
+}

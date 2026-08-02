@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049068976706359296"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2049068979776606421",
+    "created_at": "2026-04-28T10:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049068979776606421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GY09shhwYM",
+          "end": 78,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2049068979776606421/photo/1",
+          "media_key": "3_2049068976706359296",
+          "start": 55,
+          "url": "https://t.co/GY09shhwYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049068979776606421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "咁快就快到香港回歸50年嘛？\n依家建議將軍訓納入課程\n以後就可能就要服兵役\n繼續落嚟香港人就要變成黨衛軍啦？ https://t.co/GY09shhwYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1567,
+        "media_key": "3_2049068976706359296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_BYLzbEAARcDo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049068976706359296"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2049068979776606421",
+        "created_at": "2026-04-28T10:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049068979776606421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GY09shhwYM",
+              "end": 78,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2049068979776606421/photo/1",
+              "media_key": "3_2049068976706359296",
+              "start": 55,
+              "url": "https://t.co/GY09shhwYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049068979776606421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "咁快就快到香港回歸50年嘛？\n依家建議將軍訓納入課程\n以後就可能就要服兵役\n繼續落嚟香港人就要變成黨衛軍啦？ https://t.co/GY09shhwYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihuku2025",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihuku2025",
+                "start": 0,
+                "url": "https://t.co/SUD4tXNmwd"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 365,
+          "like_count": 11608,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 3410
+        },
+        "url": "https://t.co/SUD4tXNmwd",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

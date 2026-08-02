@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047290821117104370",
+    "created_at": "2026-04-23T17:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T18:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047363475140383136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "975134504393347072",
+          "start": 0,
+          "username": "zhinarencnm8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047363475140383136",
+    "in_reply_to_user_id": "975134504393347072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047290821117104370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhinarencnm8964 有天安門廣場附近的嗎？\n大学生來"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047290821117104370",
+        "created_at": "2026-04-23T17:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047363475140383136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "975134504393347072",
+              "start": 0,
+              "username": "zhinarencnm8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047363475140383136",
+        "in_reply_to_user_id": "975134504393347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047290821117104370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhinarencnm8964 有天安門廣場附近的嗎？\n大学生來"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "975134504393347072",
+        "conversation_id": "2047290821117104370",
+        "created_at": "2026-04-23T12:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047290821117104370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhinarencnm896…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/zhinarencnm8964/status/2046877449057923107",
+              "start": 26,
+              "url": "https://t.co/VtIcBrnrxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047290821117104370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 286,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046877449057923107",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "180条评论有150条左右是机器人，🐴支克你无敌了 https://t.co/VtIcBrnrxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 370,
+          "like_count": 11233,
+          "listed_count": 4,
+          "media_count": 649,
+          "tweet_count": 3251
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-17T22:19:17.000Z",
+        "description": "纯良温和支黑，一个四大皆空的老东西，少拉我站队谈立场｜喜欢中东战争和日帝，欢迎历史同好友好交流\n小号@zhinarensml8964\n逃生舱@zhinarensb8964\n究极逃生舱@zhinarencs8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 50,
+                "username": "zhinarensml8964"
+              },
+              {
+                "end": 85,
+                "start": 70,
+                "username": "zhinarensb8964"
+              },
+              {
+                "end": 106,
+                "start": 91,
+                "username": "zhinarencs8964"
+              }
+            ]
+          }
+        },
+        "id": "975134504393347072",
+        "location": "支那汉蛆和东北狗它妈逼里",
+        "name": "中東の虎✡️内格夫🩵🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045434310237589504/UrpPa--O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 1054,
+          "like_count": 41181,
+          "listed_count": 3,
+          "media_count": 922,
+          "tweet_count": 3762
+        },
+        "username": "zhinarencnm8964",
+        "verified": false
+      }
+    ]
+  }
+}

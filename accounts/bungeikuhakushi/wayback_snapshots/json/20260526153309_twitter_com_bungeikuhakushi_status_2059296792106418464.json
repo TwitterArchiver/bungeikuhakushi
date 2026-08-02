@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059296789375909888"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2059218920901656625",
+    "created_at": "2026-05-26T15:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059296792106418464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751497892001685504",
+          "start": 0,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "description": "我的threads現狀：",
+          "display_url": "threads.com/@bungeihaku202…",
+          "end": 100,
+          "expanded_url": "https://www.threads.com/@bungeihaku2024/post/DYy-exogVHL?xmt=AQG09a1PIRey_Qi8q5kyR6gFE6rwtqvg9D2HYIpBwBO-ydmH89qlxAJJdssG5IWKNCUUKSfy&slof=1",
+          "start": 77,
+          "status": 200,
+          "title": "文芸 空白子🍥 (@bungeihaku2024) on Threads",
+          "unwound_url": "https://www.threads.com/@bungeihaku2024/post/DYy-exogVHL?slof=1",
+          "url": "https://t.co/JiOVANxBB7"
+        },
+        {
+          "display_url": "pic.x.com/6MXr0hrt5p",
+          "end": 124,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2059296792106418464/photo/1",
+          "media_key": "3_2059296789375909888",
+          "start": 101,
+          "url": "https://t.co/6MXr0hrt5p"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2059296792106418464",
+    "in_reply_to_user_id": "1751497892001685504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059218920901656625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@45_206MHz 我就知道會有人把這張圖搬來推特...\n不知道該開心還是難受了\n不過我只是想告訴大家 這張圖是我刷threads有感而製作 謹此而已\nhttps://t.co/JiOVANxBB7 https://t.co/6MXr0hrt5p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1605,
+        "media_key": "3_2059296789375909888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQXhPHagAAkf6C.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2059218891658911744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPQq_gaYAA8ITE.jpg",
+        "width": 2048
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059296789375909888"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2059218920901656625",
+        "created_at": "2026-05-26T15:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059296792106418464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751497892001685504",
+              "start": 0,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "description": "我的threads現狀：",
+              "display_url": "threads.com/@bungeihaku202…",
+              "end": 100,
+              "expanded_url": "https://www.threads.com/@bungeihaku2024/post/DYy-exogVHL?xmt=AQG09a1PIRey_Qi8q5kyR6gFE6rwtqvg9D2HYIpBwBO-ydmH89qlxAJJdssG5IWKNCUUKSfy&slof=1",
+              "start": 77,
+              "status": 200,
+              "title": "文芸 空白子🍥 (@bungeihaku2024) on Threads",
+              "unwound_url": "https://www.threads.com/@bungeihaku2024/post/DYy-exogVHL?slof=1",
+              "url": "https://t.co/JiOVANxBB7"
+            },
+            {
+              "display_url": "pic.x.com/6MXr0hrt5p",
+              "end": 124,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2059296792106418464/photo/1",
+              "media_key": "3_2059296789375909888",
+              "start": 101,
+              "url": "https://t.co/6MXr0hrt5p"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2059296792106418464",
+        "in_reply_to_user_id": "1751497892001685504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059218920901656625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@45_206MHz 我就知道會有人把這張圖搬來推特...\n不知道該開心還是難受了\n不過我只是想告訴大家 這張圖是我刷threads有感而製作 謹此而已\nhttps://t.co/JiOVANxBB7 https://t.co/6MXr0hrt5p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059218891658911744"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2059218920901656625",
+        "created_at": "2026-05-26T10:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059218920901656625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3fNU7BcEwW",
+              "end": 29,
+              "expanded_url": "https://x.com/45_206MHz/status/2059218920901656625/photo/1",
+              "media_key": "3_2059218891658911744",
+              "start": 6,
+              "url": "https://t.co/3fNU7BcEwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059218920901656625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 16216,
+          "like_count": 259,
+          "quote_count": 9,
+          "reply_count": 22,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "中推圈现状 https://t.co/3fNU7BcEwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 353,
+          "like_count": 12272,
+          "listed_count": 4,
+          "media_count": 833,
+          "tweet_count": 3987
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 85,
+                "start": 73,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 123,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 100,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 495,
+          "like_count": 35208,
+          "listed_count": 1,
+          "media_count": 785,
+          "tweet_count": 4319
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

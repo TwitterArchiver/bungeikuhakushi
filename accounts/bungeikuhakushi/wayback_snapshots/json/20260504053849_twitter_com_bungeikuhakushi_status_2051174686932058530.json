@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051174672872755200"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051174686932058530",
+    "created_at": "2026-05-04T05:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T06:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051174686932058530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IioiSk82sd",
+          "end": 40,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2051174686932058530/photo/1",
+          "media_key": "3_2051174672872755200",
+          "start": 17,
+          "url": "https://t.co/IioiSk82sd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051174686932058530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "賴清德是來非洲史瓦帝尼下海了嗎？ https://t.co/IioiSk82sd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 835,
+        "media_key": "3_2051174672872755200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHc8f1Tb0AAIa0Z.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051174672872755200"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051174686932058530",
+        "created_at": "2026-05-04T05:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T06:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051174686932058530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IioiSk82sd",
+              "end": 40,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2051174686932058530/photo/1",
+              "media_key": "3_2051174672872755200",
+              "start": 17,
+              "url": "https://t.co/IioiSk82sd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051174686932058530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "賴清德是來非洲史瓦帝尼下海了嗎？ https://t.co/IioiSk82sd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 349,
+          "like_count": 11518,
+          "listed_count": 5,
+          "media_count": 711,
+          "tweet_count": 3560
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

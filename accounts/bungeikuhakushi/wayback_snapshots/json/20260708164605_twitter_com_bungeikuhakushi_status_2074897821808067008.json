@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2074897821808067008",
+    "created_at": "2026-07-08T16:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074897821808067008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1062560079847682048",
+          "start": 3,
+          "username": "kuomintang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074897821808067008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074506371626684449",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuomintang: Today marks the 89th anniversary of the Marco Polo Bridge Incident and 70th anniversary of the Huang Fu Hsing branch. Chair…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2074506362776944640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMogi7WbgAATJES.jpg",
+        "width": 960
+      },
+      {
+        "height": 720,
+        "media_key": "3_2074506362785275905",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMogi7YaoAEvwkr.jpg",
+        "width": 960
+      },
+      {
+        "height": 1108,
+        "media_key": "3_2074506362768539648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMogi7UbQAAn6l9.jpg",
+        "width": 1476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2074897821808067008",
+        "created_at": "2026-07-08T16:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074897821808067008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1062560079847682048",
+              "start": 3,
+              "username": "kuomintang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074897821808067008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074506371626684449",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuomintang: Today marks the 89th anniversary of the Marco Polo Bridge Incident and 70th anniversary of the Huang Fu Hsing branch. Chair…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074506362776944640",
+            "3_2074506362785275905",
+            "3_2074506362768539648"
+          ]
+        },
+        "author_id": "1062560079847682048",
+        "conversation_id": "2074506371626684449",
+        "created_at": "2026-07-07T14:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074506371626684449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wc8FuilNq0",
+              "end": 300,
+              "expanded_url": "https://x.com/kuomintang/status/2074506371626684449/photo/1",
+              "media_key": "3_2074506362776944640",
+              "start": 277,
+              "url": "https://t.co/wc8FuilNq0"
+            },
+            {
+              "display_url": "pic.x.com/wc8FuilNq0",
+              "end": 300,
+              "expanded_url": "https://x.com/kuomintang/status/2074506371626684449/photo/1",
+              "media_key": "3_2074506362785275905",
+              "start": 277,
+              "url": "https://t.co/wc8FuilNq0"
+            },
+            {
+              "display_url": "pic.x.com/wc8FuilNq0",
+              "end": 300,
+              "expanded_url": "https://x.com/kuomintang/status/2074506371626684449/photo/1",
+              "media_key": "3_2074506362768539648",
+              "start": 277,
+              "url": "https://t.co/wc8FuilNq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074506371626684449",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Today marks the 89th anniversary of the Marco Polo Bridge Incident and 70th anniversary of the Huang Fu Hsing branch. Chair Cheng, along side with KMT elected officials, attended the ceremony to commemorate the history.\n\n89 years ago, the Marco Polo Bridge Incident marked the beginning of the War of Resistance, eight years in which countless soldiers and civilians gave their lives to defend their homeland. That war engulfed East Asia, Southeast Asia, and the Pacific, which left profound suffering across the region. 70 years ago, the Huang Fu Hsing branch was founded to honor those who served, and generations of veterans have carried that spirit of duty and sacrifice ever since.\n\nWe remember this history with gratitude to those who defended the nation, and with a clear-eyed view of today’s security environment, one in which we cannot ignore the growing tensions across the Taiwan Strait and throughout the Indo-Pacific. The lessons of the Second World War still resonate. Our responsibility is to prevent another devastating conflict and to choose the path of peace.\n\nTaiwan has an important role to play, and so does the Kuomintang. By remembering history with honesty, and working to preserve peace, we hope to ensure that future generations never again endure the tragedies of war. 🕊️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 33090,
+          "like_count": 265,
+          "quote_count": 9,
+          "reply_count": 53,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "Today marks the 89th anniversary of the Marco Polo Bridge Incident and 70th anniversary of the Huang Fu Hsing branch. Chair Cheng, along side with KMT elected officials, attended the ceremony to commemorate the history.\n\n89 years ago, the Marco Polo Bridge Incident marked the https://t.co/wc8FuilNq0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜​桜の咲く頃に  願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070963339703046145/4gAk-flP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 359,
+          "like_count": 12844,
+          "listed_count": 3,
+          "media_count": 954,
+          "tweet_count": 4467
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T04:17:19.000Z",
+        "description": "中國國民黨為一個具有完美理想與悠久歷史的政黨。完美之理想在於建設中華民國成為一個自由、民主、富強、尊嚴的現代化國家；悠久之歷史，就是為實現此一完美理想而奮鬥匪懈的光榮記錄。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmt.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.kmt.org.tw/",
+                "start": 0,
+                "url": "https://t.co/i1VppDUGGu"
+              }
+            ]
+          }
+        },
+        "id": "1062560079847682048",
+        "location": "Taipei City, Taiwan (R.O.C.)",
+        "name": "中國國民黨 KMT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315971947210010624/rz-JUhg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104132,
+          "following_count": 167,
+          "like_count": 919,
+          "listed_count": 372,
+          "media_count": 540,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/i1VppDUGGu",
+        "username": "kuomintang",
+        "verified": true
+      }
+    ]
+  }
+}

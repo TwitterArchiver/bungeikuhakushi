@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2047639890062725421",
+    "created_at": "2026-04-24T11:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047644048585105707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1463410562730233867",
+          "start": 0,
+          "username": "EIQRj9gNlZHrot3"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2047644048585105707",
+    "in_reply_to_user_id": "1463410562730233867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047641391438893496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EIQRj9gNlZHrot3 分かりません"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2047639890062725421",
+        "created_at": "2026-04-24T11:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047644048585105707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1463410562730233867",
+              "start": 0,
+              "username": "EIQRj9gNlZHrot3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2047644048585105707",
+        "in_reply_to_user_id": "1463410562730233867",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047641391438893496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EIQRj9gNlZHrot3 分かりません"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463410562730233867",
+        "conversation_id": "2047639890062725421",
+        "created_at": "2026-04-24T11:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047641391438893496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1964042844198621187",
+              "start": 0,
+              "username": "bungeikuhakushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047641391438893496",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047641059979919631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bungeikuhakushi 原因は？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年小男娘｜粵港勢力｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2026",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2026",
+                "start": 0,
+                "url": "https://t.co/sbYrdsWbEz"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964955212357632/5EPgAcKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 370,
+          "like_count": 11267,
+          "listed_count": 4,
+          "media_count": 654,
+          "tweet_count": 3265
+        },
+        "url": "https://t.co/sbYrdsWbEz",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-24T07:34:19.000Z",
+        "description": "08|“疲労の学生”|心の性別不詳|新全日制高３|通信迷い中（ほぼ無|発達|鬱病|情緒不安|フラッシュバック\n\nXのDMは返信が遅いのでできればQQかdiscordへお願いします\n\n必須アモト酸🟦🟨🟥／東京都／ニコニコ／音mad／その他\n\nuser/129801003 鬱裏→@youkya5656_yami",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 138,
+                "username": "youkya5656_yami"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hakureihp.web.fc2.com/index.html",
+                "end": 23,
+                "expanded_url": "http://hakureihp.web.fc2.com/index.html",
+                "start": 0,
+                "url": "https://t.co/VP0WHhfxYB"
+              }
+            ]
+          }
+        },
+        "id": "1463410562730233867",
+        "location": "東京都新宿区信濃町３２番地",
+        "name": "Aizu Wakamatsu.🇳🇿🤯🍁/ ⚡️📱🕊️",
+        "pinned_tweet_id": "2018819299201490956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045531806355845120/zxODKf8h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204,
+          "following_count": 4677,
+          "like_count": 46282,
+          "listed_count": 11,
+          "media_count": 5648,
+          "tweet_count": 72685
+        },
+        "url": "https://t.co/VP0WHhfxYB",
+        "username": "EIQRj9gNlZHrot3",
+        "verified": false
+      }
+    ]
+  }
+}

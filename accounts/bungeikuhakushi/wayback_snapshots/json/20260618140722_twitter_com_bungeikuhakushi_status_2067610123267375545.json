@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2067593924861116446",
+    "created_at": "2026-06-18T14:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067610123267375545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067610123267375545",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067593924861116446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 不像"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2067237679214018560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLBNt2_awAAob7K.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2067593924861116446",
+        "created_at": "2026-06-18T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067610123267375545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067610123267375545",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067593924861116446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 不像"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067237679214018560"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2067593924861116446",
+        "created_at": "2026-06-18T13:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067593924861116446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAksvT2hGM",
+              "end": 162,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2067593924861116446/photo/1",
+              "media_key": "3_2067237679214018560",
+              "start": 139,
+              "url": "https://t.co/hAksvT2hGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067593924861116446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "简中推特人物志之 ---- 花火酱～（@huahuojiang）\n\n花火酱是一位活跃在X平台的年轻中文用户，以“诶嘿～好无聊呀~”的轻松口吻自居，粉丝约7000人。她（或自称的形象）像一团跳跃的烟火，在无聊的日常与敏感的政治讨论间闪现，集反骨、吐槽、游戏爱好与社交需求于一体。\n\n身份与背景从其公开经历看，花火酱目前应身处中国大陆（可能为学生或刚步入社会的年轻人）。2025年6月，她曾在QQ群“妄议圣上”被封号，随后遭遇国安/公安上门审讯：上课时被老师叫出、与调查人员共进午餐、被迫写不去港澳的承诺书、老师每日查手机并要求每月思想汇报。事后她以轻松却带刺的语气记录：“哇～我真的好感动啊”“我已经被洗脑很严重了，打仗绝对第一个枪毙”。这些经历让她对大陆体制的荒诞有切身感受，也塑造了她鲜明的“反骨”性格。\n\n她自称“顽强的台独分子”兼“宪法拥护者”，强调主权问题需从法理切割，而非靠时间自然解决。支持中华民国正统性，常嘲讽“汉贼不两立”，反对将台湾置于PRC框架下讨论。\n\n政治观点强烈反共/反威权：多次记录被监控、被“条子”教育的经历，对大陆的政治正确与监控体系充满讽刺。\n亲台/民国派：支持台湾立场，关注金门等议题，强调中华民国不该戴“中国”帽子。 \n\n现实主义吐槽：批评“乌合之众”式民族情绪（如反日主题公园事件），也讨论威权与经济的关系，指出新加坡与大陆的本质区别（经济自由度、市场干预）。 \n\n整体风格直白、理性带刺，不避讳敏感话题，却常以“hi”或自嘲收尾。\n\n性格与日常社交型“hi人”：她直言“我hi并不是因为我想hi，而是因为有人期待我hi并且回应我，如果不再有人回应我，我将会就此沉沦”。日常推文常以简单“hi”或生日祝福互动，显示对回应的依赖与孤独感。 \n\n无聊哲学家：Bio常挂“好无聊呀”，却在无聊中输出观点。关注毒驾（主张剥夺人权）、加密货币（自嘲每天亏钱但有趣）、游戏（发姬子生日祝福图）等。 \n\n幽默反差：能把被审讯写成“乐事”，用梗图和表情包稀释严肃，也会认真辩论新加坡经济自由度。\n\n形象总结花火酱像一枚在高压环境中顽强燃烧的小烟火：外表“诶嘿～好无聊”，内核是清醒的反骨青年。她不装圣母，也不刻意当战士，只是把亲身经历与思考随手抛出，带着年轻人的直率与疲惫。在中文网络里，她代表了那一批“被教育过”却不肯完全低头的人——既玩游戏、聊加密货币，又在政治议题上寸步不让。她的推文不多热搜，但每每有真情实感与锋芒。愿这团花火继续在无聊中闪耀，也愿她少些“条子”打扰，多些真正回应的“hi”。 （基于公开推文与Bio综合画像，人物形象随时间可能演变。）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 719,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "简中推特人物志之 ---- 花火酱～（@huahuojiang）\n\n花火酱是一位活跃在X平台的年轻中文用户，以“诶嘿～好无聊呀~”的轻松口吻自居，粉丝约7000人。她（或自称的形象）像一团跳跃的烟火，在无聊的日常与敏感的政治讨论间闪现，集反骨、吐槽、游戏爱好与社交需求于一体。 https://t.co/hAksvT2hGM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese （時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2078,
+          "following_count": 357,
+          "like_count": 12602,
+          "listed_count": 3,
+          "media_count": 909,
+          "tweet_count": 4270
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9157,
+          "following_count": 538,
+          "like_count": 1174,
+          "listed_count": 22,
+          "media_count": 297,
+          "tweet_count": 2256
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

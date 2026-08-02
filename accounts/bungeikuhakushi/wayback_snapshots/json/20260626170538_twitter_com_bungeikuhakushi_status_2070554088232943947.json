@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2070438370417975375",
+    "created_at": "2026-06-26T17:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070554088232943947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1090424011035619328",
+          "start": 0,
+          "username": "ShuiP_SP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070554088232943947",
+    "in_reply_to_user_id": "1090424011035619328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070438370417975375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuiP_SP 不用想就知道是清真了 清真這群反跨也就這樣了😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1234,
+        "media_key": "3_2070438367255478272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLusubGaQAAp0fG.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2070438370417975375",
+        "created_at": "2026-06-26T17:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070554088232943947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1090424011035619328",
+              "start": 0,
+              "username": "ShuiP_SP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070554088232943947",
+        "in_reply_to_user_id": "1090424011035619328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070438370417975375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuiP_SP 不用想就知道是清真了 清真這群反跨也就這樣了😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070438367255478272"
+          ]
+        },
+        "author_id": "1090424011035619328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070438370417975375",
+        "created_at": "2026-06-26T09:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070438370417975375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3c6jqZjfZ",
+              "end": 58,
+              "expanded_url": "https://x.com/ShuiP_SP/status/2070438370417975375/photo/1",
+              "media_key": "3_2070438367255478272",
+              "start": 35,
+              "url": "https://t.co/D3c6jqZjfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070438370417975375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 61924,
+          "like_count": 515,
+          "quote_count": 0,
+          "reply_count": 154,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "这才是我最喜欢的互联网的样子，所有人都可以在网上畅所欲言，包括吴彦祖 https://t.co/D3c6jqZjfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜對現實失望 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 360,
+          "like_count": 12695,
+          "listed_count": 3,
+          "media_count": 933,
+          "tweet_count": 4376
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-30T01:38:38.000Z",
+        "description": "無謂再關心你 我沒資格慰問你",
+        "id": "1090424011035619328",
+        "name": "ShuiP水瓶",
+        "pinned_tweet_id": "1966165672448372875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677188313172803585/BgYku_8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3962,
+          "following_count": 853,
+          "like_count": 5865,
+          "listed_count": 23,
+          "media_count": 113,
+          "tweet_count": 3902
+        },
+        "url": "",
+        "username": "ShuiP_SP",
+        "verified": false
+      }
+    ]
+  }
+}

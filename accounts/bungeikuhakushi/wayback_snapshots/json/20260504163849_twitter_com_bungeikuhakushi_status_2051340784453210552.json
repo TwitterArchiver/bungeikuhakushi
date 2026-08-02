@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2051340784453210552",
+    "created_at": "2026-05-04T16:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051340784453210552"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KiraMyao/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/KiraMyao/status/2051319272539078661",
+          "start": 16,
+          "url": "https://t.co/h8lbqHDptH"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2051340784453210552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051319272539078661",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感覺還是少了一些神人 不夠完善 https://t.co/h8lbqHDptH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4095,
+        "media_key": "3_2051319255547953152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHe__pvawAA21UP.jpg",
+        "width": 4096
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2051340784453210552",
+        "created_at": "2026-05-04T16:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051340784453210552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KiraMyao/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/KiraMyao/status/2051319272539078661",
+              "start": 16,
+              "url": "https://t.co/h8lbqHDptH"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2051340784453210552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051319272539078661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感覺還是少了一些神人 不夠完善 https://t.co/h8lbqHDptH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051319255547953152"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051319272539078661",
+        "created_at": "2026-05-04T15:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051319272539078661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGHsflcLIp",
+              "end": 34,
+              "expanded_url": "https://x.com/KiraMyao/status/2051319272539078661/photo/1",
+              "media_key": "3_2051319255547953152",
+              "start": 11,
+              "url": "https://t.co/vGHsflcLIp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051319272539078661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1809,
+          "like_count": 37,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的跨圈账号： https://t.co/vGHsflcLIp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜信仰三民主義思想❂\n｜不鍵政｜內容：搬石+日常+女裝\n｜ 08年廣東文科生｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "全粵可飛 IP所在地：インターネット",
+        "name": "文芸🍁空白子🫧",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 345,
+          "like_count": 11557,
+          "listed_count": 4,
+          "media_count": 713,
+          "tweet_count": 3581
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️\n\nUnderstand risk. Move through it.😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 353,
+          "like_count": 9502,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

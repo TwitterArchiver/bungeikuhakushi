@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2076573383446438394",
+    "created_at": "2026-07-13T07:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076573561507160460"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "事先说明，喵喵从来没有喝过酒！我同时也不建议用喝酒这个渠道让自己变得可爱！, 视频播放量 47638、弹幕量 144、点赞数 1373、投硬币枚数 60、收藏人数 1051、转发人数 2241, 视频作者 一只铃音喵l-v-l, 作者简介 雪柔丶铃音，一只励志成为治愈系的二次元up主，相关视频：我被学校官方认证成女孩子啦？！，有些男娘belike：，mtf男生隆胸三个月过程记录，孩子跟风谈异性恋怎么办，不爱运动的男生容易变成女孩子？快去运动叭！，性 别 已 被 占 用，为什么说魔爪是南梁饮料？，和发小一起变成可爱小女孩了，怎么一眼识别小男生？，人生副本：药娘发现男朋友是男通的一生❌",
+          "display_url": "b23.tv/MZUpLll",
+          "end": 57,
+          "expanded_url": "https://b23.tv/MZUpLll",
+          "start": 34,
+          "status": 200,
+          "title": "为什么男生大量饮酒会变得女性化？！（不建议大量饮酒）_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1uoN36aESG/?buvid=XU5C4895A19161C84CCE447A18C4738FDC8E0&from_spmid=search.search-result.0.0&is_story_h5=false&mid=y3%2BC%2Bax68aUSZxSmKumSAn8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e9a89d4a-f4f0-49bd-8580-c8969e90ee40&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1783928680&unique_k=MZUpLll&up_id=3493273484135157",
+          "url": "https://t.co/Cs0gGxgbq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076573561507160460",
+    "in_reply_to_user_id": "1964042844198621187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076573383446438394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【为什么男生大量饮酒会变得女性化？！（不建议大量饮酒）-哔哩哔哩】 https://t.co/Cs0gGxgbq3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 646,
+        "media_key": "3_2076573378258100225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNF4fEEbYAERTms.jpg",
+        "width": 562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2076573383446438394",
+        "created_at": "2026-07-13T07:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076573561507160460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "事先说明，喵喵从来没有喝过酒！我同时也不建议用喝酒这个渠道让自己变得可爱！, 视频播放量 47638、弹幕量 144、点赞数 1373、投硬币枚数 60、收藏人数 1051、转发人数 2241, 视频作者 一只铃音喵l-v-l, 作者简介 雪柔丶铃音，一只励志成为治愈系的二次元up主，相关视频：我被学校官方认证成女孩子啦？！，有些男娘belike：，mtf男生隆胸三个月过程记录，孩子跟风谈异性恋怎么办，不爱运动的男生容易变成女孩子？快去运动叭！，性 别 已 被 占 用，为什么说魔爪是南梁饮料？，和发小一起变成可爱小女孩了，怎么一眼识别小男生？，人生副本：药娘发现男朋友是男通的一生❌",
+              "display_url": "b23.tv/MZUpLll",
+              "end": 57,
+              "expanded_url": "https://b23.tv/MZUpLll",
+              "start": 34,
+              "status": 200,
+              "title": "为什么男生大量饮酒会变得女性化？！（不建议大量饮酒）_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1uoN36aESG/?buvid=XU5C4895A19161C84CCE447A18C4738FDC8E0&from_spmid=search.search-result.0.0&is_story_h5=false&mid=y3%2BC%2Bax68aUSZxSmKumSAn8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e9a89d4a-f4f0-49bd-8580-c8969e90ee40&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1783928680&unique_k=MZUpLll&up_id=3493273484135157",
+              "url": "https://t.co/Cs0gGxgbq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076573561507160460",
+        "in_reply_to_user_id": "1964042844198621187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076573383446438394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【为什么男生大量饮酒会变得女性化？！（不建议大量饮酒）-哔哩哔哩】 https://t.co/Cs0gGxgbq3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076573378258100225"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076573383446438394",
+        "created_at": "2026-07-13T07:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076573383446438394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N2fLGgAx55",
+              "end": 32,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2076573383446438394/photo/1",
+              "media_key": "3_2076573378258100225",
+              "start": 9,
+              "url": "https://t.co/N2fLGgAx55"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2076573383446438394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這下不得不飲酒了 https://t.co/N2fLGgAx55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科生｜性別がねこちゃんだ\n｜Cantonese 広東人｜​桜の咲く頃に 願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075636628996116480/8P6Fr27d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147,
+          "following_count": 352,
+          "like_count": 12597,
+          "listed_count": 3,
+          "media_count": 955,
+          "tweet_count": 4403
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

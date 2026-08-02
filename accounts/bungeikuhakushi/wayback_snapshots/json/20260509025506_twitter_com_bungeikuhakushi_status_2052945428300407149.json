@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052945423430787072"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2052943843478360390",
+    "created_at": "2026-05-09T02:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T03:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052945428300407149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cZs8W6QoPy",
+          "end": 54,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2052945428300407149/photo/1",
+          "media_key": "3_2052945423430787072",
+          "start": 31,
+          "url": "https://t.co/cZs8W6QoPy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052945428300407149",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052943843478360390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 就我喜歡把手機設置成日文嗎？ https://t.co/cZs8W6QoPy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052945423430787072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2G_FLbIAAK3tW.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052943837048578048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH2FivcboAA7DC6.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052945423430787072"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2052943843478360390",
+        "created_at": "2026-05-09T02:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052945428300407149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cZs8W6QoPy",
+              "end": 54,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2052945428300407149/photo/1",
+              "media_key": "3_2052945423430787072",
+              "start": 31,
+              "url": "https://t.co/cZs8W6QoPy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052945428300407149",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052943843478360390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 就我喜歡把手機設置成日文嗎？ https://t.co/cZs8W6QoPy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052943837048578048"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2052943843478360390",
+        "created_at": "2026-05-09T02:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T03:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052943843478360390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sqe0AwYgav",
+              "end": 77,
+              "expanded_url": "https://x.com/RainEngine2024/status/2052943843478360390/photo/1",
+              "media_key": "3_2052943837048578048",
+              "start": 54,
+              "url": "https://t.co/Sqe0AwYgav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052943843478360390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实繁体中文在广东地区的大众化接受程度要远远高于外省，主要在于香港和澳门的媒体渗透，以及生活文化浸润的影响 https://t.co/Sqe0AwYgav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義❂｜ 08年廣東文科生｜雙相\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧 English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": " IP所在地：インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048631966116052992/857Zy3ov_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 356,
+          "like_count": 11771,
+          "listed_count": 4,
+          "media_count": 743,
+          "tweet_count": 3723
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10048,
+          "following_count": 945,
+          "like_count": 85719,
+          "listed_count": 24,
+          "media_count": 1683,
+          "tweet_count": 11915
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

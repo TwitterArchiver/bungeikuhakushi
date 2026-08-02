@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2043534323400516041",
+    "created_at": "2026-04-13T06:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043570385111974288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2043570385111974288",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043534323400516041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 香港係一座文明城市"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2043534314521100288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwXocdaAAA5_ZO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1302,
+        "media_key": "3_2043534314860843008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwXoduaEAA9ZYd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 859,
+        "media_key": "3_2043534316798627840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwXok8aUAAVzNf.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2043534323400516041",
+        "created_at": "2026-04-13T06:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043570385111974288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2043570385111974288",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043534323400516041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 香港係一座文明城市"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043534314521100288",
+            "3_2043534314860843008",
+            "3_2043534316798627840"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2043534323400516041",
+        "created_at": "2026-04-13T03:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043534323400516041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2N8VN8ejtp",
+              "end": 40,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2043534323400516041/photo/1",
+              "media_key": "3_2043534314521100288",
+              "start": 17,
+              "url": "https://t.co/2N8VN8ejtp"
+            },
+            {
+              "display_url": "pic.x.com/2N8VN8ejtp",
+              "end": 40,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2043534323400516041/photo/1",
+              "media_key": "3_2043534314860843008",
+              "start": 17,
+              "url": "https://t.co/2N8VN8ejtp"
+            },
+            {
+              "display_url": "pic.x.com/2N8VN8ejtp",
+              "end": 40,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2043534323400516041/photo/1",
+              "media_key": "3_2043534316798627840",
+              "start": 17,
+              "url": "https://t.co/2N8VN8ejtp"
+            },
+            {
+              "display_url": "x.com/hoshinofujivy/…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/hoshinofujivy/status/2043519616904028619",
+              "start": 41,
+              "url": "https://t.co/jZ2WQ7N6VT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043534323400516041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2805,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043519616904028619",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比较之下，香港的人文关怀做的很好 https://t.co/2N8VN8ejtp https://t.co/jZ2WQ7N6VT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜戰無不勝的三民主義思想萬歲❂\n｜ 民國97年 高校生男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話 🇯🇵日本語 🇬🇧English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東香港🇭🇰",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2024431643344457964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1656,
+          "following_count": 408,
+          "like_count": 10564,
+          "listed_count": 3,
+          "media_count": 597,
+          "tweet_count": 2965
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8441,
+          "following_count": 4075,
+          "like_count": 43128,
+          "listed_count": 27,
+          "media_count": 1720,
+          "tweet_count": 11795
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

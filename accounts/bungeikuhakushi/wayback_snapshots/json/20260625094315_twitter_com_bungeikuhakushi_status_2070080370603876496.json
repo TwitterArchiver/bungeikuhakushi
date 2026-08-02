@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069720013498396672"
+      ],
+      "media_source_tweet_id": [
+        "2069720084629840185"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2070080370603876496",
+    "created_at": "2026-06-25T09:43:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T10:43:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070080370603876496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1647197602717515776",
+          "start": 3,
+          "username": "canton_c_s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NuifREDadi",
+          "end": 46,
+          "expanded_url": "https://x.com/canton_c_s/status/2069720084629840185/photo/1",
+          "media_key": "3_2069720013498396672",
+          "start": 23,
+          "url": "https://t.co/NuifREDadi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070080370603876496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069720084629840185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @canton_c_s: 滿洲的未來😌 https://t.co/NuifREDadi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1409,
+        "media_key": "3_2069720013498396672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLkfYu0WsAA1sTW.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069720013498396672"
+          ],
+          "media_source_tweet_id": [
+            "2069720084629840185"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2070080370603876496",
+        "created_at": "2026-06-25T09:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070080370603876496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1647197602717515776",
+              "start": 3,
+              "username": "canton_c_s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuifREDadi",
+              "end": 46,
+              "expanded_url": "https://x.com/canton_c_s/status/2069720084629840185/photo/1",
+              "media_key": "3_2069720013498396672",
+              "start": 23,
+              "url": "https://t.co/NuifREDadi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070080370603876496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069720084629840185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @canton_c_s: 滿洲的未來😌 https://t.co/NuifREDadi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069720013498396672"
+          ]
+        },
+        "author_id": "1647197602717515776",
+        "conversation_id": "2069720084629840185",
+        "created_at": "2026-06-24T09:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069720084629840185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuifREDadi",
+              "end": 30,
+              "expanded_url": "https://x.com/canton_c_s/status/2069720084629840185/photo/1",
+              "media_key": "3_2069720013498396672",
+              "start": 7,
+              "url": "https://t.co/NuifREDadi"
+            },
+            {
+              "display_url": "x.com/iceroom1989/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/iceroom1989/status/2069330527061266787",
+              "start": 31,
+              "url": "https://t.co/jwPAsiP0ib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069720084629840185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3158,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069330527061266787",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "滿洲的未來😌 https://t.co/NuifREDadi https://t.co/jwPAsiP0ib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜對現實失望 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 362,
+          "like_count": 12672,
+          "listed_count": 3,
+          "media_count": 931,
+          "tweet_count": 4365
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T11:18:17.000Z",
+        "description": "本會成立於2025年12月15日成立\n主席是宋岑臨，副主席是黃量甫\n本會旨在透過海外拓殖來保存廣府人的語言、文化和民族精神，以及建立一個共享地利的社區\n有意入會者，敬請留言\n若然各位有意見同睇法，歡迎投稿",
+        "id": "1647197602717515776",
+        "name": "廣府拓殖協會 CRS",
+        "pinned_tweet_id": "2044077027553317294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041111195000995841/QO0toERm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 138,
+          "like_count": 3736,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "canton_c_s",
+        "verified": false
+      }
+    ]
+  }
+}

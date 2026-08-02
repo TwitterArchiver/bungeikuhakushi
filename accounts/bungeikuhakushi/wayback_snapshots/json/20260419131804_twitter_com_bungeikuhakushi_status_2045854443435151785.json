@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045853785751502849"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2045854443435151785",
+    "created_at": "2026-04-19T13:18:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045854443435151785"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d7HpF1ZUwx",
+          "end": 84,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2045854443435151785/photo/1",
+          "media_key": "3_2045853785751502849",
+          "start": 61,
+          "url": "https://t.co/d7HpF1ZUwx"
+        },
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2045569536280395840",
+          "start": 85,
+          "url": "https://t.co/U0EdjbESlD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045854443435151785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045569536280395840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "以後我就開僅友鏈評論了 小粉紅煩的要死 再讓我發現我評論區出現粉紅 我就去找哪個友鏈出問題 之後取fo \n真tm被煩死了 https://t.co/d7HpF1ZUwx https://t.co/U0EdjbESlD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2045853785751502849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRVLcIbQAEM2R4.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045853785751502849"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045854443435151785",
+        "created_at": "2026-04-19T13:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045854443435151785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d7HpF1ZUwx",
+              "end": 84,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2045854443435151785/photo/1",
+              "media_key": "3_2045853785751502849",
+              "start": 61,
+              "url": "https://t.co/d7HpF1ZUwx"
+            },
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2045569536280395840",
+              "start": 85,
+              "url": "https://t.co/U0EdjbESlD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045854443435151785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045569536280395840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "以後我就開僅友鏈評論了 小粉紅煩的要死 再讓我發現我評論區出現粉紅 我就去找哪個友鏈出問題 之後取fo \n真tm被煩死了 https://t.co/d7HpF1ZUwx https://t.co/U0EdjbESlD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2045569536280395840",
+        "created_at": "2026-04-18T18:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045569536280395840"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045569536280395840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 26389,
+          "like_count": 535,
+          "quote_count": 7,
+          "reply_count": 69,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己没用的可以看看中国大陆护照"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜永持戰無不勝的三民主義思想❂\n｜ 08年高校生 炒作小男娘｜無證不含糖｜雙極性障害\n｜語言：🇹🇼國語 🇭🇰廣東話",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeikuhukus…",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeikuhukushi",
+                "start": 0,
+                "url": "https://t.co/u31sQmyl0Y"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：広東 インターネット",
+        "name": "文芸🍁空白子🍥",
+        "pinned_tweet_id": "2044832402577760553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039977250532306944/pHF9jIei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 383,
+          "like_count": 11008,
+          "listed_count": 4,
+          "media_count": 626,
+          "tweet_count": 3131
+        },
+        "url": "https://t.co/u31sQmyl0Y",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

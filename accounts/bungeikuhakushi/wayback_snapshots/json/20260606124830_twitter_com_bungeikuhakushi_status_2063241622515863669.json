@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063241616429817856"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2063241622515863669",
+    "created_at": "2026-06-06T12:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T13:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063241622515863669"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FxurqNlr6v",
+          "end": 168,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2063241622515863669/photo/1",
+          "media_key": "3_2063241616429817856",
+          "start": 145,
+          "url": "https://t.co/FxurqNlr6v"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2063241622515863669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "重新回顧：達爾文老爺爺被開後的be like：\n你开我盒也没意义，你只能开出一张从小到大都丑的证件照，我的户籍是偏远的农村，你想来线下真实我也没用，我这里没有山，你要坐飞机，然后转高铁，再转长途巴士，再打车，再找摩托佬，最后步行才能到我家，而且大概率会扑空，因为我大部分时间都在外地打工。 https://t.co/FxurqNlr6v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_2063241616429817856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIbUZEaIAAL52g.jpg",
+        "width": 1080
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063241616429817856"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2063241622515863669",
+        "created_at": "2026-06-06T12:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063241622515863669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxurqNlr6v",
+              "end": 168,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2063241622515863669/photo/1",
+              "media_key": "3_2063241616429817856",
+              "start": 145,
+              "url": "https://t.co/FxurqNlr6v"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2063241622515863669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重新回顧：達爾文老爺爺被開後的be like：\n你开我盒也没意义，你只能开出一张从小到大都丑的证件照，我的户籍是偏远的农村，你想来线下真实我也没用，我这里没有山，你要坐飞机，然后转高铁，再转长途巴士，再打车，再找摩托佬，最后步行才能到我家，而且大概率会扑空，因为我大部分时间都在外地打工。 https://t.co/FxurqNlr6v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058563840317751296/XN1N7lox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 357,
+          "like_count": 12583,
+          "listed_count": 3,
+          "media_count": 872,
+          "tweet_count": 4148
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}
