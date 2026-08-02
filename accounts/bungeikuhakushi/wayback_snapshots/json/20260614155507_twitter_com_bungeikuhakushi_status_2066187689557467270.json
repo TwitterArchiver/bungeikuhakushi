@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2066135696495235256",
+    "created_at": "2026-06-14T15:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066187689557467270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1489034449199190017",
+          "start": 0,
+          "username": "Pigeon_Yi"
+        },
+        {
+          "end": 27,
+          "id": "1759787246587379712",
+          "start": 11,
+          "username": "RainEngine2024m"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2066187689557467270",
+    "in_reply_to_user_id": "1489034449199190017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066135696495235256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigeon_Yi @RainEngine2024m 妳們三玩上燃冬了？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 902,
+        "media_key": "3_2066135690673598464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxjdrxbMAA2NLH.jpg",
+        "width": 1140
+      }
+    ],
+    "places": [
+      {
+        "country": "Macau",
+        "country_code": "MO",
+        "full_name": "Macau",
+        "geo": {
+          "bbox": [
+            113.5270823,
+            22.105364,
+            113.604595,
+            22.218223
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "d029ddcdc4fc44b6",
+        "name": "Macau",
+        "place_type": "country"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2066135696495235256",
+        "created_at": "2026-06-14T15:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066187689557467270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1489034449199190017",
+              "start": 0,
+              "username": "Pigeon_Yi"
+            },
+            {
+              "end": 27,
+              "id": "1759787246587379712",
+              "start": 11,
+              "username": "RainEngine2024m"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2066187689557467270",
+        "in_reply_to_user_id": "1489034449199190017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066135696495235256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Yi @RainEngine2024m 妳們三玩上燃冬了？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066135690673598464"
+          ]
+        },
+        "author_id": "1489034449199190017",
+        "conversation_id": "2066135696495235256",
+        "created_at": "2026-06-14T12:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T13:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066135696495235256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1759787246587379712",
+              "start": 4,
+              "username": "RainEngine2024m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ik6eSPMzVS",
+              "end": 59,
+              "expanded_url": "https://x.com/Pigeon_Yi/status/2066135696495235256/photo/1",
+              "media_key": "3_2066135690673598464",
+              "start": 36,
+              "url": "https://t.co/Ik6eSPMzVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066135696495235256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃拿下@RainEngine2024m \n我宣布鸽老师NTR成功（？ https://t.co/Ik6eSPMzVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜三民主義者❂｜ 08年廣東文科生｜雙相\n｜Cantonese 多謝你討厭粵港澳\n（時代革命 光復粵港 願榮光歸香港）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065885527497461760/p62qkwO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 353,
+          "like_count": 12746,
+          "listed_count": 3,
+          "media_count": 891,
+          "tweet_count": 4217
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-03T00:34:26.000Z",
+        "description": "摄影/绳子/数码P/架子鼓/HAM\n成分复杂，欢迎私信约绳/拍/扩列\n暂时是@jlxc2001的秘书（嗯）\n有很多奇怪的技能，全国可飞，偏好长三角\nEN/CN：OK\n日本语学习中（）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "jlxc2001"
+              }
+            ]
+          }
+        },
+        "id": "1489034449199190017",
+        "location": "香港/深圳/上海/你心里",
+        "name": "青空夏",
+        "pinned_tweet_id": "2055091696372003241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624302496905830400/dSYbbHpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 934,
+          "like_count": 10185,
+          "listed_count": 5,
+          "media_count": 582,
+          "tweet_count": 4049
+        },
+        "username": "Pigeon_Yi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "互 fo 请DM（看成分） | 数码博主🏳️‍⚧️🍥| WB@高坂穗奈雪| Xiaomi KOC | JP @RainEngineJapan |\n二代目@RainEngine2024s（生活号）| 感谢@acnekot 送的Premium | 🇸🇬",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "RainEngineJapan"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "RainEngine2024s"
+              },
+              {
+                "end": 109,
+                "start": 101,
+                "username": "acnekot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "National Gallery Singapore🇸🇬",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2065617899801501778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063923048898768896/VHFTkbhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1988,
+          "following_count": 1638,
+          "like_count": 4403,
+          "listed_count": 13,
+          "media_count": 754,
+          "tweet_count": 2604
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

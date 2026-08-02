@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070943225800740864",
+        "3_2070943226488639488"
+      ]
+    },
+    "author_id": "1964042844198621187",
+    "conversation_id": "2070943243890565387",
+    "created_at": "2026-06-27T18:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070943243890565387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W9Q90D3UUj",
+          "end": 67,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2070943243890565387/photo/1",
+          "media_key": "3_2070943225800740864",
+          "start": 44,
+          "url": "https://t.co/W9Q90D3UUj"
+        },
+        {
+          "display_url": "pic.x.com/W9Q90D3UUj",
+          "end": 67,
+          "expanded_url": "https://x.com/bungeikuhakushi/status/2070943243890565387/photo/1",
+          "media_key": "3_2070943226488639488",
+          "start": 44,
+          "url": "https://t.co/W9Q90D3UUj"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2070943243890565387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "陸抖新聞影片報導：福建廈門發現人類新基因\n下面留言區清一色留言「消失」「平安」「危險」 https://t.co/W9Q90D3UUj"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2060,
+        "media_key": "3_2070943225800740864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL135Dva0AA9zEC.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2124,
+        "media_key": "3_2070943226488639488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL135GTbUAAfMSg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070943225800740864",
+            "3_2070943226488639488"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2070943243890565387",
+        "created_at": "2026-06-27T18:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070943243890565387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9Q90D3UUj",
+              "end": 67,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2070943243890565387/photo/1",
+              "media_key": "3_2070943225800740864",
+              "start": 44,
+              "url": "https://t.co/W9Q90D3UUj"
+            },
+            {
+              "display_url": "pic.x.com/W9Q90D3UUj",
+              "end": 67,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2070943243890565387/photo/1",
+              "media_key": "3_2070943226488639488",
+              "start": 44,
+              "url": "https://t.co/W9Q90D3UUj"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2070943243890565387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陸抖新聞影片報導：福建廈門發現人類新基因\n下面留言區清一色留言「消失」「平安」「危險」 https://t.co/W9Q90D3UUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜以文芸之名 解無邏輯之謬論 破將死局之空白\n｜應該是個兩邊嫌棄的中間派 就事論事\n｜三民主義者❂｜ 08年文科生｜雙相\n｜Cantonese ｜對現實失望 我願榮光歸香港",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸-空白子~Official",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070895994758389760/lrIs5kNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 362,
+          "like_count": 12713,
+          "listed_count": 3,
+          "media_count": 937,
+          "tweet_count": 4391
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}
