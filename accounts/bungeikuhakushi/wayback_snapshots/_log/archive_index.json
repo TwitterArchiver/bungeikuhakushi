@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T05:19:47",
+  "last_updated": "2026-08-02T05:20:19",
   "html": {
     "https://web.archive.org/web/20260411154109if_/https://twitter.com/bungeikuhakushi/status/2042991349730095426": {
       "status": "done",
@@ -15557,9 +15557,9 @@
       "referenced_by": [
         "20260422031351_twitter_com_bungeikuhakushi_status_2046789554334834889.json"
       ],
-      "last_updated": "2026-08-02T04:59:38",
+      "last_updated": "2026-08-02T05:20:13",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260422031351/https://video.twimg.com/amplify_video/2045929260704260096/vid/avc1/960x720/EoYA-H6ckVNtrIwM.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2047599953061756928/vid/avc1/720x1282/WTXB-QZzBW8flcut.mp4?tag=14": {
       "status": "done",
@@ -15662,15 +15662,15 @@
       "last_updated": "2026-08-02T04:01:22"
     },
     "https://video.twimg.com/amplify_video/2063119058690838528/vid/avc1/3840x2160/OQOyayHZQ3NYuU1e.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260606084533_twitter_com_bungeikuhakushi_status_2063180483337634025.json",
         "20260606084736_twitter_com_bungeikuhakushi_status_2063180996703645971.json",
         "20260606084942_twitter_com_bungeikuhakushi_status_2063181525534072866.json"
       ],
-      "last_updated": "2026-08-02T04:01:20",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260606084942/https://video.twimg.com/amplify_video/2063119058690838528/vid/avc1/3840x2160/OQOyayHZQ3NYuU1e.mp4",
-      "miss_count": 3
+      "last_updated": "2026-08-02T05:20:19",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260606084533if_/https://video.twimg.com/amplify_video/2063119058690838528/vid/avc1/3840x2160/OQOyayHZQ3NYuU1e.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f000be073b0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 4
     },
     "https://video.twimg.com/ext_tw_video/2063623486237806592/pu/vid/avc1/576x1280/m8_w5TbhpnjLkCN5.mp4": {
       "status": "done",
@@ -39904,7 +39904,7 @@
       "last_updated": "2026-08-02T04:02:44"
     },
     "20260606084533_twitter_com_bungeikuhakushi_status_2063180483337634025.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -39915,10 +39915,10 @@
           "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T04:02:43"
+      "last_updated": "2026-08-02T05:20:19"
     },
     "20260606084736_twitter_com_bungeikuhakushi_status_2063180996703645971.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -39929,10 +39929,10 @@
           "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T04:02:43"
+      "last_updated": "2026-08-02T05:20:19"
     },
     "20260606084942_twitter_com_bungeikuhakushi_status_2063181525534072866.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -39943,7 +39943,7 @@
           "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T04:02:43"
+      "last_updated": "2026-08-02T05:20:19"
     },
     "20260606090751_twitter_com_bungeikuhakushi_status_2063186093152043381.json": {
       "status": "failed",
