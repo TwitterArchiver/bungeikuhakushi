@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2084311259059716567",
+    "created_at": "2026-08-03T16:11:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084311259059716567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/qtbrmdh1912010…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/qtbrmdh19120101/status/2084232600877682842",
+          "start": 87,
+          "url": "https://t.co/voEkjm2juR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084311259059716567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084232600877682842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你好 @grok\n 根據我的推文，我是：\n- 哪個獨裁者？\n- 哪個哲學家？\n- 哪個虛構人物？\n- 哪個政治家？\n- 哪個宗教人士？\n- 哪個歷史人物？\n- 哪個藝術家？ https://t.co/voEkjm2juR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2084311259059716567",
+        "created_at": "2026-08-03T16:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084311259059716567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/qtbrmdh1912010…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/qtbrmdh19120101/status/2084232600877682842",
+              "start": 87,
+              "url": "https://t.co/voEkjm2juR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084311259059716567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084232600877682842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好 @grok\n 根據我的推文，我是：\n- 哪個獨裁者？\n- 哪個哲學家？\n- 哪個虛構人物？\n- 哪個政治家？\n- 哪個宗教人士？\n- 哪個歷史人物？\n- 哪個藝術家？ https://t.co/voEkjm2juR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776142720056385537",
+        "conversation_id": "2084232600877682842",
+        "created_at": "2026-08-03T10:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084232600877682842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084232600877682842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你好 @grok\n 根據我的推文，我是：\n- 哪個獨裁者？\n- 哪個哲學家？\n- 哪個虛構人物？\n- 哪個政治家？\n- 哪個宗教人士？\n- 哪個歷史人物？\n- 哪個藝術家？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰🇲🇴｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081754219997200384/pJoooY_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2161,
+          "following_count": 350,
+          "like_count": 12794,
+          "listed_count": 3,
+          "media_count": 983,
+          "tweet_count": 4478
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8905447,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7256,
+          "media_count": 9214939,
+          "tweet_count": 133720043
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿山河\n君主派，民主派，自由派，共産派，雅俗共賞\n蔣公夢癡😍😍😍",
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣 寶寶@zhngjing322708",
+        "name": "李延卿🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077843912895635456/6IkTfIZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 164,
+          "like_count": 12945,
+          "listed_count": 4,
+          "media_count": 171,
+          "tweet_count": 4113
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": false
+      }
+    ]
+  }
+}

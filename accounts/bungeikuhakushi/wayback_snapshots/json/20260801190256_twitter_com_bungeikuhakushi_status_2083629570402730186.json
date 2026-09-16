@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2083629570402730186",
+    "created_at": "2026-08-01T19:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083629570402730186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bungeikuhakush…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/bungeikuhakushi/status/2083627938592014833",
+          "start": 42,
+          "url": "https://t.co/8PPQTmpaRJ"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "d029ddcdc4fc44b6"
+    },
+    "id": "2083629570402730186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083627938592014833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "空白子說話五部曲：\n我靠（wok）\n草尼馬（cnm）\n仆街\non9\n私（死）... https://t.co/8PPQTmpaRJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find place with geo.place_id: [d029ddcdc4fc44b6].",
+      "parameter": "geo.place_id",
+      "resource_id": "d029ddcdc4fc44b6",
+      "resource_type": "place",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "d029ddcdc4fc44b6"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 134,
+        "media_key": "3_2083627934343217152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOqIkRabwAAFT2v.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2083629570402730186",
+        "created_at": "2026-08-01T19:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083629570402730186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bungeikuhakush…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/bungeikuhakushi/status/2083627938592014833",
+              "start": 42,
+              "url": "https://t.co/8PPQTmpaRJ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2083629570402730186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083627938592014833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "空白子說話五部曲：\n我靠（wok）\n草尼馬（cnm）\n仆街\non9\n私（死）... https://t.co/8PPQTmpaRJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083627934343217152"
+          ]
+        },
+        "author_id": "1964042844198621187",
+        "conversation_id": "2083627938592014833",
+        "created_at": "2026-08-01T18:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083627938592014833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/STHVhynefo",
+              "end": 73,
+              "expanded_url": "https://x.com/bungeikuhakushi/status/2083627938592014833/photo/1",
+              "media_key": "3_2083627934343217152",
+              "start": 50,
+              "url": "https://t.co/STHVhynefo"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2083627938592014833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "為甚麼空白子說話總是很想罵街？\n那是因為空白子一直在狂躁期呀。如果哪天不罵街了，那就真是大事不妙了 https://t.co/STHVhynefo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰🇲🇴｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081754219997200384/pJoooY_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 348,
+          "like_count": 12785,
+          "listed_count": 3,
+          "media_count": 980,
+          "tweet_count": 4471
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      }
+    ]
+  }
+}

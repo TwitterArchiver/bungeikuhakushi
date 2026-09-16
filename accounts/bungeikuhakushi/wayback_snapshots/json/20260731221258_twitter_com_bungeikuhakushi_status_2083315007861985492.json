@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1964042844198621187",
+    "conversation_id": "2083156302302474485",
+    "created_at": "2026-07-31T22:12:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T23:12:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083315007861985492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776142720056385537",
+          "start": 0,
+          "username": "qtbrmdh19120101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083315007861985492",
+    "in_reply_to_user_id": "1776142720056385537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083156302302474485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtbrmdh19120101 台灣人腦洞大開啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083156237303386113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOjbj5AbkAEF6rg.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964042844198621187",
+        "conversation_id": "2083156302302474485",
+        "created_at": "2026-07-31T22:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T23:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083315007861985492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776142720056385537",
+              "start": 0,
+              "username": "qtbrmdh19120101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083315007861985492",
+        "in_reply_to_user_id": "1776142720056385537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083156302302474485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtbrmdh19120101 台灣人腦洞大開啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083156237303386113"
+          ]
+        },
+        "author_id": "1776142720056385537",
+        "conversation_id": "2083156302302474485",
+        "created_at": "2026-07-31T11:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083156302302474485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x5wzeKpWR1",
+              "end": 30,
+              "expanded_url": "https://x.com/qtbrmdh19120101/status/2083156302302474485/photo/1",
+              "media_key": "3_2083156237303386113",
+              "start": 7,
+              "url": "https://t.co/x5wzeKpWR1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083156302302474485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 354,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不如肢解中國 https://t.co/x5wzeKpWR1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-05T19:09:13.000Z",
+        "description": "｜三民主義❂｜ 08年文科高三生｜性別がねこちゃんだ\n｜Cantonese🇭🇰🇲🇴｜​人活在幻想裏 我願榮光歸香港\n｜日本語学習垢：@bungeihaku2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "bungeihaku2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.com/@bungeihaku2024",
+                "end": 23,
+                "expanded_url": "https://www.threads.com/@bungeihaku2024",
+                "start": 0,
+                "url": "https://t.co/nVBPTdqMbm"
+              }
+            ]
+          }
+        },
+        "id": "1964042844198621187",
+        "location": "IP所在地：インターネット",
+        "name": "文芸~空白子",
+        "pinned_tweet_id": "2062886834859045037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081754219997200384/pJoooY_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 347,
+          "like_count": 12774,
+          "listed_count": 3,
+          "media_count": 977,
+          "tweet_count": 4463
+        },
+        "url": "https://t.co/nVBPTdqMbm",
+        "username": "bungeikuhakushi",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-05T07:00:13.000Z",
+        "description": "青天白日の名において\n青天白日滿山河\n君主派，民主派，自由派，共産派，雅俗共賞\n蔣公夢癡😍😍😍",
+        "id": "1776142720056385537",
+        "location": "中華民國福建省金門縣 寶寶@zhngjing322708",
+        "name": "李延卿🇹🇼",
+        "pinned_tweet_id": "2041493528765747318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077843912895635456/6IkTfIZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 162,
+          "like_count": 12891,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 4060
+        },
+        "url": "",
+        "username": "qtbrmdh19120101",
+        "verified": false
+      }
+    ]
+  }
+}
